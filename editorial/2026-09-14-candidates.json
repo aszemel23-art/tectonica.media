@@ -12,7 +12,7 @@
     "article": "johnny"
   },
   {
-    "title": "В старых зернохранилищах Юньнани открыли книжный с бамбуковым каркасом",
+    "title": "В Юньнани зернохранилища стали книжным магазином",
     "url": "https://www.archdaily.com/1184708/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects",
     "status": "published",
     "article": "baiwu"
@@ -208,5 +208,40 @@
     "url": "https://londondesignfestival.com/stories/a-first-look-at-ldf26",
     "status": "reserve",
     "reason": "Нужен первичный каталог коллекции для полноценного материала."
+  },
+  {
+    "title": "Что сохранять в старом здании: стены, конструкцию или привычки?",
+    "url": "https://www.archdaily.com/1184708/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects",
+    "status": "published",
+    "article": "keep-the-building",
+    "reason": "Редакционный анализ нескольких проверенных публикаций."
+  },
+  {
+    "title": "Красивый образец — только начало: как читать новости о новых материалах",
+    "url": "https://materialmatters.design/The-Fair",
+    "status": "published",
+    "article": "material-after-the-fair",
+    "reason": "Редакционный анализ нескольких проверенных публикаций."
+  },
+  {
+    "title": "Radar: светильник, форму которого меняет владелец",
+    "url": "https://londondesignfestival.com/activities/johnny",
+    "status": "published",
+    "article": "radar-soft-light",
+    "reason": "Редакционный анализ нескольких проверенных публикаций."
+  },
+  {
+    "title": "Radar: новый каркас внутри старых стен",
+    "url": "https://www.archdaily.com/1184708/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects",
+    "status": "published",
+    "article": "radar-new-frame",
+    "reason": "Редакционный анализ нескольких проверенных публикаций."
+  },
+  {
+    "title": "Radar: рисунок возникает в самом текстиле",
+    "url": "https://londondesignfestival.com/activities/wax-2026",
+    "status": "published",
+    "article": "radar-knitted-surface",
+    "reason": "Редакционный анализ нескольких проверенных публикаций."
   }
 ]
