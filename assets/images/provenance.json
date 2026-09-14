@@ -103,5 +103,61 @@
   "johnny-detail": {
     "url": "https://ldf.fra1.cdn.digitaloceanspaces.com/activityimage/12057/image/thumbails-xl-854cfc54bb1cf05ff9232790b43f9cc9.webp",
     "source": "https://londondesignfestival.com/activities/johnny"
+  },
+  "illustration-carbon-cell": {
+    "type": "AI-generated editorial illustration",
+    "creator": "TECTONICA",
+    "method": "Built-in image_gen",
+    "prompt": "Conceptual editorial collage: porous biochar foam above a paper earth cross-section with charcoal and botanical fibers; ivory, sage and terracotta; no brand product replication or lettering.",
+    "notDocumentary": true
+  },
+  "illustration-biomason-front": {
+    "type": "AI-generated editorial illustration",
+    "creator": "TECTONICA",
+    "method": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Create ONE landscape 3:2 editorial illustration for TECTONICA architecture and design magazine. Topic: Building materials made from waste: broken terracotta and masonry fragments transforming through an elegant visual sequence into clean new brick, tile and architectural panel samples. Emphasize texture, reuse and construction; conceptual samples, not replicas of any brand's products. Style: refined tactile gouache and cut-paper collage, warm ivory paper, sage, charcoal and burnt-orange palette, sophisticated spatial composition, subtle print grain, artful light and shadow. Visibly illustrated, not documentary photography. No text, logos, lettering or watermarks. Strong specific subject occupying central composition, suitable for magazine news thumbnail.",
+    "notDocumentary": true
+  },
+  "illustration-lovspark": {
+    "type": "AI-generated editorial illustration",
+    "creator": "TECTONICA",
+    "method": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Create ONE landscape 3:2 editorial illustration for TECTONICA architecture and design magazine. Topic: Hand, Code, Matter: a sculptor's hand shaping a clay architectural form at a worktable, a pencil drawing on translucent tracing paper aligning with that form, and a delicate computational wireframe extending above it. Clearly about collaboration of handmade craft, drawing and AI, not a generic robot or invented software interface. Style: refined tactile gouache and cut-paper collage, warm ivory paper, sage, charcoal and burnt-orange palette, sophisticated spatial composition, subtle print grain, artful light and shadow. Visibly illustrated, not documentary photography. No text, logos, lettering or watermarks. Strong specific subject occupying central composition, suitable for magazine news thumbnail.",
+    "notDocumentary": true
+  },
+  "illustration-sender-unknown": {
+    "type": "AI-generated editorial illustration",
+    "creator": "TECTONICA",
+    "method": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Create ONE landscape 3:2 editorial illustration for TECTONICA architecture and design magazine. Topic: Uzbek suzani embroidery and artificial intelligence: a richly textured embroidered textile with stylized pomegranate rosettes and curling vines, the threads at one edge slowly becoming an abstract digital grid. Thoughtful visual metaphor for loss and preservation of cultural context. No portraits, no claim to depict Aziza Kadyri's actual artwork. Style: refined tactile gouache and cut-paper collage, warm ivory paper, sage, charcoal and burnt-orange palette, sophisticated spatial composition, subtle print grain, artful light and shadow. Visibly illustrated, not documentary photography. No text, logos, lettering or watermarks. Strong specific subject occupying central composition, suitable for magazine news thumbnail.",
+    "notDocumentary": true
+  },
+  "illustration-playfool-server": {
+    "type": "AI-generated editorial illustration",
+    "creator": "TECTONICA",
+    "method": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Create one landscape 3:2 conceptual editorial illustration for TECTONICA design magazine. Subject: the overlooked manual labor behind AI infrastructure; two human hands carefully dusting a small server rack with a soft cloth and brush, a narrow unlettered paper receipt emerging beside it, dust particles becoming an abstract trail of data dots. A playful museum participation metaphor, NOT a rendering of Playfool's actual installation. Refined tactile cut-paper and gouache collage on warm ivory paper, charcoal server, sage and burnt orange accents, strong clean composition, subtle grain, clearly illustrated not photographic. No text, logos or watermarks.",
+    "notDocumentary": true
+  },
+  "illustration-rca-inresponse": {
+    "type": "AI-generated editorial illustration",
+    "creator": "TECTONICA",
+    "method": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. One landscape 3:2 editorial illustration for TECTONICA design magazine about graduate product design as research into memory, material and the human body. A beautifully composed designer's experimental workbench: hand-built clay and wood ergonomic study models, small translucent material samples, a wire contour of a seated human body and layered pencil sketches, three interrelated visual clusters. No actual RCA student projects, no branding, no portraits. Sophisticated tactile gouache and paper collage, warm ivory, charcoal, muted sage and terracotta, subtle print grain, generous space, visually specific to design research. No text or logos. Visibly conceptual illustration not photograph.",
+    "notDocumentary": true
+  },
+  "illustration-paris-hanji": {
+    "type": "AI-generated editorial illustration",
+    "creator": "TECTONICA",
+    "method": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Create ONE landscape 3:2 conceptual editorial illustration for TECTONICA about contemporary design using Korean hanji mulberry paper. Beautiful translucent handmade ivory paper sheets, curling folds and exposed fine mulberry fibers, with an abstract folded sculptural lamp glowing softly through the paper. Show material qualities and craft, not replicas of works from the Hanjimania exhibition. Refined cut-paper collage with gouache and delicate pencil accents, warm ivory, muted sage, charcoal and very restrained terracotta, sophisticated architectural magazine aesthetic. No Paris clichés, no text, no logos, no photographic documentation.",
+    "notDocumentary": true
+  },
+  "illustration-bocci-labyrinth": {
+    "type": "AI-generated editorial illustration",
+    "creator": "TECTONICA",
+    "method": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. One landscape 3:2 editorial illustration for TECTONICA about purple portable light and a dreamlike labyrinth. A single luminous purple glass-like sphere nested in an imaginary maze of folded architectural paper walls and slender colored totems; impossible paths and theatrical shadows evoke cinematic fantasy. This is a freely imagined visual metaphor, NOT a reconstruction of Bocci 14p or Bethan Laura Wood's actual installation, do not duplicate their design. Refined tactile gouache and cut-paper collage on ivory paper, deep aubergine violet glow as focus, muted sage and charcoal geometry with small terracotta accent, subtle print grain, elegant composition. No text, logos, faces or watermarks; visibly editorial art.",
+    "notDocumentary": true
   }
 }

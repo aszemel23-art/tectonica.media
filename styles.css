@@ -6,3 +6,5 @@
 @media(max-width:400px){.footer-top{display:block}.footer-top p{margin-top:12px}.wordmark{font-size:30px}.sectionhead h2{font-size:21px}}
 
 .detail-photo{margin:30px 0}.detail-photo img{max-height:650px;object-fit:contain}.detail-photo figcaption{font:10px Manrope,Arial,sans-serif;color:var(--muted);padding-top:10px}
+
+.illustration-label{display:block;font-size:9px;color:var(--muted);margin:7px 0}.row-illustration{float:right;width:132px;margin:0 0 8px 18px}.row-illustration img{aspect-ratio:1.5;object-fit:cover}.row-illustration small{display:block;font-size:8px;color:var(--muted);margin-top:4px}.newsrow>a{display:flow-root}@media(max-width:700px){.row-illustration{width:96px;margin-left:12px}}

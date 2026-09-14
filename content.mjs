@@ -43,3 +43,6 @@ export const candidates=[
 ];
 
 articles.find(a=>a.id==="gradas").imageAlt="Шоурум Insidesource в программе London Design Festival";
+
+// Тематические иллюстрации: художественная интерпретация, не фотографии проектов.
+for (const id of ["carbon-cell","biomason-front","lovspark","sender-unknown","playfool-server","rca-inresponse","paris-hanji","bocci-labyrinth"]) {const a=articles.find(a=>a.id===id);a.image="illustration-"+id;a.illustration=true;a.imageAlt="Редакционная иллюстрация к теме: "+a.title;a.credit="Иллюстрация TECTONICA, создана с помощью ИИ. Художественная интерпретация темы, не изображение реального проекта или экспоната.";}
