@@ -1,0 +1,88 @@
+name: Publish TECTONICA release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'editorial/releases/**.json'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Choose newest release
+        id: release
+        shell: bash
+        run: echo "file=$(find editorial/releases -maxdepth 1 -name '*.json' | sort | tail -1)" >> "$GITHUB_OUTPUT"
+      - name: Prepare editorial images
+        env:
+          RELEASE_FILE: ${{ steps.release.outputs.file }}
+        run: |
+          python3 -m pip install --quiet pillow
+          python3 - <<'PY'
+          import io, json, os, pathlib, urllib.request
+          from PIL import Image
+
+          release_path = pathlib.Path(os.environ['RELEASE_FILE'])
+          release = json.loads(release_path.read_text(encoding='utf-8'))
+          out = pathlib.Path('assets/images')
+          out.mkdir(parents=True, exist_ok=True)
+          prov_path = out / 'provenance.json'
+          provenance = json.loads(prov_path.read_text(encoding='utf-8')) if prov_path.exists() else {}
+
+          for item in release.get('images', []):
+              image_id, url = item['id'], item['url']
+              req = urllib.request.Request(url, headers={
+                  'User-Agent': 'Mozilla/5.0 TECTONICA editorial fetch',
+                  'Referer': item.get('source', 'https://tectonica.media/')
+              })
+              with urllib.request.urlopen(req, timeout=45) as response:
+                  data = response.read()
+              im = Image.open(io.BytesIO(data))
+              if im.mode not in ('RGB', 'RGBA'):
+                  im = im.convert('RGB')
+              ow, oh = im.size
+              for maxw in (1440, 640):
+                  target = im.copy()
+                  if target.width > maxw:
+                      h = round(target.height * maxw / target.width)
+                      target = target.resize((maxw, h), Image.Resampling.LANCZOS)
+                  if target.mode == 'RGBA':
+                      bg = Image.new('RGB', target.size, 'white')
+                      bg.paste(target, mask=target.getchannel('A'))
+                      target = bg
+                  target.save(out / f'{image_id}-{maxw}.webp', 'WEBP', quality=88, method=6)
+              provenance[image_id] = {
+                  'url': url,
+                  'source': item.get('source',''),
+                  'credit': item.get('credit',''),
+                  'width': ow,
+                  'height': oh
+              }
+          prov_path.write_text(json.dumps(provenance, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+      - name: Apply release and build site
+        run: |
+          node scripts/apply-release.mjs "${{ steps.release.outputs.file }}"
+          npm run build
+          npm test
+      - name: Commit publication
+        run: |
+          git config user.name "TECTONICA Editorial Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add content.mjs editorial-features.mjs scripts/build.mjs assets/images index.html articles category archive daily feed features radar search feed.xml sitemap.xml 404.html
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "Publish TECTONICA daily issue $(basename '${{ steps.release.outputs.file }}' .json)"
+            git push origin HEAD:main
+          fi
