@@ -4,7 +4,8 @@ function walk(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.
 for(const file of walk(root).filter(f=>f.endsWith('.html')&&!f.includes(path.join('archive','legacy')))){count++;const h=fs.readFileSync(file,'utf8');if((h.match(/<h1[ >]/g)||[]).length!==1)fail.push(file+': h1');for(const m of h.matchAll(/(?:href|src)="(\/[^"]*)"/g)){const p=m[1].split(/[?#]/)[0];const target=path.join(root,p.endsWith('/')?p+'index.html':p);if(!fs.existsSync(target))fail.push(file+': missing '+p);}for(const m of h.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/g))JSON.parse(m[1]);assert(h.includes('rel="canonical"'));assert(h.includes('name="description"'));}
 assert.equal(fs.readFileSync(path.join(root,'CNAME'),'utf8').trim(),'tectonica.media');
 assert.equal(new Set(articles.map(a=>a.id)).size,articles.length);
-assert(candidates.length>=20&&candidates.length<=40);
+// Published candidates accumulate with the archive, so only a lower bound remains meaningful here.
+assert(candidates.length>=20);
 for(const a of articles){assert(categories[a.category]);assert(new URL(a.source).protocol==='https:');assert(a.body.join(' ').length>100);assert(a.event);if(a.image){assert(a.credit);assert(fs.existsSync(path.join(root,'assets/images',a.image+'-1440.webp')));}}
 assert.equal((fs.readFileSync(path.join(root,'feed.xml'),'utf8').match(/<item>/g)||[]).length,articles.length);
 const sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');
