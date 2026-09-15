@@ -159,5 +159,40 @@
     "method": "Built-in image_gen",
     "prompt": "Use case: illustration-story. One landscape 3:2 editorial illustration for TECTONICA about purple portable light and a dreamlike labyrinth. A single luminous purple glass-like sphere nested in an imaginary maze of folded architectural paper walls and slender colored totems; impossible paths and theatrical shadows evoke cinematic fantasy. This is a freely imagined visual metaphor, NOT a reconstruction of Bocci 14p or Bethan Laura Wood's actual installation, do not duplicate their design. Refined tactile gouache and cut-paper collage on ivory paper, deep aubergine violet glow as focus, muted sage and charcoal geometry with small terracotta accent, subtle print grain, elegant composition. No text, logos, faces or watermarks; visibly editorial art.",
     "notDocumentary": true
+  },
+  "community-house": {
+    "url": "https://www.architecturalrecord.com/ext/resources/Issues/2026/09-September/2609-Snapshot.webp?t=1788450595",
+    "source": "https://www.architecturalrecord.com/articles/18403-snapshot-jakobmacfarlane-designs-a-colorful-vertical-village-on-the-belgian-coast",
+    "credit": "Фото: Roland Halbe · Проект: Jakob+MacFarlane",
+    "width": 1778,
+    "height": 1000
+  },
+  "all-straw": {
+    "url": "https://www.architecturalrecord.com/ext/resources/Issues/2026/09-September/2609-All-Straw-House-Hudson-Valley-New-York-F.webp?t=1787597536",
+    "source": "https://www.architecturalrecord.com/articles/18372-in-new-yorks-hudson-valley-a-diminutive-shelter-made-of-straw-offers-a-new-way-of-building",
+    "credit": "Фото: Michael Moran / Otto · Проект: LTL Architects + Guy Nordenson and Associates",
+    "width": 1778,
+    "height": 1000
+  },
+  "devils-milk": {
+    "url": "https://www.stirworld.com/image.php?height=1080&image=https%3A%2F%2Fwww.stirworld.com%2Fimages%2Farticle_gallery%2F-lsquo-the-devil-rsquo-s-milk-rsquo-by-shahar-livne-featuring-a-scale-cabinet-and-bench-probes-the-past-present-and-speculative-futures-of-rubber-as-an-omnipresent-and-overlooked-material-shahar-livne-stirworl-260914034807.jpg&width=1920",
+    "source": "https://www.stirworld.com/see-features-designer-shahar-livne-examines-the-violence-of-rubber-in-the-devil-s-milk-triptych",
+    "credit": "Фото: Barbara Medo · Проект: Shahar Livne",
+    "width": 1920,
+    "height": 1080
+  },
+  "lobjet-mccormack": {
+    "url": "https://design-milk.com/images/2026/09/jmc2026_scene01_JMC102_JMC109_JMC107_0767.jpg",
+    "source": "https://design-milk.com/lobjet-jessica-mccormack-collaboration/",
+    "credit": "Фото предоставлено L’OBJET · L’OBJET × Jessica McCormack",
+    "width": 2048,
+    "height": 1365
+  },
+  "socialist-hotels": {
+    "url": "https://cdn.mos.cms.futurecdn.net/QNvXbF35LFqiYpMjZ9YPhP.jpg",
+    "source": "https://www.wallpaper.com/architecture/socialist-hotels-is-fuel-publishings-newest-study-of-a-fast-vanishing-design-aesthetic",
+    "credit": "Изображение: FUEL Publishing · Фото в книге: Elena Amabili",
+    "width": 2560,
+    "height": 2011
   }
 }

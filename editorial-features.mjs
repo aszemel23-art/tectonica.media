@@ -3,7 +3,7 @@ export function enrich(articles, candidates, edition) {
   const get=id=>articles.find(a=>a.id===id);
   const make=(id,title,category,format,dek,body,related,imageId)=>{
     const a=get(imageId||related[0]);
-    const item={id,title,category,format,dek,body,related,place:'Редакционный разбор',date:edition,author:'Редакция TECTONICA',source:a.source,sources:related.map(id=>({title:get(id).title,url:get(id).source})),image:a.image,credit:a.credit,imageAlt:a.imageAlt||a.title,event:'Анализ редакции по материалам сентябрьского выпуска',analysis:true};
+    const item={id,title,category,format,dek,body,related,place:'Редакционный разбор',date:'2026-09-14',author:'Редакция TECTONICA',source:a.source,sources:related.map(id=>({title:get(id).title,url:get(id).source})),image:a.image,credit:a.credit,imageAlt:a.imageAlt||a.title,event:'Анализ редакции по материалам сентябрьского выпуска',analysis:true};
     articles.push(item); candidates.push({title,url:a.source,status:'published',article:id,reason:'Редакционный анализ нескольких проверенных публикаций.'});
   };
   make('keep-the-building','Что сохранять в старом здании: стены, конструкцию или привычки?','architecture','Разбор','Книжный магазин в Юньнани, танцевальный центр в Роттердаме и дом в Сеуле дают три разных ответа.',[
