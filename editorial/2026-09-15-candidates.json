@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-15",
+  "window": "Главные публикации и события, появившиеся примерно за последние сутки к утру 15 сентября 2026 по Новосибирску.",
+  "published": [
+    {"title":"Community House / Jakob+MacFarlane","url":"https://www.architecturalrecord.com/articles/18403-snapshot-jakobmacfarlane-designs-a-colorful-vertical-village-on-the-belgian-coast","article":"community-house","reason":"Свежая публикация 14 сентября, сильная архитектура и полезная смешанная программа."},
+    {"title":"All Straw House / LTL Architects + Guy Nordenson and Associates","url":"https://www.architecturalrecord.com/articles/18372-in-new-yorks-hudson-valley-a-diminutive-shelter-made-of-straw-offers-a-new-way-of-building","article":"all-straw","reason":"Свежий подробный материал 14 сентября; редкий реальный прототип несущей системы из спрессованной соломы."},
+    {"title":"The Devil’s Milk / Shahar Livne","url":"https://www.stirworld.com/see-features-designer-shahar-livne-examines-the-violence-of-rubber-in-the-devil-s-milk-triptych","article":"devils-milk","reason":"Опубликовано 14 сентября; предметный дизайн связывает материал, историю производства и конструкцию."},
+    {"title":"L’OBJET × Jessica McCormack","url":"https://design-milk.com/lobjet-jessica-mccormack-collaboration/","article":"lobjet-mccormack","reason":"Опубликовано 14 сентября; первая коллаборация и первый набор столовых приборов L’OBJET."},
+    {"title":"Socialist Hotels / Elena Amabili","url":"https://www.wallpaper.com/architecture/socialist-hotels-is-fuel-publishings-newest-study-of-a-fast-vanishing-design-aesthetic","article":"socialist-hotels","reason":"Опубликовано 14 сентября; 153 гостиницы из 31 страны, сильная тема для архитектуры и сохранения интерьеров."},
+    {"title":"AQVA / JR Diluvium / Vatican Apostolic Library","url":"https://www.vaticannews.va/de/papst/news/2026-09/bibliothek-vatikan-apostolisch-papst-leo-xiv-buecher-kultur.html","article":"vatican-diluvium","reason":"Открытие состоялось 14 сентября; крупная site-specific инсталляция и необычная выставочная программа библиотеки."},
+    {"title":"Ettore Sottsass — Esercizi and Capricci glass","url":"https://www.domusweb.it/en/news/gallery/2026/09/14/ettore-sottsass-murano-glass-paris-exhibition.html","article":"sottsass-glass","reason":"Свежий обзор 14 сентября; компактная выставочная новость с сильной предметной ценностью."}
+  ],
+  "reserve": [
+    {"title":"Continuing Education: Biogenic Materials","url":"https://www.architecturalrecord.com/articles/topic/74","reason":"Сильная тема, но в выпуск уже вошёл её лучший конкретный кейс — All Straw House."},
+    {"title":"Philadelphia 76ers/Flyers arena / Populous + Moody Nolan","url":"https://populous.com/article/76ers-flyers-unveil-new-arena-renderings","reason":"14 сентября появились новые перепубликации, но основной анонс и изображения вышли раньше; не выдавать за новость суток."},
+    {"title":"Fine Arts Paris 2026","url":"https://www.ft.com/content/c88bea6a-6032-49c1-9fb1-e2180a697219","reason":"Сильный предстоящий гид, но публикация старше суток; оставить в календаре."},
+    {"title":"Socialist Hotels — FUEL primary page","url":"https://fuel-design.com/publishing/socialist-hotels/","reason":"Использован как первичная проверка книги; отдельную вторую заметку не делать."},
+    {"title":"Community House — Jakob+MacFarlane primary page","url":"https://jakobmacfarlane.com/en/projects/architecture/community-house","reason":"Первичный источник использован для проверки программы; не дублировать свежий материал Architectural Record."},
+    {"title":"All Straw House — LTL Architects primary page","url":"https://ltlarchitects.com/all-straw-house","reason":"Первичный источник использован для проверки системы; не делать второй материал о том же объекте."},
+    {"title":"Open House London 2026","url":"https://www.wallpaper.com/architecture/architecture-events/2026-london-open-house-festival-uk","reason":"Уже есть в предыдущем выпуске; не повторять."},
+    {"title":"Material Matters 2026","url":"https://materialmatters.design/The-Fair","reason":"Уже есть в предыдущем выпуске; использовать как контекст для Radar, а не повторять новость."},
+    {"title":"Faye Toogood — Johnny","url":"https://londondesignfestival.com/activities/johnny","reason":"Уже опубликовано TECTONICA 14 сентября; сегодня не повторять."},
+    {"title":"LDF lighting roundup","url":"https://www.wallpaper.com/design-interiors/lighting-designs-at-london-design-festival-2026","reason":"Сильные отдельные проекты уже покрыты; обзор не даёт достаточно нового для ещё одной публикации."}
+  ],
+  "rejected": [
+    {"title":"Pierre Cardin house museum, Venice","reason":"Новость интересная, но не найдено достаточно ясного официального подтверждения даты открытия и пригодного пресс-изображения для сегодняшней публикации."},
+    {"title":"Giant Poké Ball sleeping pod","reason":"Вирусная тема, но объект появился раньше окна последних суток; не маскировать старую историю под свежую."},
+    {"title":"Figurr vertiports","reason":"Корпоративный анонс без построенного результата и без достаточной практической ценности для выпуска."},
+    {"title":"MIT Future Fest","reason":"Слишком широкий событийный анонс; нет одного сильного проекта, ради которого стоило бы занимать место в выпуске."}
+  ],
+  "featureCandidates": [
+    "All Straw House: конструктивный разбор системы из спрессованной соломы и её реальная применимость.",
+    "Community House + Sa Casa: два способа сделать доступное жильё частью города, а не отдельным жилым островом.",
+    "The Devil’s Milk: как происхождение материала можно встроить в предмет, а не оставить в маркетинговом тексте."
+  ],
+  "earlyTrend": "Один материал берёт на себя несколько слоёв конструкции: несущую работу, теплоизоляцию и готовую поверхность."
+}
