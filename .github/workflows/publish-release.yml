@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'editorial/releases/**.json'
+      - 'scripts/check.mjs'
 
 permissions:
   contents: write
