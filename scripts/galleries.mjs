@@ -1,0 +1,22 @@
+import fs from 'node:fs';
+const root=new URL('../',import.meta.url);
+const manifest=JSON.parse(fs.readFileSync(new URL('editorial/galleries.json',root),'utf8'));
+const provenance=JSON.parse(fs.readFileSync(new URL('assets/images/gallery-provenance.json',root),'utf8'));
+const esc=s=>String(s??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+export function articleBody(a){
+ const gallery=manifest.articles[a.id]||a.gallery||[];
+ const positions=new Map();
+ gallery.forEach((item,i)=>{
+  const after=Math.min(a.body.length-1, Math.floor((i+1)*a.body.length/(gallery.length+1)));
+  if(!positions.has(after))positions.set(after,[]);
+  positions.get(after).push(item);
+ });
+ const figure=item=>{
+  const p=provenance[item.id];
+  if(!p)throw new Error('Missing prepared gallery image: '+item.id);
+  const large='/assets/images/'+item.id+'-1440.webp';
+  const small='/assets/images/'+item.id+'-640.webp';
+  return '<figure class="story-photo"><a class="photo-enlarge" href="'+large+'" data-gallery aria-label="Увеличить: '+esc(item.caption)+'"><img src="'+large+'" srcset="'+small+' '+p.sizes['640'][0]+'w, '+large+' '+p.sizes['1440'][0]+'w" sizes="(max-width: 760px) calc(100vw - 40px), 760px" width="'+p.width+'" height="'+p.height+'" alt="'+esc(item.caption)+'" loading="lazy" decoding="async"><span aria-hidden="true">↗ Увеличить</span></a><figcaption>'+esc(item.caption)+'<small>'+esc(item.credit)+' · <a href="'+esc(item.source)+'" rel="noopener">Источник ↗</a></small></figcaption></figure>';
+ };
+ return a.body.map((p,i)=>(p.startsWith('## ')?'<h2 id="section-'+i+'">'+esc(p.slice(3))+'</h2>':'<p>'+esc(p)+'</p>')+(positions.get(i)||[]).map(figure).join('')).join('');
+}

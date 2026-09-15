@@ -1,0 +1,36 @@
+name: Publish article galleries
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'editorial/galleries.json'
+      - 'scripts/prepare-galleries.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tectonica-gallery-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: python3 -m pip install pillow
+      - run: python3 scripts/prepare-galleries.py
+      - run: npm run build && npm test
+      - name: Publish generated pages and photographs
+        run: |
+          git config user.name "TECTONICA Editorial Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/images articles
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish source photographs inside articles"
+            git push origin HEAD:main
+          fi
