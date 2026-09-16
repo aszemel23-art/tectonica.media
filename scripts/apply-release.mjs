@@ -5,6 +5,13 @@ if(!releasePath) throw new Error('Usage: node scripts/apply-release.mjs editoria
 const release=JSON.parse(fs.readFileSync(releasePath,'utf8'));
 const date=release.date;
 if(!/^\d{4}-\d{2}-\d{2}$/.test(date)) throw new Error('Invalid release date');
+const revisionPath='editorial/revision.json';
+const revision=fs.existsSync(revisionPath)?JSON.parse(fs.readFileSync(revisionPath,'utf8')):null;
+if(revision && date!==revision.date && !release.editorialPicks) throw new Error('New issue requires editorialPicks: exactly five selected article IDs, each with reason and time.');
+if(release.editorialPicks){
+ const picks=release.editorialPicks;
+ if(!Array.isArray(picks)||picks.length!==5||new Set(picks.map(p=>p.id)).size!==5||picks.some(p=>!p.id||!p.time||typeof p.reason!=='string'||p.reason.length<60))throw new Error('editorialPicks must contain five distinct stories, reading times and substantive selection reasons.');
+}
 
 const q=v=>JSON.stringify(String(v??''));
 const tpl=v=>'`'+String(v??'').replaceAll('`','\\`').replaceAll('${','\\${')+'`';
@@ -84,3 +91,4 @@ if(Array.isArray(release.featured?.daily) && release.featured.daily.length){
 fs.writeFileSync(buildPath,build);
 
 console.log(`Applied TECTONICA release ${date}: ${lines.length} new articles.`);
+if(revision&&release.editorialPicks){revision.date=date;revision.picks=release.editorialPicks;fs.writeFileSync(revisionPath,JSON.stringify(revision,null,2)+'\n');}

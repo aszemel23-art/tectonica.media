@@ -1,0 +1,34 @@
+name: Publish editorial revision
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'editorial/revision.json'
+      - 'scripts/editorial-revision.mjs'
+      - '.github/workflows/publish-editorial.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tectonica-editorial-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm run build && npm test
+      - name: Publish edited issue
+        run: |
+          git config user.name "TECTONICA Editorial Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add '*.html' assets/search.json editorial/*-candidates.json feed.xml sitemap.xml robots.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish edited stories and five-story reading route"
+            git push origin HEAD:main
+          fi

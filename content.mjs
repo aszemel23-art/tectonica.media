@@ -154,3 +154,7 @@ enrich(articles,candidates,edition);
 
 import {applyArticleMedia} from './scripts/gallery-manifest.mjs';
 applyArticleMedia(articles);
+
+
+import {reviseEditorial} from './scripts/editorial-revision.mjs';
+reviseEditorial(articles);
