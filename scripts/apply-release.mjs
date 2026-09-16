@@ -21,6 +21,28 @@ if(!content.includes('const defaultArticleDate=')){
 content=content.replace(/export const edition='[^']+';/,"export const edition='"+date+"';");
 
 const existing=new Set([...content.matchAll(/(?:add|short)\('([^']+)'/g)].map(m=>m[1]));
+// New articles require a complete, explicitly checked source gallery.
+const galleryPath='editorial/galleries.json';
+const galleries=JSON.parse(fs.readFileSync(galleryPath,'utf8'));
+for(const a of release.articles||[]){
+  if(existing.has(a.id)) continue;
+  const review=a.imageReview;
+  if(!review || !Number.isInteger(review.sourceImageCount) || review.sourceImageCount<0 || !Array.isArray(a.gallery))
+    throw new Error(a.id+': verify every source image and provide imageReview.sourceImageCount and gallery (including [] when there are no additional images)');
+  const coverCount=(a.image??a.id) ? 1 : 0;
+  const excluded=review.excluded||[];
+  if(excluded.some(x=>!x.url||!x.reason)) throw new Error(a.id+': every excluded source image needs its URL and reason');
+  if(a.gallery.length+coverCount+excluded.length!==review.sourceImageCount)
+    throw new Error(a.id+': source gallery is incomplete; arbitrary photo limits are not allowed');
+  const seen=new Set();
+  for(const image of a.gallery){
+    if(!/^gallery-[a-z0-9-]+$/.test(image.id)||!image.caption||!image.credit||!image.url?.startsWith('https://')||!image.source?.startsWith('https://')||seen.has(image.url))
+      throw new Error(a.id+': invalid or duplicate gallery entry');
+    seen.add(image.url);
+  }
+  if(a.gallery.length) galleries.articles[a.id]=a.gallery;
+}
+fs.writeFileSync(galleryPath,JSON.stringify(galleries,null,2)+'\\n');
 const lines=[];
 for(const a of release.articles||[]){
   if(existing.has(a.id)) continue;
