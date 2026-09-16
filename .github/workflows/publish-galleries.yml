@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "TECTONICA Editorial Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add assets/images articles index.html category archive daily feed features radar search feed.xml sitemap.xml 404.html
+          git add about assets/search.json assets/images articles index.html category archive daily feed features radar search feed.xml sitemap.xml 404.html
           if ! git diff --cached --quiet; then
             git commit -m "Publish source photographs inside articles"
             git push origin HEAD:main
