@@ -194,5 +194,33 @@
     "credit": "Изображение: FUEL Publishing · Фото в книге: Elena Amabili",
     "width": 2560,
     "height": 2011
+  },
+  "loyco-chile": {
+    "url": "https://cdn.mos.cms.futurecdn.net/2Gv5oXWmVki2Kg488DDkAC.jpg",
+    "source": "https://www.wallpaper.com/architecture/residential/chilean-holiday-home-loyco-ccra",
+    "credit": "Фото: Aryeh Kornfeld · Проект: CCRA Arquitectura",
+    "width": 1958,
+    "height": 1650
+  },
+  "anamesa-mykonos": {
+    "url": "https://cdn.mos.cms.futurecdn.net/w65GjJVQxtTwVkppBJFSi4.jpg",
+    "source": "https://www.wallpaper.com/architecture/residential/anamesa-k-studio-mykonos-house-greece",
+    "credit": "Фото: Ana Santl · Проект: K-Studio",
+    "width": 1415,
+    "height": 944
+  },
+  "feldspar-lighting": {
+    "url": "https://cdn.mos.cms.futurecdn.net/Q2LSHT95qftKLQBktjfpSn.jpg",
+    "source": "https://www.wallpaper.com/design-interiors/interior-design/lighting/feldspar-lighting-collection",
+    "credit": "Фото: Courtesy of Feldspar · Проект: Feldspar",
+    "width": 2560,
+    "height": 1706
+  },
+  "deoron-berlin": {
+    "url": "https://cdn.mos.cms.futurecdn.net/4rSAWi5BTsKmPTLHRvQ9zP.jpg",
+    "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
+    "credit": "Фото: Mariona Calathea · Deoron Berlin / Monopol",
+    "width": 2560,
+    "height": 1440
   }
 }
