@@ -5,3 +5,14 @@ if(q){let data;const norm=s=>s.toLocaleLowerCase('ru').replaceAll('ё','е');asy
 q.value=new URLSearchParams(location.search).get('q')||'';document.querySelector('.searchform').addEventListener('submit',e=>{e.preventDefault();history.replaceState(null,'','/search/'+(q.value?'?q='+encodeURIComponent(q.value):''));search();});let timer;q.addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(search,180);});if(q.value)search();}
 if(location.pathname==='/'){const old=['reuse','coffee','passive','rv','radar','deep','archive'];const hash=location.hash.slice(1);if(old.includes(hash))location.replace('/archive/legacy/#'+hash);}
 
+
+// Audience reporting: production domain only; session recording is disabled.
+if (location.hostname === 'tectonica.media' || location.hostname === 'www.tectonica.media') {
+  (function(m,e,t,r,i,k,a){
+    m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();
+    for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r)return;}
+    k=e.createElement(t);a=e.getElementsByTagName(t)[0];k.async=1;k.src=r;a.parentNode.insertBefore(k,a);
+  })(window,document,'script','https://mc.yandex.ru/metrika/tag.js?id=112687921','ym');
+  window.ym(112687921,'init',{webvisor:false,clickmap:false,trackLinks:true,accurateTrackBounce:true});
+}
