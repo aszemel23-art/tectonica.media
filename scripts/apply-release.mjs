@@ -26,10 +26,11 @@ const galleryPath='editorial/galleries.json';
 const galleries=JSON.parse(fs.readFileSync(galleryPath,'utf8'));
 for(const a of release.articles||[]){
   if(existing.has(a.id)) continue;
+  if(a.image==='') throw new Error(a.id+': a cover is mandatory; create and label an original illustration if no source photograph exists');
   const review=a.imageReview;
   if(!review || !Number.isInteger(review.sourceImageCount) || review.sourceImageCount<0 || !Array.isArray(a.gallery))
     throw new Error(a.id+': verify every source image and provide imageReview.sourceImageCount and gallery (including [] when there are no additional images)');
-  const coverCount=(a.image??a.id) ? 1 : 0;
+  const coverCount=a.illustration ? 0 : (a.image??a.id) ? 1 : 0;
   const excluded=review.excluded||[];
   if(excluded.some(x=>!x.url||!x.reason)) throw new Error(a.id+': every excluded source image needs its URL and reason');
   if(a.gallery.length+coverCount+excluded.length!==review.sourceImageCount)
@@ -41,8 +42,9 @@ for(const a of release.articles||[]){
     seen.add(image.url);
   }
   if(a.gallery.length) galleries.articles[a.id]=a.gallery;
+  if(a.illustration){galleries.overrides??={};galleries.overrides[a.id]={image:a.image||a.id,illustration:true,credit:a.credit,imageAlt:a.imageAlt||('Редакционная иллюстрация: '+a.title)};}
 }
-fs.writeFileSync(galleryPath,JSON.stringify(galleries,null,2)+'\\n');
+fs.writeFileSync(galleryPath,JSON.stringify(galleries,null,2)+'\n');
 const lines=[];
 for(const a of release.articles||[]){
   if(existing.has(a.id)) continue;

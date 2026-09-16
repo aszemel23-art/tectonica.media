@@ -1,360 +1,528 @@
 {
   "updated": "2026-09-16",
-  "articles": {
-    "baiwu": [
-      {
-        "id": "gallery-baiwu-1",
-        "url": "https://images.adsttc.com/media/images/6a9f/d760/5c4d/8601/88ab/76f8/large_jpg/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects_14.jpg?1788860360",
-        "source": "https://www.archdaily.com/1184708/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects",
-        "caption": "Книжный магазин Baiwu: двор и корпуса",
-        "credit": "© Arch-Exist"
-      },
-      {
-        "id": "gallery-baiwu-2",
-        "url": "https://images.adsttc.com/media/images/6a9f/d65f/a228/5801/8aa2/359b/large_jpg/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects_2.jpg?1788860068",
-        "source": "https://www.archdaily.com/1184708/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects",
-        "caption": "Двусветный зал книжного магазина Baiwu",
-        "credit": "© Ce Wang"
-      },
-      {
-        "id": "gallery-baiwu-3",
-        "url": "https://images.adsttc.com/media/images/6a9f/d789/5c4d/8601/88ab/76ff/large_jpg/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects_24.jpg?1788860305",
-        "source": "https://www.archdaily.com/1184708/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects",
-        "caption": "Старая стена и деревянные конструкции галереи",
-        "credit": "© Arch-Exist"
-      }
-    ],
-    "malonic": [
-      {
-        "id": "gallery-malonic-1",
-        "url": "https://images.adsttc.com/media/images/6aa2/d538/237b/e901/8be9/6591/large_jpg/casa-malonic-hw-studio_13.jpg?1789056329",
-        "source": "https://www.archdaily.com/1184892/casa-malonic-hw-studio",
-        "caption": "Casa Malonic: интерьер",
-        "credit": "© César Béjar"
-      },
-      {
-        "id": "gallery-malonic-2",
-        "url": "https://images.adsttc.com/media/images/6aa2/d538/237b/e901/8be9/6592/large_jpg/casa-malonic-hw-studio_1.jpg?1789056393",
-        "source": "https://www.archdaily.com/1184892/casa-malonic-hw-studio",
-        "caption": "Гостиная, открытая к пейзажу",
-        "credit": "© César Béjar"
-      },
-      {
-        "id": "gallery-malonic-3",
-        "url": "https://images.adsttc.com/media/images/6aa2/d539/43f9/c501/88fd/1d85/large_jpg/casa-malonic-hw-studio_21.jpg?1789056336",
-        "source": "https://www.archdaily.com/1184892/casa-malonic-hw-studio",
-        "caption": "Casa Malonic на склоне у побережья",
-        "credit": "© César Béjar"
-      }
-    ],
-    "ceramics": [
-      {
-        "id": "gallery-ceramics-1",
-        "url": "https://images.adsttc.com/media/images/6a97/5cfe/8db7/ac01/89d5/41ce/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_8.jpg?1788304652",
-        "source": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao",
-        "caption": "Рабочее пространство мастерской Vila da Saúde",
-        "credit": "© Lela Leme"
-      },
-      {
-        "id": "gallery-ceramics-2",
-        "url": "https://images.adsttc.com/media/images/6a97/5cfd/8db7/ac23/55e3/49cb/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_5.jpg?1788304662",
-        "source": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao",
-        "caption": "Стеллажи и рабочие поверхности",
-        "credit": "© Lela Leme"
-      },
-      {
-        "id": "gallery-ceramics-3",
-        "url": "https://images.adsttc.com/media/images/6a97/5cfd/8db7/ac01/89d5/41cb/large_jpg/atelie-vila-da-saude-plareng-plus-consoante-arquitetura-e-integracao_4.jpg?1788304651",
-        "source": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao",
-        "caption": "Интерьер мастерской",
-        "credit": "© Lela Leme"
-      }
-    ],
-    "red-submarine": [
-      {
-        "id": "gallery-red-submarine-1",
-        "url": "https://images.adsttc.com/media/images/6a9e/7fff/15d8/6f00/01a2/f512/large_jpg/04-1.jpg?1788772398",
-        "source": "https://www.archdaily.com/1184634/red-submarine-cabin-wiki-world",
-        "caption": "Red Submarine: дом среди деревьев",
-        "credit": "© Xhot"
-      },
-      {
-        "id": "gallery-red-submarine-2",
-        "url": "https://images.adsttc.com/media/images/6a9e/8001/15d8/6f00/01a2/f52a/large_jpg/24.jpg?1788772446",
-        "source": "https://www.archdaily.com/1184634/red-submarine-cabin-wiki-world",
-        "caption": "Спальное пространство деревянного дома",
-        "credit": "© Xhot"
-      },
-      {
-        "id": "gallery-red-submarine-3",
-        "url": "https://images.adsttc.com/media/images/6a9e/7fff/15d8/6f00/01a2/f511/large_jpg/03.jpg?1788772390",
-        "source": "https://www.archdaily.com/1184634/red-submarine-cabin-wiki-world",
-        "caption": "Оболочка и детали конструкции",
-        "credit": "© Xhot"
-      }
-    ],
-    "toad-house": [
-      {
-        "id": "gallery-toad-house-1",
-        "url": "https://images.adsttc.com/media/images/6aa2/be4c/237b/e92a/15cb/06d1/large_jpg/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio_13.jpg?1789050467",
-        "source": "https://www.archdaily.com/1184854/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio",
-        "caption": "Общее пространство Toad House",
-        "credit": "© Roh Kyung"
-      },
-      {
-        "id": "gallery-toad-house-2",
-        "url": "https://images.adsttc.com/media/images/6aa2/be4e/43f9/c501/88fd/1c81/large_jpg/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio_29.jpg?1789050492",
-        "source": "https://www.archdaily.com/1184854/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio",
-        "caption": "Спальня в обновлённом доме",
-        "credit": "© Roh Kyung"
-      },
-      {
-        "id": "gallery-toad-house-3",
-        "url": "https://images.adsttc.com/media/images/6aa2/be4c/43f9/c501/88fd/1c7b/large_jpg/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio_6.jpg?1789050456",
-        "source": "https://www.archdaily.com/1184854/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio",
-        "caption": "Деревянный фасад и вход",
-        "credit": "© Roh Kyung"
-      }
-    ],
-    "johnny": [
-      {
-        "id": "gallery-johnny-1",
-        "url": "https://ldf.fra1.cdn.digitaloceanspaces.com/activityimage/12057/image/thumbails-xl-854cfc54bb1cf05ff9232790b43f9cc9.webp",
-        "source": "https://londondesignfestival.com/activities/johnny",
-        "caption": "Светильники Johnny: формы коллекции",
-        "credit": "Faye Toogood Studio / London Design Festival"
-      },
-      {
-        "id": "gallery-johnny-2",
-        "url": "https://ldf.fra1.cdn.digitaloceanspaces.com/activityimage/12056/image/thumbails-xl-951d2dddab0eaf6a996ae07a5ddb2135.webp",
-        "source": "https://londondesignfestival.com/activities/johnny",
-        "caption": "Johnny — работа со светом и объёмом",
-        "credit": "Faye Toogood Studio / London Design Festival"
-      },
-      {
-        "id": "gallery-johnny-3",
-        "url": "https://ldf.fra1.cdn.digitaloceanspaces.com/activityimage/12058/image/thumbails-xl-8d805b23e2d9b89b13946170ab88db62.webp",
-        "source": "https://londondesignfestival.com/activities/johnny",
-        "caption": "Деталь коллекции Johnny",
-        "credit": "Faye Toogood Studio / London Design Festival"
-      }
-    ],
-    "chant": [
-      {
-        "id": "gallery-chant-1",
-        "url": "https://ldf.fra1.cdn.digitaloceanspaces.com/activityimage/11245/image/thumbails-xl-bfa576bdd47c95a2f437dec221b92ecb.webp",
-        "source": "https://londondesignfestival.com/activities/the-chant-chambers",
-        "caption": "The Chant Chambers: светильники Lee Broom",
-        "credit": "Lee Broom / London Design Festival"
-      },
-      {
-        "id": "gallery-chant-2",
-        "url": "https://ldf.fra1.cdn.digitaloceanspaces.com/activityimage/11246/image/thumbails-xl-459d7f0660b2528f6e073e01b316452b.webp",
-        "source": "https://londondesignfestival.com/activities/the-chant-chambers",
-        "caption": "Свет и стекло в коллекции Chant",
-        "credit": "Lee Broom / London Design Festival"
-      },
-      {
-        "id": "gallery-chant-3",
-        "url": "https://ldf.fra1.cdn.digitaloceanspaces.com/activityimage/11247/image/thumbails-xl-c59bacedc016466e8379bfc3c729b73a.webp",
-        "source": "https://londondesignfestival.com/activities/the-chant-chambers",
-        "caption": "Деталь световой композиции",
-        "credit": "Lee Broom / London Design Festival"
-      }
-    ],
-    "all-straw": [
-      {
-        "id": "gallery-all-straw-1",
-        "url": "https://www.architecturalrecord.com/ext/resources/Issues/2026/09-September/2609-All-Straw-House-Hudson-Valley-New-York-03.jpg",
-        "source": "https://www.architecturalrecord.com/articles/18372-in-new-yorks-hudson-valley-a-diminutive-shelter-made-of-straw-offers-a-new-way-of-building",
-        "caption": "Сборка модулей соломенного дома",
-        "credit": "Предоставлено LTL Architects"
-      },
-      {
-        "id": "gallery-all-straw-2",
-        "url": "https://www.architecturalrecord.com/ext/resources/Issues/2026/09-September/2609-All-Straw-House-Hudson-Valley-New-York-02.jpg",
-        "source": "https://www.architecturalrecord.com/articles/18372-in-new-yorks-hudson-valley-a-diminutive-shelter-made-of-straw-offers-a-new-way-of-building",
-        "caption": "Интерьер All-Straw House",
-        "credit": "© Michael Moran / OTTO"
-      },
-      {
-        "id": "gallery-all-straw-3",
-        "url": "https://www.architecturalrecord.com/ext/resources/Issues/2026/09-September/2609-All-Straw-House-Hudson-Valley-New-York-04.jpg",
-        "source": "https://www.architecturalrecord.com/articles/18372-in-new-yorks-hudson-valley-a-diminutive-shelter-made-of-straw-offers-a-new-way-of-building",
-        "caption": "Соломенные кассеты до монтажа",
-        "credit": "Предоставлено LTL Architects"
-      },
-      {
-        "id": "gallery-all-straw-4",
-        "url": "https://www.architecturalrecord.com/ext/resources/Issues/2026/09-September/2609-All-Straw-House-Hudson-Valley-New-York-06.jpg",
-        "source": "https://www.architecturalrecord.com/articles/18372-in-new-yorks-hudson-valley-a-diminutive-shelter-made-of-straw-offers-a-new-way-of-building",
-        "caption": "Перспективный разрез All-Straw House",
-        "credit": "Чертёж: LTL Architects"
-      }
-    ],
-    "devils-milk": [
-      {
-        "id": "gallery-devils-milk-1",
-        "url": "https://www.stirworld.com/images/see/7340_DevilsMilk_1.jpg",
-        "source": "https://www.stirworld.com/see-features-designer-shahar-livne-examines-the-violence-of-rubber-in-the-devil-s-milk-triptych",
-        "caption": "Весы из проекта The Devil’s Milk",
-        "credit": "© Barbara Medo"
-      },
-      {
-        "id": "gallery-devils-milk-2",
-        "url": "https://www.stirworld.com/images/see/7340_DevilsMilk_4.jpg",
-        "source": "https://www.stirworld.com/see-features-designer-shahar-livne-examines-the-violence-of-rubber-in-the-devil-s-milk-triptych",
-        "caption": "Маркетри на дверцах шкафа",
-        "credit": "© Barbara Medo"
-      },
-      {
-        "id": "gallery-devils-milk-3",
-        "url": "https://www.stirworld.com/images/see/7340_DevilsMilk_5.jpg",
-        "source": "https://www.stirworld.com/see-features-designer-shahar-livne-examines-the-violence-of-rubber-in-the-devil-s-milk-triptych",
-        "caption": "Внутреннее устройство шкафа",
-        "credit": "© Barbara Medo"
-      },
-      {
-        "id": "gallery-devils-milk-4",
-        "url": "https://www.stirworld.com/images/see/7340_DevilsMilk_6.jpg",
-        "source": "https://www.stirworld.com/see-features-designer-shahar-livne-examines-the-violence-of-rubber-in-the-devil-s-milk-triptych",
-        "caption": "Фактура скамьи из проекта The Devil’s Milk",
-        "credit": "© Barbara Medo"
-      }
-    ],
-    "lobjet-mccormack": [
-      {
-        "id": "gallery-lobjet-mccormack-1",
-        "url": "https://design-milk.com/images/2026/09/jmc2026_scene04_JMC109_1769.jpg",
-        "source": "https://design-milk.com/lobjet-jessica-mccormack-collaboration/",
-        "caption": "Ваза из коллекции L’OBJET × Jessica McCormack",
-        "credit": "Предоставлено L’OBJET"
-      },
-      {
-        "id": "gallery-lobjet-mccormack-2",
-        "url": "https://design-milk.com/images/2026/09/jmc2026_scene03_JMC100_1578.jpg",
-        "source": "https://design-milk.com/lobjet-jessica-mccormack-collaboration/",
-        "caption": "Ведёрко для шампанского",
-        "credit": "Предоставлено L’OBJET"
-      },
-      {
-        "id": "gallery-lobjet-mccormack-3",
-        "url": "https://design-milk.com/images/2026/09/jmc2026_scene02_JMC106_1215.jpg",
-        "source": "https://design-milk.com/lobjet-jessica-mccormack-collaboration/",
-        "caption": "Скульптурная раковина",
-        "credit": "Предоставлено L’OBJET"
-      }
-    ],
-    "socialist-hotels": [
-      {
-        "id": "gallery-socialist-hotels-1",
-        "url": "https://cdn.mos.cms.futurecdn.net/z93Pnk8ALtRLQLZbCWR235.jpg",
-        "source": "https://www.wallpaper.com/architecture/socialist-hotels-is-fuel-publishings-newest-study-of-a-fast-vanishing-design-aesthetic",
-        "caption": "Отель Pušynas, Литва",
-        "credit": "Из книги Socialist Hotels / FUEL Publishing"
-      },
-      {
-        "id": "gallery-socialist-hotels-2",
-        "url": "https://cdn.mos.cms.futurecdn.net/BhaD85P7y5EMqjReDYgGMQ.jpg",
-        "source": "https://www.wallpaper.com/architecture/socialist-hotels-is-fuel-publishings-newest-study-of-a-fast-vanishing-design-aesthetic",
-        "caption": "Интерьер отеля Slovakia, Словакия",
-        "credit": "Из книги Socialist Hotels / FUEL Publishing"
-      },
-      {
-        "id": "gallery-socialist-hotels-3",
-        "url": "https://cdn.mos.cms.futurecdn.net/86rWutEHSmdRvYqhGp2s9B.jpg",
-        "source": "https://www.wallpaper.com/architecture/socialist-hotels-is-fuel-publishings-newest-study-of-a-fast-vanishing-design-aesthetic",
-        "caption": "Дом творчества писателей на Севане, Армения",
-        "credit": "Из книги Socialist Hotels / FUEL Publishing"
-      }
-    ],
-    "radford": [
-      {
-        "id": "gallery-radford-1",
-        "url": "https://cdn.mos.cms.futurecdn.net/AAEMtmJnKj7QVWm8rQ7svW.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
-        "caption": "Светильник Grid Play от LS Gomma и ковёр Big Bang Ромео Джильи",
-        "credit": "© Edward Rollitt"
-      },
-      {
-        "id": "gallery-radford-2",
-        "url": "https://cdn.mos.cms.futurecdn.net/xB5cMgo8LCDJ2vBVJ5Cc7X.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
-        "caption": "Кресло Карстена ин дер Эльста и ковёр по работе Гунты Штёльцль",
-        "credit": "© Edward Rollitt"
-      },
-      {
-        "id": "gallery-radford-3",
-        "url": "https://cdn.mos.cms.futurecdn.net/ngYK6hDK6888VauCpQnycX.png",
-        "source": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
-        "caption": "Кресла Льюиса Кемменоу и ковёр по работе Гэри Хьюма",
-        "credit": "© Edward Rollitt"
-      }
-    ],
-    "deoron-berlin": [
-      {
-        "id": "gallery-deoron-berlin-1",
-        "url": "https://cdn.mos.cms.futurecdn.net/QDTCEbKFd9mGYB8w5hHLWQ.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
-        "caption": "Monopol: выставка в здании бывшего спиртзавода",
-        "credit": "© Mariona Calathea"
-      },
-      {
-        "id": "gallery-deoron-berlin-2",
-        "url": "https://cdn.mos.cms.futurecdn.net/AfhtvnAYJcB2ggkYmad2ZQ.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
-        "caption": "Экспозиция на трёх этажах Monopol",
-        "credit": "© Mariona Calathea"
-      },
-      {
-        "id": "gallery-deoron-berlin-3",
-        "url": "https://cdn.mos.cms.futurecdn.net/C2ANG7JWCuWDwwou5ZDaLQ.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
-        "caption": "The Most Intimate: алюминиевые предметы Наоми Эльзер",
-        "credit": "© Mariona Calathea"
-      },
-      {
-        "id": "gallery-deoron-berlin-4",
-        "url": "https://cdn.mos.cms.futurecdn.net/GzWPJguUyz9wen76ULEq5N.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
-        "caption": "Радиаторы Tubes в экспозиции Deoron",
-        "credit": "© Mariona Calathea"
-      },
-      {
-        "id": "gallery-deoron-berlin-5",
-        "url": "https://cdn.mos.cms.futurecdn.net/9vasyAeJYdFeDTjJG7iiGQ.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
-        "caption": "Стеллаж Cezar Moldovan и диван Noah Living",
-        "credit": "© Mariona Calathea"
-      },
-      {
-        "id": "gallery-deoron-berlin-6",
-        "url": "https://cdn.mos.cms.futurecdn.net/rdba3hL36jcK9kkVWfFiLQ.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
-        "caption": "Прототип кресла Axis от Forma",
-        "credit": "© Mariona Calathea"
-      },
-      {
-        "id": "gallery-deoron-berlin-7",
-        "url": "https://cdn.mos.cms.futurecdn.net/t6vwfGKZSfbozaRbDQmhvP.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
-        "caption": "Столы Ostal Studio",
-        "credit": "© Mariona Calathea"
-      },
-      {
-        "id": "gallery-deoron-berlin-8",
-        "url": "https://cdn.mos.cms.futurecdn.net/spr9NSp56P7XYcPJZ3V5MP.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
-        "caption": "Металлические предметы Мати Сипиоры",
-        "credit": "© Mariona Calathea"
-      },
-      {
-        "id": "gallery-deoron-berlin-9",
-        "url": "https://cdn.mos.cms.futurecdn.net/6fBgBXVdc4ix7aAcr4dLWQ.jpg",
-        "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
-        "caption": "Зеркало Виктора Ханера, светильник Леона Реммерта и табурет Антонио Льямбиаса",
-        "credit": "© Mariona Calathea"
-      }
-    ]
-  }
+  "articles": {},
+  "covers": [
+    {
+      "id": "audit-cover-sender-unknown",
+      "url": "https://vanda-production-assets.s3.amazonaws.com/2026/09/15/09/45/31/ee42b13c-d276-4e3a-bc16-49c174ed64bd/banner.jpg",
+      "source": "https://www.vam.ac.uk/articles/vampa-x-london-design-festival-awakenings-trail",
+      "caption": "Азиза Кадыри рассматривает узбекскую вышивку через вопрос об ИИ · Кадр 1",
+      "credit": "© Tim Readhead / V&A"
+    },
+    {
+      "id": "audit-cover-playfool-server",
+      "url": "https://vanda-production-assets.s3.amazonaws.com/2026/09/15/09/59/32/cd62c0e3-07f8-4f16-af86-d699d1d765ca/server.jpg",
+      "source": "https://www.vam.ac.uk/articles/vampa-x-london-design-festival-awakenings-trail",
+      "caption": "В V&A посетителям предлагают почистить сервер · Кадр 1",
+      "credit": "© Sarah Duncan / V&A"
+    },
+    {
+      "id": "audit-cover-rca-inresponse",
+      "url": "https://rca-media2.rca.ac.uk/images/Jan_Yeoung_by_Pil_Gyu_Jang_1_copy.83fa4bbd.fill-1440x530.jpg",
+      "source": "https://www.rca.ac.uk/news-and-events/news/royal-college-of-art-announces-dynamic-line-up-for-london-design-festival-2026/",
+      "caption": "Программа RCA на London Design Festival · Кадр 1",
+      "credit": "Предоставлено Royal College of Art"
+    },
+    {
+      "id": "audit-cover-bocci-labyrinth",
+      "url": "https://cdn.mos.cms.futurecdn.net/6w4nYiEoyPbr9TvzfYWEoL.jpg",
+      "source": "https://www.wallpaper.com/design-interiors/lighting-designs-at-london-design-festival-2026",
+      "caption": "Bocci и Бетан Лора Вуд показывают фиолетовый свет в декорациях «Лабиринта» · Кадр 1",
+      "credit": "Bocci / Wallpaper*"
+    },
+    {
+      "id": "audit-cover-vatican-diluvium",
+      "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/14/2026-09-14-inaugurazione-della-mostra-aqva--catastrofe-e-meravig/1789384799955.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1000.563.jpeg",
+      "source": "https://www.vaticannews.va/de/papst/news/2026-09/bibliothek-vatikan-apostolisch-papst-leo-xiv-buecher-kultur.html",
+      "caption": "Выставка в Ватиканской библиотеке · Кадр 1",
+      "credit": "Vatican Media / Vatican News"
+    },
+    {
+      "id": "audit-cover-sottsass-glass",
+      "url": "https://www.domusweb.it/content/dam/domusweb/en/news/gallery/2026/09/14/c-un-ettore-sottsass-che-quasi-nessuno-conosce-ora--in-mostra-a-parigi/domus-s-3.jpg.foto.rbig.png",
+      "source": "https://www.domusweb.it/en/news/gallery/2026/09/14/ettore-sottsass-murano-glass-paris-exhibition.html",
+      "caption": "Стекло Этторе Соттсасса · Кадр 1",
+      "credit": "Предоставлено Galleria Marina Barovier, Venezia"
+    },
+    {
+      "id": "audit-cover-musashi-koyama",
+      "url": "https://static.designboom.com/wp-content/dbsub/391083/2026-09-14/house-in-musashi-koyama-8-6aa7ae03c49df.jpg",
+      "source": "https://www.designboom.com/architecture/spiral-timber-beams-steel-tiny-40-sqm-tokyo-home-musashi-koyama-tato-architects-yo-shimada/",
+      "caption": "Дом в Musashi Koyama · Кадр 1",
+      "credit": "© Shinkenchiku-sha"
+    },
+    {
+      "id": "audit-cover-tallinn-how-much",
+      "url": "https://images.adsttc.com/media/images/6aa9/0e6c/c1eb/5301/897f/20bb/large_jpg/tallinn-architecture-biennale-2026-explores-the-true-cost-of-architecture-through-how-much_2.jpg?1789464188",
+      "source": "https://www.archdaily.com/1185112/tallinn-architecture-biennale-2026-explores-the-true-cost-of-architecture-through-how-much",
+      "caption": "Таллинская архитектурная биеннале · Кадр 1",
+      "credit": "© Martin Siplane"
+    },
+    {
+      "id": "audit-cover-lasvit-herbarium",
+      "url": "https://static.designboom.com/wp-content/uploads/2026/09/lasvit_designboom_01.jpg",
+      "source": "https://www.designboom.com/design/lasvit-lighting-fixture-installation-for-napa-valley-home/",
+      "caption": "Herbarium — Lasvit · Кадр 1",
+      "credit": "Предоставлено Lasvit"
+    },
+    {
+      "id": "audit-cover-bower-nyc",
+      "url": "https://static.designboom.com/wp-content/dbsub/467613/2026-09-08/the-bower-by-elsa-ponce-reimagines-shade-as-care-in-new-york-city-8-6a9f552430e05.jpg",
+      "source": "https://www.designboom.com/architecture/pink-inflatable-canopy-soft-shade-new-york-streetscape-elsa-ponce-bower/",
+      "caption": "The Bower — Elsa Ponce · Кадр 1",
+      "credit": "© Carlos Galek Sefchovich"
+    },
+    {
+      "id": "audit-cover-pokeball-hokkaido",
+      "url": "https://static.designboom.com/wp-content/uploads/2026/09/giant-poke-ball-human-sized-sleeping-pod-japan-designboom-04.jpg",
+      "source": "https://www.designboom.com/design/giant-poke-ball-human-sized-sleeping-pod-japan/",
+      "caption": "Pokémon Sleep × NOT A HOTEL · Кадр 1",
+      "credit": "Предоставлено Pokémon Sleep × NOT A HOTEL"
+    }
+  ],
+  "overrides": {
+    "sender-unknown": {
+      "image": "audit-cover-sender-unknown",
+      "illustration": false,
+      "credit": "© Tim Readhead / V&A",
+      "imageAlt": "banner"
+    },
+    "playfool-server": {
+      "image": "audit-cover-playfool-server",
+      "illustration": false,
+      "credit": "© Sarah Duncan / V&A",
+      "imageAlt": "В V&A посетителям предлагают почистить сервер"
+    },
+    "rca-inresponse": {
+      "image": "audit-cover-rca-inresponse",
+      "illustration": false,
+      "credit": "Предоставлено Royal College of Art",
+      "imageAlt": "Программа RCA на London Design Festival"
+    },
+    "bocci-labyrinth": {
+      "image": "audit-cover-bocci-labyrinth",
+      "illustration": false,
+      "credit": "Bocci / Wallpaper*",
+      "imageAlt": "260723_Bocci_BethanLauraWood_Captures_524_Web"
+    },
+    "vatican-diluvium": {
+      "image": "audit-cover-vatican-diluvium",
+      "illustration": false,
+      "credit": "Vatican Media / Vatican News",
+      "imageAlt": "Выставка в Ватиканской библиотеке"
+    },
+    "sottsass-glass": {
+      "image": "audit-cover-sottsass-glass",
+      "illustration": false,
+      "credit": "Предоставлено Galleria Marina Barovier, Venezia",
+      "imageAlt": "Стекло Этторе Соттсасса"
+    },
+    "musashi-koyama": {
+      "image": "audit-cover-musashi-koyama",
+      "illustration": false,
+      "credit": "© Shinkenchiku-sha",
+      "imageAlt": "Дом в Musashi Koyama"
+    },
+    "tallinn-how-much": {
+      "image": "audit-cover-tallinn-how-much",
+      "illustration": false,
+      "credit": "Фотографии: Martin Siplane, Rene Suurkaev / ArchDaily",
+      "imageAlt": "Таллинская архитектурная биеннале"
+    },
+    "lasvit-herbarium": {
+      "image": "audit-cover-lasvit-herbarium",
+      "illustration": false,
+      "credit": "Предоставлено Lasvit",
+      "imageAlt": "Herbarium — Lasvit"
+    },
+    "bower-nyc": {
+      "image": "audit-cover-bower-nyc",
+      "illustration": false,
+      "credit": "© Carlos Galek Sefchovich",
+      "imageAlt": "The Bower — Elsa Ponce"
+    },
+    "pokeball-hokkaido": {
+      "image": "audit-cover-pokeball-hokkaido",
+      "illustration": false,
+      "credit": "Предоставлено Pokémon Sleep × NOT A HOTEL",
+      "imageAlt": "Pokémon Sleep × NOT A HOTEL"
+    }
+  },
+  "audit": {
+    "danshuis": {
+      "status": "complete",
+      "source": "https://danshuis.nl/nl/ma-yansongmad-designs-revealed-for-rotterdams-centre-for-dance-danshuis/",
+      "sourceImages": 1,
+      "cover": 1,
+      "gallery": 0
+    },
+    "johnny": {
+      "status": "complete",
+      "source": "https://londondesignfestival.com/activities/johnny",
+      "sourceImages": 6,
+      "cover": 1,
+      "gallery": 5
+    },
+    "baiwu": {
+      "status": "complete",
+      "source": "https://www.archdaily.com/1184708/librairie-avant-garde-huize-baiwu-bookstore-jiakun-architects",
+      "sourceImages": 37,
+      "cover": 1,
+      "gallery": 36
+    },
+    "sa-casa": {
+      "status": "complete",
+      "source": "https://www.stefanoboeriarchitetti.net/project/sa-casa-ibiza-2/",
+      "sourceImages": 5,
+      "cover": 1,
+      "gallery": 4
+    },
+    "red-submarine": {
+      "status": "complete",
+      "source": "https://www.archdaily.com/1184634/red-submarine-cabin-wiki-world",
+      "sourceImages": 35,
+      "cover": 1,
+      "gallery": 34
+    },
+    "toad-house": {
+      "status": "complete",
+      "source": "https://www.archdaily.com/1184854/dookkuubi-jib-toad-house-nomal-plus-onjium-housing-studio",
+      "sourceImages": 45,
+      "cover": 1,
+      "gallery": 44
+    },
+    "malonic": {
+      "status": "complete",
+      "source": "https://www.archdaily.com/1184892/casa-malonic-hw-studio",
+      "sourceImages": 32,
+      "cover": 1,
+      "gallery": 31
+    },
+    "chant": {
+      "status": "complete",
+      "source": "https://londondesignfestival.com/activities/the-chant-chambers",
+      "sourceImages": 11,
+      "cover": 1,
+      "gallery": 10
+    },
+    "ceramics": {
+      "status": "complete",
+      "source": "https://www.archdaily.com/1184841/vila-da-saude-studio-plareng-plus-consoante-arquitetura-e-integracao",
+      "sourceImages": 37,
+      "cover": 1,
+      "gallery": 36
+    },
+    "materials": {
+      "status": "complete",
+      "source": "https://materialmatters.design/The-Fair",
+      "sourceImages": 1,
+      "cover": 1,
+      "gallery": 0
+    },
+    "wax": {
+      "status": "complete",
+      "source": "https://londondesignfestival.com/activities/wax-2026",
+      "sourceImages": 1,
+      "cover": 1,
+      "gallery": 0
+    },
+    "gradas": {
+      "status": "complete",
+      "source": "https://londondesignfestival.com/activities/elevating-experiences-through-design-collaboration",
+      "sourceImages": 1,
+      "cover": 1,
+      "gallery": 0
+    },
+    "medals": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/design-interiors/design-events/london-design-medals-2026",
+      "sourceImages": 5,
+      "cover": 1,
+      "gallery": 4
+    },
+    "open-house": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/architecture/architecture-events/2026-london-open-house-festival-uk",
+      "sourceImages": 12,
+      "cover": 1,
+      "gallery": 11
+    },
+    "reading-room": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/design-interiors/london-design-festival-brompton-reading-room-alex-tieghi-walker-books",
+      "sourceImages": 8,
+      "cover": 1,
+      "gallery": 7
+    },
+    "radford": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
+      "sourceImages": 6,
+      "cover": 1,
+      "gallery": 5
+    },
+    "buenos-aires": {
+      "status": "complete",
+      "source": "https://www.archdaily.com/1184927/buenos-aires-architecture-biennial-celebrates-40-years-with-a-free-program-under-the-theme-of-inhabiting",
+      "sourceImages": 53,
+      "cover": 1,
+      "gallery": 52
+    },
+    "carbon-cell": {
+      "status": "illustrated-no-project-photo",
+      "source": "https://londondesignfestival.com/activities/material-matters",
+      "sourceImages": 0,
+      "cover": 1,
+      "gallery": 0,
+      "note": "В источнике нет отдельной фотографии описанного объекта. Сохранена явно подписанная редакционная иллюстрация."
+    },
+    "biomason-front": {
+      "status": "illustrated-no-project-photo",
+      "source": "https://londondesignfestival.com/activities/material-matters",
+      "sourceImages": 0,
+      "cover": 1,
+      "gallery": 0,
+      "note": "В источнике нет отдельной фотографии описанного объекта. Сохранена явно подписанная редакционная иллюстрация."
+    },
+    "lovspark": {
+      "status": "illustrated-no-project-photo",
+      "source": "https://materialmatters.design/The-Fair",
+      "sourceImages": 0,
+      "cover": 1,
+      "gallery": 0,
+      "note": "В источнике нет отдельной фотографии описанного объекта. Сохранена явно подписанная редакционная иллюстрация."
+    },
+    "sender-unknown": {
+      "status": "complete",
+      "source": "https://www.vam.ac.uk/articles/vampa-x-london-design-festival-awakenings-trail",
+      "sourceImages": 1,
+      "cover": 1,
+      "gallery": 0
+    },
+    "playfool-server": {
+      "status": "complete",
+      "source": "https://www.vam.ac.uk/articles/vampa-x-london-design-festival-awakenings-trail",
+      "sourceImages": 1,
+      "cover": 1,
+      "gallery": 0
+    },
+    "rca-inresponse": {
+      "status": "complete",
+      "source": "https://www.rca.ac.uk/news-and-events/news/royal-college-of-art-announces-dynamic-line-up-for-london-design-festival-2026/",
+      "sourceImages": 2,
+      "cover": 1,
+      "gallery": 1,
+      "note": "Включены две иллюстрации InResponse. Остальные изображения общего анонса RCA относятся к другим выставкам."
+    },
+    "paris-hanji": {
+      "status": "illustrated-no-project-photo",
+      "source": "https://www.lemonde.fr/en/lifestyle/article/2026/09/10/paris-design-week-three-surprising-highlights_6757364_37.html",
+      "sourceImages": 0,
+      "cover": 1,
+      "gallery": 0,
+      "note": "Источник не предоставил доступную галерею. Сохранена явно подписанная редакционная иллюстрация."
+    },
+    "bocci-labyrinth": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/design-interiors/lighting-designs-at-london-design-festival-2026",
+      "sourceImages": 1,
+      "cover": 1,
+      "gallery": 0
+    },
+    "community-house": {
+      "status": "complete",
+      "source": "https://www.architecturalrecord.com/articles/18403-snapshot-jakobmacfarlane-designs-a-colorful-vertical-village-on-the-belgian-coast",
+      "sourceImages": 1,
+      "cover": 1,
+      "gallery": 0
+    },
+    "all-straw": {
+      "status": "complete",
+      "source": "https://www.architecturalrecord.com/articles/18372-in-new-yorks-hudson-valley-a-diminutive-shelter-made-of-straw-offers-a-new-way-of-building",
+      "sourceImages": 6,
+      "cover": 1,
+      "gallery": 5
+    },
+    "devils-milk": {
+      "status": "complete",
+      "source": "https://www.stirworld.com/see-features-designer-shahar-livne-examines-the-violence-of-rubber-in-the-devil-s-milk-triptych",
+      "sourceImages": 8,
+      "cover": 1,
+      "gallery": 8
+    },
+    "lobjet-mccormack": {
+      "status": "complete",
+      "source": "https://design-milk.com/lobjet-jessica-mccormack-collaboration/",
+      "sourceImages": 8,
+      "cover": 1,
+      "gallery": 7
+    },
+    "socialist-hotels": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/architecture/socialist-hotels-is-fuel-publishings-newest-study-of-a-fast-vanishing-design-aesthetic",
+      "sourceImages": 13,
+      "cover": 1,
+      "gallery": 12
+    },
+    "vatican-diluvium": {
+      "status": "complete",
+      "source": "https://www.vaticannews.va/de/papst/news/2026-09/bibliothek-vatikan-apostolisch-papst-leo-xiv-buecher-kultur.html",
+      "sourceImages": 6,
+      "cover": 1,
+      "gallery": 5
+    },
+    "sottsass-glass": {
+      "status": "complete",
+      "source": "https://www.domusweb.it/en/news/gallery/2026/09/14/ettore-sottsass-murano-glass-paris-exhibition.html",
+      "sourceImages": 9,
+      "cover": 1,
+      "gallery": 8
+    },
+    "radar-one-material": {
+      "status": "complete",
+      "source": "https://ltlarchitects.com/all-straw-house",
+      "sourceImages": 11,
+      "cover": 1,
+      "gallery": 11
+    },
+    "loyco-chile": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/architecture/residential/chilean-holiday-home-loyco-ccra",
+      "sourceImages": 10,
+      "cover": 1,
+      "gallery": 9
+    },
+    "anamesa-mykonos": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/architecture/residential/anamesa-k-studio-mykonos-house-greece",
+      "sourceImages": 17,
+      "cover": 1,
+      "gallery": 16
+    },
+    "musashi-koyama": {
+      "status": "complete",
+      "source": "https://www.designboom.com/architecture/spiral-timber-beams-steel-tiny-40-sqm-tokyo-home-musashi-koyama-tato-architects-yo-shimada/",
+      "sourceImages": 12,
+      "cover": 1,
+      "gallery": 11
+    },
+    "feldspar-lighting": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/design-interiors/interior-design/lighting/feldspar-lighting-collection",
+      "sourceImages": 6,
+      "cover": 1,
+      "gallery": 5
+    },
+    "deoron-berlin": {
+      "status": "complete",
+      "source": "https://www.wallpaper.com/design-interiors/design-events/deoron-berlin-2026-review",
+      "sourceImages": 10,
+      "cover": 1,
+      "gallery": 9
+    },
+    "tallinn-how-much": {
+      "status": "complete",
+      "source": "https://www.archdaily.com/1185112/tallinn-architecture-biennale-2026-explores-the-true-cost-of-architecture-through-how-much",
+      "sourceImages": 26,
+      "cover": 1,
+      "gallery": 25
+    },
+    "lasvit-herbarium": {
+      "status": "complete",
+      "source": "https://www.designboom.com/design/lasvit-lighting-fixture-installation-for-napa-valley-home/",
+      "sourceImages": 7,
+      "cover": 1,
+      "gallery": 6
+    },
+    "bower-nyc": {
+      "status": "complete",
+      "source": "https://www.designboom.com/architecture/pink-inflatable-canopy-soft-shade-new-york-streetscape-elsa-ponce-bower/",
+      "sourceImages": 12,
+      "cover": 1,
+      "gallery": 11
+    },
+    "pokeball-hokkaido": {
+      "status": "complete",
+      "source": "https://www.designboom.com/design/giant-poke-ball-human-sized-sleeping-pod-japan/",
+      "sourceImages": 12,
+      "cover": 1,
+      "gallery": 11
+    },
+    "keep-the-building": {
+      "status": "editorial-analysis",
+      "gallerySource": "baiwu",
+      "gallery": 36
+    },
+    "material-after-the-fair": {
+      "status": "editorial-analysis",
+      "gallerySource": "materials",
+      "gallery": 0
+    },
+    "radar-soft-light": {
+      "status": "editorial-analysis",
+      "gallerySource": "johnny",
+      "gallery": 5
+    },
+    "radar-new-frame": {
+      "status": "editorial-analysis",
+      "gallerySource": "baiwu",
+      "gallery": 36
+    },
+    "radar-knitted-surface": {
+      "status": "editorial-analysis",
+      "gallerySource": "wax",
+      "gallery": 0
+    }
+  },
+  "aliases": {
+    "keep-the-building": "baiwu",
+    "material-after-the-fair": "materials",
+    "radar-soft-light": "johnny",
+    "radar-new-frame": "baiwu",
+    "radar-knitted-surface": "wax"
+  },
+  "files": [
+    "galleries/danshuis.json",
+    "galleries/johnny.json",
+    "galleries/baiwu.json",
+    "galleries/sa-casa.json",
+    "galleries/red-submarine.json",
+    "galleries/toad-house.json",
+    "galleries/malonic.json",
+    "galleries/chant.json",
+    "galleries/ceramics.json",
+    "galleries/materials.json",
+    "galleries/wax.json",
+    "galleries/gradas.json",
+    "galleries/medals.json",
+    "galleries/open-house.json",
+    "galleries/reading-room.json",
+    "galleries/radford.json",
+    "galleries/buenos-aires.json",
+    "galleries/carbon-cell.json",
+    "galleries/biomason-front.json",
+    "galleries/lovspark.json",
+    "galleries/sender-unknown.json",
+    "galleries/playfool-server.json",
+    "galleries/rca-inresponse.json",
+    "galleries/paris-hanji.json",
+    "galleries/bocci-labyrinth.json",
+    "galleries/community-house.json",
+    "galleries/all-straw.json",
+    "galleries/devils-milk.json",
+    "galleries/lobjet-mccormack.json",
+    "galleries/socialist-hotels.json",
+    "galleries/vatican-diluvium.json",
+    "galleries/sottsass-glass.json",
+    "galleries/radar-one-material.json",
+    "galleries/loyco-chile.json",
+    "galleries/anamesa-mykonos.json",
+    "galleries/musashi-koyama.json",
+    "galleries/feldspar-lighting.json",
+    "galleries/deoron-berlin.json",
+    "galleries/tallinn-how-much.json",
+    "galleries/lasvit-herbarium.json",
+    "galleries/bower-nyc.json",
+    "galleries/pokeball-hokkaido.json"
+  ]
 }

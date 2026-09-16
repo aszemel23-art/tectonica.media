@@ -151,3 +151,6 @@ for (const id of ["carbon-cell","biomason-front","lovspark","sender-unknown","pl
 
 import {enrich} from './editorial-features.mjs';
 enrich(articles,candidates,edition);
+
+import {applyArticleMedia} from './scripts/gallery-manifest.mjs';
+applyArticleMedia(articles);

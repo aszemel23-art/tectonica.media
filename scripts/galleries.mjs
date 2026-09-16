@@ -1,6 +1,7 @@
+import {readGalleryManifest} from './gallery-manifest.mjs';
 import fs from 'node:fs';
 const root=new URL('../',import.meta.url);
-const manifest=JSON.parse(fs.readFileSync(new URL('editorial/galleries.json',root),'utf8'));
+const manifest=readGalleryManifest();
 const provenance=JSON.parse(fs.readFileSync(new URL('assets/images/gallery-provenance.json',root),'utf8'));
 const esc=s=>String(s??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 export function articleBody(a){

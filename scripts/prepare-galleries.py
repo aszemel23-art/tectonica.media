@@ -5,6 +5,11 @@ from concurrent.futures import ThreadPoolExecutor
 
 root = pathlib.Path(__file__).resolve().parent.parent
 manifest = json.loads((root / 'editorial/galleries.json').read_text(encoding='utf-8'))
+direct = manifest.get('articles', {})
+manifest['articles'] = {}
+for file in manifest.get('files', []):
+    manifest['articles'].update(json.loads((root / 'editorial' / file).read_text(encoding='utf-8')))
+manifest['articles'].update(direct)
 out = root / 'assets/images'
 prov_path = out / 'gallery-provenance.json'
 previous = json.loads(prov_path.read_text(encoding='utf-8')) if prov_path.exists() else {}
@@ -12,7 +17,7 @@ previous = json.loads(prov_path.read_text(encoding='utf-8')) if prov_path.exists
 def prepare(item):
     image_id = item['id']
     if previous.get(image_id, {}).get('url') == item['url'] and all((out / f'{image_id}-{w}.webp').exists() for w in (640,1440)):
-        return image_id, previous[image_id]
+        return image_id, {**previous[image_id], **item}
     for attempt in range(3):
         try:
             request = urllib.request.Request(item['url'], headers={'User-Agent':'Mozilla/5.0', 'Referer':item['source']})
@@ -34,7 +39,7 @@ def prepare(item):
             if attempt == 2: raise
             time.sleep(2)
 
-items = [item for gallery in manifest['articles'].values() for item in gallery]
+items = list({item['id']: item for item in [*[i for gallery in manifest['articles'].values() for i in gallery], *manifest.get('covers', [])]}.values())
 with ThreadPoolExecutor(max_workers=4) as pool:
     result = dict(pool.map(prepare,items))
 prov_path.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
