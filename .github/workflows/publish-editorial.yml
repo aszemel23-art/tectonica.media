@@ -5,6 +5,10 @@ on:
     paths:
       - 'editorial/revision.json'
       - 'scripts/editorial-revision.mjs'
+      - 'scripts/build.mjs'
+      - 'scripts/galleries.mjs'
+      - 'assets/article.css'
+      - 'assets/gallery.js'
       - '.github/workflows/publish-editorial.yml'
   workflow_dispatch:
 permissions:

@@ -3,7 +3,7 @@
  const closeIcon='<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>';
  const figures=[...document.querySelectorAll('.story-photo')],hero=document.querySelector('.article-figure');
  if((!hero&&!figures.length)||typeof HTMLDialogElement==='undefined')return;
- const photos=[...(hero?[hero]:[]),...figures].map(f=>({src:f.querySelector('a[data-gallery]')?.href||f.querySelector('img').src.replace('-640.webp','-1440.webp'),alt:f.querySelector('img').alt,caption:f.querySelector('figcaption').cloneNode(true)}));
+ const photos=[...(hero?[hero]:[]),...figures].map(f=>({src:f.querySelector('a[data-gallery]')?.href||f.querySelector('img').src.replace('-640.webp','-1440.webp'),srcset:f.querySelector('img').getAttribute('srcset')||'',alt:f.querySelector('img').alt,caption:f.querySelector('figcaption').cloneNode(true)}));
  const dialog=document.createElement('dialog');dialog.className='image-viewer';dialog.setAttribute('aria-label','Фотографии проекта');
  dialog.innerHTML='<div class="viewer-toolbar"><span data-count aria-live="polite"></span><div><button type="button" data-full aria-label="На весь экран" title="На весь экран">'+expandIcon+'</button><button type="button" data-close aria-label="Закрыть просмотр" title="Закрыть просмотр">'+closeIcon+'</button></div></div><div class="viewer-stage"><img alt=""><button type="button" data-prev aria-label="Предыдущая фотография">‹</button><button type="button" data-next aria-label="Следующая фотография">›</button></div><div class="viewer-caption"></div>';
  document.body.append(dialog);let current=0,opener;
@@ -18,7 +18,26 @@
  dialog.addEventListener('close',()=>{if(document.fullscreenElement===dialog)document.exitFullscreen().catch(()=>{});document.body.classList.remove('viewer-open');opener?.focus({preventScroll:true});});
  bindSwipe(dialog.querySelector('.viewer-stage'),()=>show(current-1),()=>show(current+1));
  if(photos.length===1){dialog.querySelector('[data-prev]').hidden=true;dialog.querySelector('[data-next]').hidden=true;}
- if(hero){const img=hero.querySelector('img'),button=document.createElement('button');button.type='button';button.className='hero-enlarge';button.setAttribute('aria-label','Открыть фотографии на весь экран');img.before(button);button.append(img);const label=document.createElement('span');label.className='photo-affordance';label.setAttribute('aria-hidden','true');label.innerHTML=expandIcon;button.append(label);button.onclick=()=>open(0,button);}
+ if(hero){
+  const img=hero.querySelector('img'),button=document.createElement('button');
+  button.type='button';button.className='hero-enlarge';button.setAttribute('aria-label','Открыть текущую фотографию на весь экран');
+  img.before(button);button.append(img);let heroIndex=0;
+  const controls=document.createElement('div');controls.className='hero-controls';
+  controls.innerHTML='<span data-hero-count aria-live="polite" aria-atomic="true"></span><div><button type="button" data-hero-prev aria-label="Предыдущая фотография">←</button><button type="button" data-hero-next aria-label="Следующая фотография">→</button></div>';
+  button.after(controls);
+  function heroSlide(n){
+   heroIndex=(n+photos.length)%photos.length;const p=photos[heroIndex];
+   img.srcset=p.srcset;img.src=p.src;img.alt=p.alt;
+   hero.querySelector('figcaption').replaceWith(p.caption.cloneNode(true));
+   controls.querySelector('[data-hero-count]').textContent=String(heroIndex+1).padStart(2,'0')+' / '+String(photos.length).padStart(2,'0');
+  }
+  button.onclick=()=>open(heroIndex,button);
+  controls.querySelector('[data-hero-prev]').onclick=()=>heroSlide(heroIndex-1);
+  controls.querySelector('[data-hero-next]').onclick=()=>heroSlide(heroIndex+1);
+  hero.addEventListener('keydown',e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight'){e.preventDefault();heroSlide(heroIndex+(e.key==='ArrowLeft'?-1:1));}});
+  bindSwipe(button,()=>heroSlide(heroIndex-1),()=>heroSlide(heroIndex+1));heroSlide(0);
+  if(photos.length===1)controls.hidden=true;
+ }
  if(figures.length){
   const section=document.createElement('section');section.className='article-gallery';section.setAttribute('aria-label','Галерея проекта');
   section.innerHTML='<div class="gallery-heading"><strong>Фотографии проекта</strong><span data-inline-count aria-live="polite"></span></div><div class="gallery-slides"></div><div class="gallery-controls"><button type="button" data-inline-prev aria-label="Предыдущий кадр">←</button><button type="button" data-open aria-label="Открыть фотографию на весь экран" title="Открыть фотографию на весь экран">'+expandIcon+'</button><button type="button" data-inline-next aria-label="Следующий кадр">→</button></div><p class="gallery-hint">Листайте стрелками или свайпом</p>';
