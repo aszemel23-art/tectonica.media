@@ -17,7 +17,7 @@ export function articleBody(a){
   if(!p)throw new Error('Missing prepared gallery image: '+item.id);
   const large='/assets/images/'+item.id+'-1440.webp';
   const small='/assets/images/'+item.id+'-640.webp';
-  return '<figure class="story-photo"><a class="photo-enlarge" href="'+large+'" data-gallery aria-label="Увеличить: '+esc(item.caption)+'"><img src="'+large+'" srcset="'+small+' '+p.sizes['640'][0]+'w, '+large+' '+p.sizes['1440'][0]+'w" sizes="(max-width: 760px) calc(100vw - 40px), 760px" width="'+p.width+'" height="'+p.height+'" alt="'+esc(item.caption)+'" loading="lazy" decoding="async"><span aria-hidden="true">↗ Увеличить</span></a><figcaption>'+esc(item.caption)+'<small>'+esc(item.credit)+' · <a href="'+esc(item.source)+'" rel="noopener">Источник ↗</a></small></figcaption></figure>';
+  return '<figure class="story-photo"><a class="photo-enlarge" href="'+large+'" data-gallery aria-label="Увеличить: '+esc(item.caption)+'"><img src="'+large+'" srcset="'+small+' '+p.sizes['640'][0]+'w, '+large+' '+p.sizes['1440'][0]+'w" sizes="(max-width: 760px) calc(100vw - 40px), 760px" width="'+p.width+'" height="'+p.height+'" alt="'+esc(item.caption)+'" loading="lazy" decoding="async"><span class="photo-affordance" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M8 4H4v4m12-4h4v4M4 16v4h4m12-4v4h-4"/></svg></span></a><figcaption>'+esc(item.caption)+'<small>'+esc(item.credit)+' · <a href="'+esc(item.source)+'" rel="noopener">Источник ↗</a></small></figcaption></figure>';
  };
  return a.body.map((p,i)=>(p.startsWith('## ')?'<h2 id="section-'+i+'">'+esc(p.slice(3))+'</h2>':'<p>'+esc(p)+'</p>')+(positions.get(i)||[]).map(figure).join('')).join('');
 }
