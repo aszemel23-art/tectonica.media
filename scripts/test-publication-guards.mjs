@@ -1,3 +1,4 @@
+import {spawnSync} from 'node:child_process';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';import os from 'node:os';import path from 'node:path';
 import {articles} from '../content.mjs';import {readGalleryManifest} from './gallery-manifest.mjs';import {validatePublication} from './validate-publication.mjs';
@@ -11,3 +12,5 @@ assert.throws(()=>validatePublication(articles,incomplete,root),/incomplete sour
 const fixture=fs.mkdtempSync(path.join(os.tmpdir(),'tectonica-registry-'));const dir=path.join(fixture,'articles','unregistered');fs.mkdirSync(dir,{recursive:true});fs.writeFileSync(path.join(dir,'index.html'),'<h1>Unregistered</h1>');
 try{assert.throws(()=>validatePublication(articles,manifest,fixture),/Unregistered article HTML/);}finally{fs.unlinkSync(path.join(dir,'index.html'));fs.rmdirSync(dir);fs.rmdirSync(path.dirname(dir));fs.rmdirSync(fixture);}
 console.log('PASS regression: missing cover, missing review, truncated gallery and direct HTML bypass are rejected');
+
+const old=spawnSync(process.execPath,['scripts/apply-release.mjs','editorial/releases/2026-09-16.json'],{cwd:root,encoding:'utf8'});assert.notEqual(old.status,0);assert.match(old.stderr,/Refusing to roll back edition/);console.log('PASS regression: an older release cannot roll back the current edition');

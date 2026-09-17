@@ -4,6 +4,8 @@ const releasePath=process.argv[2];
 if(!releasePath) throw new Error('Usage: node scripts/apply-release.mjs editorial/releases/YYYY-MM-DD.json');
 const release=JSON.parse(fs.readFileSync(releasePath,'utf8'));
 const date=release.date;
+const currentEdition=fs.readFileSync('content.mjs','utf8').match(/export const edition='([^']+)'/)?.[1];
+if(currentEdition && date<currentEdition)throw new Error('Refusing to roll back edition '+currentEdition+' to '+date);
 if(!/^\d{4}-\d{2}-\d{2}$/.test(date)) throw new Error('Invalid release date');
 const revisionPath='editorial/revision.json';
 const revision=fs.existsSync(revisionPath)?JSON.parse(fs.readFileSync(revisionPath,'utf8')):null;
