@@ -27,7 +27,8 @@ if(!content.includes('const defaultArticleDate=')){
 }
 content=content.replace(/export const edition='[^']+';/,"export const edition='"+date+"';");
 
-const existing=new Set([...content.matchAll(/(?:add|short)\('([^']+)'/g)].map(m=>m[1]));
+const {articles:registeredArticles}=await import('../content.mjs');
+const existing=new Set(registeredArticles.map(a=>a.id));
 // New articles require a complete, explicitly checked source gallery.
 const galleryPath='editorial/galleries.json';
 const galleries=JSON.parse(fs.readFileSync(galleryPath,'utf8'));
@@ -48,7 +49,8 @@ for(const a of release.articles||[]){
       throw new Error(a.id+': invalid or duplicate gallery entry');
     seen.add(image.url);
   }
-  if(a.gallery.length) galleries.articles[a.id]=a.gallery;
+  galleries.imageReviews??={};galleries.imageReviews[a.id]=review;
+  galleries.articles[a.id]=a.gallery;
   if(a.illustration){galleries.overrides??={};galleries.overrides[a.id]={image:a.image||a.id,illustration:true,credit:a.credit,imageAlt:a.imageAlt||('Редакционная иллюстрация: '+a.title)};}
 }
 fs.writeFileSync(galleryPath,JSON.stringify(galleries,null,2)+'\n');

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "articles": {},
   "covers": [
     {
@@ -78,6 +78,55 @@
       "source": "https://www.designboom.com/design/giant-poke-ball-human-sized-sleeping-pod-japan/",
       "caption": "Pokémon Sleep × NOT A HOTEL · Кадр 1",
       "credit": "Предоставлено Pokémon Sleep × NOT A HOTEL"
+    },
+    {
+      "id": "gallery-casa-fatima-f17782aa3f",
+      "url": "https://images.adsttc.com/media/images/6aa2/e3fe/05b6/9900/01b5/3b0b/large_jpg/CasaFatima_marmolbravo027.jpg",
+      "source": "https://www.archdaily.com/1184910/casa-fatima-marmolbravo",
+      "caption": "Дом со стороны улицы",
+      "credit": "Фото: Elena Almagro"
+    },
+    {
+      "id": "gallery-elan-oslo-cef083b8dd",
+      "url": "https://snohetta.b-cdn.net/uploads/oa/magnat-kaffehus-og-elan/2025089_OS_N292_webimageland.jpg",
+      "source": "https://www.snohetta.com/news/at-elan-the-art-of-brewing-takes-center-stage",
+      "caption": "Круглая стойка и подвесной акустический объём",
+      "credit": "Фото: Pernille Sandberg / Snøhetta"
+    },
+    {
+      "id": "gallery-hill-house-melbourne-c79b75305e",
+      "url": "https://cdn.mos.cms.futurecdn.net/GB32CVsVKc2zKChtNhjRMe.jpg",
+      "source": "https://www.wallpaper.com/architecture/residential/monolithic-melbourne-house-australia",
+      "caption": "Дом со стороны улицы",
+      "credit": "Фото: Derek Swalwell"
+    },
+    {
+      "id": "gallery-jihlava-arena-0de36e1cdf",
+      "url": "https://static.designboom.com/wp-content/uploads/2026/09/chibik-kristof-jihlava-municipal-arena-designboom-01.jpg",
+      "source": "https://www.designboom.com/architecture/chybik-kristof-jihlava-arean-red-aluminum-czech-republic/",
+      "caption": "Арена в городской застройке",
+      "credit": "Фото: Laurian Ghinitoiu"
+    },
+    {
+      "id": "gallery-omnibite-joint-017a69f1f2",
+      "url": "https://static.designboom.com/wp-content/uploads/2026/04/three-axis-joint-eugenio-costa-raw-branches-structure-screws-designboom-10.jpg",
+      "source": "https://www.designboom.com/design/three-axis-joint-eugenio-costa-raw-branches-structure-screws/",
+      "caption": "Детали соединительного узла",
+      "credit": "Фото: Matok Lab"
+    },
+    {
+      "id": "gallery-riba-international-prize-2026-bdcaec095c",
+      "url": "https://cdn.mos.cms.futurecdn.net/y2SuWi9ZCHuK2Xp5WHoLqe.jpg",
+      "source": "https://www.wallpaper.com/architecture/riba-international-prize-2026-shortlist",
+      "caption": "Green Field Factory — внутреннее пространство фабрики",
+      "credit": "Предоставлено Nakshabid Architects"
+    },
+    {
+      "id": "gallery-shy-society-palazzo-b8742dbd26",
+      "url": "https://static.designboom.com/wp-content/uploads/2026/09/studio-drift-suspended-garden-moving-flowers-las-vegas-designboom-01.jpg",
+      "source": "https://www.designboom.com/art/studio-drift-suspended-garden-moving-flowers-las-vegas/",
+      "caption": "Кинетические объекты в лобби Palazzo",
+      "credit": "Изображение предоставлено The Venetian Resort Las Vegas и DRIFT"
     }
   ],
   "overrides": {
@@ -523,6 +572,13 @@
     "galleries/tallinn-how-much.json",
     "galleries/lasvit-herbarium.json",
     "galleries/bower-nyc.json",
-    "galleries/pokeball-hokkaido.json"
+    "galleries/pokeball-hokkaido.json",
+    "galleries/casa-fatima.json",
+    "galleries/elan-oslo.json",
+    "galleries/hill-house-melbourne.json",
+    "galleries/jihlava-arena.json",
+    "galleries/omnibite-joint.json",
+    "galleries/riba-international-prize-2026.json",
+    "galleries/shy-society-palazzo.json"
   ]
 }

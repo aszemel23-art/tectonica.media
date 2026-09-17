@@ -1,5 +1,7 @@
+import {validatePublication} from './validate-publication.mjs';
+import {fileURLToPath} from 'node:url';
 import fs from 'node:fs';import assert from 'node:assert/strict';import {articles} from '../content.mjs';import {readGalleryManifest} from './gallery-manifest.mjs';
-const root=new URL('../',import.meta.url),m=readGalleryManifest();let images=0;
+const root=new URL('../',import.meta.url),m=readGalleryManifest();let images=0;validatePublication(articles,m,fileURLToPath(root));
 for(const a of articles){
  assert(a.image,a.id+': missing cover');assert(a.credit,a.id+': missing credit');
  const html=fs.readFileSync(new URL('articles/'+a.id+'/index.html',root),'utf8');

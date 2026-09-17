@@ -1,4 +1,4 @@
-export const edition='2026-09-16';
+export const edition='2026-09-17';
 export const categories={architecture:'Архитектура',interiors:'Интерьеры',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
 export const articles=[];
 const defaultArticleDate='2026-09-14';
@@ -130,6 +130,8 @@ add("bower-nyc","В Нью-Йорке поставили надувной нав
 
 Для российских городов идея очень практичная. Летняя тень не обязана начинаться с фундамента, металлокаркаса и долгого согласования капитального объекта. Для фестивалей, набережных и временно пешеходных улиц лёгкая сезонная конструкция может быть быстрее, дешевле и интереснее — при условии, что заранее решены ветер, огнестойкость и безопасность креплений.`,"https://www.designboom.com/architecture/pink-inflatable-canopy-soft-shade-new-york-streetscape-elsa-ponce-bower/","Фото: Carlos Galek Sefchovich · Проект: Elsa Ponce / NYC DOT Art Program · Источник: designboom","","Проект опубликован 15 сентября 2026","2026-09-16");
 short("pokeball-hokkaido","В Хоккайдо сделали гостиничный номер внутри гигантского покебола","interiors","Коротко","Хоккайдо, Япония","Pokémon Sleep и NOT A HOTEL превратили знакомую сферу в маленький номер с круглой кроватью и окном в лес. Это временная кампания, а не новый гостиничный стандарт.",`Pokémon Sleep вместе с японской NOT A HOTEL построили на Хоккайдо увеличенный Poké Ball, внутри которого можно переночевать. В сферу уместили круглую кровать для двоих, окно на природу и экран над кроватью. Проект сделан как ограниченная кампания, поэтому интереснее здесь не тема Pokémon сама по себе, а дисциплина: один узнаваемый образ довели до реального пространственного опыта, не пытаясь декорировать под него целый отель.`,"https://www.designboom.com/design/giant-poke-ball-human-sized-sleeping-pod-japan/","Проект: Pokémon Sleep × NOT A HOTEL · Источник: designboom","","Проект опубликован 15 сентября 2026","2026-09-16");
+import {restoredArticles} from './editorial/2026-09-17-articles.mjs';
+articles.push(...restoredArticles);
 export const candidates=[
 ...articles.map(a=>({title:a.title,url:a.source,status:'published',article:a.id})),
 {title:'RP02 House / Cornetta',url:'https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura',status:'reserve',reason:'Построен в 2022; оставить для тематической подборки.'},
