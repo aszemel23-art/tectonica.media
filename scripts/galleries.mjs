@@ -3,6 +3,7 @@ import fs from 'node:fs';
 const root=new URL('../',import.meta.url);
 const manifest=readGalleryManifest();
 const provenance=JSON.parse(fs.readFileSync(new URL('assets/images/gallery-provenance.json',root),'utf8'));
+for(const file of fs.readdirSync(new URL('assets/images/',root)).filter(f=>/^gallery-provenance-.*\.json$/.test(f))){Object.assign(provenance,JSON.parse(fs.readFileSync(new URL('assets/images/'+file,root),'utf8')));}
 const esc=s=>String(s??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 export function articleBody(a,skipParagraphs=0){
  const gallery=manifest.articles[a.id]||a.gallery||[];

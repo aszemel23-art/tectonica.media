@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-18",
+  "window": {
+    "from": "2026-09-17T14:30:00Z",
+    "to": "2026-09-18T14:30:00Z",
+    "timezone": "Asia/Novosibirsk",
+    "note": "Окно 24 часа. Для открытия московской выставки подтверждена дата 18 сентября; час не опубликован. Нью-йоркское открытие 17 сентября исключено из свежего выпуска: точное попадание в окно не подтверждено."
+  },
+  "selected": [
+    {
+      "id": "vrubel-ceramics-2026",
+      "source": "https://damuseum.ru/exhibitions/vrubel-rozhdenie-novogo-iskusstva/",
+      "event": "Открытие для посетителей — 18 сентября 2026 · До 17 февраля 2027"
+    },
+    {
+      "id": "two-bay-house-rhad",
+      "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+      "event": "Новая фотопубликация — 17 сентября 2026, 17:00 UTC · Дом завершён, дата завершения не уточнена"
+    }
+  ],
+  "screenedFeed": [
+    {
+      "title": "Cluster of cylindrical volumes forms Spanish home by Fran Silvestre Arquitectos",
+      "url": "https://www.dezeen.com/2026/09/18/house-las-rozas-fran-silvestre-arquitectos/",
+      "published": "Fri, 18 Sep 2026 10:45:37 +0000",
+      "decision": "excluded",
+      "reason": "Фотопубликация свежая, но для компактного выпуска выбран более применимый к российскому климату планировочный приём RHAD."
+    },
+    {
+      "title": "Bin Wu&#039;s mirror-topped Pavilion of Time aims to &quot;make time tangible&quot;",
+      "url": "https://www.dezeen.com/2026/09/18/pavilion-of-time-bin-wu-paris-design-week/",
+      "published": "Fri, 18 Sep 2026 10:15:25 +0000",
+      "decision": "excluded",
+      "reason": "Показ уже шёл на Paris Design Week; свежая статья не подтверждает новый запуск за сутки."
+    },
+    {
+      "title": "Slancha presents Hanging Baskets referencing David Bowie, brutalism and the Romans",
+      "url": "https://www.dezeen.com/2026/09/18/slancha-hanging-baskets-david-bowie-brutalism-the-romans/",
+      "published": "Fri, 18 Sep 2026 10:00:33 +0000",
+      "decision": "excluded",
+      "reason": "Декоративная коллекция; недостаточно сильный практический повод для текущего отбора."
+    },
+    {
+      "title": "Khoy sofa bed by Khoy",
+      "url": "https://www.dezeen.com/2026/09/18/khoy-sofa-bed-khoy-dezeen-showroom/",
+      "published": "Fri, 18 Sep 2026 09:30:45 +0000",
+      "decision": "excluded",
+      "reason": "Showroom: коммерческая презентация без достаточного независимого материала о механизме и новизне."
+    },
+    {
+      "title": "Is London having a design renaissance?",
+      "url": "https://www.dezeen.com/2026/09/18/london-design-festival-2026-dezeen-weekly-podcast/",
+      "published": "Fri, 18 Sep 2026 09:15:50 +0000",
+      "decision": "excluded",
+      "reason": "Обзорный подкаст, не самостоятельное новое событие."
+    },
+    {
+      "title": "RCA design students exercise restraint in One Tool One Stool exhibition",
+      "url": "https://www.dezeen.com/2026/09/18/rca-design-students-exercise-restraint-in-one-tool-one-stool-exhibition/",
+      "published": "Fri, 18 Sep 2026 09:00:12 +0000",
+      "decision": "excluded",
+      "reason": "Выставка уже открылась раньше окна; не перепаковываем её как сегодняшнее открытие."
+    },
+    {
+      "title": "Studio Egret West revises Battersea Power Station masterplan for final phases",
+      "url": "https://www.dezeen.com/2026/09/18/studio-egret-west-revises-battersea-power-station-masterplan-for-final-phases/",
+      "published": "Fri, 18 Sep 2026 08:00:50 +0000",
+      "decision": "excluded",
+      "reason": "Изменения мастерплана сообщались 14 сентября, вне окна."
+    },
+    {
+      "title": "Tom Pearson unveils riveted aluminium furniture with droplet-like patterns",
+      "url": "https://www.dezeen.com/2026/09/18/tom-pearson-riveting-aluminium-furniture/",
+      "published": "Fri, 18 Sep 2026 05:00:44 +0000",
+      "decision": "excluded",
+      "reason": "Коллекция показывалась раньше окна; новая публикация не равна запуску."
+    },
+    {
+      "title": "Grand Ji Hotel debuts at Paris Design Week",
+      "url": "https://www.dezeen.com/2026/09/18/grand-ji-hotel-debuts-at-paris-design-week/",
+      "published": "Fri, 18 Sep 2026 04:00:14 +0000",
+      "decision": "excluded",
+      "reason": "Paris Design Week: не подтверждено новое событие за последние сутки."
+    },
+    {
+      "title": "Fisher &#038; Paykel crafts Contemporary kitchen appliances for tactile luxury",
+      "url": "https://www.dezeen.com/2026/09/17/fisher-paykel-contemporary-kitchen-appliances/",
+      "published": "Thu, 17 Sep 2026 20:00:23 +0000",
+      "decision": "excluded",
+      "reason": "Коммерческая презентация; новизна запуска в окне не подтверждена."
+    },
+    {
+      "title": "Marazzi lists five stone- and zellige-like tiles on Dezeen Showroom",
+      "url": "https://www.dezeen.com/2026/09/17/tiles-surfaces-porcelain-zellige-stone-marazzi-dezeen-showroom/",
+      "published": "Thu, 17 Sep 2026 18:00:24 +0000",
+      "decision": "excluded",
+      "reason": "Подборка Showroom без самостоятельного свежего события."
+    },
+    {
+      "title": "RHAD Architects gives Nova Scotia house &quot;quiet, monolithic presence&quot;",
+      "url": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+      "published": "Thu, 17 Sep 2026 17:00:03 +0000",
+      "decision": "selected",
+      "reason": "Выбран: свежая фотопубликация и полезный план защищённого двора."
+    },
+    {
+      "title": "how the situationists turned spectators into participants",
+      "url": "https://www.designboom.com/architecture/situationists-spectators-participants/",
+      "published": "Fri, 18 Sep 2026 10:50:44 +0000",
+      "decision": "excluded",
+      "reason": "Исторический разбор, не новость последних суток."
+    },
+    {
+      "title": "‘minimalism feels cold when empty of narrative’: how aarke shapes its brand identity",
+      "url": "https://www.designboom.com/design/minimalism-aarke-brand-identity-interview/",
+      "published": "Fri, 18 Sep 2026 10:00:25 +0000",
+      "decision": "excluded",
+      "reason": "Интервью о подходе бренда; оставлено для тематической работы."
+    },
+    {
+      "title": "GUNIA and assouline assemble a visual history of ukrainian folk art in &#8216;naïve my love&#8217;",
+      "url": "https://www.designboom.com/art/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-interview/",
+      "published": "Fri, 18 Sep 2026 09:25:26 +0000",
+      "decision": "excluded",
+      "reason": "Книга и интервью: точный новый запуск за сутки не подтверждён."
+    },
+    {
+      "title": "opal-green bookcase reframes casa pop in madrid around color and cinematic references",
+      "url": "https://www.designboom.com/architecture/sequence-colored-rooms-continuous-bookcase-madrid-apartment-casa-pop-gon-architects/",
+      "published": "Thu, 17 Sep 2026 20:35:27 +0000",
+      "decision": "excluded",
+      "reason": "Проект уже публиковался до окна."
+    },
+    {
+      "title": "frank lloyd wright’s concrete usonian house with cantilevered roof hits the market",
+      "url": "https://www.designboom.com/architecture/cantilevered-roof-frank-lloyd-wrights-concrete-usonian-house-michigan-listed-sothebys/",
+      "published": "Thu, 17 Sep 2026 15:45:20 +0000",
+      "decision": "excluded",
+      "reason": "Продажа объекта: преимущественно новость рынка недвижимости."
+    },
+    {
+      "title": "jeff koons inflates hublot’s classic fusion model into balloon dog watch",
+      "url": "https://www.designboom.com/design/jeff-koons-hublot-classic-fusion-balloon-dog-watch/",
+      "published": "Thu, 17 Sep 2026 14:55:24 +0000",
+      "decision": "excluded",
+      "reason": "Коллаборация часов; вне главного архитектурного и предметного отбора."
+    }
+  ],
+  "additionalExcluded": [
+    {
+      "title": "Wendell Castle: Living",
+      "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+      "reason": "Дата открытия 17 сентября; точное попадание в последние 24 часа не подтверждено. Использован только как явно обозначенный контекст наблюдения."
+    },
+    {
+      "title": "Es Devlin",
+      "reason": "Дата из перепечатки не совпала с официальным расписанием; исключено."
+    },
+    {
+      "title": "IDEAL Design Space",
+      "reason": "Проект уже представлен в июле; повтор исключён."
+    },
+    {
+      "title": "Precita House",
+      "reason": "Более ранняя публикация в августе; повтор исключён."
+    },
+    {
+      "title": "Kinglet Perch",
+      "reason": "Проект публиковался в апреле; повтор исключён."
+    }
+  ],
+  "verification": {
+    "build": "pass",
+    "tests": "pass",
+    "desktop": 1440,
+    "mobile": 390,
+    "archivePreserved": true,
+    "imagePolicy": "10 официальных музейных изображений по условиям информационного использования; 1 маркированная оригинальная ИИ-иллюстрация. Неподтверждённые права не заменены одним лишь фотокредитом."
+  }
+}

@@ -13,6 +13,9 @@ manifest['articles'].update(direct)
 out = root / 'assets/images'
 prov_path = out / 'gallery-provenance.json'
 previous = json.loads(prov_path.read_text(encoding='utf-8')) if prov_path.exists() else {}
+extra_files = {extra: json.loads(extra.read_text(encoding='utf-8')) for extra in out.glob('gallery-provenance-*.json')}
+for entries in extra_files.values():
+    previous.update(entries)
 
 def prepare(item):
     image_id = item['id']
@@ -42,5 +45,12 @@ def prepare(item):
 items = list({item['id']: item for item in [*[i for gallery in manifest['articles'].values() for i in gallery], *manifest.get('covers', [])]}.values())
 with ThreadPoolExecutor(max_workers=4) as pool:
     result = dict(pool.map(prepare,items))
-prov_path.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+extra_ids = {image_id for entries in extra_files.values() for image_id in entries}
+base_result = {key: value for key, value in result.items() if key not in extra_ids}
+if not prov_path.exists() or json.loads(prov_path.read_text(encoding='utf-8')) != base_result:
+    prov_path.write_text(json.dumps(base_result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+for extra, entries in extra_files.items():
+    updated = {key: result[key] for key in entries if key in result}
+    if entries != updated:
+        extra.write_text(json.dumps(updated,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(f'Prepared {len(result)} gallery images.')
