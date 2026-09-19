@@ -313,5 +313,19 @@
     "date": "2026-09-18",
     "width": 1536,
     "height": 1024
+  },
+  "kuznetsov-european-prize-2026": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sergey_Olegovich_Kuznetsov_%28architect%29.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sergey_Olegovich_Kuznetsov_(architect).jpg",
+    "credit": "Mos.ru · CC BY 4.0 · Wikimedia Commons",
+    "width": 1600,
+    "height": 1067
+  },
+  "more-is-now-czech-architecture": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Deutsches_Architekturmuseum_Frankfurt_%28Hessen%29_d.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutsches_Architekturmuseum_Frankfurt_(Hessen)_d.jpg",
+    "credit": "Colling-architektur · CC BY-SA 3.0 · Wikimedia Commons",
+    "width": 5184,
+    "height": 3456
   }
 }

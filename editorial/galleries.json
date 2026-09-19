@@ -66,7 +66,9 @@
         "credit": "Изображение © Всероссийский музей декоративного искусства. Фотограф на сайте музея не указан."
       }
     ],
-    "two-bay-house-rhad": []
+    "two-bay-house-rhad": [],
+    "kuznetsov-european-prize-2026": [],
+    "more-is-now-czech-architecture": []
   },
   "covers": [
     {
@@ -710,6 +712,36 @@
       ],
       "reviewedAt": "2026-09-18",
       "note": "Проверен полный текст RSS Dezeen и все 9 уникальных снимков. Первый миниатюрный кадр с надписью exclusive дублирует последний кадр и не считается отдельно."
+    },
+    "kuznetsov-european-prize-2026": {
+      "sourceImageCount": 2,
+      "excluded": [
+        {
+          "url": "https://www.chi-athenaeum.org/assets/components/phpthumbof/cache/TCA_Article_IAA26-Sergey%20Kuznetsov.6846009cdb9ec7ecf1b4082c68e3b13e.png",
+          "reason": "Главное изображение официальной страницы премии: открытая лицензия на самостоятельную перепубликацию не указана; организаторы отдельно предлагают запрашивать press photographs."
+        }
+      ],
+      "rights": {
+        "url": "https://commons.wikimedia.org/wiki/File:Sergey_Olegovich_Kuznetsov_(architect).jpg",
+        "basis": "Архивный портрет Mos.ru опубликован на Wikimedia Commons по лицензии Creative Commons Attribution 4.0."
+      },
+      "reviewedAt": "2026-09-19",
+      "note": "Проверены официальная страница премии и отдельно лицензированный архивный портрет, выбранный для обложки."
+    },
+    "more-is-now-czech-architecture": {
+      "sourceImageCount": 2,
+      "excluded": [
+        {
+          "url": "https://dam-online.de/wp-content/uploads/2026/08/DAM_MORE-IS-NOW-Ludwig-Mies-van-der-Rohe-Zusammenarbeit-Lilly-Reich-Villa-Tugendhat-Bruenn-1928%E2%80%941930-Foto-Schnepp-Renou_WEB-1.jpg",
+          "reason": "Официальное изображение события на сайте DAM; открытая лицензия на самостоятельную перепубликацию не указана."
+        }
+      ],
+      "rights": {
+        "url": "https://commons.wikimedia.org/wiki/File:Deutsches_Architekturmuseum_Frankfurt_(Hessen)_d.jpg",
+        "basis": "Фотография Deutsches Architekturmuseum авторства Colling-architektur опубликована на Wikimedia Commons по CC BY-SA 3.0."
+      },
+      "reviewedAt": "2026-09-19",
+      "note": "Проверены страница открытия выставки DAM и отдельно лицензированное фото здания музея для обложки."
     }
   }
 }
