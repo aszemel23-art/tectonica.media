@@ -327,5 +327,33 @@
     "credit": "Colling-architektur · CC BY-SA 3.0 · Wikimedia Commons",
     "width": 5184,
     "height": 3456
+  },
+  "issue-2026-09-20-nsk": {
+    "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/assets/images/issue-2026-09-20-nsk.svg",
+    "source": "https://tectonica.media/",
+    "credit": "Иллюстрация TECTONICA",
+    "width": 1440,
+    "height": 1080
+  },
+  "issue-2026-09-20-design-dvor": {
+    "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/assets/images/issue-2026-09-20-design-dvor.svg",
+    "source": "https://tectonica.media/",
+    "credit": "Иллюстрация TECTONICA",
+    "width": 1440,
+    "height": 1080
+  },
+  "issue-2026-09-20-powerwall": {
+    "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/assets/images/issue-2026-09-20-powerwall.svg",
+    "source": "https://tectonica.media/",
+    "credit": "Иллюстрация TECTONICA",
+    "width": 1440,
+    "height": 1080
+  },
+  "issue-2026-09-20-castle": {
+    "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/assets/images/issue-2026-09-20-castle.svg",
+    "source": "https://tectonica.media/",
+    "credit": "Иллюстрация TECTONICA",
+    "width": 1440,
+    "height": 1080
   }
 }

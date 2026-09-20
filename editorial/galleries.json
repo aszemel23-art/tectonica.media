@@ -68,7 +68,11 @@
     ],
     "two-bay-house-rhad": [],
     "kuznetsov-european-prize-2026": [],
-    "more-is-now-czech-architecture": []
+    "more-is-now-czech-architecture": [],
+    "novosibirsk-architecture-days-2026": [],
+    "design-dvor-2026": [],
+    "powerwall-studio-rap": [],
+    "wendell-castle-living": []
   },
   "covers": [
     {
@@ -270,6 +274,30 @@
       "illustration": true,
       "credit": "Иллюстрация TECTONICA, создана с помощью ИИ. Художественная интерпретация темы, не изображение реального проекта или экспоната.",
       "imageAlt": "Редакционная иллюстрация: Два корпуса Two Bay House защищают двор от ветра с озера"
+    },
+    "novosibirsk-architecture-days-2026": {
+      "image": "issue-2026-09-20-nsk",
+      "illustration": true,
+      "credit": "Иллюстрация TECTONICA",
+      "imageAlt": "Редакционная иллюстрация TECTONICA к Дням архитектуры в Новосибирске"
+    },
+    "design-dvor-2026": {
+      "image": "issue-2026-09-20-design-dvor",
+      "illustration": true,
+      "credit": "Иллюстрация TECTONICA",
+      "imageAlt": "Редакционная иллюстрация TECTONICA к интерьерному маркету ДИЗАЙН ДВОР"
+    },
+    "powerwall-studio-rap": {
+      "image": "issue-2026-09-20-powerwall",
+      "illustration": true,
+      "credit": "Иллюстрация TECTONICA · оригинальная фотосъёмка проекта: Pim Top",
+      "imageAlt": "Редакционная схема TECTONICA к проекту Powerwall"
+    },
+    "wendell-castle-living": {
+      "image": "issue-2026-09-20-castle",
+      "illustration": true,
+      "credit": "Иллюстрация TECTONICA · оригинальная фотосъёмка выставки: Izzy Leung / Friedman Benda",
+      "imageAlt": "Редакционная иллюстрация TECTONICA к выставке Wendell Castle: Living"
     }
   },
   "audit": {
@@ -742,6 +770,30 @@
       },
       "reviewedAt": "2026-09-19",
       "note": "Проверены страница открытия выставки DAM и отдельно лицензированное фото здания музея для обложки."
+    },
+    "novosibirsk-architecture-days-2026": {
+      "sourceImageCount": 0,
+      "excluded": [],
+      "reviewedAt": "2026-09-20",
+      "note": "Источник использован для фактов и программы; чужие фотографии не загружались и не перепубликовывались. Обложка — оригинальная редакционная иллюстрация."
+    },
+    "design-dvor-2026": {
+      "sourceImageCount": 0,
+      "excluded": [],
+      "reviewedAt": "2026-09-20",
+      "note": "Чужие изображения не загружались и не перепубликовывались из-за ограничений источника. Обложка — оригинальная редакционная иллюстрация."
+    },
+    "powerwall-studio-rap": {
+      "sourceImageCount": 0,
+      "excluded": [],
+      "reviewedAt": "2026-09-20",
+      "note": "Фотографии проекта не скачивались и не перепубликовывались; права на самостоятельное использование не подтверждены. Использована собственная схема-иллюстрация."
+    },
+    "wendell-castle-living": {
+      "sourceImageCount": 0,
+      "excluded": [],
+      "reviewedAt": "2026-09-20",
+      "note": "Чужие фотографии не загружались и не перепубликовывались. Использована собственная редакционная иллюстрация."
     }
   }
 }
