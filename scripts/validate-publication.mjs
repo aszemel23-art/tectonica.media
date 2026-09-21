@@ -4,9 +4,11 @@ import assert from 'node:assert/strict';
 export function validatePublication(articles,manifest,root){
  const ids=new Set(articles.map(a=>a.id));
  assert.equal(ids.size,articles.length,'Duplicate article ID');
+ const latestPath=path.join(root,'assets','latest-issue.json');
+ const latestIds=fs.existsSync(latestPath)?new Set((JSON.parse(fs.readFileSync(latestPath,'utf8')).stories||[]).map(x=>x.id)):new Set();
  for(const e of fs.readdirSync(path.join(root,'articles'),{withFileTypes:true})){
   if(e.isDirectory()&&fs.existsSync(path.join(root,'articles',e.name,'index.html')))
-   assert(ids.has(e.name),'Unregistered article HTML: '+e.name+'; add the article to content data, not directly to HTML');
+   assert(ids.has(e.name)||latestIds.has(e.name),'Unregistered article HTML: '+e.name+'; add the article to content data or the current latest-issue registry, not directly to HTML');
  }
  for(const a of articles){
   assert(a.image&&a.credit,a.id+': cover and credit are mandatory');
