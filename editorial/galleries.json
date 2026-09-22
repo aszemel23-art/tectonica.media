@@ -72,7 +72,12 @@
     "novosibirsk-architecture-days-2026": [],
     "design-dvor-2026": [],
     "powerwall-studio-rap": [],
-    "wendell-castle-living": []
+    "wendell-castle-living": [],
+    "skovsporet-3d-student-housing": [],
+    "rubik-blueprint-100": [],
+    "anir-guest-house-passive-design": [],
+    "lilac-bureau-lisbon-44sqm": [],
+    "muar-contemporary-depository-2026": []
   },
   "covers": [
     {
@@ -298,6 +303,36 @@
       "illustration": true,
       "credit": "Иллюстрация TECTONICA · оригинальная фотосъёмка выставки: Izzy Leung / Friedman Benda",
       "imageAlt": "Редакционная иллюстрация TECTONICA к выставке Wendell Castle: Living"
+    },
+    "skovsporet-3d-student-housing": {
+      "image": "issue-2026-09-22-skovsporet",
+      "illustration": true,
+      "credit": "Иллюстрация TECTONICA · оригинальная съёмка проекта: Edi Cliff",
+      "imageAlt": "Редакционная схема TECTONICA о студенческом посёлке Skovsporet из шести 3D-печатных жилых кластеров"
+    },
+    "rubik-blueprint-100": {
+      "image": "issue-2026-09-22-rubik",
+      "illustration": true,
+      "credit": "Иллюстрация TECTONICA · оригинальная съёмка спецпроекта: Гоша Ин",
+      "imageAlt": "Редакционная иллюстрация TECTONICA о девяти дизайнерских интерпретациях Кубика Рубика"
+    },
+    "anir-guest-house-passive-design": {
+      "image": "issue-2026-09-22-anir",
+      "illustration": true,
+      "credit": "Иллюстрация TECTONICA · оригинальная съёмка проекта: Ernest Theofilus",
+      "imageAlt": "Редакционная схема TECTONICA о пассивной вентиляции и зубчатой планировке Anir Guest House"
+    },
+    "lilac-bureau-lisbon-44sqm": {
+      "image": "issue-2026-09-22-lilac",
+      "illustration": true,
+      "credit": "Иллюстрация TECTONICA · оригинальная съёмка проекта: Francisco Nogueira",
+      "imageAlt": "Редакционная план-схема TECTONICA квартиры LILAC площадью 44 квадратных метра"
+    },
+    "muar-contemporary-depository-2026": {
+      "image": "issue-2026-09-22-muar",
+      "illustration": true,
+      "credit": "Иллюстрация TECTONICA",
+      "imageAlt": "Редакционная иллюстрация TECTONICA к выставке МУАР «Депозитарий современности»"
     }
   },
   "audit": {
@@ -794,6 +829,36 @@
       "excluded": [],
       "reviewedAt": "2026-09-20",
       "note": "Чужие фотографии не загружались и не перепубликовывались. Использована собственная редакционная иллюстрация."
+    },
+    "skovsporet-3d-student-housing": {
+      "sourceImageCount": 0,
+      "excluded": [],
+      "reviewedAt": "2026-09-22",
+      "note": "Оригинальная съёмка проекта просмотрена у источника, но открытое разрешение на самостоятельную перепубликацию не подтверждено. Использована собственная редакционная схема."
+    },
+    "rubik-blueprint-100": {
+      "sourceImageCount": 0,
+      "excluded": [],
+      "reviewedAt": "2026-09-22",
+      "note": "Фотографии спецпроекта не переносились без отдельного разрешения. Обложка — самостоятельная редакционная иллюстрация, не копирующая конкретный объект участников."
+    },
+    "anir-guest-house-passive-design": {
+      "sourceImageCount": 0,
+      "excluded": [],
+      "reviewedAt": "2026-09-22",
+      "note": "Оригинальная съёмка Ernest Theofilus просмотрена у источника; права на самостоятельную перепубликацию не подтверждены. Использована редакционная схема."
+    },
+    "lilac-bureau-lisbon-44sqm": {
+      "sourceImageCount": 0,
+      "excluded": [],
+      "reviewedAt": "2026-09-22",
+      "note": "Оригинальная съёмка Francisco Nogueira просмотрена у источника; открытая лицензия на самостоятельную публикацию не подтверждена. Использована редакционная план-схема."
+    },
+    "muar-contemporary-depository-2026": {
+      "sourceImageCount": 0,
+      "excluded": [],
+      "reviewedAt": "2026-09-22",
+      "note": "Фотографии из анонса не перепубликовывались без подтверждённых прав. Использована собственная редакционная иллюстрация."
     }
   }
 }
