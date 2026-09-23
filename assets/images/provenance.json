@@ -390,5 +390,26 @@
     "credit": "Иллюстрация TECTONICA",
     "width": 1440,
     "height": 1080
+  },
+  "issue-2026-09-22b-lucas": {
+    "url": "https://lucasmuseum.org/media/54f2ed79-df29-4ee4-bef8-08b9b5db455b/18-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=5798%2C4324%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+    "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026",
+    "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+    "width": 1000,
+    "height": 746
+  },
+  "issue-2026-09-22b-telegraph": {
+    "url": "https://voshodmoscow.ru/upload/iblock/cac/wkob0qvl1enfxqnsn1wvper3a2rdpmij.jpg",
+    "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf",
+    "credit": "VOS'HOD · официальный материал проекта · фотограф не указан",
+    "width": 2000,
+    "height": 1333
+  },
+  "issue-2026-09-22b-building86": {
+    "url": "https://r-and-company.com/wp-content/uploads/2026/09/APPROVED-FOR-USE_Banner.jpg",
+    "source": "https://r-and-company.com/exhibition/building-86/",
+    "credit": "Photo: Logan Jackson · Courtesy R & Company",
+    "width": 1600,
+    "height": 900
   }
 }

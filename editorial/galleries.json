@@ -77,7 +77,90 @@
     "rubik-blueprint-100": [],
     "anir-guest-house-passive-design": [],
     "lilac-bureau-lisbon-44sqm": [],
-    "muar-contemporary-depository-2026": []
+    "muar-contemporary-depository-2026": [],
+    "lucas-museum-opens-2026": [
+      {
+        "id": "gallery-lucas-lobby",
+        "caption": "Главный интерьер музея: большие криволинейные объёмы продолжаются внутри здания.",
+        "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+        "url": "https://lucasmuseum.org/media/e1725da4-af31-448e-9f37-b8b3886a3c14/16-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=5734%2C3825%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+        "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+      },
+      {
+        "id": "gallery-lucas-park",
+        "caption": "Здание и парк Studio-MLA: бывшую асфальтовую площадку превратили в общественный ландшафт.",
+        "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+        "url": "https://lucasmuseum.org/media/8e8977bd-e04d-4388-a6f2-8393fa57e6d1/01-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=7592%2C7647%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+        "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+      },
+      {
+        "id": "gallery-lucas-theater",
+        "caption": "Один из кинотеатров внутри Lucas Museum.",
+        "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+        "url": "https://lucasmuseum.org/media/35b6a023-0a1b-4378-9104-5c90784bbb2c/12-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=5734%2C3825%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+        "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+      },
+      {
+        "id": "gallery-lucas-library",
+        "caption": "Исследовательская библиотека с видом на парк.",
+        "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+        "url": "https://lucasmuseum.org/media/baff32e6-29d7-496e-bb82-9cddc0b13f7a/05-library-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=5649%2C5316%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+        "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+      },
+      {
+        "id": "gallery-lucas-restaurant",
+        "caption": "Ресторан музея — ещё один пример того, как криволинейная архитектура переходит в интерьер.",
+        "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+        "url": "https://lucasmuseum.org/media/2ef102c4-350b-4a6a-a600-1eec634ac191/lucas-museum-mad-26-08-3479.jpg?crop=8159%2C5442%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+        "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+      },
+      {
+        "id": "gallery-lucas-gallery",
+        "caption": "Одна из открывающих экспозиций Lucas Museum.",
+        "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Paul Salveson",
+        "url": "https://lucasmuseum.org/media/13ce8d11-fc14-4fde-8368-ba9c837e39ae/21-courtesy-lucas-museum-of-narrative-art-photo-by-paul-salveson.jpg?crop=8200%2C5467%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+        "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+      }
+    ],
+    "central-telegraph-restoration-2026": [
+      {
+        "id": "gallery-telegraph-lounge",
+        "caption": "Новое общественное пространство кампуса внутри Центрального телеграфа.",
+        "credit": "VOS'HOD · официальный материал проекта · фотограф не указан",
+        "url": "https://voshodmoscow.ru/upload/iblock/643/9h6qgn571xrczxoft44voijco1o70ua8.jpg",
+        "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf"
+      },
+      {
+        "id": "gallery-telegraph-lobby",
+        "caption": "Исторический вестибюль после реставрации и приспособления.",
+        "credit": "VOS'HOD · официальный материал проекта · фотограф не указан",
+        "url": "https://voshodmoscow.ru/upload/iblock/d0a/q1dyquruoif14r9lz6bn1uuvjlhpepyr.jpg",
+        "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf"
+      },
+      {
+        "id": "gallery-telegraph-commons",
+        "caption": "Общественная зона Центрального университета в историческом здании.",
+        "credit": "VOS'HOD · официальный материал проекта · фотограф не указан",
+        "url": "https://voshodmoscow.ru/upload/iblock/555/6djuoisgsh3adk6gy03jxgj5pii7irp3.jpg",
+        "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf"
+      },
+      {
+        "id": "gallery-telegraph-auditorium",
+        "caption": "Учебное пространство кампуса в Центральном телеграфе.",
+        "credit": "VOS'HOD · официальный материал проекта · фотограф не указан",
+        "url": "https://voshodmoscow.ru/upload/iblock/f18/or1kfrkvv5j6spot3tw1hlio7qph87nc.jpg",
+        "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf"
+      }
+    ],
+    "r-company-building-86": [
+      {
+        "id": "gallery-building86-shelves",
+        "caption": "В Building 86 предметы остаются на промышленных стеллажах — архив показывают как рабочее пространство, а не как музейную декорацию.",
+        "credit": "Photo: Logan Jackson · Courtesy R & Company",
+        "url": "https://r-and-company.com/wp-content/uploads/2026/08/IMG_5880_2.jpg",
+        "source": "https://r-and-company.com/exhibition/building-86/"
+      }
+    ]
   },
   "covers": [
     {
@@ -859,6 +942,24 @@
       "excluded": [],
       "reviewedAt": "2026-09-22",
       "note": "Фотографии из анонса не перепубликовывались без подтверждённых прав. Использована собственная редакционная иллюстрация."
+    },
+    "lucas-museum-opens-2026": {
+      "sourceImageCount": 7,
+      "excluded": [],
+      "reviewedAt": "2026-09-22",
+      "note": "Проверена официальная пресс-страница музея; использованы все семь относящихся к материалу кадров из основного пресс-блока."
+    },
+    "central-telegraph-restoration-2026": {
+      "sourceImageCount": 5,
+      "excluded": [],
+      "reviewedAt": "2026-09-22",
+      "note": "Для визуала проверена официальная страница девелопера VOS'HOD; использованы все пять проектных кадров из её основной галереи."
+    },
+    "r-company-building-86": {
+      "sourceImageCount": 2,
+      "excluded": [],
+      "reviewedAt": "2026-09-22",
+      "note": "Проверена официальная страница R & Company; использованы оба относящихся к Building 86 кадра."
     }
   }
 }
