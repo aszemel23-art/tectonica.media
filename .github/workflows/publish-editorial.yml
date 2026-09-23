@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "TECTONICA Editorial Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add '*.html' assets/search.json editorial/*-candidates.json feed.xml sitemap.xml robots.txt
+          git add advertising '*.html' assets/search.json editorial/*-candidates.json feed.xml sitemap.xml robots.txt
           if ! git diff --cached --quiet; then
             git commit -m "Publish edited stories and five-story reading route"
             git push origin HEAD:main

@@ -2,7 +2,7 @@ name: Refresh reviewed project photographs
 on:
   push:
     branches: [main]
-    paths: ['editorial/photo-updates/2026-09-23.json', '.github/workflows/refresh-project-photographs.yml']
+    paths: ['editorial/photo-updates/2026-09-23.json', 'scripts/prepare-photo-refresh.py', 'scripts/apply-photo-refresh.mjs']
   workflow_dispatch:
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "TECTONICA Editorial Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add assets editorial content.mjs scripts/validate-publication.mjs scripts/build.mjs index.html articles category archive daily feed features radar search feed.xml sitemap.xml 404.html about
+          git add advertising assets editorial content.mjs scripts/validate-publication.mjs scripts/build.mjs index.html articles category archive daily feed features radar search feed.xml sitemap.xml 404.html about
           if ! git diff --cached --quiet; then
             git commit -m "Replace editorial placeholders with 241 reviewed project images"
             git push origin HEAD:main

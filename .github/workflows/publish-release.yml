@@ -83,7 +83,7 @@ jobs:
         run: |
           git config user.name "TECTONICA Editorial Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add about assets/search.json editorial/revision.json editorial/galleries.json content.mjs editorial-features.mjs scripts/build.mjs assets/images index.html articles category archive daily feed features radar search feed.xml sitemap.xml 404.html
+          git add advertising about assets/search.json editorial/revision.json editorial/galleries.json content.mjs editorial-features.mjs scripts/build.mjs assets/images index.html articles category archive daily feed features radar search feed.xml sitemap.xml 404.html
           if git diff --cached --quiet; then
             echo "No generated changes"
           else
