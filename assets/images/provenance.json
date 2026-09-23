@@ -411,5 +411,365 @@
     "credit": "Photo: Logan Jackson · Courtesy R & Company",
     "width": 1600,
     "height": 900
+  },
+  "gallery-photo23-carbon-cell-7": {
+    "url": "https://static.wixstatic.com/media/32336a_8db7076aae7a4c3aab868b0d64d31057~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-7",
+    "caption": "Пористая структура Carbon Cell крупным планом",
+    "width": 6016,
+    "height": 4016,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        961
+      ]
+    },
+    "sha256": "9d4f1ccdb840845bc97369ecb87b8eda0548eb50990c3f7d4d8034ac5dfefa52"
+  },
+  "gallery-photo23-biomason-front-1": {
+    "url": "https://www.front-materials.com/app/uploads/2024/04/front-materials-mimmik-floor-plants-1.jpg",
+    "credit": "Фото: FRONT® / Biomason · фотограф не указан",
+    "source": "https://www.front-materials.com/news/mimmik-tile/",
+    "id": "gallery-photo23-biomason-front-1",
+    "caption": "Плитка Mimmik в интерьере",
+    "width": 1707,
+    "height": 2560,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    },
+    "sha256": "eaf6bc27b525c72691d4684c06615adc72b5bc33ff4d0781c60fe00218a1f8bf"
+  },
+  "gallery-photo23-lovspark-2": {
+    "url": "https://cdn.asp.events/CLIENT_Media_10_B9D470DF_5056_B739_5443B4BBAA6F8ED4/sites/SDW-2026/media/libraries/exhibitor-products/148938-dollhouse-model-by-luke-gifford-1-.jpg",
+    "credit": "Фото: Matrix Design / Shoreditch Design Week · макет Luke Gifford · фотограф не указан",
+    "source": "https://shoreditchdesignweek.com/exhibitors/matrix-design",
+    "id": "gallery-photo23-lovspark-2",
+    "caption": "Макет Dollhouse, Luke Gifford",
+    "width": 5450,
+    "height": 3633,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "a92f4432cc9691e31965360a486acaa62528c3da1286fc2f4e343cdea15ac62a"
+  },
+  "gallery-photo23-paris-hanji-2": {
+    "url": "https://www.hotel-de-la-marine.paris/var/cmn_inter/storage/images/_aliases/original_webp/4/9/7/8/122738794-1-fre-FR/524c25a3c041-1.webp.webp",
+    "credit": "Фото: Arthur Minot / Hôtel de la Marine",
+    "source": "https://www.hotel-de-la-marine.paris/agenda/paris-design-week-hanjimania",
+    "id": "gallery-photo23-paris-hanji-2",
+    "caption": "Hanjimania — экспозиция в Hôtel de la Marine",
+    "width": 1080,
+    "height": 1350,
+    "sizes": {
+      "640": [
+        640,
+        800
+      ],
+      "1440": [
+        1080,
+        1350
+      ]
+    },
+    "sha256": "f25b754a54f4f617ba91c0c0cc5f6f93dfb1b8c8aa2155f043829aea19ff7bb0"
+  },
+  "gallery-photo23-two-bay-house-rhad-2": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_2.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Объёмы дома и открытая площадка",
+    "id": "gallery-photo23-two-bay-house-rhad-2",
+    "width": 2364,
+    "height": 1576,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "c218ffaaf78e85f90452366c819ccc6f5cabaa1c1855a303f13f185ea498807e"
+  },
+  "gallery-photo23-novosibirsk-architecture-days-2026-1": {
+    "url": "https://nsknews.info/storage/4171/dni_arkhitektury.jpg",
+    "credit": "Фото: пресс-служба Министерства строительства Новосибирской области / Новосибирские новости",
+    "source": "https://nsknews.info/news/dni-arxitektury-2026-startovali-v-novosibirske",
+    "id": "gallery-photo23-novosibirsk-architecture-days-2026-1",
+    "caption": "Дни архитектуры в Новосибирске — открытие форума 17 сентября",
+    "width": 1920,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "d96978539f15c712bd59d20ebc94d795feffd1fd3a482fb434896c29a5990a54"
+  },
+  "gallery-photo23-powerwall-studio-rap-1": {
+    "url": "https://freight.cargo.site/t/original/i/80e3d04e573959f5cad6b6230bac559088f764593c5720746e78c9d9ddb3419f/Pim-Top-photographer_StudioRAP_003-Large.jpeg",
+    "credit": "Фото: Pim Top / Studio RAP",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-1",
+    "caption": "Powerwall на кирпичном фасаде",
+    "width": 997,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        822
+      ],
+      "1440": [
+        997,
+        1280
+      ]
+    },
+    "sha256": "85acebae7a73e369c7d6c1d17d0e952db56f71fab78749d39fdfd76addb8f9b2"
+  },
+  "gallery-photo23-wendell-castle-living-1": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_03.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-1",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "6c1463de7a6c71e72067061835594bde4ffca86da584c7c3af5d53788f12a4d1"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-1": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/hero_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-1",
+    "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов",
+    "width": 1920,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "ed355d46e6d9ee340792e58b2c0f314e452f281b80059c1c1b1602a84989a8e9"
+  },
+  "gallery-photo23-rubik-blueprint-100-2": {
+    "url": "https://theblueprint.ru/upload/41563/vms/edc5c7da9af9be42e1140d44e8c30968.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-2",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 2000,
+    "height": 3000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    },
+    "sha256": "ed52e7d7bdbf23ba9c3d45b35d05752d33cc77678e13a0948502ae9e49218a06"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-1": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa8/8d91/7901/8920/52d1/large_jpg/anir-guest-house-tamara-wibowo-architects_28.jpg?1789663970",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-1",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "d2331229b6cd64db4784ceddec395134462532e4497ddaa931738ce56c831903"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-1": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_1.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-1",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "2cf72199745de1165a86c9f014b97f23ba39e5f3edbdb03da9afd72a8e56bbe3"
+  },
+  "gallery-photo23-muar-contemporary-depository-2026-3": {
+    "url": "https://storage.yandexcloud.net/moskvichmag/uploads/2026/09/depoz82.jpg",
+    "credit": "Фото: Анастасия Соболева · материалы Музея архитектуры / Москвич Mag",
+    "source": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/",
+    "id": "gallery-photo23-muar-contemporary-depository-2026-3",
+    "caption": "Театр имени Галиасгара Камала в Казани — проект из материалов выставки",
+    "width": 800,
+    "height": 532,
+    "sizes": {
+      "640": [
+        640,
+        426
+      ],
+      "1440": [
+        800,
+        532
+      ]
+    },
+    "sha256": "d11ae16ff8edfe652d874a2958f3944e4f43cc67ba6026c50df0f4337635a211"
+  },
+  "gallery-photo23-design-dvor-2026-1": {
+    "url": "https://designdistrictdaa.ru/storage/app/media/uploaded-files/2-1.jpeg",
+    "source": "https://designdistrictdaa.ru/ru/about",
+    "caption": "Design District DAA — площадка маркета. Фотография пространства, не репортаж 19 сентября.",
+    "credit": "Фото: Design District DAA · фотограф не указан",
+    "id": "gallery-photo23-design-dvor-2026-1",
+    "width": 960,
+    "height": 720,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        960,
+        720
+      ]
+    },
+    "sha256": "dc09090bb9c1a603207999efc47c77d4ecf39ed956cd983aeac3d7ead5064293"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-1": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/b21eae91668066cb445ab3bbdda14394/_GL-GSK.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: пресс-служба комплекса градостроительной политики и строительства Москвы / Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-1",
+    "width": 800,
+    "height": 400,
+    "sizes": {
+      "640": [
+        640,
+        320
+      ],
+      "1440": [
+        800,
+        400
+      ]
+    },
+    "sha256": "bbd2cbfb04be123a00115d1b7a90c21e4ba0a0ebfcc3f5caeddb9f89b3eff7ea"
+  },
+  "gallery-photo23-lurie-mansion-omsk-2026-1": {
+    "url": "https://omskzdes.ru/storage/c/2026/09/20/1789904687_550283_23.png",
+    "source": "https://omskzdes.ru/society/93243.html",
+    "caption": "Дом на Маяковского, 46: фотографии из акта историко-культурной экспертизы",
+    "credit": "Акт историко-культурной экспертизы / Омск Здесь · фотограф не указан",
+    "id": "gallery-photo23-lurie-mansion-omsk-2026-1",
+    "width": 909,
+    "height": 460,
+    "sizes": {
+      "640": [
+        640,
+        324
+      ],
+      "1440": [
+        909,
+        460
+      ]
+    },
+    "sha256": "c47ffcee119f05fc813ffb34601cfe205aac2515d12fca975279b9f0ce9a2c16"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-1": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749b/4f64/5201/8803/147a/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_1.jpg?1789555894",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-1",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "f18cebc4e32377eb06e5db648146e7ecf92c2e372f7d585ccf17a1089960f1cc"
+  },
+  "gallery-photo23-luanda-technology-park-2026-1": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e416/large_jpg/technology-park-1.jpg?1789414226",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-1",
+    "width": 2000,
+    "height": 1371,
+    "sizes": {
+      "640": [
+        640,
+        439
+      ],
+      "1440": [
+        1440,
+        987
+      ]
+    },
+    "sha256": "99ce63780b96a5def2824930fd1c6ad52aa918c7744e3ad164afd0d9de1baa50"
   }
 }

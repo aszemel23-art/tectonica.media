@@ -1,0 +1,4822 @@
+{
+  "gallery-photo23-carbon-cell-7": {
+    "url": "https://static.wixstatic.com/media/32336a_8db7076aae7a4c3aab868b0d64d31057~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-7",
+    "caption": "Пористая структура Carbon Cell крупным планом",
+    "width": 6016,
+    "height": 4016,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        961
+      ]
+    },
+    "sha256": "9d4f1ccdb840845bc97369ecb87b8eda0548eb50990c3f7d4d8034ac5dfefa52"
+  },
+  "gallery-photo23-carbon-cell-1": {
+    "url": "https://static.wixstatic.com/media/32336a_d6bbcca6d3c54f36bd24af9419f2d9f5~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-1",
+    "caption": "Гранулы Carbon Cell",
+    "width": 3159,
+    "height": 3948,
+    "sizes": {
+      "640": [
+        640,
+        800
+      ],
+      "1440": [
+        1440,
+        1800
+      ]
+    },
+    "sha256": "a6a2cf178de5d895da47aaed42e81e974fe5d5a462015e643fc3d4e2ac5e92fb"
+  },
+  "gallery-photo23-carbon-cell-2": {
+    "url": "https://static.wixstatic.com/media/32336a_b50144a0805e47a3a2aab3084b1e2a03~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-2",
+    "caption": "Сырьё для биоуглеродного материала",
+    "width": 1480,
+    "height": 1756,
+    "sizes": {
+      "640": [
+        640,
+        759
+      ],
+      "1440": [
+        1440,
+        1709
+      ]
+    },
+    "sha256": "0c00b54c1b4e66dfd485bc00eb7d05acab3d8566590f963848d4c8be2c05053b"
+  },
+  "gallery-photo23-carbon-cell-3": {
+    "url": "https://static.wixstatic.com/media/32336a_93f89569fd4b46a0aeadc0f2b794160c~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-3",
+    "caption": "Образец Carbon Cell в почве",
+    "width": 3000,
+    "height": 2003,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        961
+      ]
+    },
+    "sha256": "a4c9536da6082f68067634ffe27bd13ac6e644d5160dbe6aa56d9a0b79a41f0e"
+  },
+  "gallery-photo23-carbon-cell-4": {
+    "url": "https://static.wixstatic.com/media/32336a_5282fab618a5426db35d1ae0a2b637d0~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-4",
+    "caption": "Гранулы вспененного материала",
+    "width": 4016,
+    "height": 6016,
+    "sizes": {
+      "640": [
+        640,
+        959
+      ],
+      "1440": [
+        1440,
+        2157
+      ]
+    },
+    "sha256": "0977ca7e0ae1175dd632db42e8a5de74eced56c5c64813f5e64928a74f84af1c"
+  },
+  "gallery-photo23-carbon-cell-5": {
+    "url": "https://static.wixstatic.com/media/32336a_fbb5d2594a2343319be2bf5ac1a75431~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-5",
+    "caption": "Формованный образец Carbon Cell",
+    "width": 4016,
+    "height": 6016,
+    "sizes": {
+      "640": [
+        640,
+        959
+      ],
+      "1440": [
+        1440,
+        2157
+      ]
+    },
+    "sha256": "b3fafb89c24c488cee4e1666283fdbac65770e2b1c11f0d8ca0574d782451141"
+  },
+  "gallery-photo23-carbon-cell-6": {
+    "url": "https://static.wixstatic.com/media/32336a_e33497681577411bb317d08c8ebfab24~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-6",
+    "caption": "Образцы упаковочного материала",
+    "width": 4016,
+    "height": 6016,
+    "sizes": {
+      "640": [
+        640,
+        959
+      ],
+      "1440": [
+        1440,
+        2157
+      ]
+    },
+    "sha256": "4833d50bfb54e8363592af90db0ca299a694fb6ffdd3f43ba318686301ef2278"
+  },
+  "gallery-photo23-carbon-cell-8": {
+    "url": "https://static.wixstatic.com/media/32336a_3cd4220f107946d9a2c28c8b167d24ea~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-8",
+    "caption": "Образец материала в почве",
+    "width": 5099,
+    "height": 3399,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "3a4852aa840b433d67ca8d28545f72a38b29a831d8ffc5251e2d3abafbb6ce99"
+  },
+  "gallery-photo23-carbon-cell-9": {
+    "url": "https://static.wixstatic.com/media/32336a_c2e30a72b82f4971af0398cb9bb32fb3~mv2.jpg",
+    "credit": "Фото: Carbon Cell · фотограф не указан",
+    "source": "https://www.carboncell.co/technology",
+    "id": "gallery-photo23-carbon-cell-9",
+    "caption": "Компоненты материала Carbon Cell",
+    "width": 5755,
+    "height": 3842,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        961
+      ]
+    },
+    "sha256": "bf2015f7b222b90c859df2b987798e872dac687f928205b97be2ed20bc4b0b33"
+  },
+  "gallery-photo23-biomason-front-1": {
+    "url": "https://www.front-materials.com/app/uploads/2024/04/front-materials-mimmik-floor-plants-1.jpg",
+    "credit": "Фото: FRONT® / Biomason · фотограф не указан",
+    "source": "https://www.front-materials.com/news/mimmik-tile/",
+    "id": "gallery-photo23-biomason-front-1",
+    "caption": "Плитка Mimmik в интерьере",
+    "width": 1707,
+    "height": 2560,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    },
+    "sha256": "eaf6bc27b525c72691d4684c06615adc72b5bc33ff4d0781c60fe00218a1f8bf"
+  },
+  "gallery-photo23-biomason-front-2": {
+    "url": "https://www.front-materials.com/app/uploads/2026/02/Mimmik-Pepper-Honed-1x1-1-1768x1768.jpg",
+    "credit": "Фото: FRONT® / Biomason · фотограф не указан",
+    "source": "https://www.front-materials.com/news/mimmik-tile/",
+    "id": "gallery-photo23-biomason-front-2",
+    "caption": "Mimmik Pepper Honed",
+    "width": 1768,
+    "height": 1768,
+    "sizes": {
+      "640": [
+        640,
+        640
+      ],
+      "1440": [
+        1440,
+        1440
+      ]
+    },
+    "sha256": "a04dd330220d4a443b69a4c468a3b04c8e09b46de42cab838d49f0ec27170a04"
+  },
+  "gallery-photo23-biomason-front-3": {
+    "url": "https://www.front-materials.com/app/uploads/2026/02/Mimmik-Ginger-Honed-1x1-1-1768x1768.jpg",
+    "credit": "Фото: FRONT® / Biomason · фотограф не указан",
+    "source": "https://www.front-materials.com/news/mimmik-tile/",
+    "id": "gallery-photo23-biomason-front-3",
+    "caption": "Mimmik Ginger Honed",
+    "width": 1768,
+    "height": 1768,
+    "sizes": {
+      "640": [
+        640,
+        640
+      ],
+      "1440": [
+        1440,
+        1440
+      ]
+    },
+    "sha256": "8c62d3487788dc57da75561775d731c9f8abd3c1a54a979f3a9ab4b6732372d5"
+  },
+  "gallery-photo23-biomason-front-4": {
+    "url": "https://www.front-materials.com/app/uploads/2026/02/Mimmik-Ginger-Polished-1x1-1-1768x1768.jpg",
+    "credit": "Фото: FRONT® / Biomason · фотограф не указан",
+    "source": "https://www.front-materials.com/news/mimmik-tile/",
+    "id": "gallery-photo23-biomason-front-4",
+    "caption": "Mimmik Ginger Polished",
+    "width": 1768,
+    "height": 1768,
+    "sizes": {
+      "640": [
+        640,
+        640
+      ],
+      "1440": [
+        1440,
+        1440
+      ]
+    },
+    "sha256": "bd526229ec32a79dbb480358ae6beba3007a01d3ad9661c1a9f75ecea37faef6"
+  },
+  "gallery-photo23-biomason-front-5": {
+    "url": "https://www.front-materials.com/app/uploads/2026/02/Mimmik-Pepper-Polished-1x1-1-1768x1768.jpg",
+    "credit": "Фото: FRONT® / Biomason · фотограф не указан",
+    "source": "https://www.front-materials.com/news/mimmik-tile/",
+    "id": "gallery-photo23-biomason-front-5",
+    "caption": "Mimmik Pepper Polished",
+    "width": 1768,
+    "height": 1768,
+    "sizes": {
+      "640": [
+        640,
+        640
+      ],
+      "1440": [
+        1440,
+        1440
+      ]
+    },
+    "sha256": "ef06e21d5855c92f64db4a0a24af3855c40e4636fa13045ffc09be957a49102a"
+  },
+  "gallery-photo23-lovspark-2": {
+    "url": "https://cdn.asp.events/CLIENT_Media_10_B9D470DF_5056_B739_5443B4BBAA6F8ED4/sites/SDW-2026/media/libraries/exhibitor-products/148938-dollhouse-model-by-luke-gifford-1-.jpg",
+    "credit": "Фото: Matrix Design / Shoreditch Design Week · макет Luke Gifford · фотограф не указан",
+    "source": "https://shoreditchdesignweek.com/exhibitors/matrix-design",
+    "id": "gallery-photo23-lovspark-2",
+    "caption": "Макет Dollhouse, Luke Gifford",
+    "width": 5450,
+    "height": 3633,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "a92f4432cc9691e31965360a486acaa62528c3da1286fc2f4e343cdea15ac62a"
+  },
+  "gallery-photo23-lovspark-1": {
+    "url": "https://cdn.asp.events/CLIENT_Media_10_B9D470DF_5056_B739_5443B4BBAA6F8ED4/sites/SDW-2026/media/libraries/exhibitors/f1bb9406-955f-11f1-95a806bd0f937899-cover-image.png",
+    "credit": "Фото: Matrix Design / Shoreditch Design Week · фотограф не указан",
+    "source": "https://shoreditchdesignweek.com/exhibitors/matrix-design",
+    "id": "gallery-photo23-lovspark-1",
+    "caption": "Предметы Matrix Design на официальной странице участника",
+    "width": 1250,
+    "height": 350,
+    "sizes": {
+      "640": [
+        640,
+        179
+      ],
+      "1440": [
+        1250,
+        350
+      ]
+    },
+    "sha256": "e4b28250632deebe259144d34f6dd45262fbeba4e9589713673e4863cdfa70db"
+  },
+  "gallery-photo23-paris-hanji-2": {
+    "url": "https://www.hotel-de-la-marine.paris/var/cmn_inter/storage/images/_aliases/original_webp/4/9/7/8/122738794-1-fre-FR/524c25a3c041-1.webp.webp",
+    "credit": "Фото: Arthur Minot / Hôtel de la Marine",
+    "source": "https://www.hotel-de-la-marine.paris/agenda/paris-design-week-hanjimania",
+    "id": "gallery-photo23-paris-hanji-2",
+    "caption": "Hanjimania — экспозиция в Hôtel de la Marine",
+    "width": 1080,
+    "height": 1350,
+    "sizes": {
+      "640": [
+        640,
+        800
+      ],
+      "1440": [
+        1080,
+        1350
+      ]
+    },
+    "sha256": "f25b754a54f4f617ba91c0c0cc5f6f93dfb1b8c8aa2155f043829aea19ff7bb0"
+  },
+  "gallery-photo23-paris-hanji-1": {
+    "url": "https://www.hotel-de-la-marine.paris/var/cmn_inter/storage/images/_aliases/pedagogic_activities_webp/9/1/5/8/122728519-1-fre-FR/31b7dbf49818-AG_Hanjimania_Paris-Design-Week.webp.webp",
+    "credit": "Фото: ChangKi Chung / Hôtel de la Marine",
+    "source": "https://www.hotel-de-la-marine.paris/agenda/paris-design-week-hanjimania",
+    "id": "gallery-photo23-paris-hanji-1",
+    "caption": "Предмет из ханчжи на официальном изображении выставки",
+    "width": 764,
+    "height": 764,
+    "sizes": {
+      "640": [
+        640,
+        640
+      ],
+      "1440": [
+        764,
+        764
+      ]
+    },
+    "sha256": "f56b30501159292a7fe9cb4507c986d185bca24c3c01dbb199e841d50fdf3063"
+  },
+  "gallery-photo23-two-bay-house-rhad-2": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_2.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Объёмы дома и открытая площадка",
+    "id": "gallery-photo23-two-bay-house-rhad-2",
+    "width": 2364,
+    "height": 1576,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "c218ffaaf78e85f90452366c819ccc6f5cabaa1c1855a303f13f185ea498807e"
+  },
+  "gallery-photo23-two-bay-house-rhad-1": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_3-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Two Bay House на берегу",
+    "id": "gallery-photo23-two-bay-house-rhad-1",
+    "width": 1772,
+    "height": 2364,
+    "sizes": {
+      "640": [
+        640,
+        854
+      ],
+      "1440": [
+        1440,
+        1921
+      ]
+    },
+    "sha256": "20881cd3dc026526c79536fcc9bfdea0be89a3dbaa725b7b0125293d1ca5e422"
+  },
+  "gallery-photo23-two-bay-house-rhad-3": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_10-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Остекление двух объёмов",
+    "id": "gallery-photo23-two-bay-house-rhad-3",
+    "width": 1870,
+    "height": 2364,
+    "sizes": {
+      "640": [
+        640,
+        809
+      ],
+      "1440": [
+        1440,
+        1820
+      ]
+    },
+    "sha256": "115e959605269ca97c38a54852d0f205f9647fcdf2bc52c795efae64d39e7ac8"
+  },
+  "gallery-photo23-two-bay-house-rhad-4": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_12-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Планировка участка: вид сверху",
+    "id": "gallery-photo23-two-bay-house-rhad-4",
+    "width": 2133,
+    "height": 2364,
+    "sizes": {
+      "640": [
+        640,
+        709
+      ],
+      "1440": [
+        1440,
+        1596
+      ]
+    },
+    "sha256": "a5760ece8750b9ca1a9e06096bba01ba67a6f137de85dfd8318edae2d67bd85f"
+  },
+  "gallery-photo23-two-bay-house-rhad-5": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_1-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Обугленная древесина на фасаде",
+    "id": "gallery-photo23-two-bay-house-rhad-5",
+    "width": 1576,
+    "height": 2364,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    },
+    "sha256": "a979819693c34c23200827dcece32b707e518dfdcd0167cad9f3221874b2ffec"
+  },
+  "gallery-photo23-two-bay-house-rhad-6": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_17.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Гостиная с видом на залив",
+    "id": "gallery-photo23-two-bay-house-rhad-6",
+    "width": 2364,
+    "height": 1577,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        961
+      ]
+    },
+    "sha256": "e85f04028e48db083475769f5d90b809a75dddaf5e6d18969dc029346e194b76"
+  },
+  "gallery-photo23-two-bay-house-rhad-7": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_14.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Кухня и двусветное пространство",
+    "id": "gallery-photo23-two-bay-house-rhad-7",
+    "width": 2364,
+    "height": 1577,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        961
+      ]
+    },
+    "sha256": "b476641f8d47690321077218f9c3226cbd0206f822eeff1c0aff9282218a061d"
+  },
+  "gallery-photo23-two-bay-house-rhad-8": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_19.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Интерьер с деревянной отделкой",
+    "id": "gallery-photo23-two-bay-house-rhad-8",
+    "width": 2364,
+    "height": 1577,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        961
+      ]
+    },
+    "sha256": "5d9e71469dfba5e39f76e56d3b814f17e5804f2c247db3b7a99c526ae4d46c54"
+  },
+  "gallery-photo23-two-bay-house-rhad-9": {
+    "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_co.jpg",
+    "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+    "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+    "caption": "Дом в вечернем освещении",
+    "id": "gallery-photo23-two-bay-house-rhad-9",
+    "width": 2364,
+    "height": 1577,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        961
+      ]
+    },
+    "sha256": "e37c8e213572404a2fed546527605d44dce5b2132b04650046483d4cfc43f102"
+  },
+  "gallery-photo23-novosibirsk-architecture-days-2026-1": {
+    "url": "https://nsknews.info/storage/4171/dni_arkhitektury.jpg",
+    "credit": "Фото: пресс-служба Министерства строительства Новосибирской области / Новосибирские новости",
+    "source": "https://nsknews.info/news/dni-arxitektury-2026-startovali-v-novosibirske",
+    "id": "gallery-photo23-novosibirsk-architecture-days-2026-1",
+    "caption": "Дни архитектуры в Новосибирске — открытие форума 17 сентября",
+    "width": 1920,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "d96978539f15c712bd59d20ebc94d795feffd1fd3a482fb434896c29a5990a54"
+  },
+  "gallery-photo23-novosibirsk-architecture-days-2026-2": {
+    "url": "https://nsknews.info/storage/4170/dni_arkhitektury_1.jpg",
+    "credit": "Фото: пресс-служба Министерства строительства Новосибирской области / Новосибирские новости",
+    "source": "https://nsknews.info/news/dni-arxitektury-2026-startovali-v-novosibirske",
+    "id": "gallery-photo23-novosibirsk-architecture-days-2026-2",
+    "caption": "Выступление на открытии Дней архитектуры 17 сентября",
+    "width": 1280,
+    "height": 853,
+    "sizes": {
+      "640": [
+        640,
+        426
+      ],
+      "1440": [
+        1280,
+        853
+      ]
+    },
+    "sha256": "35958c951181fbc9fe2203fb576e8b874557c6600c5b0c116ee12c9d470497cd"
+  },
+  "gallery-photo23-powerwall-studio-rap-1": {
+    "url": "https://freight.cargo.site/t/original/i/80e3d04e573959f5cad6b6230bac559088f764593c5720746e78c9d9ddb3419f/Pim-Top-photographer_StudioRAP_003-Large.jpeg",
+    "credit": "Фото: Pim Top / Studio RAP",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-1",
+    "caption": "Powerwall на кирпичном фасаде",
+    "width": 997,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        822
+      ],
+      "1440": [
+        997,
+        1280
+      ]
+    },
+    "sha256": "85acebae7a73e369c7d6c1d17d0e952db56f71fab78749d39fdfd76addb8f9b2"
+  },
+  "gallery-photo23-powerwall-studio-rap-2": {
+    "url": "https://freight.cargo.site/t/original/i/3d2d2689eee513d7b614e41f6d6c8de61fd6b268f8930fd5813ab5699210195e/Pim-Top-photographer_StudioRAP_005-Large.jpeg",
+    "credit": "Фото: Pim Top / Studio RAP",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-2",
+    "caption": "Рельеф глазурованных плиток",
+    "width": 1118,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        733
+      ],
+      "1440": [
+        1118,
+        1280
+      ]
+    },
+    "sha256": "afdedd4cf28e806f3eb5082563469079cc8e72992a856cf530b5eae880479e9f"
+  },
+  "gallery-photo23-powerwall-studio-rap-3": {
+    "url": "https://freight.cargo.site/t/original/i/e2d573a103ec130af4dc57fb6e7509d6b4c3b3dc3d00c5981dbb9d2dc5dc1e37/Pim-Top-photographer_StudioRAP_018-Large.jpeg",
+    "credit": "Фото: Pim Top / Studio RAP",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-3",
+    "caption": "Стыки и структура керамики",
+    "width": 1004,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        816
+      ],
+      "1440": [
+        1004,
+        1280
+      ]
+    },
+    "sha256": "03b3e2af5822edfff3b3d8d455be4e764a4cae87e82ddd873e7ab7e186c06c6e"
+  },
+  "gallery-photo23-powerwall-studio-rap-4": {
+    "url": "https://freight.cargo.site/t/original/i/507598ce426f338244a9b3078db7b9be3500f94c3f495da746d95f589bbcf4b4/Pim-Top-photographer_StudioRAP_002-Large.jpeg",
+    "credit": "Фото: Pim Top / Studio RAP",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-4",
+    "caption": "Панно на стене подстанции",
+    "width": 1182,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        693
+      ],
+      "1440": [
+        1182,
+        1280
+      ]
+    },
+    "sha256": "fe46c397ad0e599e294b0a57ec0b70e6977a75621e927ce0943a561119eec5a0"
+  },
+  "gallery-photo23-powerwall-studio-rap-5": {
+    "url": "https://freight.cargo.site/t/original/i/8920a69428a0579e60d5086ece2b1ff062549f88b98cb864a7e31b70051f2243/Pim-Top-photographer_StudioRAP_011-Large.jpeg",
+    "credit": "Фото: Pim Top / Studio RAP",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-5",
+    "caption": "Поверхность Powerwall при боковом освещении",
+    "width": 1066,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        768
+      ],
+      "1440": [
+        1066,
+        1280
+      ]
+    },
+    "sha256": "116182b7d2455132d721301a8b1ffae6da0a6f625c9ac7354cffcd6e90666c68"
+  },
+  "gallery-photo23-powerwall-studio-rap-6": {
+    "url": "https://freight.cargo.site/t/original/i/74788f5dcf59c1f326e6108728d47a7fe1f19b9025f6bc5c889af00a111b5b62/Studio-RAP---Drip-Large.jpeg",
+    "credit": "Фото: Studio RAP · процесс изготовления",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-6",
+    "caption": "Изготовление керамических элементов",
+    "width": 720,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        1138
+      ],
+      "1440": [
+        720,
+        1280
+      ]
+    },
+    "sha256": "d73c6a89e8846bdb551969b373cfc0f8b598d68cfab413ad9a86349a720742a2"
+  },
+  "gallery-photo23-powerwall-studio-rap-7": {
+    "url": "https://freight.cargo.site/t/original/i/074dce27aa0c685fffa3b9986b5f68779457bc94721053bc187480d5ab9ddc42/Pim-Top-photographer_StudioRAP_017-Large.jpeg",
+    "credit": "Фото: Pim Top / Studio RAP",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-7",
+    "caption": "Рельеф и рисунок глазури",
+    "width": 1021,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        802
+      ],
+      "1440": [
+        1021,
+        1280
+      ]
+    },
+    "sha256": "452e0d515e64f2302c814bd675b09e63dbe37fe0048f6cfc31acbd94eafe7706"
+  },
+  "gallery-photo23-powerwall-studio-rap-8": {
+    "url": "https://freight.cargo.site/t/original/i/76704f6ef6e076c29ded6b688bac8548e2ac39d55e89c8a10e2a320d38c46891/Pim-Top-photographer_StudioRAP_006-Large.jpeg",
+    "credit": "Фото: Pim Top / Studio RAP",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-8",
+    "caption": "Тени на поверхности панно",
+    "width": 1003,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        817
+      ],
+      "1440": [
+        1003,
+        1280
+      ]
+    },
+    "sha256": "5a931e13a879c3cc5e5a8ff55f76428e913798b21c92a19d4d3feaaec38dff95"
+  },
+  "gallery-photo23-powerwall-studio-rap-9": {
+    "url": "https://freight.cargo.site/t/original/i/1756b4938814283ef5c6d882e4bcc40b1407663e42b07ac1b4fc56647f8b58d9/Pim-Top-photographer_StudioRAP_009-Large.jpeg",
+    "credit": "Фото: Pim Top / Studio RAP",
+    "source": "https://studiorap.nl/Powerwall",
+    "id": "gallery-photo23-powerwall-studio-rap-9",
+    "caption": "Керамические волны Powerwall",
+    "width": 914,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        896
+      ],
+      "1440": [
+        914,
+        1280
+      ]
+    },
+    "sha256": "1d9e1d1a136c73e17a333be10357d060c4e6ba762a30e0abad65c1195c752f81"
+  },
+  "gallery-photo23-wendell-castle-living-1": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_03.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-1",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "6c1463de7a6c71e72067061835594bde4ffca86da584c7c3af5d53788f12a4d1"
+  },
+  "gallery-photo23-wendell-castle-living-2": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_04.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-2",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "a1f0ab31fb251ee0dbd55181f00b4cf223b23eb75abb5dcd6bce47283313d2b9"
+  },
+  "gallery-photo23-wendell-castle-living-3": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_07.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-3",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "3b215938f7905bf8b5a7b22468b84c90764e537af3c2593564cfd4ec073b0840"
+  },
+  "gallery-photo23-wendell-castle-living-4": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_09.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-4",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "6d4bcb3c177a2babbf0835864652a4a4e55585b6b327d901f089b6584123c911"
+  },
+  "gallery-photo23-wendell-castle-living-5": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_11.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-5",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "358a554b5b2bf1d167b6139c575f977436d1c242bcc39b8c415c3b1a8f09e19e"
+  },
+  "gallery-photo23-wendell-castle-living-6": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_13.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-6",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "a709ca1f65daa27bf756411a0bd371eb44b7b05e25383935c37097b84c9a7612"
+  },
+  "gallery-photo23-wendell-castle-living-7": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_15.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-7",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "c39fd24a90947edb6f6410ca48f7c2a5c81b0512dfba2984cb8a40ecfa9e4ee2"
+  },
+  "gallery-photo23-wendell-castle-living-8": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_17.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-8",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "cab521c39c6c2359f4983914aba0a2c1b1626172867834a4202e385975e26c2c"
+  },
+  "gallery-photo23-wendell-castle-living-9": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_02.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-9",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "f4fbaee301508a1aa5b1962ba10912e2d49596f918c37d55ec57413c8bb50423"
+  },
+  "gallery-photo23-wendell-castle-living-10": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_05.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-10",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "96fff413c673b62cc45964435b20d5bd47d32cea916312ac112af8ef4bd9fb96"
+  },
+  "gallery-photo23-wendell-castle-living-11": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_08.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-11",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "d1144ee26c2aa4550fe01db02933b5e47cfc0bf37acf2bc6fbc5982ae54650b5"
+  },
+  "gallery-photo23-wendell-castle-living-12": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_10.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-12",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "afbf2766af51697a6a5ce9dfc0fa086739fe3e6d093370f5d933c636f0319930"
+  },
+  "gallery-photo23-wendell-castle-living-13": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_12.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-13",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "45fd419ba4a8b4e8ecda9441fdd765598eb7f5b13a99cbff04880716fca88599"
+  },
+  "gallery-photo23-wendell-castle-living-14": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_14.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-14",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "7ce3856e1aaf983d806184683c59312d005ca5a1c8c523e15cbc5b1121d7acfe"
+  },
+  "gallery-photo23-wendell-castle-living-15": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_16.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-15",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "75acb9b79a751daee78d36cdb7f48f3563f8c91a965932518d8faced9b6199d2"
+  },
+  "gallery-photo23-wendell-castle-living-16": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_06.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-16",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "d046a05212430915a7ce947a350e767c4f1a8c789729f2f9ee829cb06d5e13a1"
+  },
+  "gallery-photo23-wendell-castle-living-17": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2021/09/Castle_Caligari-Mistress-Desk-Chair_2000x1500.jpg",
+    "credit": "Friedman Benda / Estate of Wendell Castle · фотограф предмета не указан",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-17",
+    "caption": "Wendell Castle: Living — экспозиция Friedman Benda",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "ed4c64a0758f918b3766d0f6332877bbdb7187b8d21667262fdb73c4f6475433"
+  },
+  "gallery-photo23-wendell-castle-living-18": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/06/Castle_Chaise_Rocker.jpg",
+    "credit": "Friedman Benda / Estate of Wendell Castle · фотограф предмета не указан",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-18",
+    "caption": "Кресло-качалка Уэнделла Касла",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "6275dccb510f2bcbc934eca9070bcaf7872adefa8293f0d04b37e64af8e7d045"
+  },
+  "gallery-photo23-wendell-castle-living-19": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/06/Castle_Floor_Lamp.jpg",
+    "credit": "Friedman Benda / Estate of Wendell Castle · фотограф предмета не указан",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-19",
+    "caption": "Скульптурный деревянный предмет Уэнделла Касла",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "e17b7a4bf69ef54da7dfcf175ec8b6159a35e6398a5321f333fe5a3e191a8231"
+  },
+  "gallery-photo23-wendell-castle-living-20": {
+    "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_Cat.jpg",
+    "credit": "Фото: Izzy Leung / Friedman Benda",
+    "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+    "id": "gallery-photo23-wendell-castle-living-20",
+    "caption": "Обложка издания Wendell Castle: Living",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "ac70c8779fc1e4193ff51faff9d847746dbc208afb77926f9cc5bf4e5a53f223"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-1": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/hero_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-1",
+    "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов",
+    "width": 1920,
+    "height": 1280,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "ed355d46e6d9ee340792e58b2c0f314e452f281b80059c1c1b1602a84989a8e9"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-2": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/detail_1_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-2",
+    "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов",
+    "width": 1440,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        1440,
+        1920
+      ]
+    },
+    "sha256": "1026c13f45e180ac9dc6b3eeb885a1c561c7d117b29560cc9316de3b4f5e88aa"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-3": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/detail_2_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-3",
+    "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов",
+    "width": 1440,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        1440,
+        1920
+      ]
+    },
+    "sha256": "b8dac700eefe52489e65a53b337a96a31debb6f64b5caf1c98e4be60f69572c4"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-4": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/detail_3_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-4",
+    "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "a87e3378bf74e7dbbce2fef19c78563bf528bff87eb43c6fcda7ad12a97e3a9e"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-5": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/print_wall_medium.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-5",
+    "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов",
+    "width": 1440,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        1440,
+        1920
+      ]
+    },
+    "sha256": "fca654becf020fe378553c6ddcd536acadc4b50ccb2c52c2247c5d7b63f8efc8"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-6": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/print_person_medium.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-6",
+    "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "0746587c59574eb1d04a3af94ab04d993330ab44a9aa194350eea065bd057724"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-7": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_1_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-7",
+    "caption": "Skovsporet — интерьер студенческого жилья",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "e7d0fe5c428891b08d2adada4d2d9d4b06b02c86f54a59b95603432e7748e61b"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-8": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_2_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-8",
+    "caption": "Skovsporet — интерьер студенческого жилья",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "04ef96f6ddc32b357f92c129b3a23cdac3da3d7401430560a55db7a79f1aa5a5"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-9": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_3_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-9",
+    "caption": "Skovsporet — интерьер студенческого жилья",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "d371caa6e75d657f74882c6739ce1ca81b52604671e92f8bcfaf67dfc3ef6a60"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-10": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_4_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-10",
+    "caption": "Skovsporet — интерьер студенческого жилья",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "8daf1627e51ac06e261a11c6973f17a090ba5ed4f9e6bdaf45e11d2415e718bf"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-11": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_5_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-11",
+    "caption": "Skovsporet — интерьер студенческого жилья",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "d14d4d6943341ae1762ffdbfe0e782739d1b574c19dd7fb9ed7e7b30b6e24f3b"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-12": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_6_medium.webp",
+    "credit": "Фото: Edi Cliff / SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-12",
+    "caption": "Skovsporet — интерьер студенческого жилья",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "693911a7c877cbc38469aa62fdd010b21c2170d7cfda9203234789fa105fd086"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-13": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/floorplan_medium.webp",
+    "credit": "Чертежи и схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-13",
+    "caption": "Skovsporet — план жилого блока",
+    "width": 1920,
+    "height": 970,
+    "sizes": {
+      "640": [
+        640,
+        323
+      ],
+      "1440": [
+        1440,
+        728
+      ]
+    },
+    "sha256": "997136169780cf12e1f747e0de1e6de409fceee0593be0c6704f5a94e2a2bf3b"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-14": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/section_medium.webp",
+    "credit": "Чертежи и схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-14",
+    "caption": "Skovsporet — разрез",
+    "width": 1920,
+    "height": 1142,
+    "sizes": {
+      "640": [
+        640,
+        381
+      ],
+      "1440": [
+        1440,
+        856
+      ]
+    },
+    "sha256": "1c819180fa2e62f55719792bbe1a9267e250baba23eb8208bffe57a5f84a452c"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-15": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/print_scale_medium.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-15",
+    "caption": "Skovsporet — 3D-печать стен",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "81d23041a5083d5a2b2b96c6760d44499b40e67e9618ac42b5bacf3bd5da5f92"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-16": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/print_nozzle_medium.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-16",
+    "caption": "Skovsporet — 3D-печать стен",
+    "width": 1280,
+    "height": 1920,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1280,
+        1920
+      ]
+    },
+    "sha256": "3f07b7f2109e7d6349d6f2487d93c4805b6efcc200b879e0777226db1b36a405"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-17": {
+    "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/print-area_medium.webp",
+    "credit": "Схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-17",
+    "caption": "Skovsporet — схема организации жилого блока",
+    "width": 1920,
+    "height": 1080,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "cd7abbcf587f056ebd3c16dc4dd63cf93b23a156b45cdebfb374e23a1c13e8cd"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-18": {
+    "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/mass_medium.webp",
+    "credit": "Схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-18",
+    "caption": "Skovsporet — схема организации жилого блока",
+    "width": 1920,
+    "height": 1080,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "c489da73f3ed51343abbe17ecbc57a3a11fb871bff81ba0bafef14920d3f0f06"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-19": {
+    "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/courtyard_medium.webp",
+    "credit": "Схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-19",
+    "caption": "Skovsporet — схема организации жилого блока",
+    "width": 1920,
+    "height": 1080,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "7a197d4d8936a00bff18cc45859b463129fdcd4de68c70691bfcbf37137c80c8"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-20": {
+    "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/common-area_medium.webp",
+    "credit": "Схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-20",
+    "caption": "Skovsporet — схема организации жилого блока",
+    "width": 1920,
+    "height": 1080,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "e0bbc6689387da5d5a0e04fa7e61b6200e99fa47c77f7a4b1777d280ba6b4ee9"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-21": {
+    "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/apartments_medium.webp",
+    "credit": "Схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-21",
+    "caption": "Skovsporet — схема организации жилого блока",
+    "width": 1920,
+    "height": 1080,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "b65ee6da67ef25f2962eb0969b4f8cc83e2f8843e5174c61034c4f37828f741d"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-22": {
+    "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/loft_medium.webp",
+    "credit": "Схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-22",
+    "caption": "Skovsporet — схема организации жилого блока",
+    "width": 1920,
+    "height": 1080,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "d660c607476ba756dc42fd9d897ba5f6b7ccb4c478f7f126c65fbffda320042b"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-23": {
+    "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/roof_medium.webp",
+    "credit": "Схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-23",
+    "caption": "Skovsporet — схема организации жилого блока",
+    "width": 1920,
+    "height": 1080,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "8460d48f4877721d37e0646c5f6a90ceae7d0cf65a3e11c1776e7da6f51d9518"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-24": {
+    "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/wall1_medium.webp",
+    "credit": "Схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-24",
+    "caption": "Skovsporet — схема организации жилого блока",
+    "width": 1920,
+    "height": 1080,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "407b16ede38e4f9c8855b706e8c88176f75f11806c4afb2bb69634e0c4856a87"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-25": {
+    "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/wall2_medium.webp",
+    "credit": "Схемы: SAGA Space Architects",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-25",
+    "caption": "Skovsporet — схема организации жилого блока",
+    "width": 1920,
+    "height": 1080,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "242631c9cbf9dec30e985f73b99a5aa2d56333cf1b662f43da78cbde7f558335"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-26": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_01_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-26",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 667,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        667,
+        1000
+      ]
+    },
+    "sha256": "cf01ea10be6a20cba7e61d1cc435e7dd51d70dcbc6ff7ac3b136ab366b52c636"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-27": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_02_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-27",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 1000,
+    "height": 667,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1000,
+        667
+      ]
+    },
+    "sha256": "22df24283c5e3e7f35f1fe436032eeb90617b577792626027b35fe987e67c4ec"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-28": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_03_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-28",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 1000,
+    "height": 667,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1000,
+        667
+      ]
+    },
+    "sha256": "ffcc1758c82208f68a5ab1caf5074509c76870d639590984fae231f71f0a412b"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-29": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_04_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-29",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 667,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        667,
+        1000
+      ]
+    },
+    "sha256": "d1507eaf783f5229375b53c9d4b61097b8fb8e1b188fdc2ce9fef5106b46e668"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-30": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_05_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-30",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 667,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        667,
+        1000
+      ]
+    },
+    "sha256": "7bc4cbfbfd7c8f495e23a0fed39cb6ca0dde84d0e5c1236fd40ade9b49f1a14f"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-31": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_06_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-31",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 667,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        667,
+        1000
+      ]
+    },
+    "sha256": "10e5fd03e41481af1fd235f25ffad5093b81b790c8b3c54591902b7d8649675b"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-32": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_07_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-32",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 667,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        667,
+        1000
+      ]
+    },
+    "sha256": "5a39093a2a06af040733beb43d6c9d5006ab4405dd9dfb2db01e7fd8452e6b10"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-33": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_08_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-33",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 1000,
+    "height": 667,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1000,
+        667
+      ]
+    },
+    "sha256": "f5a34b8ff26e11ad96212d330c53dac08184aa035bf658beaf8ef242499e15e6"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-34": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_09_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-34",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 667,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        667,
+        1000
+      ]
+    },
+    "sha256": "70486268382c12cd8f2e3f97284a99e529842a15ba62b35e5b93bc6801f68e95"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-35": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_10_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-35",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "5cf0f14fba148188b7c06f818c34f6a1f3bca67bc28ac5440e87598834039bcd"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-36": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_11_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-36",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 1000,
+    "height": 667,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1000,
+        667
+      ]
+    },
+    "sha256": "dbc073a6b618808931f7a7c9876dd5ad865b51152221485aa0a52859c769c4c5"
+  },
+  "gallery-photo23-skovsporet-3d-student-housing-37": {
+    "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_12_small.webp",
+    "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+    "source": "https://saga.dk/projects/skovsporet",
+    "id": "gallery-photo23-skovsporet-3d-student-housing-37",
+    "caption": "Skovsporet — строительство и отделка жилого блока",
+    "width": 667,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        667,
+        1000
+      ]
+    },
+    "sha256": "077fd94ca4cdda82cf619fd8cd5215b3be413e7846c73e40ecfa98dbc135801e"
+  },
+  "gallery-photo23-rubik-blueprint-100-2": {
+    "url": "https://theblueprint.ru/upload/41563/vms/edc5c7da9af9be42e1140d44e8c30968.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-2",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 2000,
+    "height": 3000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    },
+    "sha256": "ed52e7d7bdbf23ba9c3d45b35d05752d33cc77678e13a0948502ae9e49218a06"
+  },
+  "gallery-photo23-rubik-blueprint-100-3": {
+    "url": "https://theblueprint.ru/upload/41563/vms/0cc638eb158eb510a6e235642de62e88_small.png",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-3",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом",
+    "width": 405,
+    "height": 434,
+    "sizes": {
+      "640": [
+        405,
+        434
+      ],
+      "1440": [
+        405,
+        434
+      ]
+    },
+    "sha256": "5e88bacad4442931243c084a95368d09dcd148763e8e441d701c69b13268c6e5"
+  },
+  "gallery-photo23-rubik-blueprint-100-4": {
+    "url": "https://theblueprint.ru/upload/41563/vms/9d8b677f1e397a319941008a508c3fc7.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-4",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 2000,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        512
+      ],
+      "1440": [
+        1440,
+        1152
+      ]
+    },
+    "sha256": "f5c19a4d8275ed592ac52b824c5abf2b5889f8f543deba40a9967c98fa5811bb"
+  },
+  "gallery-photo23-rubik-blueprint-100-5": {
+    "url": "https://theblueprint.ru/upload/41563/vms/fa1de043b69310ee3a6701ec88f52842.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-5",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 3566,
+    "height": 4982,
+    "sizes": {
+      "640": [
+        640,
+        894
+      ],
+      "1440": [
+        1440,
+        2012
+      ]
+    },
+    "sha256": "3779452d74604f0df079b8a16c7bf838bcb14ecff070f88c11e38df7fe00598a"
+  },
+  "gallery-photo23-rubik-blueprint-100-6": {
+    "url": "https://theblueprint.ru/upload/41563/vms/fbd60ab3282d5493ffc8e97d69375e0b_small.png",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-6",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом",
+    "width": 514,
+    "height": 318,
+    "sizes": {
+      "640": [
+        514,
+        318
+      ],
+      "1440": [
+        514,
+        318
+      ]
+    },
+    "sha256": "e9a8a5c798e94c2ba587ddc0963c15e13e1496d7294ebaa664011db687450c48"
+  },
+  "gallery-photo23-rubik-blueprint-100-7": {
+    "url": "https://theblueprint.ru/upload/41563/vms/8532027606a6af056ff1c64ddbf64f17.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-7",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 3566,
+    "height": 5166,
+    "sizes": {
+      "640": [
+        640,
+        927
+      ],
+      "1440": [
+        1440,
+        2086
+      ]
+    },
+    "sha256": "4a7b5952f6c67c8715e28b2f1f886b8fb8d6d13e47629eb4fc4e215afb230be3"
+  },
+  "gallery-photo23-rubik-blueprint-100-8": {
+    "url": "https://theblueprint.ru/upload/41563/vms/b883eb2aadaf6a2270d9f0049e7eda84.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-8",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 3566,
+    "height": 4982,
+    "sizes": {
+      "640": [
+        640,
+        894
+      ],
+      "1440": [
+        1440,
+        2012
+      ]
+    },
+    "sha256": "d402af9262d3ffe4a804f826abeb5e7f578836bd7a6aef2f6c6a79c1279403be"
+  },
+  "gallery-photo23-rubik-blueprint-100-9": {
+    "url": "https://theblueprint.ru/upload/41563/vms/5627a74ae36ba7b2679cd1d123ca31fc.png",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-9",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом",
+    "width": 467,
+    "height": 461,
+    "sizes": {
+      "640": [
+        467,
+        461
+      ],
+      "1440": [
+        467,
+        461
+      ]
+    },
+    "sha256": "af96795e76bdf8eff0d0443ba68c1871bc7eaa89d7ae017e5ca4f8ddc586a884"
+  },
+  "gallery-photo23-rubik-blueprint-100-10": {
+    "url": "https://theblueprint.ru/upload/41563/vms/1d8243755529a3511960c429a307cfe6.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-10",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 3566,
+    "height": 4982,
+    "sizes": {
+      "640": [
+        640,
+        894
+      ],
+      "1440": [
+        1440,
+        2012
+      ]
+    },
+    "sha256": "82cb172f2a3a41d62119b7cc53471e55540ce101a62b8816dafbec7a20c90b5c"
+  },
+  "gallery-photo23-rubik-blueprint-100-11": {
+    "url": "https://theblueprint.ru/upload/41563/vms/c44372b44e3c98e3184478d144abf95f_small.png",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-11",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 417,
+    "height": 434,
+    "sizes": {
+      "640": [
+        417,
+        434
+      ],
+      "1440": [
+        417,
+        434
+      ]
+    },
+    "sha256": "5232d25e7d2bf4c147e26393836473433c9227284fc3da01d93bf2edd246b82c"
+  },
+  "gallery-photo23-rubik-blueprint-100-12": {
+    "url": "https://theblueprint.ru/upload/41563/vms/4c7b7dc43bb60030cb86f53bd8c8ac8a.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-12",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом",
+    "width": 2000,
+    "height": 2500,
+    "sizes": {
+      "640": [
+        640,
+        800
+      ],
+      "1440": [
+        1440,
+        1800
+      ]
+    },
+    "sha256": "3d97a870aa570b0c370906994f47e82f32db9138f683239c2232652df70fde60"
+  },
+  "gallery-photo23-rubik-blueprint-100-13": {
+    "url": "https://theblueprint.ru/upload/41563/vms/2224dc62da1ed9214044eb4f8da86675.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-13",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 3566,
+    "height": 4982,
+    "sizes": {
+      "640": [
+        640,
+        894
+      ],
+      "1440": [
+        1440,
+        2012
+      ]
+    },
+    "sha256": "9354399c7d64b1a1a770ce35d31bbc7b0957837a2f369df984ea5b57957a501b"
+  },
+  "gallery-photo23-rubik-blueprint-100-14": {
+    "url": "https://theblueprint.ru/upload/41563/vms/898c3daaa22dc238f9a5568da80f23e8_small.png",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-14",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 415,
+    "height": 391,
+    "sizes": {
+      "640": [
+        415,
+        391
+      ],
+      "1440": [
+        415,
+        391
+      ]
+    },
+    "sha256": "4d8d9128b5c7a60981716b64749e83f14e84f464151c85525c319f7a88d52c1d"
+  },
+  "gallery-photo23-rubik-blueprint-100-15": {
+    "url": "https://theblueprint.ru/upload/41563/vms/0e38be390d2c9d1021c2bc9e22f23a51.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-15",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "b45126db4fd3519891420e04d63c58fce30cb30e3c3e602b616123d0209f8a3e"
+  },
+  "gallery-photo23-rubik-blueprint-100-16": {
+    "url": "https://theblueprint.ru/upload/41563/vms/1bdbb6f83ee80f4ada9e3f760f872ea7.jpg",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-16",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 3566,
+    "height": 5558,
+    "sizes": {
+      "640": [
+        640,
+        998
+      ],
+      "1440": [
+        1440,
+        2244
+      ]
+    },
+    "sha256": "cad9b6fee0db6a6e6487e37c2556fab83645268cdc623a3f387b08adc8d17579"
+  },
+  "gallery-photo23-rubik-blueprint-100-17": {
+    "url": "https://theblueprint.ru/upload/41563/vms/498b1639dbfcb1afdc805095c7b3d8fd.png",
+    "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+    "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+    "id": "gallery-photo23-rubik-blueprint-100-17",
+    "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+    "width": 1920,
+    "height": 2400,
+    "sizes": {
+      "640": [
+        640,
+        800
+      ],
+      "1440": [
+        1440,
+        1800
+      ]
+    },
+    "sha256": "579ff5878eb42274aaad40dd4aafd03d30bc3747316b257524e35c7024267e8c"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-1": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa8/8d91/7901/8920/52d1/large_jpg/anir-guest-house-tamara-wibowo-architects_28.jpg?1789663970",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-1",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "d2331229b6cd64db4784ceddec395134462532e4497ddaa931738ce56c831903"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-2": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa5/d8c8/8201/89ac/d05e/large_jpg/anir-guest-house-tamara-wibowo-architects_15.jpg?1789663940",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-2",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "ef16b9c6f6ef5bb2fb44d09e8f4852e345f9ada900d238eab16996fb1403c420"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-3": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aad/d8c8/8201/89ac/d065/large_jpg/anir-guest-house-tamara-wibowo-architects_30.jpg?1789663974",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-3",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "5788646e9e23459ca9908d7f1d0ec3f793f622f2fb19f37128bd33007b7a5c12"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-4": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aad/8d91/7901/8920/52d8/large_jpg/anir-guest-house-tamara-wibowo-architects_9.jpg?1789663943",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-4",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "09fc9cf751a84f28b65da873beff9730fe28ba8453016399a21b36fbb9ad76f7"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-5": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aaa/d8c8/8201/89ac/d062/large_jpg/anir-guest-house-tamara-wibowo-architects_10.jpg?1789664160",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-5",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "492b49bd395d7b8ac8016056a2aa17eb7388fb9b1f6c852acdddc36222b112d1"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-6": {
+    "url": "https://images.adsttc.com/media/images/6aac/1a9f/8d91/7901/8920/52c7/large_jpg/anir-guest-house-tamara-wibowo-architects_4.jpg?1789663934",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-6",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "16712f1313d62933ec654aa0979171e70829d593e7d5a324610cfa2d4fe2c6b3"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-7": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa2/8d91/7901/8920/52ca/large_jpg/anir-guest-house-tamara-wibowo-architects_7.jpg?1789663936",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-7",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "b047bec16ea50fb2708cac8f08e24d4bf6a187d1a362d54f14a37430a5384ee4"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-8": {
+    "url": "https://images.adsttc.com/media/images/6aac/1a9f/8d91/7901/8920/52c9/large_jpg/anir-guest-house-tamara-wibowo-architects_5.jpg?1789663952",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-8",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 2667,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        1440,
+        1920
+      ]
+    },
+    "sha256": "e8c44c069a3020d17e77d2cdd7d89230a168e9adff9f7135951a4eb56f98d76e"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-9": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aab/8d91/7901/8920/52d5/large_jpg/anir-guest-house-tamara-wibowo-architects_26.jpg?1789663942",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-9",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "4a6669bfead6d4896b9b912c7ffa6ca7d9a9a74364a2ae144a148f0254918cb7"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-10": {
+    "url": "https://images.adsttc.com/media/images/6aac/1a9f/8d91/7901/8920/52c6/large_jpg/anir-guest-house-tamara-wibowo-architects_2.jpg?1789663931",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-10",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "eaef12865897fec7793ef491fe1551d0babd45f4af9ea153bda9cc7120cfe58d"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-11": {
+    "url": "https://images.adsttc.com/media/images/6aac/1a9f/8d91/7901/8920/52c8/large_jpg/anir-guest-house-tamara-wibowo-architects_3.jpg?1789663933",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-11",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "dd844e799d44748f35748d9e0ef4098fb64a12a0aae66f2798dc75e25b8ddd19"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-12": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aac/d8c8/8201/89ac/d064/large_jpg/anir-guest-house-tamara-wibowo-architects_27.jpg?1789663963",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-12",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "e033cce7fcf5641ae940506dbe15c109f5cf4c599946060c29fcf5af4c869145"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-13": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa2/d8c8/8201/89ac/d05a/large_jpg/anir-guest-house-tamara-wibowo-architects_6.jpg?1789663936",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-13",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "62a7320591d512370fdf257476920c92e211b8c05198a190842fbb2bd33b9fba"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-14": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa3/d8c8/8201/89ac/d05c/large_jpg/anir-guest-house-tamara-wibowo-architects_16.jpg?1789663972",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-14",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "5ebaa953e4bd8264430f76744522509c2173b148a5345eea0ef47d1b4a4a4166"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-15": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aaa/d8c8/8201/89ac/d061/large_jpg/anir-guest-house-tamara-wibowo-architects_29.jpg?1789664135",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-15",
+    "caption": "Anir Guest House — кирпичные экраны и фасады",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "64614df6c74151b0a4bacf98a9d6315b7dc142757979265000ae07f6407aefac"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-16": {
+    "url": "https://images.adsttc.com/media/images/6aac/1a9e/d8c8/8201/89ac/d058/large_jpg/anir-guest-house-tamara-wibowo-architects_1.jpg?1789663928",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-16",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "56a4150c2e91df861c9cbb331f526701d1e482037c9caa22489d578cb4845554"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-17": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa2/8d91/7901/8920/52cb/large_jpg/anir-guest-house-tamara-wibowo-architects_22.jpg?1789663933",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-17",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "34f506d36b94b3efa2de4b1819d0f4aad11c949d4501abfaa6ce5a2b21b23d16"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-18": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa4/d8c8/8201/89ac/d05d/large_jpg/anir-guest-house-tamara-wibowo-architects_13.jpg?1789663939",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-18",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "44305711cd51ffe80a80236723e2099db90bd56a2e51774eae99cfeb747c8166"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-19": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa0/d8c8/8201/89ac/d059/large_jpg/anir-guest-house-tamara-wibowo-architects_12.jpg?1789663959",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-19",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "8887cc5f2435bd3477b62c65aaf388cdb10c1418f67e4e0787f36d6dfd78d543"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-20": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aaa/8d91/7901/8920/52d4/large_jpg/anir-guest-house-tamara-wibowo-architects_31.jpg?1789663969",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-20",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "68422567d75826ead84b4f366b517b731f487f573e5e7081f4c1484e05c3bebf"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-21": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa5/8d91/7901/8920/52ce/large_jpg/anir-guest-house-tamara-wibowo-architects_17.jpg?1789663940",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-21",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "6f7b7249c42a42148d1d09037b73f1ecb7ab8a2e63cefbff6753c9d82c73bab7"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-22": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aad/d8c8/820d/7ba6/709b/large_jpg/anir-guest-house-tamara-wibowo-architects_11.jpg?1789663973",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-22",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "3a20dc001eadca8f80f59265598cf15da36a53fe3b1a62c16dba1641f549b2d7"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-23": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa3/d8c8/8201/89ac/d05b/large_jpg/anir-guest-house-tamara-wibowo-architects_14.jpg?1789663972",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-23",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "b50c115aba1b8e90cee89bda97cd70ed73c584ca9bd6d10dfa005217a480a4c3"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-24": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa8/d8c8/8201/89ac/d05f/large_jpg/anir-guest-house-tamara-wibowo-architects_21.jpg?1789663971",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-24",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "002ad46d2ad509db08a50fbb02f0df06a446ec0991f9dc6cc125451dd3284acc"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-25": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aaa/8d91/7901/8920/52d3/large_jpg/anir-guest-house-tamara-wibowo-architects_20.jpg?1789664081",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-25",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "39285b3b568c6118e3264fefd8bdd27f95775cef24aab21faaed600df386c657"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-26": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa6/8d91/7901/8920/52cf/large_jpg/anir-guest-house-tamara-wibowo-architects_19.jpg?1789663993",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-26",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "1c3fd65a0b3b444488b14bb0442b4febb06ad8f3600ba7c33fc85dd955f82712"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-27": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa7/8d91/7901/8920/52d0/large_jpg/anir-guest-house-tamara-wibowo-architects_18.jpg?1789664026",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-27",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "becf2f43be3c73cd3dc1475e650f966fea3d7ea5729a8845ccafff22673585cf"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-28": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa3/8d91/7901/8920/52cc/large_jpg/anir-guest-house-tamara-wibowo-architects_8.jpg?1789663937",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-28",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 1500,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1440,
+        1080
+      ]
+    },
+    "sha256": "d6bb423b12266b6a0d63f0c96dc446a99e3d06408bfdd505cef664bc22432bf4"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-29": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa9/8d91/7901/8920/52d2/large_jpg/anir-guest-house-tamara-wibowo-architects_23.jpg?1789663994",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-29",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "3f24f607f908221c809855bf6c5e782f57c5405e77e0031b572b2418acbe512a"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-30": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa5/8d91/7901/8920/52cd/large_jpg/anir-guest-house-tamara-wibowo-architects_24.jpg?1789663972",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-30",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "c2f13b665407637bca08678affcc7d915d90c68130f0b355f749c13044ff2f83"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-31": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aa8/d8c8/8201/89ac/d060/large_jpg/anir-guest-house-tamara-wibowo-architects_25.jpg?1789664026",
+    "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-31",
+    "caption": "Anir Guest House — интерьеры, свет и внутренние дворы",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "49246b35647a4e602dfaaf47149aea64b111710ed74e65ece408cbe56bcb745a"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-32": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aab/d8c8/8201/89ac/d063/large_jpg/1st-floor-plan-bw-1.jpg?1789663938",
+    "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-32",
+    "caption": "Anir Guest House — план этажа",
+    "width": 2000,
+    "height": 1414,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    },
+    "sha256": "752dcda4c158fe13761e6ebb19cd9a57c754a05be054ef416809796e42cd607d"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-33": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aac/8d91/7901/8920/52d6/large_jpg/2nd-floor-plan-bw-2.jpg?1789663938",
+    "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-33",
+    "caption": "Anir Guest House — план этажа",
+    "width": 2000,
+    "height": 1414,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    },
+    "sha256": "7ac4d04a047cd6545e0bc6b708a43eee561b8be98216555e7408d28e30373073"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-34": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aad/8d91/790a/4587/530a/large_jpg/3rd-floor-plan-bw-3.jpg?1789663938",
+    "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-34",
+    "caption": "Anir Guest House — план этажа",
+    "width": 2000,
+    "height": 1414,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    },
+    "sha256": "e958ff5c7d2b8e8bf162c35a4bd72e6d6ca2740505216e026d8e19fce80017b1"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-35": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aae/d8c8/8201/89ac/d066/large_jpg/4th-floor-plan-bw-4.jpg?1789663939",
+    "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-35",
+    "caption": "Anir Guest House — план этажа",
+    "width": 2000,
+    "height": 1414,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    },
+    "sha256": "3e3205d26dd0e59841d7cbde7e59718742752270bc1e6b645470c22e931d7ac4"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-36": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aaf/d8c8/8201/89ac/d067/large_jpg/section-c-bw-9.jpg?1789663947",
+    "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-36",
+    "caption": "Anir Guest House — разрез",
+    "width": 2000,
+    "height": 1414,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    },
+    "sha256": "b958c48a3e76b11f538a8b1973b2d0b817bcec58350c24a7a785103637aeb9d3"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-37": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aae/8d91/7901/8920/52d9/large_jpg/section-b-bw-8.jpg?1789663939",
+    "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-37",
+    "caption": "Anir Guest House — разрез",
+    "width": 2000,
+    "height": 1414,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    },
+    "sha256": "1e8dcf28d1c89bb6b2d4c4a1fd4cf0b812d93e7d71d16960e0147ea93cde3e20"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-38": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aac/8d91/7901/8920/52d7/large_jpg/section-a-bw-7.jpg?1789663937",
+    "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-38",
+    "caption": "Anir Guest House — разрез",
+    "width": 2000,
+    "height": 1414,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    },
+    "sha256": "fb8cb4d27a552929e66a229a9bb4ab7d7e8077ed10890bcc1fc8d2397d13c145"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-39": {
+    "url": "https://images.adsttc.com/media/images/6aac/1ab0/8d91/7901/8920/52db/large_jpg/anir-guesthouse-siteplan-5.jpg?1789663958",
+    "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-39",
+    "caption": "Anir Guest House — схема объёма",
+    "width": 2000,
+    "height": 1344,
+    "sizes": {
+      "640": [
+        640,
+        430
+      ],
+      "1440": [
+        1440,
+        968
+      ]
+    },
+    "sha256": "ab7a454f9e05624269ee01a6e96a965bbfeec3e3731ec75d34aa1730e56ac5a0"
+  },
+  "gallery-photo23-anir-guest-house-passive-design-40": {
+    "url": "https://images.adsttc.com/media/images/6aac/1aaf/8d91/7901/8920/52da/large_jpg/massing-diagram-6.jpg?1789663945",
+    "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+    "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+    "id": "gallery-photo23-anir-guest-house-passive-design-40",
+    "caption": "Anir Guest House — схема объёма",
+    "width": 2000,
+    "height": 1125,
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    },
+    "sha256": "3769901c95ed9737e67afd30e0448faa3bf60e63cfca329c4e616ff6def26b96"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-1": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_1.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-1",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "2cf72199745de1165a86c9f014b97f23ba39e5f3edbdb03da9afd72a8e56bbe3"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-2": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_2.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-2",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "48a0c0b82c53d00f95f179f7086f737464788e611fbba5760a61172e5505d7db"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-3": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_3.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-3",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "b413a310962b8b10ab3c2f4c70bf0a5c2dc72203ccc45c71dfa71fff6f879057"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-4": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_4.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-4",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 1000,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        640
+      ],
+      "1440": [
+        1000,
+        1000
+      ]
+    },
+    "sha256": "9153fb6eef98e5aad7c2ca3e771e7deb460a766922ff7e666bcdb6c344ac1bd8"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-5": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_01.jpg",
+    "credit": "Чертежи: BUREAU, Beatriz Duarte",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-5",
+    "caption": "LILAC — план квартиры",
+    "width": 1000,
+    "height": 707,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1000,
+        707
+      ]
+    },
+    "sha256": "870f9ebf35fe44bfe71bbb1d8736085fc7da832a3c011c15efe03fa9646a47f3"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-6": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_6.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-6",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "d9b51f248a2d771ab87e68da474a618961095db161a774616f2d8894bbb5a8f3"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-7": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_7.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-7",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "8c35df20347dc642c2b032e0f542fb8fb71faf80c87d1c7a51c6c4a2e483aaf1"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-8": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_8.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-8",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "68e5300fe8c3a1031b38852653e333470f993883166a604c3405634e1664ce67"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-9": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_05.jpg",
+    "credit": "Чертежи: BUREAU, Beatriz Duarte",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-9",
+    "caption": "LILAC — чертёж проекта",
+    "width": 1000,
+    "height": 707,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1000,
+        707
+      ]
+    },
+    "sha256": "fbf93277939ff0b95c397260956e4ff2ad406c1198a14df01c72a145003f25c2"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-10": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_10.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-10",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "7f61366306faff8a88b7b900d889030d0c87fc12446049b9a4a64604f198cad4"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-11": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_11.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-11",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 1000,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        640
+      ],
+      "1440": [
+        1000,
+        1000
+      ]
+    },
+    "sha256": "59b730794e6f3b48779e6607c4a2310b3efe35648636bdfd5fd2dfe3ebd2a1f1"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-12": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_12.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-12",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 1000,
+    "height": 750,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        1000,
+        750
+      ]
+    },
+    "sha256": "7c8e2fe30d1d0d75e8a1b6b9f697f6bb5283ea9abc07e339aef6920b32cc6357"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-13": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_13.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-13",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "e12c675b9aca9c5def696fdb6e196f31889fdefaf2ec2c1643ab9afa2340f136"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-14": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_14.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-14",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "e6efccd229b044ca643a1c0ad86fbea1ff0a9dce86a8acdde059be50fed13458"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-15": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_15.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-15",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "c1cec8b0a0de78afeabdfe031f54abb2a6fda34763f8d26eef802f6aa73185a5"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-16": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_16.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-16",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "a32454f6a5f0044a4838d6c992e06ec26eda8d47578f28ed7c6ef2cf1bb79ce6"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-17": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_02.jpg",
+    "credit": "Чертежи: BUREAU, Beatriz Duarte",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-17",
+    "caption": "LILAC — чертёж проекта",
+    "width": 1000,
+    "height": 707,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1000,
+        707
+      ]
+    },
+    "sha256": "0017b2ef8724f6e5c40c625c55ef099f57a069eaf29d545f2b3385e27884d450"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-18": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_17.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-18",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 1000,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        640
+      ],
+      "1440": [
+        1000,
+        1000
+      ]
+    },
+    "sha256": "59de3b15b627f62ae71073d44083cc175257a2087c7d89d75f0f131bd2955560"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-19": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_18.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-19",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "3ebc1d18d5923c9eec779f598923520728504f61ff77c91142dc167403545e89"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-20": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_19.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-20",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "a36d670a035aaadf6201a1581cbadee012c6eeba8237a8c6bcda0d28740075d6"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-21": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_20.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-21",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "f39fba278b6493700a750d8798c606c8cbb856117b3359b8ab8d4f4ae7845206"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-22": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_21.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-22",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "6f51727b1d4afa6471827bda2d00f210bbcf58a0c830b5ad7f693287a1842d55"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-23": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_03.jpg",
+    "credit": "Чертежи: BUREAU, Beatriz Duarte",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-23",
+    "caption": "LILAC — чертёж проекта",
+    "width": 1000,
+    "height": 707,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1000,
+        707
+      ]
+    },
+    "sha256": "abc98eaea848e8feca418c79626f6ebd28ea870bac2b29707ce4609e58d99629"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-24": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_22.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-24",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "1e2ba8d87cdac0732db81497206c7873fbf66722ef5869c0421624a971928117"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-25": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_23.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-25",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "a53c13b215be64602b1529c59693cb95abeea429789a30375aa0c1a8b9d918c8"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-26": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_24.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-26",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "a5383c96c9cfb833ad202558d9df7ff65d77e921617e8f602298f94ca055549f"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-27": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_25.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-27",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "5f54ad17ad7907d04525f3e5e412d001e15a4beffeaae2a9a6a9a90be82eb295"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-28": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_26.jpg",
+    "credit": "Фото: Francisco Nogueira / BUREAU",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-28",
+    "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    },
+    "sha256": "877fe7736ed4e3de92552d6dc209aa7a3c5cb1d65ee400bf35ec8ea9bc83e050"
+  },
+  "gallery-photo23-lilac-bureau-lisbon-44sqm-29": {
+    "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_04.jpg",
+    "credit": "Чертежи: BUREAU, Beatriz Duarte",
+    "source": "https://bureau.ac/lilac/",
+    "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-29",
+    "caption": "LILAC — чертёж проекта",
+    "width": 1000,
+    "height": 707,
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1000,
+        707
+      ]
+    },
+    "sha256": "9951c6bb9302baa6896dfb63348819b1737fd2a426ae16cec2ea4dd6ed100a13"
+  },
+  "gallery-photo23-muar-contemporary-depository-2026-3": {
+    "url": "https://storage.yandexcloud.net/moskvichmag/uploads/2026/09/depoz82.jpg",
+    "credit": "Фото: Анастасия Соболева · материалы Музея архитектуры / Москвич Mag",
+    "source": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/",
+    "id": "gallery-photo23-muar-contemporary-depository-2026-3",
+    "caption": "Театр имени Галиасгара Камала в Казани — проект из материалов выставки",
+    "width": 800,
+    "height": 532,
+    "sizes": {
+      "640": [
+        640,
+        426
+      ],
+      "1440": [
+        800,
+        532
+      ]
+    },
+    "sha256": "d11ae16ff8edfe652d874a2958f3944e4f43cc67ba6026c50df0f4337635a211"
+  },
+  "gallery-photo23-muar-contemporary-depository-2026-1": {
+    "url": "https://storage.yandexcloud.net/moskvichmag/uploads/2026/09/depoz1-1024x538.jpg",
+    "credit": "Эскиз: Сергей Чобан · материалы Музея архитектуры / Москвич Mag",
+    "source": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/",
+    "id": "gallery-photo23-muar-contemporary-depository-2026-1",
+    "caption": "Эскиз «Невской ратуши» Сергея Чобана — материал выставки",
+    "width": 1024,
+    "height": 538,
+    "sizes": {
+      "640": [
+        640,
+        336
+      ],
+      "1440": [
+        1024,
+        538
+      ]
+    },
+    "sha256": "49868b622451b1bedb967eef06db0857bf75695f1c45c8093fb4cec29667e0fe"
+  },
+  "gallery-photo23-muar-contemporary-depository-2026-2": {
+    "url": "https://storage.yandexcloud.net/moskvichmag/uploads/2026/09/depoz81.jpg",
+    "credit": "Эскиз: материалы Музея архитектуры / Москвич Mag · автор в источнике не указан",
+    "source": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/",
+    "id": "gallery-photo23-muar-contemporary-depository-2026-2",
+    "caption": "Эскиз из материалов выставки «Современный депозитарий»",
+    "width": 800,
+    "height": 532,
+    "sizes": {
+      "640": [
+        640,
+        426
+      ],
+      "1440": [
+        800,
+        532
+      ]
+    },
+    "sha256": "80e1e0260735875948073c288aeb785ec8749621c35bebcb2cb535301ccc3e4c"
+  },
+  "gallery-photo23-design-dvor-2026-1": {
+    "url": "https://designdistrictdaa.ru/storage/app/media/uploaded-files/2-1.jpeg",
+    "source": "https://designdistrictdaa.ru/ru/about",
+    "caption": "Design District DAA — площадка маркета. Фотография пространства, не репортаж 19 сентября.",
+    "credit": "Фото: Design District DAA · фотограф не указан",
+    "id": "gallery-photo23-design-dvor-2026-1",
+    "width": 960,
+    "height": 720,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        960,
+        720
+      ]
+    },
+    "sha256": "dc09090bb9c1a603207999efc47c77d4ecf39ed956cd983aeac3d7ead5064293"
+  },
+  "gallery-photo23-design-dvor-2026-2": {
+    "url": "https://designdistrictdaa.ru/storage/app/media/uploaded-files/2-2.jpeg",
+    "source": "https://designdistrictdaa.ru/ru/about",
+    "caption": "Design District DAA — площадка маркета. Фотография пространства, не репортаж 19 сентября.",
+    "credit": "Фото: Design District DAA · фотограф не указан",
+    "id": "gallery-photo23-design-dvor-2026-2",
+    "width": 960,
+    "height": 720,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        960,
+        720
+      ]
+    },
+    "sha256": "0188b47d5ac9cec89d4b8035186fb5ca1d4ace901ddc2a76443d39b71a107cd1"
+  },
+  "gallery-photo23-design-dvor-2026-3": {
+    "url": "https://designdistrictdaa.ru/storage/app/media/uploaded-files/2-3.jpeg",
+    "source": "https://designdistrictdaa.ru/ru/about",
+    "caption": "Design District DAA — площадка маркета. Фотография пространства, не репортаж 19 сентября.",
+    "credit": "Фото: Design District DAA · фотограф не указан",
+    "id": "gallery-photo23-design-dvor-2026-3",
+    "width": 960,
+    "height": 721,
+    "sizes": {
+      "640": [
+        640,
+        481
+      ],
+      "1440": [
+        960,
+        721
+      ]
+    },
+    "sha256": "d3112b80b820e39e36e16372c42722c11545647ce5977fc3c66715081e36f85a"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-1": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/b21eae91668066cb445ab3bbdda14394/_GL-GSK.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: пресс-служба комплекса градостроительной политики и строительства Москвы / Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-1",
+    "width": 800,
+    "height": 400,
+    "sizes": {
+      "640": [
+        640,
+        320
+      ],
+      "1440": [
+        800,
+        400
+      ]
+    },
+    "sha256": "bbd2cbfb04be123a00115d1b7a90c21e4ba0a0ebfcc3f5caeddb9f89b3eff7ea"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-2": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/788b95aca0caeab036768f8d61b4b663/vn_gsk.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: пресс-служба комплекса градостроительной политики и строительства Москвы / Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-2",
+    "width": 1600,
+    "height": 1067,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "54d11255c597be2b2410a4a73b90b5363b413a5b06b22576fbe8cf6a575f6760"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-3": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/d44269da65c4d899895e63c641da874f/1.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: Евгений Самарин. Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-3",
+    "width": 2400,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "7098aa15776b393dfd75034f05fc36b34d6d217b1f4e079d686ce4c8d524ca97"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-4": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/8562314f9f68e9cf63a89474618e1f8c/2.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: Евгений Самарин. Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-4",
+    "width": 2400,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "c8a9cd99502b3326a657b6ff6d0260aa773202b6571049225b6f0d1ff7bb7f95"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-5": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/11b5ffa151a0697c7342472b4c390240/3.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: Евгений Самарин. Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-5",
+    "width": 2400,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "4314190f488d0c2787c071fd813acf1e979d4cd927987e9de13469145933d7d8"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-6": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/2cd5a36bcc66a7f147812eebd0724b17/4.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: Евгений Самарин. Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-6",
+    "width": 2400,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "377aa6789680cf0d9a190c01782d88107ce01fe9021bbc0b9e48cda5c041877f"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-7": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/9b352a2366905f7882bacc47a83722f2/5.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: Евгений Самарин. Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-7",
+    "width": 2392,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        428
+      ],
+      "1440": [
+        1440,
+        963
+      ]
+    },
+    "sha256": "d1cd3f3bde3478d535c8b8169a67acc4cc3ae95940457bf0d1fb06fd72817704"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-8": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/9907889d9a478aecc7b6ceaba0326333/6.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: Евгений Самарин. Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-8",
+    "width": 2400,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "ae41871568d523145ed8096e73fdad8b47f90baf1c87027fd05ed9b6c29a2b5b"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-9": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/f3f6d8da70ed6d32a6c68f8e5fd2081e/7.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: Евгений Самарин. Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-9",
+    "width": 2400,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "4e35fe826bf4f96b2dc76af90d735fca523ad76cddf285134e96f5c9752e590e"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-10": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/09a4e0bf3e96abce0edb2fed6f03f904/8.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: Евгений Самарин. Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-10",
+    "width": 2400,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "2732025e16128871b773575777e8dc35c3a96fb06c5ee7c6a15ab6fe3ab9b532"
+  },
+  "gallery-photo23-moscow-hippodrome-restoration-2026-11": {
+    "url": "https://www.mos.ru/upload/newsfeed/articles/7cc04e38ca2cc5bdf65d8fe0e2b5fc5d/9.jpg",
+    "source": "https://www.mos.ru/news/item/176000073/",
+    "caption": "Московский ипподром после реставрации",
+    "credit": "Фото: Евгений Самарин. Mos.ru",
+    "id": "gallery-photo23-moscow-hippodrome-restoration-2026-11",
+    "width": 2400,
+    "height": 1600,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "e789e2d00674151e40a34c74f0f63fc788545cfb94d458341605ba25f5aa4a3b"
+  },
+  "gallery-photo23-lurie-mansion-omsk-2026-1": {
+    "url": "https://omskzdes.ru/storage/c/2026/09/20/1789904687_550283_23.png",
+    "source": "https://omskzdes.ru/society/93243.html",
+    "caption": "Дом на Маяковского, 46: фотографии из акта историко-культурной экспертизы",
+    "credit": "Акт историко-культурной экспертизы / Омск Здесь · фотограф не указан",
+    "id": "gallery-photo23-lurie-mansion-omsk-2026-1",
+    "width": 909,
+    "height": 460,
+    "sizes": {
+      "640": [
+        640,
+        324
+      ],
+      "1440": [
+        909,
+        460
+      ]
+    },
+    "sha256": "c47ffcee119f05fc813ffb34601cfe205aac2515d12fca975279b9f0ce9a2c16"
+  },
+  "gallery-photo23-lurie-mansion-omsk-2026-2": {
+    "url": "https://omskzdes.ru/storage/c/2026/09/20/1789904782_476824_13.png",
+    "source": "https://omskzdes.ru/society/93243.html",
+    "caption": "Дом на Маяковского, 46: фотографии из акта историко-культурной экспертизы",
+    "credit": "Акт историко-культурной экспертизы / Омск Здесь · фотограф не указан",
+    "id": "gallery-photo23-lurie-mansion-omsk-2026-2",
+    "width": 606,
+    "height": 433,
+    "sizes": {
+      "640": [
+        606,
+        433
+      ],
+      "1440": [
+        606,
+        433
+      ]
+    },
+    "sha256": "fa722c5812191e7b5ea1045401e00ad16f2c525554e07c7d045e76c8b4680fed"
+  },
+  "gallery-photo23-lurie-mansion-omsk-2026-3": {
+    "url": "https://omskzdes.ru/storage/c/2026/09/20/1789904783_069393_38.png",
+    "source": "https://omskzdes.ru/society/93243.html",
+    "caption": "Дом на Маяковского, 46: фотографии из акта историко-культурной экспертизы",
+    "credit": "Акт историко-культурной экспертизы / Омск Здесь · фотограф не указан",
+    "id": "gallery-photo23-lurie-mansion-omsk-2026-3",
+    "width": 640,
+    "height": 471,
+    "sizes": {
+      "640": [
+        640,
+        471
+      ],
+      "1440": [
+        640,
+        471
+      ]
+    },
+    "sha256": "32d2452307dd84dd1a0382a095dec3448b7f42918398a743ea6e1a486cfa7032"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-1": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749b/4f64/5201/8803/147a/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_1.jpg?1789555894",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-1",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "f18cebc4e32377eb06e5db648146e7ecf92c2e372f7d585ccf17a1089960f1cc"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-2": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749a/8a93/3f01/88f2/310f/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_12.jpg?1789555893",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-2",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "22972fc4be7f83cfb4bb5055a1494512e9566a85477f883a81d2879c6e159819"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-3": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749a/4f64/5201/8803/1479/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_3.jpg?1789555894",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-3",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "ee2d0ef28966bdd74fecd2641cad1ac3a41ca728eef31bf0c43ddf3f9674cf0b"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-4": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749d/8a93/3f01/88f2/3113/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_8.jpg?1789555923",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-4",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "c93a7cb6c82fc6212b9d227fb73feee03905c3f3d82e7c276f846cf54967a355"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-5": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749f/8a93/3f01/88f2/3118/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_17.jpg?1789555926",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-5",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "6d7984d360ce8dc908293ec1ca86cd895330794ebf5f9526570125f4e0837821"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-6": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749a/8a93/3f13/63ed/9938/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_14.jpg?1789555894",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-6",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "7de7cf71fbf8143f8b2b5e03979cb6ea67f50b6cff0630d71aa0790ad3b05cee"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-7": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749c/8a93/3f01/88f2/3112/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_13.jpg?1789555891",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-7",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "80860190d5f96e58f687a9aa1d020aab7988a641816e9b744b9af29dfa4ab54c"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-8": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749b/8a93/3f01/88f2/3110/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_5.jpg?1789555947",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-8",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "b26e9954d35e3d3196ffe061054899f52c31d5da62439b0b9e6cdc964d9ffd83"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-9": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749f/8a93/3f01/88f2/3116/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_15.jpg?1789555925",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-9",
+    "width": 2000,
+    "height": 3000,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    },
+    "sha256": "b8f2a77268e2dd012ba7254963c5dfc8547582d3bbda5d6a632f227802a4c68d"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-10": {
+    "url": "https://images.adsttc.com/media/images/6aaa/74a0/8a93/3f01/88f2/3119/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_16.jpg?1789555928",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-10",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "af6c018189d5f421683013163ba24900e2fe156caff84fd3d2e47658762f58fc"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-11": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749d/8a93/3f01/88f2/3114/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_11.jpg?1789555924",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-11",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "0aece101eecb230c516d4c1bff9f00fa79fa3414f0db6724ac2cc7cb448504d6"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-12": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749f/4f64/5201/8803/147d/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_9.jpg?1789555927",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-12",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "2c87e525d1205a9afbe65783b65187bb74b20dad1c7498c23a77c4bc9cf6a650"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-13": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749c/4f64/5201/8803/147b/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_2.jpg?1789555948",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-13",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "b59377da4b086995798c2494941cc2ed60883b91d665cbdc5125c73e9b65d1ab"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-14": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749a/4f64/5201/8803/1478/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_4.jpg?1789555892",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-14",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "89fa39e79a2e423c5366fed58f5dac054140ea06f75a5dd4e7d510ea06c6c985"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-15": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749f/8a93/3f01/88f2/3117/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_6.jpg?1789555977",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-15",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "2e3b2fd85d32a6b7610745e18ac440d1621fe54e984b4ffd59e43f6c853427e8"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-16": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749e/8a93/3f01/88f2/3115/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_7.jpg?1789555925",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-16",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "e95d0e035cc4711762ad303267d04060f831431737fc8eaea67129a06abaaee1"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-17": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749c/4f64/5201/8803/147c/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_18.jpg?1789555922",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-17",
+    "width": 2000,
+    "height": 3001,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2161
+      ]
+    },
+    "sha256": "5e9c4b0877738f4eef10d87489372a3484e0eb20e2604b04f8e8b7de2b1b36fb"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-18": {
+    "url": "https://images.adsttc.com/media/images/6aaa/749c/8a93/3f01/88f2/3111/large_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_10.jpg?1789555922",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — интерьер и детали магазина",
+    "credit": "Фото: Keishin Horikoshi / SS · L/O / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-18",
+    "width": 2000,
+    "height": 2999,
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2159
+      ]
+    },
+    "sha256": "26302b17c15276dfd8f0fbad26c27a605cf390d4e987254cb61f960f713579e4"
+  },
+  "gallery-photo23-tojiro-hanare-tokyo-2026-19": {
+    "url": "https://images.adsttc.com/media/images/6aaa/7489/4f64/5201/8803/1477/large_jpg/tojiro-knife-gallery-tokyo-hanare-floor-plan-page-0001-1.jpg?1789555884",
+    "source": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+    "caption": "Tojiro Hanare — план магазина",
+    "credit": "Чертёж: L/O (Katata Yoshishito Design) / ArchDaily",
+    "id": "gallery-photo23-tojiro-hanare-tokyo-2026-19",
+    "width": 2000,
+    "height": 2938,
+    "sizes": {
+      "640": [
+        640,
+        940
+      ],
+      "1440": [
+        1440,
+        2115
+      ]
+    },
+    "sha256": "74ff81d3d77d06361e16078c6c227a65d5728aca0689be365bd6a5fab19a506e"
+  },
+  "gallery-photo23-luanda-technology-park-2026-1": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e416/large_jpg/technology-park-1.jpg?1789414226",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-1",
+    "width": 2000,
+    "height": 1371,
+    "sizes": {
+      "640": [
+        640,
+        439
+      ],
+      "1440": [
+        1440,
+        987
+      ]
+    },
+    "sha256": "99ce63780b96a5def2824930fd1c6ad52aa918c7744e3ad164afd0d9de1baa50"
+  },
+  "gallery-photo23-luanda-technology-park-2026-2": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e41a/large_jpg/technology-park-13.jpg?1789414231",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-2",
+    "width": 2000,
+    "height": 1627,
+    "sizes": {
+      "640": [
+        640,
+        521
+      ],
+      "1440": [
+        1440,
+        1171
+      ]
+    },
+    "sha256": "e694df7ba00ae1cd34ef700c5131bff4f2e30e7c002a777db8a5b43f580d61ed"
+  },
+  "gallery-photo23-luanda-technology-park-2026-3": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e417/large_jpg/technology-park-3.jpg?1789414219",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-3",
+    "width": 2000,
+    "height": 1549,
+    "sizes": {
+      "640": [
+        640,
+        496
+      ],
+      "1440": [
+        1440,
+        1115
+      ]
+    },
+    "sha256": "9ac09a37c5540a6989fbdb9d03ed60e1d7212d35f8554b66f5a05837f5520ffb"
+  },
+  "gallery-photo23-luanda-technology-park-2026-4": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e419/large_jpg/technology-park-12.jpg?1789414256",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-4",
+    "width": 2000,
+    "height": 1433,
+    "sizes": {
+      "640": [
+        640,
+        459
+      ],
+      "1440": [
+        1440,
+        1032
+      ]
+    },
+    "sha256": "13e1caaa5b84ee82bd24ace7763bdc4d68a2d745b8571a3b229fc5acb71a51d7"
+  },
+  "gallery-photo23-luanda-technology-park-2026-5": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e414/large_jpg/technology-park-4.jpg?1789414225",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-5",
+    "width": 2000,
+    "height": 1334,
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    },
+    "sha256": "a616468098710e122cd20f2c402c6e1e05faedd9db237d344ca1ce9089d905d9"
+  },
+  "gallery-photo23-luanda-technology-park-2026-6": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e41e/large_jpg/technology-park-10.jpg?1789414235",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-6",
+    "width": 2000,
+    "height": 3385,
+    "sizes": {
+      "640": [
+        640,
+        1083
+      ],
+      "1440": [
+        1440,
+        2437
+      ]
+    },
+    "sha256": "b19b4fc77ab71e54c66ddb5adf6980652f911525daba1ef8624d8bfcbb506396"
+  },
+  "gallery-photo23-luanda-technology-park-2026-7": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e418/large_jpg/technology-park-11.jpg?1789414229",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-7",
+    "width": 2000,
+    "height": 1543,
+    "sizes": {
+      "640": [
+        640,
+        494
+      ],
+      "1440": [
+        1440,
+        1111
+      ]
+    },
+    "sha256": "e9ad428592a44f77fa76e6acee1d5500b34d23d576d5b20247002ba5c45b8a7f"
+  },
+  "gallery-photo23-luanda-technology-park-2026-8": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e41c/large_jpg/technology-park-2.jpg?1789414251",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-8",
+    "width": 2000,
+    "height": 3350,
+    "sizes": {
+      "640": [
+        640,
+        1072
+      ],
+      "1440": [
+        1440,
+        2412
+      ]
+    },
+    "sha256": "c8748b2504fd42e93be1ccc26be41d67752a51a649559f6086379d3330dfdaff"
+  },
+  "gallery-photo23-luanda-technology-park-2026-9": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e41b/large_jpg/technology-park-5.jpg?1789414248",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-9",
+    "width": 2000,
+    "height": 1508,
+    "sizes": {
+      "640": [
+        640,
+        483
+      ],
+      "1440": [
+        1440,
+        1086
+      ]
+    },
+    "sha256": "ac0a8ea191ee6c0115fbc735bd89411c6f54af287fe3b9242994d44a43c8739d"
+  },
+  "gallery-photo23-luanda-technology-park-2026-10": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e41d/large_jpg/technology-park-6.jpg?1789414219",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — корпуса и солнцезащитные экраны",
+    "credit": "Фото: Flavio Ricardo Gomes · Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-10",
+    "width": 2000,
+    "height": 1694,
+    "sizes": {
+      "640": [
+        640,
+        542
+      ],
+      "1440": [
+        1440,
+        1220
+      ]
+    },
+    "sha256": "f6e81b5cdf4fa0c48c75a9d8705520888819bef22555f884aa349bff7b7e680d"
+  },
+  "gallery-photo23-luanda-technology-park-2026-11": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e41f/large_jpg/modelo1-ground-floor.jpg?1789414252",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — план этажа",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-11",
+    "width": 2000,
+    "height": 1798,
+    "sizes": {
+      "640": [
+        640,
+        575
+      ],
+      "1440": [
+        1440,
+        1295
+      ]
+    },
+    "sha256": "4b9f1386e0450ae29f7e3c489ae27ada5e4a280e50a9a26a18254bc9a747cc7f"
+  },
+  "gallery-photo23-luanda-technology-park-2026-12": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e420/large_jpg/modelo1-first-floor.jpg?1789414287",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — план этажа",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-12",
+    "width": 2000,
+    "height": 1798,
+    "sizes": {
+      "640": [
+        640,
+        575
+      ],
+      "1440": [
+        1440,
+        1295
+      ]
+    },
+    "sha256": "6bca47535e49b9d5a842d81d5aec433179a5c5afd75e231a9bfca3c6a3c559c4"
+  },
+  "gallery-photo23-luanda-technology-park-2026-13": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e421/large_jpg/modelo1-second-floor.jpg?1789414286",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — план этажа",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-13",
+    "width": 2000,
+    "height": 1798,
+    "sizes": {
+      "640": [
+        640,
+        575
+      ],
+      "1440": [
+        1440,
+        1295
+      ]
+    },
+    "sha256": "83876e8f356a2b3ae99f6b5aaab924c0bd8a29fa0575293c3c2bf28542b9c1f2"
+  },
+  "gallery-photo23-luanda-technology-park-2026-14": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e422/large_jpg/modelo1-third-floor.jpg?1789414267",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — план этажа",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-14",
+    "width": 2000,
+    "height": 1798,
+    "sizes": {
+      "640": [
+        640,
+        575
+      ],
+      "1440": [
+        1440,
+        1295
+      ]
+    },
+    "sha256": "6bd92e0eabd100151be1114e897995e805fc87420f265140dac9f2fbaeeee229"
+  },
+  "gallery-photo23-luanda-technology-park-2026-15": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e426/large_jpg/modelo1-elevation-external-2.jpg?1789414297",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — фасад",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-15",
+    "width": 2000,
+    "height": 1798,
+    "sizes": {
+      "640": [
+        640,
+        575
+      ],
+      "1440": [
+        1440,
+        1295
+      ]
+    },
+    "sha256": "4e32cdef2119f3db67014f7f863cf1c0fb78b5dc04a75e229945175b3522cd95"
+  },
+  "gallery-photo23-luanda-technology-park-2026-16": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e424/large_jpg/modelo1-elevation-external-1.jpg?1789414278",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — фасад",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-16",
+    "width": 2000,
+    "height": 1798,
+    "sizes": {
+      "640": [
+        640,
+        575
+      ],
+      "1440": [
+        1440,
+        1295
+      ]
+    },
+    "sha256": "72e62c5c48cd164a6fa354cfdc195b63a6464ad3756caf1495f78d68253fc0d5"
+  },
+  "gallery-photo23-luanda-technology-park-2026-17": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e425/large_jpg/modelo1-elevation-internal-2.jpg?1789414256",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — фасад",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-17",
+    "width": 2000,
+    "height": 1798,
+    "sizes": {
+      "640": [
+        640,
+        575
+      ],
+      "1440": [
+        1440,
+        1295
+      ]
+    },
+    "sha256": "fe3e87afd71ba8bd869789401c356217c9a0fc59964a0e2fee5df3d7c1487683"
+  },
+  "gallery-photo23-luanda-technology-park-2026-18": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e423/large_jpg/modelo1-elevation-internal-1.jpg?1789414281",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — фасад",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-18",
+    "width": 2000,
+    "height": 1798,
+    "sizes": {
+      "640": [
+        640,
+        575
+      ],
+      "1440": [
+        1440,
+        1295
+      ]
+    },
+    "sha256": "32984d04061da013948dc833bdabe6524231aca8360f7379c80e45af0bde8b34"
+  },
+  "gallery-photo23-luanda-technology-park-2026-19": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e427/large_jpg/modelo2-ground-floor.jpg?1789414310",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — план этажа",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-19",
+    "width": 2000,
+    "height": 1510,
+    "sizes": {
+      "640": [
+        640,
+        483
+      ],
+      "1440": [
+        1440,
+        1087
+      ]
+    },
+    "sha256": "569aca5a26728f5947331ce2a9687d820093014dc1ec69030ca4a55362e354ea"
+  },
+  "gallery-photo23-luanda-technology-park-2026-20": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e428/large_jpg/modelo2-first-floor.jpg?1789414316",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — план этажа",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-20",
+    "width": 2000,
+    "height": 1510,
+    "sizes": {
+      "640": [
+        640,
+        483
+      ],
+      "1440": [
+        1440,
+        1087
+      ]
+    },
+    "sha256": "2203359622603606a8dd99c0511303e9a46ca1f7c2c11c29196f31bade65788d"
+  },
+  "gallery-photo23-luanda-technology-park-2026-21": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e429/large_jpg/modelo2-elevation-internal.jpg?1789414346",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — фасад",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-21",
+    "width": 2000,
+    "height": 1510,
+    "sizes": {
+      "640": [
+        640,
+        483
+      ],
+      "1440": [
+        1440,
+        1087
+      ]
+    },
+    "sha256": "d56775c27af24557f6a4200ca48b41472222001ecdf13e431c32097a425f7fd7"
+  },
+  "gallery-photo23-luanda-technology-park-2026-22": {
+    "url": "https://images.adsttc.com/media/images/6aa8/4b34/a74d/1200/0125/e42a/large_jpg/modelo2-elevation-external.jpg?1789414304",
+    "source": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+    "caption": "Технологический парк Луанды — фасад",
+    "credit": "Чертежи: Typsa / ArchDaily",
+    "id": "gallery-photo23-luanda-technology-park-2026-22",
+    "width": 2000,
+    "height": 1805,
+    "sizes": {
+      "640": [
+        640,
+        578
+      ],
+      "1440": [
+        1440,
+        1300
+      ]
+    },
+    "sha256": "c62fa56a054310a0b992c5f34816e47479c9ee40fdc60505002b3e31bf23892e"
+  }
+}

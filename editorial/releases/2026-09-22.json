@@ -15,20 +15,292 @@
       "format": "Главная история",
       "place": "Хольстебро, Дания",
       "dek": "SAGA Space Architects и 3DCP Group применили 3D-печать несущих стен сразу в шести жилых кластерах. Квартиры прошли те же требования, что и обычное субсидируемое жильё.",
-      "body": "21 сентября ArchDaily выпустил подробную публикацию Skovsporet — уже завершённого студенческого посёлка в Хольстебро. Здесь 36 квартир, собранных в шесть низких кластеров. Площадь квартир — от 39 до 50 м²; внутри есть кухня, рабочее место, гостиная, ванная и спальная зона.\n\n## Почему это важнее очередного напечатанного павильона\n\nНесущие бетонные стены печатали прямо на площадке, а затем состыковывали с обычными кровлями, окнами и остальными строительными системами. Внутри слои печати не спрятаны: горизонтальная фактура остаётся частью отделки. Главное, впрочем, не форма стен, а масштаб повторения — одна технология отработана на шести кластерах и 36 реальных квартирах.\n\nПроект делали в рамках датских требований к субсидируемому жилью. То есть 3D-печати пришлось уложиться не только в эффектную презентацию, но и в обычные ограничения по точности, стоимости, нормам и координации. Именно это делает Skovsporet интересным для практики.\n\n## Материал тоже проверяли на ходу\n\nОсновные стены напечатаны бетоном D.fab с цементом FUTURECEM. В велосипедном навесе команда отдельно испытала смесь MEVOcem без цемента; разработчики сообщают о снижении выбросов CO₂ на 84% относительно традиционного бетона для этих элементов. Это показатель команды проекта, а не независимая оценка всего здания.\n\nПечатные площадки разместили между существующими деревьями. SAGA сообщает, что удалось сохранить 95% крупных деревьев на участке. Получился полезный пример того, как новая технология подстраивается под место, а не требует сначала расчистить площадку под идеальную лабораторию.\n\n## Что можно забрать в работу в России\n\nЕсли 3D-печать и станет массовой, то скорее так: не как архитектурный аттракцион, а как одна из нормальных строительных операций. Проверять надо не только скорость принтера, но и стыки с окнами, кровлей, инженерией, отделкой, нормативами и реальной себестоимостью. Когда технология становится немного скучной — у неё появляется шанс стать полезной.",
+      "body": [
+        "21 сентября ArchDaily выпустил подробную публикацию Skovsporet — уже завершённого студенческого посёлка в Хольстебро. Здесь 36 квартир, собранных в шесть низких кластеров. Площадь квартир — от 39 до 50 м²; внутри есть кухня, рабочее место, гостиная, ванная и спальная зона.",
+        "## Почему это важнее очередного напечатанного павильона",
+        "Несущие бетонные стены печатали прямо на площадке, а затем состыковывали с обычными кровлями, окнами и остальными строительными системами. Внутри слои печати не спрятаны: горизонтальная фактура остаётся частью отделки. Главное, впрочем, не форма стен, а масштаб повторения — одна технология отработана на шести кластерах и 36 реальных квартирах.",
+        "Проект делали в рамках датских требований к субсидируемому жилью. То есть 3D-печати пришлось уложиться не только в эффектную презентацию, но и в обычные ограничения по точности, стоимости, нормам и координации. Именно это делает Skovsporet интересным для практики.",
+        "## Материал тоже проверяли на ходу",
+        "Основные стены напечатаны бетоном D.fab с цементом FUTURECEM. В велосипедном навесе команда отдельно испытала смесь MEVOcem без цемента; разработчики сообщают о снижении выбросов CO₂ на 84% относительно традиционного бетона для этих элементов. Это показатель команды проекта, а не независимая оценка всего здания.",
+        "Печатные площадки разместили между существующими деревьями. SAGA сообщает, что удалось сохранить 95% крупных деревьев на участке. Получился полезный пример того, как новая технология подстраивается под место, а не требует сначала расчистить площадку под идеальную лабораторию.",
+        "## Что можно забрать в работу в России",
+        "Если 3D-печать и станет массовой, то скорее так: не как архитектурный аттракцион, а как одна из нормальных строительных операций. Проверять надо не только скорость принтера, но и стыки с окнами, кровлей, инженерией, отделкой, нормативами и реальной себестоимостью. Когда технология становится немного скучной — у неё появляется шанс стать полезной."
+      ],
       "source": "https://www.archdaily.com/1185046/skovsporet-3d-printed-student-housing-saga-space-architects",
-      "credit": "Иллюстрация TECTONICA · оригинальная съёмка проекта: Edi Cliff",
-      "image": "issue-2026-09-22-skovsporet",
-      "imageAlt": "Редакционная схема TECTONICA о студенческом посёлке Skovsporet из шести 3D-печатных жилых кластеров",
-      "illustration": true,
+      "credit": "Фото: Edi Cliff / SAGA Space Architects",
+      "image": "gallery-photo23-skovsporet-3d-student-housing-1",
+      "imageAlt": "Skovsporet — напечатанные стены и деревянные элементы фасадов",
+      "illustration": false,
       "event": "Подробная публикация проекта — 21 сентября 2026 · Проект завершён в 2026 году",
       "imageReview": {
-        "sourceImageCount": 0,
-        "excluded": [],
-        "reviewedAt": "2026-09-22",
-        "note": "Оригинальная съёмка проекта просмотрена у источника, но открытое разрешение на самостоятельную перепубликацию не подтверждено. Использована собственная редакционная схема."
+        "sourceImageCount": 37,
+        "excluded": []
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/detail_1_medium.webp",
+          "credit": "Фото: Edi Cliff / SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-2",
+          "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/detail_2_medium.webp",
+          "credit": "Фото: Edi Cliff / SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-3",
+          "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/detail_3_medium.webp",
+          "credit": "Фото: Edi Cliff / SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-4",
+          "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/print_wall_medium.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-5",
+          "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/print_person_medium.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-6",
+          "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_1_medium.webp",
+          "credit": "Фото: Edi Cliff / SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-7",
+          "caption": "Skovsporet — интерьер студенческого жилья"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_2_medium.webp",
+          "credit": "Фото: Edi Cliff / SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-8",
+          "caption": "Skovsporet — интерьер студенческого жилья"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_3_medium.webp",
+          "credit": "Фото: Edi Cliff / SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-9",
+          "caption": "Skovsporet — интерьер студенческого жилья"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_4_medium.webp",
+          "credit": "Фото: Edi Cliff / SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-10",
+          "caption": "Skovsporet — интерьер студенческого жилья"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_5_medium.webp",
+          "credit": "Фото: Edi Cliff / SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-11",
+          "caption": "Skovsporet — интерьер студенческого жилья"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/interior_6_medium.webp",
+          "credit": "Фото: Edi Cliff / SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-12",
+          "caption": "Skovsporet — интерьер студенческого жилья"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/floorplan_medium.webp",
+          "credit": "Чертежи и схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-13",
+          "caption": "Skovsporet — план жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/section_medium.webp",
+          "credit": "Чертежи и схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-14",
+          "caption": "Skovsporet — разрез"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/print_scale_medium.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-15",
+          "caption": "Skovsporet — 3D-печать стен"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/print_nozzle_medium.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-16",
+          "caption": "Skovsporet — 3D-печать стен"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/print-area_medium.webp",
+          "credit": "Схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-17",
+          "caption": "Skovsporet — схема организации жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/mass_medium.webp",
+          "credit": "Схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-18",
+          "caption": "Skovsporet — схема организации жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/courtyard_medium.webp",
+          "credit": "Схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-19",
+          "caption": "Skovsporet — схема организации жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/common-area_medium.webp",
+          "credit": "Схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-20",
+          "caption": "Skovsporet — схема организации жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/apartments_medium.webp",
+          "credit": "Схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-21",
+          "caption": "Skovsporet — схема организации жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/loft_medium.webp",
+          "credit": "Схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-22",
+          "caption": "Skovsporet — схема организации жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/roof_medium.webp",
+          "credit": "Схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-23",
+          "caption": "Skovsporet — схема организации жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/wall1_medium.webp",
+          "credit": "Схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-24",
+          "caption": "Skovsporet — схема организации жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/drawings/compressed/wall2_medium.webp",
+          "credit": "Схемы: SAGA Space Architects",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-25",
+          "caption": "Skovsporet — схема организации жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_01_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-26",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_02_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-27",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_03_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-28",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_04_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-29",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_05_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-30",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_06_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-31",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_07_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-32",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_08_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-33",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_09_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-34",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_10_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-35",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_11_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-36",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        },
+        {
+          "url": "https://saga.dk/next_assets/skovsporet/2026/end-cluster/compressed/grid_12_small.webp",
+          "credit": "Фото строительства: SAGA Space Architects / 3DCP",
+          "source": "https://saga.dk/projects/skovsporet",
+          "id": "gallery-photo23-skovsporet-3d-student-housing-37",
+          "caption": "Skovsporet — строительство и отделка жилого блока"
+        }
+      ],
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "archdaily.com",
+          "url": "https://www.archdaily.com/1185046/skovsporet-3d-printed-student-housing-saga-space-architects"
+        },
+        {
+          "title": "Фотографии и материалы проекта",
+          "url": "https://saga.dk/projects/skovsporet"
+        }
+      ]
     },
     {
       "id": "rubik-blueprint-100",
@@ -37,20 +309,145 @@
       "format": "Проект",
       "place": "Россия",
       "dek": "The Blueprint и ОТП Банк попросили участников Blueprint 100 переосмыслить знакомую головоломку — от скульптуры до рабочего органайзера.",
-      "body": "21 сентября The Blueprint опубликовал специальный проект с ОТП Банком: девяти участникам категории «Архитектура и дизайн» из списка Blueprint 100 дали один исходный объект — Кубик Рубика — и попросили пересобрать его по-своему. Это рекламная коллаборация, и именно так её стоит читать. Но сам дизайнерский эксперимент получился полезным.\n\n## Один бриф хорошо показывает разницу в мышлении\n\nКогда у всех одинаковая отправная точка, быстро видно, кто работает с формой, кто — с механикой, кто — с функцией, а кто превращает вещь в маленькую архитектуру. Общий символ не привёл к девяти одинаково раскрашенным кубам: участники меняли сам сценарий использования предмета.\n\nНапример, ORDO в закрытом виде остаётся кубом, а после раскрытия превращается в настольный органайзер с тремя зонами хранения. Это уже не сувенир с дизайнерской оболочкой, а новая вещь, которая всё ещё держит в памяти исходную головоломку.\n\n## Почему это стоит показать коллеге\n\nДля брендов и выставок здесь хороший урок: сильное ограничение иногда даёт больше разнообразия, чем просьба «сделать что-нибудь авторское». Главное — позволить дизайнеру менять функцию и конструкцию, а не только цвет поверхности.\n\n## Что можно забрать в работу\n\nТакой формат легко переносится в мебель, свет, фурнитуру и материалы: один исходный узел, один материал или одна производственная операция — и несколько авторов с разными ответами. Если сравнение честное, зрителю становится интересен не только результат, но и ход мысли.",
+      "body": [
+        "21 сентября The Blueprint опубликовал специальный проект с ОТП Банком: девяти участникам категории «Архитектура и дизайн» из списка Blueprint 100 дали один исходный объект — Кубик Рубика — и попросили пересобрать его по-своему. Это рекламная коллаборация, и именно так её стоит читать. Но сам дизайнерский эксперимент получился полезным.",
+        "## Один бриф хорошо показывает разницу в мышлении",
+        "Когда у всех одинаковая отправная точка, быстро видно, кто работает с формой, кто — с механикой, кто — с функцией, а кто превращает вещь в маленькую архитектуру. Общий символ не привёл к девяти одинаково раскрашенным кубам: участники меняли сам сценарий использования предмета.",
+        "Например, ORDO в закрытом виде остаётся кубом, а после раскрытия превращается в настольный органайзер с тремя зонами хранения. Это уже не сувенир с дизайнерской оболочкой, а новая вещь, которая всё ещё держит в памяти исходную головоломку.",
+        "## Почему это стоит показать коллеге",
+        "Для брендов и выставок здесь хороший урок: сильное ограничение иногда даёт больше разнообразия, чем просьба «сделать что-нибудь авторское». Главное — позволить дизайнеру менять функцию и конструкцию, а не только цвет поверхности.",
+        "## Что можно забрать в работу",
+        "Такой формат легко переносится в мебель, свет, фурнитуру и материалы: один исходный узел, один материал или одна производственная операция — и несколько авторов с разными ответами. Если сравнение честное, зрителю становится интересен не только результат, но и ход мысли."
+      ],
       "source": "https://theblueprint.ru/lifestyle/special/otpbank",
-      "credit": "Иллюстрация TECTONICA · оригинальная съёмка спецпроекта: Гоша Ин",
-      "image": "issue-2026-09-22-rubik",
-      "imageAlt": "Редакционная иллюстрация TECTONICA о девяти дизайнерских интерпретациях Кубика Рубика",
-      "illustration": true,
+      "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+      "image": "gallery-photo23-rubik-blueprint-100-2",
+      "imageAlt": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк",
+      "illustration": false,
       "event": "Специальный проект опубликован 21 сентября 2026",
       "imageReview": {
-        "sourceImageCount": 0,
-        "excluded": [],
-        "reviewedAt": "2026-09-22",
-        "note": "Фотографии спецпроекта не переносились без отдельного разрешения. Обложка — самостоятельная редакционная иллюстрация, не копирующая конкретный объект участников."
+        "sourceImageCount": 17,
+        "excluded": [
+          {
+            "url": "https://theblueprint.ru/upload/41563/vms/af305fc19e491d745f340727de55e17c.png",
+            "reason": "Рекламная маркировка, не фотография экспоната"
+          }
+        ]
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/0cc638eb158eb510a6e235642de62e88_small.png",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-3",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/9d8b677f1e397a319941008a508c3fc7.jpg",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-4",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/fa1de043b69310ee3a6701ec88f52842.jpg",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-5",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/fbd60ab3282d5493ffc8e97d69375e0b_small.png",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-6",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/8532027606a6af056ff1c64ddbf64f17.jpg",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-7",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/b883eb2aadaf6a2270d9f0049e7eda84.jpg",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-8",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/5627a74ae36ba7b2679cd1d123ca31fc.png",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-9",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/1d8243755529a3511960c429a307cfe6.jpg",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-10",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/c44372b44e3c98e3184478d144abf95f_small.png",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-11",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/4c7b7dc43bb60030cb86f53bd8c8ac8a.jpg",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-12",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/2224dc62da1ed9214044eb4f8da86675.jpg",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-13",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/898c3daaa22dc238f9a5568da80f23e8_small.png",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-14",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/0e38be390d2c9d1021c2bc9e22f23a51.jpg",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-15",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк — предмет крупным планом"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/1bdbb6f83ee80f4ada9e3f760f872ea7.jpg",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-16",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        },
+        {
+          "url": "https://theblueprint.ru/upload/41563/vms/498b1639dbfcb1afdc805095c7b3d8fd.png",
+          "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+          "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+          "id": "gallery-photo23-rubik-blueprint-100-17",
+          "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+        }
+      ],
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "theblueprint.ru",
+          "url": "https://theblueprint.ru/lifestyle/special/otpbank"
+        }
+      ]
     },
     {
       "id": "anir-guest-house-passive-design",
@@ -59,20 +456,308 @@
       "format": "Проект",
       "place": "Семаранг, Индонезия",
       "dek": "Tamara Wibowo Architects развернула комнаты под углом, сделала фасады проницаемыми для воздуха и превратила узкий участок в систему приватных и общих зон.",
-      "body": "21 сентября ArchDaily опубликовал Anir Guest House в Семаранге — женский пансион площадью 800 м² на трапециевидном участке примерно 11 × 25 метров. Сам проект завершён в 2025 году; свежая здесь именно подробная публикация.\n\n## Геометрия решает сразу несколько задач\n\nСпальни поставлены под углом к коридору. Из-за этого фасад становится зубчатым, двери меньше смотрят друг на друга, а в проходе появляются небольшие карманы, где можно остановиться и поговорить. Вместо отдельного декоративного жеста одна и та же геометрия работает на приватность, движение и общение.\n\nАрхитекторы строят климатическую логику на пассивных приёмах: движении воздуха, естественном свете и чередовании открытых и полуоткрытых пространств. Перфорированные поверхности и пустоты помогают воздуху проходить через здание, а свет попадает глубже в узкий план. Команда также сохранила естественный перепад участка примерно в метр, а не выровняла его полностью.\n\n## Почему это стоит показать коллеге\n\nЗдесь «зелёная архитектура» не выглядит отдельным набором технологий, прикрученным в конце. Планировка, фасад и микроклимат проектируются одной системой. Это дешевле и убедительнее, чем сначала сделать неудобный объём, а потом компенсировать его оборудованием.\n\n## Что можно забрать в работу в России\n\nКлимат Семаранга нельзя копировать буквально: сквозная пористость фасада в Новосибирске зимой будет плохой идеей. Но принцип переносится отлично — сначала заставить план, разрез и оболочку решать несколько задач одновременно, а уже потом добавлять технику там, где она действительно нужна.",
+      "body": [
+        "21 сентября ArchDaily опубликовал Anir Guest House в Семаранге — женский пансион площадью 800 м² на трапециевидном участке примерно 11 × 25 метров. Сам проект завершён в 2025 году; свежая здесь именно подробная публикация.",
+        "## Геометрия решает сразу несколько задач",
+        "Спальни поставлены под углом к коридору. Из-за этого фасад становится зубчатым, двери меньше смотрят друг на друга, а в проходе появляются небольшие карманы, где можно остановиться и поговорить. Вместо отдельного декоративного жеста одна и та же геометрия работает на приватность, движение и общение.",
+        "Архитекторы строят климатическую логику на пассивных приёмах: движении воздуха, естественном свете и чередовании открытых и полуоткрытых пространств. Перфорированные поверхности и пустоты помогают воздуху проходить через здание, а свет попадает глубже в узкий план. Команда также сохранила естественный перепад участка примерно в метр, а не выровняла его полностью.",
+        "## Почему это стоит показать коллеге",
+        "Здесь «зелёная архитектура» не выглядит отдельным набором технологий, прикрученным в конце. Планировка, фасад и микроклимат проектируются одной системой. Это дешевле и убедительнее, чем сначала сделать неудобный объём, а потом компенсировать его оборудованием.",
+        "## Что можно забрать в работу в России",
+        "Климат Семаранга нельзя копировать буквально: сквозная пористость фасада в Новосибирске зимой будет плохой идеей. Но принцип переносится отлично — сначала заставить план, разрез и оболочку решать несколько задач одновременно, а уже потом добавлять технику там, где она действительно нужна."
+      ],
       "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
-      "credit": "Иллюстрация TECTONICA · оригинальная съёмка проекта: Ernest Theofilus",
-      "image": "issue-2026-09-22-anir",
-      "imageAlt": "Редакционная схема TECTONICA о пассивной вентиляции и зубчатой планировке Anir Guest House",
-      "illustration": true,
+      "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+      "image": "gallery-photo23-anir-guest-house-passive-design-1",
+      "imageAlt": "Anir Guest House — кирпичные экраны и фасады",
+      "illustration": false,
       "event": "Подробная публикация проекта — 21 сентября 2026 · Проект завершён в 2025 году",
       "imageReview": {
-        "sourceImageCount": 0,
-        "excluded": [],
-        "reviewedAt": "2026-09-22",
-        "note": "Оригинальная съёмка Ernest Theofilus просмотрена у источника; права на самостоятельную перепубликацию не подтверждены. Использована редакционная схема."
+        "sourceImageCount": 40,
+        "excluded": []
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa5/d8c8/8201/89ac/d05e/large_jpg/anir-guest-house-tamara-wibowo-architects_15.jpg?1789663940",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-2",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aad/d8c8/8201/89ac/d065/large_jpg/anir-guest-house-tamara-wibowo-architects_30.jpg?1789663974",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-3",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aad/8d91/7901/8920/52d8/large_jpg/anir-guest-house-tamara-wibowo-architects_9.jpg?1789663943",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-4",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aaa/d8c8/8201/89ac/d062/large_jpg/anir-guest-house-tamara-wibowo-architects_10.jpg?1789664160",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-5",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1a9f/8d91/7901/8920/52c7/large_jpg/anir-guest-house-tamara-wibowo-architects_4.jpg?1789663934",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-6",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa2/8d91/7901/8920/52ca/large_jpg/anir-guest-house-tamara-wibowo-architects_7.jpg?1789663936",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-7",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1a9f/8d91/7901/8920/52c9/large_jpg/anir-guest-house-tamara-wibowo-architects_5.jpg?1789663952",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-8",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aab/8d91/7901/8920/52d5/large_jpg/anir-guest-house-tamara-wibowo-architects_26.jpg?1789663942",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-9",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1a9f/8d91/7901/8920/52c6/large_jpg/anir-guest-house-tamara-wibowo-architects_2.jpg?1789663931",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-10",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1a9f/8d91/7901/8920/52c8/large_jpg/anir-guest-house-tamara-wibowo-architects_3.jpg?1789663933",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-11",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aac/d8c8/8201/89ac/d064/large_jpg/anir-guest-house-tamara-wibowo-architects_27.jpg?1789663963",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-12",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa2/d8c8/8201/89ac/d05a/large_jpg/anir-guest-house-tamara-wibowo-architects_6.jpg?1789663936",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-13",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa3/d8c8/8201/89ac/d05c/large_jpg/anir-guest-house-tamara-wibowo-architects_16.jpg?1789663972",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-14",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aaa/d8c8/8201/89ac/d061/large_jpg/anir-guest-house-tamara-wibowo-architects_29.jpg?1789664135",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-15",
+          "caption": "Anir Guest House — кирпичные экраны и фасады"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1a9e/d8c8/8201/89ac/d058/large_jpg/anir-guest-house-tamara-wibowo-architects_1.jpg?1789663928",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-16",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa2/8d91/7901/8920/52cb/large_jpg/anir-guest-house-tamara-wibowo-architects_22.jpg?1789663933",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-17",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa4/d8c8/8201/89ac/d05d/large_jpg/anir-guest-house-tamara-wibowo-architects_13.jpg?1789663939",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-18",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa0/d8c8/8201/89ac/d059/large_jpg/anir-guest-house-tamara-wibowo-architects_12.jpg?1789663959",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-19",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aaa/8d91/7901/8920/52d4/large_jpg/anir-guest-house-tamara-wibowo-architects_31.jpg?1789663969",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-20",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa5/8d91/7901/8920/52ce/large_jpg/anir-guest-house-tamara-wibowo-architects_17.jpg?1789663940",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-21",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aad/d8c8/820d/7ba6/709b/large_jpg/anir-guest-house-tamara-wibowo-architects_11.jpg?1789663973",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-22",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa3/d8c8/8201/89ac/d05b/large_jpg/anir-guest-house-tamara-wibowo-architects_14.jpg?1789663972",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-23",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa8/d8c8/8201/89ac/d05f/large_jpg/anir-guest-house-tamara-wibowo-architects_21.jpg?1789663971",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-24",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aaa/8d91/7901/8920/52d3/large_jpg/anir-guest-house-tamara-wibowo-architects_20.jpg?1789664081",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-25",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa6/8d91/7901/8920/52cf/large_jpg/anir-guest-house-tamara-wibowo-architects_19.jpg?1789663993",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-26",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa7/8d91/7901/8920/52d0/large_jpg/anir-guest-house-tamara-wibowo-architects_18.jpg?1789664026",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-27",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa3/8d91/7901/8920/52cc/large_jpg/anir-guest-house-tamara-wibowo-architects_8.jpg?1789663937",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-28",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa9/8d91/7901/8920/52d2/large_jpg/anir-guest-house-tamara-wibowo-architects_23.jpg?1789663994",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-29",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa5/8d91/7901/8920/52cd/large_jpg/anir-guest-house-tamara-wibowo-architects_24.jpg?1789663972",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-30",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aa8/d8c8/8201/89ac/d060/large_jpg/anir-guest-house-tamara-wibowo-architects_25.jpg?1789664026",
+          "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-31",
+          "caption": "Anir Guest House — интерьеры, свет и внутренние дворы"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aab/d8c8/8201/89ac/d063/large_jpg/1st-floor-plan-bw-1.jpg?1789663938",
+          "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-32",
+          "caption": "Anir Guest House — план этажа"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aac/8d91/7901/8920/52d6/large_jpg/2nd-floor-plan-bw-2.jpg?1789663938",
+          "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-33",
+          "caption": "Anir Guest House — план этажа"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aad/8d91/790a/4587/530a/large_jpg/3rd-floor-plan-bw-3.jpg?1789663938",
+          "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-34",
+          "caption": "Anir Guest House — план этажа"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aae/d8c8/8201/89ac/d066/large_jpg/4th-floor-plan-bw-4.jpg?1789663939",
+          "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-35",
+          "caption": "Anir Guest House — план этажа"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aaf/d8c8/8201/89ac/d067/large_jpg/section-c-bw-9.jpg?1789663947",
+          "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-36",
+          "caption": "Anir Guest House — разрез"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aae/8d91/7901/8920/52d9/large_jpg/section-b-bw-8.jpg?1789663939",
+          "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-37",
+          "caption": "Anir Guest House — разрез"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aac/8d91/7901/8920/52d7/large_jpg/section-a-bw-7.jpg?1789663937",
+          "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-38",
+          "caption": "Anir Guest House — разрез"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1ab0/8d91/7901/8920/52db/large_jpg/anir-guesthouse-siteplan-5.jpg?1789663958",
+          "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-39",
+          "caption": "Anir Guest House — схема объёма"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aac/1aaf/8d91/7901/8920/52da/large_jpg/massing-diagram-6.jpg?1789663945",
+          "credit": "Чертежи и схемы: Tamara Wibowo Architects / ArchDaily",
+          "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+          "id": "gallery-photo23-anir-guest-house-passive-design-40",
+          "caption": "Anir Guest House — схема объёма"
+        }
+      ],
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "archdaily.com",
+          "url": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects"
+        }
+      ]
     },
     {
       "id": "lilac-bureau-lisbon-44sqm",
@@ -81,20 +766,235 @@
       "format": "Интерьер",
       "place": "Лиссабон, Португалия",
       "dek": "BUREAU перенесла кухню в бывшую прихожую, собрала ванную в центре квартиры и пустила движение вокруг неё по четырём проёмам.",
-      "body": "LILAC — квартира площадью 44 м² в Лиссабоне, опубликованная ArchDaily 21 сентября. BUREAU начала не с мебели-трансформера и не со встроенных шкафов во всю стену, а с переписывания маршрута по квартире.\n\n## Самое ценное место здесь — не комната, а путь между комнатами\n\nБывшая прихожая стала полноценной кухней. Центральную комнату отдали под мокрую зону, а вокруг неё организовали непрерывный проход с четырьмя симметричными проёмами. В результате движение не съедает отдельный коридор: оно проходит через полезные пространства и связывает их между собой.\n\nАвторы сознательно оставили мало жёстких сценариев. Квартира рассчитана на совместную жизнь, где разные занятия могут происходить одновременно, а комнаты не закреплены навсегда за одной функцией. На 44 м² такая неопределённость может быть полезнее ещё одного предмета мебели.\n\n## Почему это стоит показать коллеге\n\nМаленькие квартиры часто пытаются спасать сложной столяркой. LILAC напоминает, что сначала стоит проверить сам план: иногда один правильно поставленный технический блок освобождает больше пространства, чем десять хитрых шкафов.\n\n## Что можно забрать в работу в России\n\nВ старом жилом фонде похожая логика может работать особенно хорошо: собрать инженерные функции компактнее и отдать освещённый периметр жилым зонам. Но переносить схему надо через местные правила перепланировки, мокрых зон и вентиляции — красивый план не отменяет нормативов.",
+      "body": [
+        "LILAC — квартира площадью 44 м² в Лиссабоне, опубликованная ArchDaily 21 сентября. BUREAU начала не с мебели-трансформера и не со встроенных шкафов во всю стену, а с переписывания маршрута по квартире.",
+        "## Самое ценное место здесь — не комната, а путь между комнатами",
+        "Бывшая прихожая стала полноценной кухней. Центральную комнату отдали под мокрую зону, а вокруг неё организовали непрерывный проход с четырьмя симметричными проёмами. В результате движение не съедает отдельный коридор: оно проходит через полезные пространства и связывает их между собой.",
+        "Авторы сознательно оставили мало жёстких сценариев. Квартира рассчитана на совместную жизнь, где разные занятия могут происходить одновременно, а комнаты не закреплены навсегда за одной функцией. На 44 м² такая неопределённость может быть полезнее ещё одного предмета мебели.",
+        "## Почему это стоит показать коллеге",
+        "Маленькие квартиры часто пытаются спасать сложной столяркой. LILAC напоминает, что сначала стоит проверить сам план: иногда один правильно поставленный технический блок освобождает больше пространства, чем десять хитрых шкафов.",
+        "## Что можно забрать в работу в России",
+        "В старом жилом фонде похожая логика может работать особенно хорошо: собрать инженерные функции компактнее и отдать освещённый периметр жилым зонам. Но переносить схему надо через местные правила перепланировки, мокрых зон и вентиляции — красивый план не отменяет нормативов."
+      ],
       "source": "https://www.archdaily.com/1185427/lilac-bureau",
-      "credit": "Иллюстрация TECTONICA · оригинальная съёмка проекта: Francisco Nogueira",
-      "image": "issue-2026-09-22-lilac",
-      "imageAlt": "Редакционная план-схема TECTONICA квартиры LILAC площадью 44 квадратных метра",
-      "illustration": true,
+      "credit": "Фото: Francisco Nogueira / BUREAU",
+      "image": "gallery-photo23-lilac-bureau-lisbon-44sqm-1",
+      "imageAlt": "LILAC — интерьер квартиры BUREAU в Лиссабоне",
+      "illustration": false,
       "event": "Публикация проекта — 21 сентября 2026 · Реализация — 2026 год",
       "imageReview": {
-        "sourceImageCount": 0,
-        "excluded": [],
-        "reviewedAt": "2026-09-22",
-        "note": "Оригинальная съёмка Francisco Nogueira просмотрена у источника; открытая лицензия на самостоятельную публикацию не подтверждена. Использована редакционная план-схема."
+        "sourceImageCount": 29,
+        "excluded": []
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_2.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-2",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_3.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-3",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_4.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-4",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_01.jpg",
+          "credit": "Чертежи: BUREAU, Beatriz Duarte",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-5",
+          "caption": "LILAC — план квартиры"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_6.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-6",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_7.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-7",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_8.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-8",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_05.jpg",
+          "credit": "Чертежи: BUREAU, Beatriz Duarte",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-9",
+          "caption": "LILAC — чертёж проекта"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_10.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-10",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_11.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-11",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_12.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-12",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_13.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-13",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_14.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-14",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_15.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-15",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_16.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-16",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_02.jpg",
+          "credit": "Чертежи: BUREAU, Beatriz Duarte",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-17",
+          "caption": "LILAC — чертёж проекта"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_17.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-18",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_18.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-19",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_19.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-20",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_20.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-21",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_21.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-22",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_03.jpg",
+          "credit": "Чертежи: BUREAU, Beatriz Duarte",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-23",
+          "caption": "LILAC — чертёж проекта"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_22.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-24",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_23.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-25",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_24.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-26",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_25.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-27",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_26.jpg",
+          "credit": "Фото: Francisco Nogueira / BUREAU",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-28",
+          "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+        },
+        {
+          "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilac_04.jpg",
+          "credit": "Чертежи: BUREAU, Beatriz Duarte",
+          "source": "https://bureau.ac/lilac/",
+          "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-29",
+          "caption": "LILAC — чертёж проекта"
+        }
+      ],
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "archdaily.com",
+          "url": "https://www.archdaily.com/1185427/lilac-bureau"
+        },
+        {
+          "title": "Фотографии и материалы проекта",
+          "url": "https://bureau.ac/lilac/"
+        }
+      ]
     },
     {
       "id": "muar-contemporary-depository-2026",
@@ -103,20 +1003,49 @@
       "format": "Выставка",
       "place": "Москва, Россия",
       "dek": "«Депозитарий современности» должен стать первой частью большого проекта о том, какие здания и пространства первых десятилетий века стоит сохранить для истории.",
-      "body": "21 сентября стало известно о новой выставке Музея архитектуры имени Щусева: 23 сентября на Воздвиженке откроется «Депозитарий современности». В МУАРе называют её первой частью мегапроекта по каталогизации современной архитектуры.\n\n## Необычно то, что архив начинают собирать без дистанции в сто лет\n\nОбычно разговор о наследии становится громким, когда здание уже собираются перестраивать или сносить. Здесь вопрос ставят раньше: что из архитектуры первых десятилетий XXI века уже сейчас имеет смысл фиксировать и сохранять для истории.\n\nЭто полезный сдвиг. Современное здание меняется быстро: отделку заменяют, вывески и интерьеры исчезают, инженерные решения прячутся под следующими ремонтами. Через двадцать лет одного красивого фасадного снимка будет мало, чтобы понять, что именно было важным в проекте.\n\n## Почему это стоит показать коллеге\n\nДля архитекторов это напоминание, что архив проекта — часть профессиональной работы, а не папка, которую можно забыть после сдачи. Чертежи, фотографии построенного состояния, спецификации материалов, авторство отдельных решений и история поздних изменений со временем становятся не менее важными, чем рендеры конкурса.\n\n## Что можно забрать в работу\n\nБюро и производителям стоит начать собирать такие архивы сейчас. Не ради будущего музея, а хотя бы ради собственной памяти: через пять лет нормальная документация проекта уже помогает не спорить по фотографиям о том, что было задумано и что в итоге построили.",
+      "body": [
+        "21 сентября стало известно о новой выставке Музея архитектуры имени Щусева: 23 сентября на Воздвиженке откроется «Депозитарий современности». В МУАРе называют её первой частью мегапроекта по каталогизации современной архитектуры.",
+        "## Необычно то, что архив начинают собирать без дистанции в сто лет",
+        "Обычно разговор о наследии становится громким, когда здание уже собираются перестраивать или сносить. Здесь вопрос ставят раньше: что из архитектуры первых десятилетий XXI века уже сейчас имеет смысл фиксировать и сохранять для истории.",
+        "Это полезный сдвиг. Современное здание меняется быстро: отделку заменяют, вывески и интерьеры исчезают, инженерные решения прячутся под следующими ремонтами. Через двадцать лет одного красивого фасадного снимка будет мало, чтобы понять, что именно было важным в проекте.",
+        "## Почему это стоит показать коллеге",
+        "Для архитекторов это напоминание, что архив проекта — часть профессиональной работы, а не папка, которую можно забыть после сдачи. Чертежи, фотографии построенного состояния, спецификации материалов, авторство отдельных решений и история поздних изменений со временем становятся не менее важными, чем рендеры конкурса.",
+        "## Что можно забрать в работу",
+        "Бюро и производителям стоит начать собирать такие архивы сейчас. Не ради будущего музея, а хотя бы ради собственной памяти: через пять лет нормальная документация проекта уже помогает не спорить по фотографиям о том, что было задумано и что в итоге построили."
+      ],
       "source": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/",
-      "credit": "Иллюстрация TECTONICA",
-      "image": "issue-2026-09-22-muar",
-      "imageAlt": "Редакционная иллюстрация TECTONICA к выставке МУАР «Депозитарий современности»",
-      "illustration": true,
+      "credit": "Фото: Анастасия Соболева · материалы Музея архитектуры / Москвич Mag",
+      "image": "gallery-photo23-muar-contemporary-depository-2026-3",
+      "imageAlt": "Театр имени Галиасгара Камала в Казани — проект из материалов выставки",
+      "illustration": false,
       "event": "Анонс опубликован 21 сентября 2026 · Открытие выставки — 23 сентября 2026",
       "imageReview": {
-        "sourceImageCount": 0,
-        "excluded": [],
-        "reviewedAt": "2026-09-22",
-        "note": "Фотографии из анонса не перепубликовывались без подтверждённых прав. Использована собственная редакционная иллюстрация."
+        "sourceImageCount": 3,
+        "excluded": []
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://storage.yandexcloud.net/moskvichmag/uploads/2026/09/depoz1-1024x538.jpg",
+          "credit": "Эскиз: Сергей Чобан · материалы Музея архитектуры / Москвич Mag",
+          "source": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/",
+          "id": "gallery-photo23-muar-contemporary-depository-2026-1",
+          "caption": "Эскиз «Невской ратуши» Сергея Чобана — материал выставки"
+        },
+        {
+          "url": "https://storage.yandexcloud.net/moskvichmag/uploads/2026/09/depoz81.jpg",
+          "credit": "Эскиз: материалы Музея архитектуры / Москвич Mag · автор в источнике не указан",
+          "source": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/",
+          "id": "gallery-photo23-muar-contemporary-depository-2026-2",
+          "caption": "Эскиз из материалов выставки «Современный депозитарий»"
+        }
+      ],
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "moskvichmag.ru",
+          "url": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/"
+        }
+      ]
     }
   ],
   "editorialPicks": [
@@ -187,6 +1116,41 @@
       "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/assets/images/issue-2026-09-22-muar.svg",
       "source": "https://tectonica.media/",
       "credit": "Иллюстрация TECTONICA"
+    },
+    {
+      "url": "https://saga.dk/next_assets/skovsporet/2026/compressed/hero_medium.webp",
+      "credit": "Фото: Edi Cliff / SAGA Space Architects",
+      "source": "https://saga.dk/projects/skovsporet",
+      "id": "gallery-photo23-skovsporet-3d-student-housing-1",
+      "caption": "Skovsporet — напечатанные стены и деревянные элементы фасадов"
+    },
+    {
+      "url": "https://theblueprint.ru/upload/41563/vms/edc5c7da9af9be42e1140d44e8c30968.jpg",
+      "credit": "Фото: Гоша Ин / The Blueprint × ОТП Банк",
+      "source": "https://theblueprint.ru/lifestyle/special/otpbank",
+      "id": "gallery-photo23-rubik-blueprint-100-2",
+      "caption": "Проект «100»: предмет и его авторы в съёмке The Blueprint × ОТП Банк"
+    },
+    {
+      "url": "https://images.adsttc.com/media/images/6aac/1aa8/8d91/7901/8920/52d1/large_jpg/anir-guest-house-tamara-wibowo-architects_28.jpg?1789663970",
+      "credit": "Фото: Ernest Theofilus · Tamara Wibowo Architects / ArchDaily",
+      "source": "https://www.archdaily.com/1185321/anir-guest-house-tamara-wibowo-architects",
+      "id": "gallery-photo23-anir-guest-house-passive-design-1",
+      "caption": "Anir Guest House — кирпичные экраны и фасады"
+    },
+    {
+      "url": "https://d2heamyfh1159w.cloudfront.net/bureau_lilaccfrancisconogueira_1.jpg",
+      "credit": "Фото: Francisco Nogueira / BUREAU",
+      "source": "https://bureau.ac/lilac/",
+      "id": "gallery-photo23-lilac-bureau-lisbon-44sqm-1",
+      "caption": "LILAC — интерьер квартиры BUREAU в Лиссабоне"
+    },
+    {
+      "url": "https://storage.yandexcloud.net/moskvichmag/uploads/2026/09/depoz82.jpg",
+      "credit": "Фото: Анастасия Соболева · материалы Музея архитектуры / Москвич Mag",
+      "source": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/",
+      "id": "gallery-photo23-muar-contemporary-depository-2026-3",
+      "caption": "Театр имени Галиасгара Камала в Казани — проект из материалов выставки"
     }
   ],
   "featurePitches": [

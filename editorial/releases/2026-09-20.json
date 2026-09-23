@@ -14,20 +14,45 @@
       "format": "Главная история",
       "place": "Новосибирск, Россия",
       "dek": "В финальный день обсуждали будущие проекты города, архитектурное образование и «Большие проекты Большой Сибири». Фестиваль связал новые стройки с наследием, транспортом и городской средой.",
-      "body": "19 сентября завершились Дни архитектуры в Новосибирске. В программе финального дня были заседание «Большие проекты Большой Сибири и будущее Новосибирска», презентации выпускных проектов, разговор об архитектурном образовании, лекция сооснователя KPLN Сергея Никешкина и мастер-класс президента Союза архитекторов России Николая Шумакова.\n\n## Почему это больше, чем профессиональный календарь\n\nФестиваль шёл с 17 по 19 сентября и был приурочен к 150-летию Андрея Крячкова. Но полезнее самой юбилейной рамки то, как собрана повестка: рядом оказались наследие, дизайн-код, метро, зелёный каркас, новые проекты и подготовка архитекторов. Город обсуждают не как набор отдельных фасадов, а как систему решений.\n\n## Что стоит показать коллеге\n\nДля региональной сцены важно, что разговор происходит в самом Новосибирске и касается конкретных задач Сибири. Это не пересказ столичной конференции и не выставка картинок «из регионов»: местные архитекторы, городские темы, образование и большие проекты оказываются в одной профессиональной рамке.\n\n## Что можно забрать в работу\n\nБюро, поставщикам и девелоперам полезно не ждать федерального события, чтобы собрать вокруг себя профессиональную аудиторию. Регулярная местная площадка, где встречаются архитекторы, город, вузы и бизнес, постепенно создаёт рынок сильнее разовой рекламной активности.\n\nФотографии события не переносим без отдельного разрешения. Для обложки используем собственную редакционную иллюстрацию TECTONICA.",
+      "body": [
+        "19 сентября завершились Дни архитектуры в Новосибирске. В программе финального дня были заседание «Большие проекты Большой Сибири и будущее Новосибирска», презентации выпускных проектов, разговор об архитектурном образовании, лекция сооснователя KPLN Сергея Никешкина и мастер-класс президента Союза архитекторов России Николая Шумакова.",
+        "## Почему это больше, чем профессиональный календарь",
+        "Фестиваль шёл с 17 по 19 сентября и был приурочен к 150-летию Андрея Крячкова. Но полезнее самой юбилейной рамки то, как собрана повестка: рядом оказались наследие, дизайн-код, метро, зелёный каркас, новые проекты и подготовка архитекторов. Город обсуждают не как набор отдельных фасадов, а как систему решений.",
+        "## Что стоит показать коллеге",
+        "Для региональной сцены важно, что разговор происходит в самом Новосибирске и касается конкретных задач Сибири. Это не пересказ столичной конференции и не выставка картинок «из регионов»: местные архитекторы, городские темы, образование и большие проекты оказываются в одной профессиональной рамке.",
+        "## Что можно забрать в работу",
+        "Бюро, поставщикам и девелоперам полезно не ждать федерального события, чтобы собрать вокруг себя профессиональную аудиторию. Регулярная местная площадка, где встречаются архитекторы, город, вузы и бизнес, постепенно создаёт рынок сильнее разовой рекламной активности."
+      ],
       "source": "https://archi.ru/events/22962/dni-arkhitektury-v-novosibirske",
-      "credit": "Иллюстрация TECTONICA",
-      "image": "issue-2026-09-20-nsk",
-      "imageAlt": "Редакционная иллюстрация TECTONICA к Дням архитектуры в Новосибирске",
-      "illustration": true,
+      "credit": "Фото: пресс-служба Министерства строительства Новосибирской области / Новосибирские новости",
+      "image": "gallery-photo23-novosibirsk-architecture-days-2026-1",
+      "imageAlt": "Дни архитектуры в Новосибирске — открытие форума 17 сентября",
+      "illustration": false,
       "event": "Фестиваль — 17–19 сентября 2026 · Заключительная программа — 19 сентября 2026",
       "imageReview": {
-        "sourceImageCount": 0,
-        "excluded": [],
-        "reviewedAt": "2026-09-20",
-        "note": "Источник использован для фактов и программы; чужие фотографии не загружались и не перепубликовывались. Обложка — оригинальная редакционная иллюстрация."
+        "sourceImageCount": 2,
+        "excluded": []
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://nsknews.info/storage/4170/dni_arkhitektury_1.jpg",
+          "credit": "Фото: пресс-служба Министерства строительства Новосибирской области / Новосибирские новости",
+          "source": "https://nsknews.info/news/dni-arxitektury-2026-startovali-v-novosibirske",
+          "id": "gallery-photo23-novosibirsk-architecture-days-2026-2",
+          "caption": "Выступление на открытии Дней архитектуры 17 сентября"
+        }
+      ],
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "archi.ru",
+          "url": "https://archi.ru/events/22962/dni-arkhitektury-v-novosibirske"
+        },
+        {
+          "title": "Фотографии и материалы проекта",
+          "url": "https://nsknews.info/news/dni-arxitektury-2026-startovali-v-novosibirske"
+        }
+      ]
     },
     {
       "id": "design-dvor-2026",
@@ -36,20 +61,52 @@
       "format": "Новость",
       "place": "Санкт-Петербург, Россия",
       "dek": "ДИЗАЙН ДВОР занял башню Design District DAA: мебель, свет, керамика, винил и редкие предметы поставили рядом вместо привычного деления по шоурумам.",
-      "body": "19 сентября в петербургском Design District DAA прошёл однодневный интерьерный маркет ДИЗАЙН ДВОР. Организаторы собрали мебель, свет, керамику, винил, искусство, винтаж и редкие интерьерные предметы в одном пространстве. Среди заявленных участников и лотов были BinoHome, Qeeboo, Kartell, aledo, Teak House, Императорский фарфоровый завод, Malplan и независимые галереи.\n\n## Почему формат интереснее обычной распродажи\n\nНовый диван, винтажная посуда, светильник, книга и произведение искусства начинают конкурировать не по товарной категории, а за место в одном интерьере. Человек приходит не только за конкретной позицией из спецификации, а посмотреть, сравнить и найти неожиданное соседство.\n\n## Что стоит показать коллеге\n\nЭто хороший российский пример того, как интерьерный ассортимент выходит из закрытого шоурума в городскую культурную среду. Для дорогих предметов такой контакт особенно важен: их проще понять рядом с другими вещами, чем по карточке товара или стенду с образцами.\n\n## Что можно забрать в работу\n\nСалонам и поставщикам стоит давать человеку повод прийти без немедленной покупки. Сначала интерес к материалу, предмету или истории, потом контакт и проект. Для сложного интерьерного продукта это часто естественнее, чем очередная акция «скидка до воскресенья».\n\nИзображения Design Mate и участников не перепубликовываем: на странице источника прямо указано ограничение на использование материалов. Обложка — собственная редакционная иллюстрация TECTONICA.",
+      "body": [
+        "19 сентября в петербургском Design District DAA прошёл однодневный интерьерный маркет ДИЗАЙН ДВОР. Организаторы собрали мебель, свет, керамику, винил, искусство, винтаж и редкие интерьерные предметы в одном пространстве. Среди заявленных участников и лотов были BinoHome, Qeeboo, Kartell, aledo, Teak House, Императорский фарфоровый завод, Malplan и независимые галереи.",
+        "## Почему формат интереснее обычной распродажи",
+        "Новый диван, винтажная посуда, светильник, книга и произведение искусства начинают конкурировать не по товарной категории, а за место в одном интерьере. Человек приходит не только за конкретной позицией из спецификации, а посмотреть, сравнить и найти неожиданное соседство.",
+        "## Что стоит показать коллеге",
+        "Это хороший российский пример того, как интерьерный ассортимент выходит из закрытого шоурума в городскую культурную среду. Для дорогих предметов такой контакт особенно важен: их проще понять рядом с другими вещами, чем по карточке товара или стенду с образцами.",
+        "## Что можно забрать в работу",
+        "Салонам и поставщикам стоит давать человеку повод прийти без немедленной покупки. Сначала интерес к материалу, предмету или истории, потом контакт и проект. Для сложного интерьерного продукта это часто естественнее, чем очередная акция «скидка до воскресенья»."
+      ],
       "source": "https://design-mate.ru/go/inter-ernyi-market-dizai-n-dvor",
-      "credit": "Иллюстрация TECTONICA",
-      "image": "issue-2026-09-20-design-dvor",
-      "imageAlt": "Редакционная иллюстрация TECTONICA к интерьерному маркету ДИЗАЙН ДВОР",
-      "illustration": true,
+      "credit": "Фото: Design District DAA · фотограф не указан",
+      "image": "gallery-photo23-design-dvor-2026-1",
+      "imageAlt": "Design District DAA — площадка маркета. Фотография пространства, не репортаж 19 сентября.",
+      "illustration": false,
       "event": "Интерьерный маркет — 19 сентября 2026",
       "imageReview": {
-        "sourceImageCount": 0,
-        "excluded": [],
-        "reviewedAt": "2026-09-20",
-        "note": "Чужие изображения не загружались и не перепубликовывались из-за ограничений источника. Обложка — оригинальная редакционная иллюстрация."
+        "sourceImageCount": 3,
+        "excluded": []
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://designdistrictdaa.ru/storage/app/media/uploaded-files/2-2.jpeg",
+          "source": "https://designdistrictdaa.ru/ru/about",
+          "caption": "Design District DAA — площадка маркета. Фотография пространства, не репортаж 19 сентября.",
+          "credit": "Фото: Design District DAA · фотограф не указан",
+          "id": "gallery-photo23-design-dvor-2026-2"
+        },
+        {
+          "url": "https://designdistrictdaa.ru/storage/app/media/uploaded-files/2-3.jpeg",
+          "source": "https://designdistrictdaa.ru/ru/about",
+          "caption": "Design District DAA — площадка маркета. Фотография пространства, не репортаж 19 сентября.",
+          "credit": "Фото: Design District DAA · фотограф не указан",
+          "id": "gallery-photo23-design-dvor-2026-3"
+        }
+      ],
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "design-mate.ru",
+          "url": "https://design-mate.ru/go/inter-ernyi-market-dizai-n-dvor"
+        },
+        {
+          "title": "Фотографии и материалы проекта",
+          "url": "https://designdistrictdaa.ru/ru/about"
+        }
+      ]
     },
     {
       "id": "powerwall-studio-rap",
@@ -58,20 +115,94 @@
       "format": "Проект",
       "place": "Бевервейк, Нидерланды",
       "dek": "Powerwall переводит электромагнитные поля 150-кВ подстанции в рельеф из 322 уникальных керамических элементов, напечатанных роботизированным способом.",
-      "body": "Studio RAP вместе с Powerhouse Company сделала Powerwall для новой 150-кВ электроподстанции в Бевервейке. На кирпичном фасаде появился керамический рельеф размером около 8 × 5 метров, собранный из 322 уникальных плиток. Геометрию получили из визуализации электромагнитных полей — техническая функция здания стала основой рисунка.\n\n## Параметрика без демонстрации параметрики\n\nКоманда сочетала вычислительное проектирование с физическими прототипами, а элементы печатала из глины роботизированным способом в своей мастерской в Роттердаме. После обжига детали покрыли полупрозрачной бирюзовой глазурью. Рёбра и углубления по-разному ловят свет, поэтому поверхность меняется в течение дня.\n\n## Почему это стоит показать коллеге\n\nЗдесь цифровая технология не заменяет архитектурную идею. Она позволяет сделать серию разных деталей, которые вместе объясняют назначение здания. Декор не приклеен к подстанции после проектирования — он вырастает из её функции.\n\n## Что можно забрать в работу в России\n\nПараметрический дизайн убедительнее, когда решает конкретную задачу материала, производства или места. Для фасадов и общественных интерьеров полезнее искать систему вариативных деталей с понятной логикой, чем сложную форму только ради вау-эффекта.\n\nФотографии проекта принадлежат Pim Top и опубликованы ArchDaily; открытого разрешения на самостоятельную перепубликацию мы не нашли. Поэтому на TECTONICA — собственная схема-иллюстрация, а оригинальную съёмку оставляем у источника.",
+      "body": [
+        "Studio RAP вместе с Powerhouse Company сделала Powerwall для новой 150-кВ электроподстанции в Бевервейке. На кирпичном фасаде появился керамический рельеф размером около 8 × 5 метров, собранный из 322 уникальных плиток. Геометрию получили из визуализации электромагнитных полей — техническая функция здания стала основой рисунка.",
+        "## Параметрика без демонстрации параметрики",
+        "Команда сочетала вычислительное проектирование с физическими прототипами, а элементы печатала из глины роботизированным способом в своей мастерской в Роттердаме. После обжига детали покрыли полупрозрачной бирюзовой глазурью. Рёбра и углубления по-разному ловят свет, поэтому поверхность меняется в течение дня.",
+        "## Почему это стоит показать коллеге",
+        "Здесь цифровая технология не заменяет архитектурную идею. Она позволяет сделать серию разных деталей, которые вместе объясняют назначение здания. Декор не приклеен к подстанции после проектирования — он вырастает из её функции.",
+        "## Что можно забрать в работу в России",
+        "Параметрический дизайн убедительнее, когда решает конкретную задачу материала, производства или места. Для фасадов и общественных интерьеров полезнее искать систему вариативных деталей с понятной логикой, чем сложную форму только ради вау-эффекта."
+      ],
       "source": "https://www.archdaily.com/1185056/powerwall-studio-rap",
-      "credit": "Иллюстрация TECTONICA · оригинальная фотосъёмка проекта: Pim Top",
-      "image": "issue-2026-09-20-powerwall",
-      "imageAlt": "Редакционная схема TECTONICA к проекту Powerwall",
-      "illustration": true,
+      "credit": "Фото: Pim Top / Studio RAP",
+      "image": "gallery-photo23-powerwall-studio-rap-1",
+      "imageAlt": "Powerwall на кирпичном фасаде",
+      "illustration": false,
       "event": "Новая публикация проекта — 19 сентября 2026 · Проект датирован 2026 годом",
       "imageReview": {
-        "sourceImageCount": 0,
-        "excluded": [],
-        "reviewedAt": "2026-09-20",
-        "note": "Фотографии проекта не скачивались и не перепубликовывались; права на самостоятельное использование не подтверждены. Использована собственная схема-иллюстрация."
+        "sourceImageCount": 9,
+        "excluded": []
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://freight.cargo.site/t/original/i/3d2d2689eee513d7b614e41f6d6c8de61fd6b268f8930fd5813ab5699210195e/Pim-Top-photographer_StudioRAP_005-Large.jpeg",
+          "credit": "Фото: Pim Top / Studio RAP",
+          "source": "https://studiorap.nl/Powerwall",
+          "id": "gallery-photo23-powerwall-studio-rap-2",
+          "caption": "Рельеф глазурованных плиток"
+        },
+        {
+          "url": "https://freight.cargo.site/t/original/i/e2d573a103ec130af4dc57fb6e7509d6b4c3b3dc3d00c5981dbb9d2dc5dc1e37/Pim-Top-photographer_StudioRAP_018-Large.jpeg",
+          "credit": "Фото: Pim Top / Studio RAP",
+          "source": "https://studiorap.nl/Powerwall",
+          "id": "gallery-photo23-powerwall-studio-rap-3",
+          "caption": "Стыки и структура керамики"
+        },
+        {
+          "url": "https://freight.cargo.site/t/original/i/507598ce426f338244a9b3078db7b9be3500f94c3f495da746d95f589bbcf4b4/Pim-Top-photographer_StudioRAP_002-Large.jpeg",
+          "credit": "Фото: Pim Top / Studio RAP",
+          "source": "https://studiorap.nl/Powerwall",
+          "id": "gallery-photo23-powerwall-studio-rap-4",
+          "caption": "Панно на стене подстанции"
+        },
+        {
+          "url": "https://freight.cargo.site/t/original/i/8920a69428a0579e60d5086ece2b1ff062549f88b98cb864a7e31b70051f2243/Pim-Top-photographer_StudioRAP_011-Large.jpeg",
+          "credit": "Фото: Pim Top / Studio RAP",
+          "source": "https://studiorap.nl/Powerwall",
+          "id": "gallery-photo23-powerwall-studio-rap-5",
+          "caption": "Поверхность Powerwall при боковом освещении"
+        },
+        {
+          "url": "https://freight.cargo.site/t/original/i/74788f5dcf59c1f326e6108728d47a7fe1f19b9025f6bc5c889af00a111b5b62/Studio-RAP---Drip-Large.jpeg",
+          "credit": "Фото: Studio RAP · процесс изготовления",
+          "source": "https://studiorap.nl/Powerwall",
+          "id": "gallery-photo23-powerwall-studio-rap-6",
+          "caption": "Изготовление керамических элементов"
+        },
+        {
+          "url": "https://freight.cargo.site/t/original/i/074dce27aa0c685fffa3b9986b5f68779457bc94721053bc187480d5ab9ddc42/Pim-Top-photographer_StudioRAP_017-Large.jpeg",
+          "credit": "Фото: Pim Top / Studio RAP",
+          "source": "https://studiorap.nl/Powerwall",
+          "id": "gallery-photo23-powerwall-studio-rap-7",
+          "caption": "Рельеф и рисунок глазури"
+        },
+        {
+          "url": "https://freight.cargo.site/t/original/i/76704f6ef6e076c29ded6b688bac8548e2ac39d55e89c8a10e2a320d38c46891/Pim-Top-photographer_StudioRAP_006-Large.jpeg",
+          "credit": "Фото: Pim Top / Studio RAP",
+          "source": "https://studiorap.nl/Powerwall",
+          "id": "gallery-photo23-powerwall-studio-rap-8",
+          "caption": "Тени на поверхности панно"
+        },
+        {
+          "url": "https://freight.cargo.site/t/original/i/1756b4938814283ef5c6d882e4bcc40b1407663e42b07ac1b4fc56647f8b58d9/Pim-Top-photographer_StudioRAP_009-Large.jpeg",
+          "credit": "Фото: Pim Top / Studio RAP",
+          "source": "https://studiorap.nl/Powerwall",
+          "id": "gallery-photo23-powerwall-studio-rap-9",
+          "caption": "Керамические волны Powerwall"
+        }
+      ],
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "archdaily.com",
+          "url": "https://www.archdaily.com/1185056/powerwall-studio-rap"
+        },
+        {
+          "title": "Фотографии и материалы проекта",
+          "url": "https://studiorap.nl/Powerwall"
+        }
+      ]
     },
     {
       "id": "wendell-castle-living",
@@ -80,20 +211,176 @@
       "format": "Выставка",
       "place": "Нью-Йорк, США",
       "dek": "Friedman Benda собрала работы Касла рядом с керамикой, картинами и личными вещами, которые окружали их в семейном доме дизайнера.",
-      "body": "В Нью-Йорке открылась выставка Wendell Castle: Living. Friedman Benda показывает мебель Уэнделла Касла рядом с предметами и произведениями искусства, связанными с семейным домом дизайнера. Выставка идёт с 17 сентября по 17 октября 2026 года.\n\n## Почему это интереснее пьедестала\n\nКасл давно вошёл в историю американского коллекционного дизайна, поэтому его вещи легко воспринимать как автономные скульптуры. Здесь им возвращают бытовой масштаб: рядом появляются керамика, живопись и личный контекст. Становится понятнее не только форма отдельного стула или стола, но и среда, в которой эти вещи существовали.\n\n## Что стоит показать коллеге\n\nВыставка напоминает, что сильный предмет можно объяснить не длинным кураторским текстом, а точным соседством с другими вещами. Контекст не делает мебель менее коллекционной — наоборот, помогает увидеть, почему она вообще нужна в пространстве.\n\n## Что можно забрать в работу\n\nДля шоурума это почти готовая инструкция: дорогой предмет часто выглядит убедительнее не на пустом белом фоне, а рядом с искусством, светом, книгами и материалами, которые усиливают его характер. Не нужно строить фальшивую квартиру; достаточно продумать систему соседств.\n\nФотографии выставки принадлежат авторам и галерее; на TECTONICA их не переносим без отдельного разрешения. Обложка — собственная редакционная иллюстрация.",
+      "body": [
+        "В Нью-Йорке открылась выставка Wendell Castle: Living. Friedman Benda показывает мебель Уэнделла Касла рядом с предметами и произведениями искусства, связанными с семейным домом дизайнера. Выставка идёт с 17 сентября по 17 октября 2026 года.",
+        "## Почему это интереснее пьедестала",
+        "Касл давно вошёл в историю американского коллекционного дизайна, поэтому его вещи легко воспринимать как автономные скульптуры. Здесь им возвращают бытовой масштаб: рядом появляются керамика, живопись и личный контекст. Становится понятнее не только форма отдельного стула или стола, но и среда, в которой эти вещи существовали.",
+        "## Что стоит показать коллеге",
+        "Выставка напоминает, что сильный предмет можно объяснить не длинным кураторским текстом, а точным соседством с другими вещами. Контекст не делает мебель менее коллекционной — наоборот, помогает увидеть, почему она вообще нужна в пространстве.",
+        "## Что можно забрать в работу",
+        "Для шоурума это почти готовая инструкция: дорогой предмет часто выглядит убедительнее не на пустом белом фоне, а рядом с искусством, светом, книгами и материалами, которые усиливают его характер. Не нужно строить фальшивую квартиру; достаточно продумать систему соседств."
+      ],
       "source": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/",
-      "credit": "Иллюстрация TECTONICA · оригинальная фотосъёмка выставки: Izzy Leung / Friedman Benda",
-      "image": "issue-2026-09-20-castle",
-      "imageAlt": "Редакционная иллюстрация TECTONICA к выставке Wendell Castle: Living",
-      "illustration": true,
+      "credit": "Фото: Izzy Leung / Friedman Benda",
+      "image": "gallery-photo23-wendell-castle-living-1",
+      "imageAlt": "Wendell Castle: Living — экспозиция Friedman Benda",
+      "illustration": false,
       "event": "Выставка — 17 сентября — 17 октября 2026 · Свежая публикация — 19 сентября 2026",
       "imageReview": {
-        "sourceImageCount": 0,
-        "excluded": [],
-        "reviewedAt": "2026-09-20",
-        "note": "Чужие фотографии не загружались и не перепубликовывались. Использована собственная редакционная иллюстрация."
+        "sourceImageCount": 21,
+        "excluded": [
+          {
+            "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/06/Castle_FB-Living.jpg",
+            "reason": "Рекламная обложка выставки; в галерее опубликованы все фотографии экспозиции и предметов."
+          }
+        ]
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_04.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-2",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_07.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-3",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_09.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-4",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_11.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-5",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_13.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-6",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_15.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-7",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_17.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-8",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_02.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-9",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_05.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-10",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_08.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-11",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_10.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-12",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_12.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-13",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_14.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-14",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_16.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-15",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_06.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-16",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2021/09/Castle_Caligari-Mistress-Desk-Chair_2000x1500.jpg",
+          "credit": "Friedman Benda / Estate of Wendell Castle · фотограф предмета не указан",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-17",
+          "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/06/Castle_Chaise_Rocker.jpg",
+          "credit": "Friedman Benda / Estate of Wendell Castle · фотограф предмета не указан",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-18",
+          "caption": "Кресло-качалка Уэнделла Касла"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/06/Castle_Floor_Lamp.jpg",
+          "credit": "Friedman Benda / Estate of Wendell Castle · фотограф предмета не указан",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-19",
+          "caption": "Скульптурный деревянный предмет Уэнделла Касла"
+        },
+        {
+          "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_Cat.jpg",
+          "credit": "Фото: Izzy Leung / Friedman Benda",
+          "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+          "id": "gallery-photo23-wendell-castle-living-20",
+          "caption": "Обложка издания Wendell Castle: Living"
+        }
+      ],
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "designboom.com",
+          "url": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/"
+        },
+        {
+          "title": "Фотографии и материалы проекта",
+          "url": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/"
+        }
+      ]
     }
   ],
   "editorialPicks": [
@@ -153,6 +440,34 @@
       "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/assets/images/issue-2026-09-20-castle.svg",
       "source": "https://tectonica.media/",
       "credit": "Иллюстрация TECTONICA"
+    },
+    {
+      "url": "https://nsknews.info/storage/4171/dni_arkhitektury.jpg",
+      "credit": "Фото: пресс-служба Министерства строительства Новосибирской области / Новосибирские новости",
+      "source": "https://nsknews.info/news/dni-arxitektury-2026-startovali-v-novosibirske",
+      "id": "gallery-photo23-novosibirsk-architecture-days-2026-1",
+      "caption": "Дни архитектуры в Новосибирске — открытие форума 17 сентября"
+    },
+    {
+      "url": "https://freight.cargo.site/t/original/i/80e3d04e573959f5cad6b6230bac559088f764593c5720746e78c9d9ddb3419f/Pim-Top-photographer_StudioRAP_003-Large.jpeg",
+      "credit": "Фото: Pim Top / Studio RAP",
+      "source": "https://studiorap.nl/Powerwall",
+      "id": "gallery-photo23-powerwall-studio-rap-1",
+      "caption": "Powerwall на кирпичном фасаде"
+    },
+    {
+      "url": "https://www.friedmanbenda.com/wp-content/uploads/2026/09/Castle_Living_03.jpg",
+      "credit": "Фото: Izzy Leung / Friedman Benda",
+      "source": "https://www.friedmanbenda.com/exhibitions/wendell-castle-living/",
+      "id": "gallery-photo23-wendell-castle-living-1",
+      "caption": "Wendell Castle: Living — экспозиция Friedman Benda"
+    },
+    {
+      "url": "https://designdistrictdaa.ru/storage/app/media/uploaded-files/2-1.jpeg",
+      "source": "https://designdistrictdaa.ru/ru/about",
+      "caption": "Design District DAA — площадка маркета. Фотография пространства, не репортаж 19 сентября.",
+      "credit": "Фото: Design District DAA · фотограф не указан",
+      "id": "gallery-photo23-design-dvor-2026-1"
     }
   ],
   "featurePitches": [

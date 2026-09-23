@@ -105,56 +105,95 @@
       "format": "Проект",
       "place": "Новая Шотландия, Канада",
       "dek": "RHAD Architects сделали один корпус короче другого. Между ними появился двор, открытый послеполуденному солнцу.",
-      "body": "17 сентября Dezeen опубликовал фотосерию Two Bay House от RHAD Architects. Дом стоит на острове Кейп-Бретон. Свежий повод — публикация завершённого проекта; точную дату окончания строительства источник не называет.\n\n## Дом работает своим планом\n\nДва вытянутых корпуса идут параллельно, но различаются по длине. Между ними образуется западный двор: объёмы прикрывают его от преобладающего ветра с воды, оставляя доступ послеобеденному солнцу. В более коротком корпусе находятся спальни, в длинном — общие пространства.\n\nВ двухэтажном доме есть двусветная зона и стеклянный переход. Основные балки крыши сделаны из клеёной древесины, стены — с применением утеплённой несъёмной опалубки. Это смешанная конструкция, а не полностью деревянное здание. Снаружи обожжённая древесина соседствует с более светлой отделкой в нишах и вырезах.\n\n## Почему стоит показать коллеге\n\nНа снимке сверху особенно хорошо видно, что терраса не пристроена к случайному месту фасада: для неё заранее оставили защищённое пространство. Это полезный разговор о том, какие наружные комнаты нужны дому, ещё до обсуждения цвета облицовки.\n\n## Что можно применить в России\n\nДля участка у озера или водохранилища стоит сравнить несколько посадок дома по ветру и солнцу, а затем выбрать положение двора. Переносить канадский конструктив без расчёта нельзя: для конкретного российского участка отдельно проверяют снег, теплопотери, грунты и узлы остекления. Чёрная отделка сама по себе эти задачи не решает.\n\nОбложка — тематическая иллюстрация TECTONICA, а не изображение Two Bay House. Полная фотосерия Адриана Озимека доступна по ссылке на Dezeen в источниках. Разрешение на её перепубликацию не подтверждено, поэтому фотографии не перенесены.",
+      "body": [
+        "17 сентября Dezeen опубликовал фотосерию Two Bay House от RHAD Architects. Дом стоит на острове Кейп-Бретон. Свежий повод — публикация завершённого проекта; точную дату окончания строительства источник не называет.",
+        "## Дом работает своим планом",
+        "Два вытянутых корпуса идут параллельно, но различаются по длине. Между ними образуется западный двор: объёмы прикрывают его от преобладающего ветра с воды, оставляя доступ послеобеденному солнцу. В более коротком корпусе находятся спальни, в длинном — общие пространства.",
+        "В двухэтажном доме есть двусветная зона и стеклянный переход. Основные балки крыши сделаны из клеёной древесины, стены — с применением утеплённой несъёмной опалубки. Это смешанная конструкция, а не полностью деревянное здание. Снаружи обожжённая древесина соседствует с более светлой отделкой в нишах и вырезах.",
+        "## Почему стоит показать коллеге",
+        "На снимке сверху особенно хорошо видно, что терраса не пристроена к случайному месту фасада: для неё заранее оставили защищённое пространство. Это полезный разговор о том, какие наружные комнаты нужны дому, ещё до обсуждения цвета облицовки.",
+        "## Что можно применить в России",
+        "Для участка у озера или водохранилища стоит сравнить несколько посадок дома по ветру и солнцу, а затем выбрать положение двора. Переносить канадский конструктив без расчёта нельзя: для конкретного российского участка отдельно проверяют снег, теплопотери, грунты и узлы остекления. Чёрная отделка сама по себе эти задачи не решает."
+      ],
       "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
-      "credit": "Иллюстрация TECTONICA, создана с помощью ИИ. Художественная интерпретация темы, не изображение реального проекта или экспоната.",
-      "image": "illustration-two-bay-house-rhad",
-      "illustration": true,
+      "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+      "image": "gallery-photo23-two-bay-house-rhad-2",
+      "illustration": false,
       "event": "Новая фотопубликация — 17 сентября 2026, 17:00 UTC · Дом завершён, дата завершения не уточнена",
       "imageReview": {
         "sourceImageCount": 9,
-        "excluded": [
-          {
-            "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_3-scaled.jpg",
-            "reason": "Фото Adrian Ozimek. Открытое разрешение на перепубликацию не установлено; полный материал доступен у источника."
-          },
-          {
-            "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_2.jpg",
-            "reason": "Фото Adrian Ozimek. Открытое разрешение на перепубликацию не установлено; полный материал доступен у источника."
-          },
-          {
-            "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_10-scaled.jpg",
-            "reason": "Фото Adrian Ozimek. Открытое разрешение на перепубликацию не установлено; полный материал доступен у источника."
-          },
-          {
-            "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_12-scaled.jpg",
-            "reason": "Фото Adrian Ozimek. Открытое разрешение на перепубликацию не установлено; полный материал доступен у источника."
-          },
-          {
-            "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_1-scaled.jpg",
-            "reason": "Фото Adrian Ozimek. Открытое разрешение на перепубликацию не установлено; полный материал доступен у источника."
-          },
-          {
-            "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_17.jpg",
-            "reason": "Фото Adrian Ozimek. Открытое разрешение на перепубликацию не установлено; полный материал доступен у источника."
-          },
-          {
-            "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_14.jpg",
-            "reason": "Фото Adrian Ozimek. Открытое разрешение на перепубликацию не установлено; полный материал доступен у источника."
-          },
-          {
-            "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_19.jpg",
-            "reason": "Фото Adrian Ozimek. Открытое разрешение на перепубликацию не установлено; полный материал доступен у источника."
-          },
-          {
-            "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_co.jpg",
-            "reason": "Фото Adrian Ozimek. Открытое разрешение на перепубликацию не установлено; полный материал доступен у источника."
-          }
-        ],
-        "reviewedAt": "2026-09-18",
-        "note": "Проверен полный текст RSS Dezeen и все 9 уникальных снимков. Первый миниатюрный кадр с надписью exclusive дублирует последний кадр и не считается отдельно."
+        "excluded": []
       },
-      "gallery": []
+      "gallery": [
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_3-scaled.jpg",
+          "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+          "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+          "caption": "Two Bay House на берегу",
+          "id": "gallery-photo23-two-bay-house-rhad-1"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_10-scaled.jpg",
+          "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+          "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+          "caption": "Остекление двух объёмов",
+          "id": "gallery-photo23-two-bay-house-rhad-3"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_12-scaled.jpg",
+          "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+          "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+          "caption": "Планировка участка: вид сверху",
+          "id": "gallery-photo23-two-bay-house-rhad-4"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_1-scaled.jpg",
+          "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+          "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+          "caption": "Обугленная древесина на фасаде",
+          "id": "gallery-photo23-two-bay-house-rhad-5"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_17.jpg",
+          "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+          "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+          "caption": "Гостиная с видом на залив",
+          "id": "gallery-photo23-two-bay-house-rhad-6"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_14.jpg",
+          "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+          "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+          "caption": "Кухня и двусветное пространство",
+          "id": "gallery-photo23-two-bay-house-rhad-7"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_19.jpg",
+          "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+          "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+          "caption": "Интерьер с деревянной отделкой",
+          "id": "gallery-photo23-two-bay-house-rhad-8"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_co.jpg",
+          "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+          "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+          "caption": "Дом в вечернем освещении",
+          "id": "gallery-photo23-two-bay-house-rhad-9"
+        }
+      ],
+      "imageAlt": "Объёмы дома и открытая площадка",
+      "updated": "2026-09-23",
+      "sources": [
+        {
+          "title": "RHAD Architects — проект и чертежи",
+          "url": "https://www.rhad.ca/2-bay"
+        },
+        {
+          "title": "Dezeen — новая фотопубликация, 17 сентября",
+          "url": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/"
+        }
+      ]
     }
   ],
   "editorialPicks": [
@@ -180,7 +219,15 @@
       "omnibite-joint"
     ]
   },
-  "images": [],
+  "images": [
+    {
+      "url": "https://static.dezeen.com/uploads/2026/09/rhad-architects-two-bay-house-nova-scoita_dezeen_2364_col_2.jpg",
+      "source": "https://www.dezeen.com/2026/09/17/rhad-architects-two-bay-house-charred-wood-nova-scotia/",
+      "credit": "Фото: Adrian Ozimek · RHAD Architects / Dezeen",
+      "caption": "Объёмы дома и открытая площадка",
+      "id": "gallery-photo23-two-bay-house-rhad-2"
+    }
+  ],
   "featurePitches": [
     {
       "title": "Керамика, которая меняет интерьер: от изразца до светового рельефа",
