@@ -1,0 +1,233 @@
+{
+  "date": "2026-09-22",
+  "window": {
+    "from": "2026-09-21T11:30:00Z",
+    "to": "2026-09-22T11:30:00Z",
+    "timezone": "Asia/Novosibirsk",
+    "note": "Дополнительный вечерний выпуск 22 сентября: только темы, которые действительно случились или получили сильную свежую публикацию за последние сутки."
+  },
+  "intro": "Три истории без добивки количеством. В Лос-Анджелесе сегодня открылся Lucas Museum, в Москве показали детали завершённой реставрации Центрального телеграфа, а в Нью-Йорке большой архив коллекционного дизайна впервые становится доступен посетителям. Российская тема стоит второй и разобрана подробно.",
+  "articles": [
+    {
+      "id": "lucas-museum-opens-2026",
+      "title": "В Лос-Анджелесе открылся Lucas Museum. Его фасад собран из более чем 1 200 уникальных панелей",
+      "category": "architecture",
+      "format": "Главная история",
+      "place": "Лос-Анджелес, США",
+      "dek": "MAD Architects довели до открытия один из самых сложных культурных проектов последних лет: 27 900 м² музея, поднятая над землёй оболочка и новый общественный парк вместо парковки.",
+      "body": "22 сентября в Лос-Анджелесе открылся Lucas Museum of Narrative Art — музей Джорджа Лукаса и Меллоди Хобсон, посвящённый визуальному рассказу от иллюстрации и комикса до кино. Здание спроектировал Ма Янсонг и MAD Architects, ландшафт — Studio-MLA Мии Лерер, исполнительный архитектор — Stantec.\n\n## Здесь интереснее всего не форма, а то, как она сделана\n\nУ музея почти нет обычных прямых фасадных плоскостей. Оболочка собрана более чем из 1 200 уникальных панелей из армированного стекловолокном полимера. Центральный пролёт длиной около 56 метров поднимает часть здания над землёй и оставляет внизу общественную площадь. Это тот случай, когда сложная цифровая геометрия дошла до реального большого здания, а не осталась на конкурсном рендере.\n\nСам музей — около 27 900 м², из них примерно 9 300 м² занимают выставочные пространства. Внутри больше 30 галерей, два кинотеатра, библиотека, кафе, ресторан и пространства для событий. Открывающие выставки показывают около 1 300 работ.\n\n## Парк здесь не фон для музея\n\nВместо прежней асфальтовой парковки вокруг здания появился большой общественный парк с более чем 300 новыми деревьями, амфитеатром, лугами, водным элементом и наружной скульптурой. Поэтому музей стоит смотреть не только как объект MAD, но и как связку «здание + ландшафт + бесплатное городское пространство».\n\n## Что можно забрать в работу в России\n\nПолезный урок не в том, чтобы повторять сложную оболочку. Гораздо интереснее организация проекта: сложная форма оправдана только потому, что она одновременно формирует навес, входы, общественную площадь и связь с парком. Если дорогая геометрия решает одну декоративную задачу — это слабая экономика. Если пять задач сразу — разговор уже другой.",
+      "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026",
+      "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+      "image": "issue-2026-09-22b-lucas",
+      "imageAlt": "Lucas Museum of Narrative Art в Лос-Анджелесе после завершения строительства",
+      "event": "Открытие для публики — 22 сентября 2026",
+      "imageReview": {
+        "sourceImageCount": 7,
+        "excluded": [],
+        "reviewedAt": "2026-09-22",
+        "note": "Проверена официальная пресс-страница музея; использованы все семь относящихся к материалу кадров из основного пресс-блока."
+      },
+      "gallery": [
+        {
+          "id": "gallery-lucas-lobby",
+          "caption": "Главный интерьер музея: большие криволинейные объёмы продолжаются внутри здания.",
+          "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+          "url": "https://lucasmuseum.org/media/e1725da4-af31-448e-9f37-b8b3886a3c14/16-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=5734%2C3825%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+          "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+        },
+        {
+          "id": "gallery-lucas-park",
+          "caption": "Здание и парк Studio-MLA: бывшую асфальтовую площадку превратили в общественный ландшафт.",
+          "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+          "url": "https://lucasmuseum.org/media/8e8977bd-e04d-4388-a6f2-8393fa57e6d1/01-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=7592%2C7647%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+          "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+        },
+        {
+          "id": "gallery-lucas-theater",
+          "caption": "Один из кинотеатров внутри Lucas Museum.",
+          "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+          "url": "https://lucasmuseum.org/media/35b6a023-0a1b-4378-9104-5c90784bbb2c/12-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=5734%2C3825%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+          "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+        },
+        {
+          "id": "gallery-lucas-library",
+          "caption": "Исследовательская библиотека с видом на парк.",
+          "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+          "url": "https://lucasmuseum.org/media/baff32e6-29d7-496e-bb82-9cddc0b13f7a/05-library-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=5649%2C5316%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+          "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+        },
+        {
+          "id": "gallery-lucas-restaurant",
+          "caption": "Ресторан музея — ещё один пример того, как криволинейная архитектура переходит в интерьер.",
+          "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow",
+          "url": "https://lucasmuseum.org/media/2ef102c4-350b-4a6a-a600-1eec634ac191/lucas-museum-mad-26-08-3479.jpg?crop=8159%2C5442%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+          "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+        },
+        {
+          "id": "gallery-lucas-gallery",
+          "caption": "Одна из открывающих экспозиций Lucas Museum.",
+          "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Paul Salveson",
+          "url": "https://lucasmuseum.org/media/13ce8d11-fc14-4fde-8368-ba9c837e39ae/21-courtesy-lucas-museum-of-narrative-art-photo-by-paul-salveson.jpg?crop=8200%2C5467%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+          "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026"
+        }
+      ]
+    },
+    {
+      "id": "central-telegraph-restoration-2026",
+      "title": "В Центральном телеграфе нашли пол 1927 года и снова запустили знаменитый глобус",
+      "category": "architecture",
+      "format": "Россия",
+      "place": "Москва, Россия",
+      "dek": "Реставрация здания Рерберга показала редкий спокойный подход: подлинное сохраняют, утраченное восстанавливают по документам, а то, что нельзя доказать, не дорисовывают.",
+      "body": "22 сентября Archi.ru подробно показал, что именно сохранили и восстановили в Центральном телеграфе на Тверской. Здание 1927 года по проекту Ивана Рерберга приспосабливают под кампус Центрального университета. Концепцию новой функции разработало бюро Дэвида Чипперфильда, проект приспособления — АПЕКС, рабочую документацию и генпроектирование — СКиП, реставрацию — АРМ «Фаросъ».\n\n## Самое интересное нашли под поздними слоями\n\nРеставраторы смывали позднюю краску с фасадов, исследовали штукатурку, металлы и декоративные элементы, работали по архивным фотографиям. Так восстановили утраченные латунные надписи, витражный циферблат, исторические двери и детали фасада. Глобусу на углу здания вернули механизм вращения — он не работал несколько десятилетий.\n\nВнутри под фальшполом 1960-х нашли фрагмент оригинальной метлахской плитки 1927 года. Его не перенесли и не «сделали заново»: оставили на исторической отметке и открыли сверху через стеклянный фрагмент нового пола. Остатки старой росписи потолка, которую невозможно было достоверно восстановить, законсервировали.\n\n## Почему это хороший пример реставрации\n\nЗдесь хорошо видно различие между восстановлением и стилизацией. Там, где есть данные и оригинальный материал, его возвращают в работу. Там, где доказательств не хватает, не придумывают красивую версию прошлого.\n\nОсновные реставрационные работы завершены, но кампус будет разворачиваться поэтапно: к сентябрю 2026 открылись первые три этажа, полностью здание должно занять университет к 2027 году. Внутренний двор уже перекрыт стеклянным куполом и превращается в атриум.\n\n## Что можно забрать в работу\n\nДля любого проекта в историческом здании здесь очень практичный принцип: сначала исследование, потом решение. Лазерное сканирование, пробы материалов, фиксация найденных слоёв и честное разделение старого и нового часто дают интерьеру больше характера, чем попытка придумать «историческую атмосферу» с нуля.",
+      "source": "https://archi.ru/russia/102720/telegraf-restavraciya",
+      "credit": "Официальные материалы проекта: VOS'HOD · фотограф не указан",
+      "image": "issue-2026-09-22b-telegraph",
+      "imageAlt": "Центральный телеграф на Тверской после реставрации и приспособления под университетский кампус",
+      "event": "Подробная публикация о реставрации — 22 сентября 2026",
+      "imageReview": {
+        "sourceImageCount": 5,
+        "excluded": [],
+        "reviewedAt": "2026-09-22",
+        "note": "Для визуала проверена официальная страница девелопера VOS'HOD; использованы все пять проектных кадров из её основной галереи."
+      },
+      "gallery": [
+        {
+          "id": "gallery-telegraph-lounge",
+          "caption": "Новое общественное пространство кампуса внутри Центрального телеграфа.",
+          "credit": "VOS'HOD · официальный материал проекта · фотограф не указан",
+          "url": "https://voshodmoscow.ru/upload/iblock/643/9h6qgn571xrczxoft44voijco1o70ua8.jpg",
+          "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf"
+        },
+        {
+          "id": "gallery-telegraph-lobby",
+          "caption": "Исторический вестибюль после реставрации и приспособления.",
+          "credit": "VOS'HOD · официальный материал проекта · фотограф не указан",
+          "url": "https://voshodmoscow.ru/upload/iblock/d0a/q1dyquruoif14r9lz6bn1uuvjlhpepyr.jpg",
+          "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf"
+        },
+        {
+          "id": "gallery-telegraph-commons",
+          "caption": "Общественная зона Центрального университета в историческом здании.",
+          "credit": "VOS'HOD · официальный материал проекта · фотограф не указан",
+          "url": "https://voshodmoscow.ru/upload/iblock/555/6djuoisgsh3adk6gy03jxgj5pii7irp3.jpg",
+          "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf"
+        },
+        {
+          "id": "gallery-telegraph-auditorium",
+          "caption": "Учебное пространство кампуса в Центральном телеграфе.",
+          "credit": "VOS'HOD · официальный материал проекта · фотограф не указан",
+          "url": "https://voshodmoscow.ru/upload/iblock/f18/or1kfrkvv5j6spot3tw1hlio7qph87nc.jpg",
+          "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf"
+        }
+      ]
+    },
+    {
+      "id": "r-company-building-86",
+      "title": "R & Company открывает свой склад на тысячи предметов. И специально не превращает его в белую галерею",
+      "category": "objects",
+      "format": "Предметный дизайн",
+      "place": "Нью-Йорк, США",
+      "dek": "Building 86 в Brooklyn Navy Yard впервые станет доступен посетителям: 1 486 м² стеллажей, прототипов, архивов и коллекционного дизайна почти за 30 лет.",
+      "body": "23 сентября R & Company откроет по записи Building 86 — свой 1 486-метровый склад в Brooklyn Navy Yard. До сих пор это было рабочее пространство галереи: здесь хранились несколько тысяч предметов, архивы дизайнеров, личные коллекции основателей, фотостудия и зоны консервации. 22 сентября Wallpaper показал его как полноценное новое место для публики.\n\n## Склад не стали маскировать под музей\n\nЭто главное решение. Вместо белых залов — высокие промышленные стеллажи, плотная развеска и соседства, которые постоянно меняются. Рядом могут оказаться исторический прототип, коллекционная мебель и современный объект. R & Company специально оставляет ощущение рабочего архива, где вещь можно рассматривать не как одинокий экспонат, а как часть длинной цепочки дизайна.\n\nВ коллекции есть работы Wendell Castle, Greta Magnusson Grossman, Haas Brothers, Sergio Rodrigues, Katie Stout, Studio Job и других авторов, с которыми галерея работала почти три десятилетия.\n\n## Почему это стоит показать коллеге\n\nОбычно склад — невидимая часть бизнеса, а шоурум — отобранная витрина. Здесь склад сам становится опытом для клиента. Для дорогого предметного дизайна это сильный формат: объём коллекции и история работы становятся аргументом не хуже идеального интерьера.\n\n## Что можно забрать в работу в России\n\nШоурум не обязательно строить как серию законченных комнат. Иногда сильнее работает открытый архив: образцы, прототипы, снятые с производства вещи и новые предметы рядом. Для производителя мебели, света или фурнитуры это способ превратить накопленное за годы из балласта в профессиональный контент и инструмент продаж.",
+      "source": "https://r-and-company.com/exhibition/building-86/",
+      "credit": "Photo: Logan Jackson · Courtesy R & Company",
+      "image": "issue-2026-09-22b-building86",
+      "imageAlt": "Открытый архив коллекционного дизайна R & Company в Building 86, Brooklyn Navy Yard",
+      "event": "Свежая публикация — 22 сентября 2026 · Открытие по записи — 23 сентября 2026",
+      "imageReview": {
+        "sourceImageCount": 2,
+        "excluded": [],
+        "reviewedAt": "2026-09-22",
+        "note": "Проверена официальная страница R & Company; использованы оба относящихся к Building 86 кадра."
+      },
+      "gallery": [
+        {
+          "id": "gallery-building86-shelves",
+          "caption": "В Building 86 предметы остаются на промышленных стеллажах — архив показывают как рабочее пространство, а не как музейную декорацию.",
+          "credit": "Photo: Logan Jackson · Courtesy R & Company",
+          "url": "https://r-and-company.com/wp-content/uploads/2026/08/IMG_5880_2.jpg",
+          "source": "https://r-and-company.com/exhibition/building-86/"
+        }
+      ]
+    }
+  ],
+  "editorialPicks": [
+    {
+      "id": "lucas-museum-opens-2026",
+      "time": "4 минуты",
+      "reason": "Главное событие дня: музей действительно открылся сегодня, а завершённая архитектура позволяет обсуждать уже не обещания и рендеры, а масштаб, конструкцию, оболочку и работу здания вместе с парком."
+    },
+    {
+      "id": "central-telegraph-restoration-2026",
+      "time": "4 минуты",
+      "reason": "Сильная российская история с конкретной практической пользой: реставраторы показывают, как исследование материалов и архивов помогает отличать честное восстановление от красивой стилизации."
+    },
+    {
+      "id": "r-company-building-86",
+      "time": "3 минуты",
+      "reason": "Редкий предметный сюжет, где интересен не отдельный стул, а новая модель показа коллекционного дизайна: закрытый рабочий архив превращается в публичный инструмент исследования и продаж."
+    }
+  ],
+  "featured": {
+    "lead": "lucas-museum-opens-2026",
+    "secondary": "central-telegraph-restoration-2026",
+    "stories": [
+      "lucas-museum-opens-2026",
+      "central-telegraph-restoration-2026",
+      "r-company-building-86"
+    ]
+  },
+  "images": [
+    {
+      "id": "issue-2026-09-22b-lucas",
+      "url": "https://lucasmuseum.org/media/54f2ed79-df29-4ee4-bef8-08b9b5db455b/18-courtesy-lucas-museum-of-narrative-art-photo-by-huftoncrow.jpg?crop=5798%2C4324%2Cx0%2Cy0%2Csafe&format=jpg&quality=80&width=1000",
+      "source": "https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026",
+      "credit": "Courtesy Lucas Museum of Narrative Art · Photo: Hufton+Crow"
+    },
+    {
+      "id": "issue-2026-09-22b-telegraph",
+      "url": "https://voshodmoscow.ru/upload/iblock/cac/wkob0qvl1enfxqnsn1wvper3a2rdpmij.jpg",
+      "source": "https://voshodmoscow.ru/projects/tsentralnyy-telegraf",
+      "credit": "VOS'HOD · официальный материал проекта · фотограф не указан"
+    },
+    {
+      "id": "issue-2026-09-22b-building86",
+      "url": "https://r-and-company.com/wp-content/uploads/2026/09/APPROVED-FOR-USE_Banner.jpg",
+      "source": "https://r-and-company.com/exhibition/building-86/",
+      "credit": "Photo: Logan Jackson · Courtesy R & Company"
+    }
+  ],
+  "featurePitches": [
+    {
+      "title": "Как строили Lucas Museum: 1 200 уникальных панелей без права на ошибку",
+      "text": "Разобрать цифровую модель, изготовление оболочки, координацию 150+ специалистов и то, где сложная геометрия реально помогает зданию, а где просто дорого стоит.",
+      "article": "lucas-museum-opens-2026"
+    },
+    {
+      "title": "Телеграф: что реставратор должен доказать, прежде чем что-то восстановить",
+      "text": "Сделать большой разбор по конкретным находкам — терразитовой штукатурке, метлахской плитке, латунным буквам, часам и глобусу — и показать границу между реставрацией и стилизацией.",
+      "article": "central-telegraph-restoration-2026"
+    },
+    {
+      "title": "Когда склад становится лучшим шоурумом",
+      "text": "На примере Building 86 собрать форматы открытого хранения для мебели, света и материалов: что показывать, как подписывать и почему архив может продавать лучше постановочного интерьера.",
+      "article": "r-company-building-86"
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Архив перестаёт быть подсобкой — его начинают проектировать как публичное пространство",
+    "text": "За один день это видно сразу с двух сторон. R & Company открывает клиентам рабочий склад с тысячами предметов, а МУАР запускает «Депозитарий современности» и начинает системно собирать архитектуру XXI века. Похоже, хранение перестаёт быть невидимой технической функцией. Архив всё чаще становится частью выставки, исследования и даже продаж.",
+    "sources": [
+      {
+        "title": "R & Company — Building 86",
+        "url": "https://r-and-company.com/exhibition/building-86/"
+      },
+      {
+        "title": "МУАР — «Депозитарий современности»",
+        "url": "https://moskvichmag.ru/gorod/23-sentyabrya-v-muare-na-vozdvizhenke-otkroetsya-vystavka-ob-arhitekture-xxi-veka/"
+      }
+    ]
+  }
+}
