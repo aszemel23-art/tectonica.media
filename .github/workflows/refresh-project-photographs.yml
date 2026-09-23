@@ -1,0 +1,35 @@
+name: Refresh reviewed project photographs
+on:
+  push:
+    branches: [main]
+    paths: ['editorial/photo-updates/2026-09-23.json', '.github/workflows/refresh-project-photographs.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tectonica-photo-refresh
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: python3 -m pip install --quiet pillow
+      - run: python3 scripts/prepare-photo-refresh.py
+      - run: node scripts/apply-photo-refresh.mjs
+      - run: npm run build && npm test
+      - name: Publish verified photographs atomically
+        run: |
+          git config user.name "TECTONICA Editorial Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets editorial content.mjs scripts/validate-publication.mjs scripts/build.mjs index.html articles category archive daily feed features radar search feed.xml sitemap.xml 404.html about
+          if ! git diff --cached --quiet; then
+            git commit -m "Replace editorial placeholders with 241 reviewed project images"
+            git push origin HEAD:main
+          fi
