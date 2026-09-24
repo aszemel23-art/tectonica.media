@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'editorial/releases/**.json'
+      - 'scripts/prepare-galleries.py'
       - '.github/workflows/publish-release.yml'
 
 permissions:
