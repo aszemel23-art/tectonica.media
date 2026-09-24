@@ -29,7 +29,7 @@ jobs:
         run: |
           python3 -m pip install --quiet pillow cairosvg
           python3 - <<'PY'
-          import io, json, os, pathlib, urllib.request
+          import io, json, os, pathlib, time, urllib.error, urllib.request
           from PIL import Image
           import cairosvg
 
@@ -42,12 +42,25 @@ jobs:
 
           for item in release.get('images', []):
               image_id, url = item['id'], item['url']
-              req = urllib.request.Request(url, headers={
-                  'User-Agent': 'Mozilla/5.0 TECTONICA editorial fetch',
-                  'Referer': item.get('source', 'https://tectonica.media/')
-              })
-              with urllib.request.urlopen(req, timeout=45) as response:
-                  data = response.read()
+              print(f'Fetching {image_id}: {url}', flush=True)
+              header_sets = [
+                  {'User-Agent': 'Mozilla/5.0 TECTONICA editorial fetch', 'Referer': item.get('source', 'https://tectonica.media/')},
+                  {'User-Agent': 'Mozilla/5.0'},
+                  {'User-Agent': 'curl/8.0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'},
+              ]
+              last_error = None
+              data = None
+              for headers in header_sets:
+                  try:
+                      req = urllib.request.Request(url, headers=headers)
+                      with urllib.request.urlopen(req, timeout=45) as response:
+                          data = response.read()
+                      break
+                  except Exception as exc:
+                      last_error = exc
+                      time.sleep(1)
+              if data is None:
+                  raise last_error
               if url.lower().split('?', 1)[0].endswith('.svg'):
                   data = cairosvg.svg2png(bytestring=data, output_width=1440, output_height=1080)
               im = Image.open(io.BytesIO(data))
