@@ -30,7 +30,7 @@ jobs:
         run: |
           python3 -m pip install --quiet pillow cairosvg
           python3 - <<'PY'
-          import io, json, os, pathlib, time, urllib.error, urllib.parse, urllib.request
+          import io, json, os, pathlib, re, time, urllib.parse, urllib.request
           from PIL import Image
           import cairosvg
 
@@ -43,28 +43,40 @@ jobs:
 
           for item in release.get('images', []):
               image_id, url = item['id'], item['url']
-              fetch_url = urllib.parse.unquote(url) if 'imagedelivery.net' in url else url
-              print(f'Fetching {image_id}: {fetch_url}', flush=True)
+              direct_url = urllib.parse.unquote(url) if 'imagedelivery.net' in url else url
+              if 'imagedelivery.net' in direct_url:
+                  direct_url = re.sub(r'/w=\d+,fit=scale-down,q=\d+$', '/w=1600,fit=scale-down,q=80', direct_url)
+              candidates = [direct_url]
+              proxy_url = 'https://images.weserv.nl/?url=' + urllib.parse.quote(direct_url, safe='') + '&w=1600&output=jpg'
+              candidates.append(proxy_url)
+              print(f'Fetching {image_id}', flush=True)
               header_sets = [
                   {'User-Agent': 'Mozilla/5.0 TECTONICA editorial fetch', 'Referer': item.get('source', 'https://tectonica.media/')},
                   {'User-Agent': 'Mozilla/5.0'},
-                  {'User-Agent': 'curl/8.0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'},
               ]
               last_error = None
               data = None
-              for headers in header_sets:
-                  try:
-                      req = urllib.request.Request(fetch_url, headers=headers)
-                      with urllib.request.urlopen(req, timeout=45) as response:
-                          data = response.read()
+              fetched_url = None
+              for candidate in candidates:
+                  for headers in header_sets:
+                      try:
+                          req = urllib.request.Request(candidate, headers=headers)
+                          with urllib.request.urlopen(req, timeout=15) as response:
+                              trial = response.read()
+                          if url.lower().split('?', 1)[0].endswith('.svg') and candidate == direct_url:
+                              trial = cairosvg.svg2png(bytestring=trial, output_width=1440, output_height=1080)
+                          with Image.open(io.BytesIO(trial)) as check:
+                              check.verify()
+                          data = trial
+                          fetched_url = candidate
+                          break
+                      except Exception as exc:
+                          last_error = exc
+                          time.sleep(1)
+                  if data is not None:
                       break
-                  except Exception as exc:
-                      last_error = exc
-                      time.sleep(1)
               if data is None:
                   raise last_error
-              if url.lower().split('?', 1)[0].endswith('.svg'):
-                  data = cairosvg.svg2png(bytestring=data, output_width=1440, output_height=1080)
               im = Image.open(io.BytesIO(data))
               if im.mode not in ('RGB', 'RGBA'):
                   im = im.convert('RGB')
@@ -81,6 +93,7 @@ jobs:
                   target.save(out / f'{image_id}-{maxw}.webp', 'WEBP', quality=88, method=6)
               provenance[image_id] = {
                   'url': url,
+                  'fetch_url': fetched_url,
                   'source': item.get('source',''),
                   'credit': item.get('credit',''),
                   'width': ow,
