@@ -13,6 +13,9 @@ manifest['articles'].update(direct)
 out = root / 'assets/images'
 prov_path = out / 'gallery-provenance.json'
 previous = json.loads(prov_path.read_text(encoding='utf-8')) if prov_path.exists() else {}
+release_prov_path = out / 'provenance.json'
+if release_prov_path.exists():
+    previous.update(json.loads(release_prov_path.read_text(encoding='utf-8')))
 extra_files = {extra: json.loads(extra.read_text(encoding='utf-8')) for extra in out.glob('gallery-provenance-*.json')}
 for entries in extra_files.values():
     previous.update(entries)
@@ -20,7 +23,16 @@ for entries in extra_files.values():
 def prepare(item):
     image_id = item['id']
     if previous.get(image_id, {}).get('url') == item['url'] and all((out / f'{image_id}-{w}.webp').exists() for w in (640,1440)):
-        return image_id, {**previous[image_id], **item}
+        entry = {**previous[image_id], **item}
+        sizes = {}
+        for width in (640, 1440):
+            with Image.open(out / f'{image_id}-{width}.webp') as local:
+                sizes[str(width)] = [local.width, local.height]
+        entry['sizes'] = sizes
+        if 'width' not in entry or 'height' not in entry:
+            with Image.open(out / f'{image_id}-1440.webp') as local:
+                entry['width'], entry['height'] = local.width, local.height
+        return image_id, entry
     for attempt in range(3):
         try:
             request = urllib.request.Request(item['url'], headers={'User-Agent':'Mozilla/5.0', 'Referer':item['source']})
