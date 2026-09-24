@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'editorial/releases/**.json'
+      - '.github/workflows/publish-release.yml'
 
 permissions:
   contents: write
@@ -29,7 +30,7 @@ jobs:
         run: |
           python3 -m pip install --quiet pillow cairosvg
           python3 - <<'PY'
-          import io, json, os, pathlib, time, urllib.error, urllib.request
+          import io, json, os, pathlib, time, urllib.error, urllib.parse, urllib.request
           from PIL import Image
           import cairosvg
 
@@ -42,7 +43,8 @@ jobs:
 
           for item in release.get('images', []):
               image_id, url = item['id'], item['url']
-              print(f'Fetching {image_id}: {url}', flush=True)
+              fetch_url = urllib.parse.unquote(url) if 'imagedelivery.net' in url else url
+              print(f'Fetching {image_id}: {fetch_url}', flush=True)
               header_sets = [
                   {'User-Agent': 'Mozilla/5.0 TECTONICA editorial fetch', 'Referer': item.get('source', 'https://tectonica.media/')},
                   {'User-Agent': 'Mozilla/5.0'},
@@ -52,7 +54,7 @@ jobs:
               data = None
               for headers in header_sets:
                   try:
-                      req = urllib.request.Request(url, headers=headers)
+                      req = urllib.request.Request(fetch_url, headers=headers)
                       with urllib.request.urlopen(req, timeout=45) as response:
                           data = response.read()
                       break
