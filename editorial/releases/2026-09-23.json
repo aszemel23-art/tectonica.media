@@ -74,27 +74,27 @@
           "basis": "Официальный пресс-раздел Fondation Beyeler разрешает изображения для текущего освещения в СМИ при полном кредите, без изменений/кадрирования и максимум 1600 px онлайн."
         },
         "reviewedAt": "2026-09-23",
-        "note": "Проверены все пять медиа на официальной странице: четыре архитектурных кадра используются, портрет архитектора исключён как не относящийся к визуальному разбору здания."
+        "note": "Проверены все пять медиа на официальной странице: четыре архитектурных кадра используются, портрет архитектора исключён как не относящийся к визуальному разбору здания. Для публикации взяты те же официальные фотографии с архивного CDN Fondation Beyeler."
       },
       "gallery": [
         {
           "id": "gallery-fondation-beyeler-zumthor-2026-2",
-          "url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/04fd158c-8cc4-4fb1-4dfc-837411728100/w%3D3365%2Cfit%3Dscale-down%2Cq%3D80",
-          "source": "https://www.fondationbeyeler.ch/en/media/the-expanded-ensemble-of-the-fondation-beyeler",
+          "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/0/6/csm_26.05.22.FB_0639_Mark_Niedermann_8e185f9902.jpg",
+          "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
           "caption": "Расширенный ансамбль Fondation Beyeler",
           "credit": "Фото: Mark Niedermann / Fondation Beyeler"
         },
         {
           "id": "gallery-fondation-beyeler-zumthor-2026-3",
-          "url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/83778663-8db6-458f-d3d1-195677f8c600/w%3D4487%2Cfit%3Dscale-down%2Cq%3D80",
-          "source": "https://www.fondationbeyeler.ch/en/media/the-expanded-ensemble-of-the-fondation-beyeler",
+          "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/d/4/csm_26.05.22.FB_0630_Mark_Niedermann_1ec8e34766.jpg",
+          "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
           "caption": "Новые здания ансамбля в существующем парке Fondation Beyeler",
           "credit": "Фото: Mark Niedermann / Fondation Beyeler"
         },
         {
           "id": "gallery-fondation-beyeler-zumthor-2026-4",
-          "url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/c6ac25c4-b65a-4ec9-1dac-067a294d1200/w%3D3365%2Cfit%3Dscale-down%2Cq%3D80",
-          "source": "https://www.fondationbeyeler.ch/en/media/the-expanded-ensemble-of-the-fondation-beyeler",
+          "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/9/0/csm_26.05.22.FB_0731_Mark_Niedermann_3f06f2ea59.jpg",
+          "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
           "caption": "Fondation Beyeler: новый ансамбль Atelier Peter Zumthor",
           "credit": "Фото: Mark Niedermann / Fondation Beyeler"
         }
@@ -136,26 +136,26 @@
     },
     {
       "id": "fondation-beyeler-zumthor-2026",
-      "url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/25b59a54-3f4d-47fb-14ad-d72c6c141400/w%3D6000%2Cfit%3Dscale-down%2Cq%3D80",
-      "source": "https://www.fondationbeyeler.ch/en/media/the-expanded-ensemble-of-the-fondation-beyeler",
+      "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/e/7/csm_DSC3290_HR_kl_KDeer_08a936aae4.jpg",
+      "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
       "credit": "Photo: Katalin Deér / Fondation Beyeler"
     },
     {
       "id": "gallery-fondation-beyeler-zumthor-2026-2",
-      "url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/04fd158c-8cc4-4fb1-4dfc-837411728100/w%3D3365%2Cfit%3Dscale-down%2Cq%3D80",
-      "source": "https://www.fondationbeyeler.ch/en/media/the-expanded-ensemble-of-the-fondation-beyeler",
+      "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/0/6/csm_26.05.22.FB_0639_Mark_Niedermann_8e185f9902.jpg",
+      "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
       "credit": "Photo: Mark Niedermann / Fondation Beyeler"
     },
     {
       "id": "gallery-fondation-beyeler-zumthor-2026-3",
-      "url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/83778663-8db6-458f-d3d1-195677f8c600/w%3D4487%2Cfit%3Dscale-down%2Cq%3D80",
-      "source": "https://www.fondationbeyeler.ch/en/media/the-expanded-ensemble-of-the-fondation-beyeler",
+      "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/d/4/csm_26.05.22.FB_0630_Mark_Niedermann_1ec8e34766.jpg",
+      "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
       "credit": "Photo: Mark Niedermann / Fondation Beyeler"
     },
     {
       "id": "gallery-fondation-beyeler-zumthor-2026-4",
-      "url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/c6ac25c4-b65a-4ec9-1dac-067a294d1200/w%3D3365%2Cfit%3Dscale-down%2Cq%3D80",
-      "source": "https://www.fondationbeyeler.ch/en/media/the-expanded-ensemble-of-the-fondation-beyeler",
+      "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/9/0/csm_26.05.22.FB_0731_Mark_Niedermann_3f06f2ea59.jpg",
+      "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
       "credit": "Photo: Mark Niedermann / Fondation Beyeler"
     }
   ],
