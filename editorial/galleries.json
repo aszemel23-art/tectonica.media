@@ -1747,6 +1747,38 @@
         "credit": "Чертежи: Typsa / ArchDaily",
         "id": "gallery-photo23-luanda-technology-park-2026-22"
       }
+    ],
+    "desnarechye-kpln-lighthouse": [
+      {
+        "id": "gallery-desnarechye-kpln-lighthouse-2",
+        "url": "https://st.business-key.com/i/files/55722/2026/08/1786011086.jpg",
+        "source": "https://pressfeed.ru/releases/14965",
+        "caption": "«Деснаречье»: пластика квартала и работа со скатными кровлями",
+        "credit": "Визуализация: KPLN («Крупный план») / пресс-служба бюро"
+      }
+    ],
+    "fondation-beyeler-zumthor-2026": [
+      {
+        "id": "gallery-fondation-beyeler-zumthor-2026-2",
+        "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/0/6/csm_26.05.22.FB_0639_Mark_Niedermann_8e185f9902.jpg",
+        "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
+        "caption": "Расширенный ансамбль Fondation Beyeler",
+        "credit": "Фото: Mark Niedermann / Fondation Beyeler"
+      },
+      {
+        "id": "gallery-fondation-beyeler-zumthor-2026-3",
+        "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/d/4/csm_26.05.22.FB_0630_Mark_Niedermann_1ec8e34766.jpg",
+        "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
+        "caption": "Новые здания ансамбля в существующем парке Fondation Beyeler",
+        "credit": "Фото: Mark Niedermann / Fondation Beyeler"
+      },
+      {
+        "id": "gallery-fondation-beyeler-zumthor-2026-4",
+        "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/9/0/csm_26.05.22.FB_0731_Mark_Niedermann_3f06f2ea59.jpg",
+        "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
+        "caption": "Fondation Beyeler: новый ансамбль Atelier Peter Zumthor",
+        "credit": "Фото: Mark Niedermann / Fondation Beyeler"
+      }
     ]
   },
   "covers": [
@@ -2816,6 +2848,36 @@
     "luanda-technology-park-2026": {
       "sourceImageCount": 22,
       "excluded": []
+    },
+    "desnarechye-kpln-lighthouse": {
+      "sourceImageCount": 3,
+      "excluded": [
+        {
+          "url": "https://sitepressfeed.storage.yandexcloud.net/release/main_picture/272267_0c36638c_h2DLJSCE_1786017741.jpeg",
+          "reason": "Основной файл пресс-релиза стабильно не отвечает из публикационного контура; не используем изображение, которое нельзя надёжно подготовить и отдать читателю."
+        }
+      ],
+      "rights": {
+        "url": "https://pressfeed.ru/releases/14965",
+        "basis": "Три изображения опубликованы в официальном пресс-релизе KPLN на Pressfeed; контактным лицом указан PR-директор бюро."
+      },
+      "reviewedAt": "2026-09-23",
+      "note": "Проверены все три изображения официального пресс-релиза KPLN: два проектных кадра используем; основной файл на Yandex Cloud исключён после таймаута первого публикационного запуска."
+    },
+    "fondation-beyeler-zumthor-2026": {
+      "sourceImageCount": 5,
+      "excluded": [
+        {
+          "url": "https://imagedelivery.net/ewpHDaK80-2FfcNaCIVZYA/c8bfdb7f-e0be-470b-7894-a46657df3600/w%3D2362%2Cfit%3Dscale-down%2Cq%3D80",
+          "reason": "Портрет Петера Цумтора не является фотографией самого проекта; для галереи материала используем четыре архитектурных кадра ансамбля."
+        }
+      ],
+      "rights": {
+        "url": "https://www.fondationbeyeler.ch/en/media/the-expanded-ensemble-of-the-fondation-beyeler",
+        "basis": "Официальный пресс-раздел Fondation Beyeler разрешает изображения для текущего освещения в СМИ при полном кредите, без изменений/кадрирования и максимум 1600 px онлайн."
+      },
+      "reviewedAt": "2026-09-23",
+      "note": "Проверены все пять медиа на официальной странице: четыре архитектурных кадра используются, портрет архитектора исключён как не относящийся к визуальному разбору здания. Для публикации взяты те же официальные фотографии с архивного CDN Fondation Beyeler."
     }
   }
 }

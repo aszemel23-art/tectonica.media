@@ -771,5 +771,53 @@
       ]
     },
     "sha256": "99ce63780b96a5def2824930fd1c6ad52aa918c7744e3ad164afd0d9de1baa50"
+  },
+  "desnarechye-kpln-lighthouse": {
+    "url": "https://st.business-key.com/i/files/55722/2026/08/1786011055.jpg",
+    "fetch_url": "https://images.weserv.nl/?url=https%3A%2F%2Fst.business-key.com%2Fi%2Ffiles%2F55722%2F2026%2F08%2F1786011055.jpg&w=1600&output=jpg",
+    "source": "https://pressfeed.ru/releases/14965",
+    "credit": "KPLN («Крупный план») / пресс-служба бюро",
+    "width": 1600,
+    "height": 893
+  },
+  "gallery-desnarechye-kpln-lighthouse-2": {
+    "url": "https://st.business-key.com/i/files/55722/2026/08/1786011086.jpg",
+    "fetch_url": "https://images.weserv.nl/?url=https%3A%2F%2Fst.business-key.com%2Fi%2Ffiles%2F55722%2F2026%2F08%2F1786011086.jpg&w=1600&output=jpg",
+    "source": "https://pressfeed.ru/releases/14965",
+    "credit": "KPLN («Крупный план») / пресс-служба бюро",
+    "width": 1600,
+    "height": 893
+  },
+  "fondation-beyeler-zumthor-2026": {
+    "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/e/7/csm_DSC3290_HR_kl_KDeer_08a936aae4.jpg",
+    "fetch_url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/e/7/csm_DSC3290_HR_kl_KDeer_08a936aae4.jpg",
+    "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
+    "credit": "Photo: Katalin Deér / Fondation Beyeler",
+    "width": 600,
+    "height": 400
+  },
+  "gallery-fondation-beyeler-zumthor-2026-2": {
+    "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/0/6/csm_26.05.22.FB_0639_Mark_Niedermann_8e185f9902.jpg",
+    "fetch_url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/0/6/csm_26.05.22.FB_0639_Mark_Niedermann_8e185f9902.jpg",
+    "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
+    "credit": "Photo: Mark Niedermann / Fondation Beyeler",
+    "width": 600,
+    "height": 801
+  },
+  "gallery-fondation-beyeler-zumthor-2026-3": {
+    "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/d/4/csm_26.05.22.FB_0630_Mark_Niedermann_1ec8e34766.jpg",
+    "fetch_url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/d/4/csm_26.05.22.FB_0630_Mark_Niedermann_1ec8e34766.jpg",
+    "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
+    "credit": "Photo: Mark Niedermann / Fondation Beyeler",
+    "width": 600,
+    "height": 450
+  },
+  "gallery-fondation-beyeler-zumthor-2026-4": {
+    "url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/9/0/csm_26.05.22.FB_0731_Mark_Niedermann_3f06f2ea59.jpg",
+    "fetch_url": "https://archive-2026.fondationbeyeler.ch/fileadmin/_processed_/9/0/csm_26.05.22.FB_0731_Mark_Niedermann_3f06f2ea59.jpg",
+    "source": "https://archive-2026.fondationbeyeler.ch/en/media/press-images",
+    "credit": "Photo: Mark Niedermann / Fondation Beyeler",
+    "width": 600,
+    "height": 801
   }
 }
