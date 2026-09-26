@@ -835,5 +835,429 @@
     "credit": "ПИ «АРЕНА»",
     "width": 1024,
     "height": 613
+  },
+  "moscow-transport-museum-melnikov-garage-2026": {
+    "url": "https://static.tildacdn.com/tild3963-6133-4761-b164-646565343565/260819_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3963-6133-4761-b164-646565343565/260819_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-01": {
+    "url": "https://static.tildacdn.com/tild3635-3562-4334-a265-643865636431/plan-floor1.svg",
+    "fetch_url": "https://static.tildacdn.com/tild3635-3562-4334-a265-643865636431/plan-floor1.svg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Схема: Музей Транспорта Москвы",
+    "width": 1440,
+    "height": 1080
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-02": {
+    "url": "https://static.tildacdn.com/tild3666-3638-4138-b739-366439313132/photo_2026-09-12_18-.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3666-3638-4138-b739-366439313132/photo_2026-09-12_18-.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 525
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-03": {
+    "url": "https://static.tildacdn.com/tild6561-6133-4534-a265-666164616239/photo_2026-09-12_18-.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild6561-6133-4534-a265-666164616239/photo_2026-09-12_18-.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 933
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-04": {
+    "url": "https://static.tildacdn.com/tild3261-6135-4534-a664-663863346435/photo_2026-09-12_18-.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3261-6135-4534-a664-663863346435/photo_2026-09-12_18-.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-05": {
+    "url": "https://static.tildacdn.com/tild6261-3537-4165-b735-323162633230/photo_2026-09-12_18-.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild6261-3537-4165-b735-323162633230/photo_2026-09-12_18-.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-06": {
+    "url": "https://static.tildacdn.com/tild3266-3363-4166-a463-336439323036/260819_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3266-3363-4166-a463-336439323036/260819_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-07": {
+    "url": "https://static.tildacdn.com/tild3839-3338-4530-b564-636361373631/photo_2026-09-12_18-.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3839-3338-4530-b564-636361373631/photo_2026-09-12_18-.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 525
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-08": {
+    "url": "https://static.tildacdn.com/tild6535-3233-4663-b737-643764623063/photo_2026-09-12_18-.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild6535-3233-4663-b737-643764623063/photo_2026-09-12_18-.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 525
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-09": {
+    "url": "https://static.tildacdn.com/tild3036-3030-4232-a231-313038373363/plan-floorB1.svg",
+    "fetch_url": "https://static.tildacdn.com/tild3036-3030-4232-a231-313038373363/plan-floorB1.svg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Схема: Музей Транспорта Москвы",
+    "width": 1440,
+    "height": 1080
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-10": {
+    "url": "https://static.tildacdn.com/tild6165-3734-4533-b664-336165363431/260819_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild6165-3734-4533-b664-336165363431/260819_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-11": {
+    "url": "https://static.tildacdn.com/tild3162-3330-4536-b430-336434393735/260819_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3162-3330-4536-b430-336434393735/260819_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-12": {
+    "url": "https://static.tildacdn.com/tild6463-6334-4665-a362-663339373563/photo_2026-09-12_18-.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild6463-6334-4665-a362-663339373563/photo_2026-09-12_18-.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-13": {
+    "url": "https://static.tildacdn.com/tild3866-6366-4966-a330-346238633266/260819_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3866-6366-4966-a330-346238633266/260819_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-14": {
+    "url": "https://static.tildacdn.com/tild6239-6230-4563-a535-306161313661/photo_2026-09-12_18-.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild6239-6230-4563-a535-306161313661/photo_2026-09-12_18-.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-15": {
+    "url": "https://static.tildacdn.com/tild3138-3936-4165-a433-386437323036/260912_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3138-3936-4165-a433-386437323036/260912_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-16": {
+    "url": "https://static.tildacdn.com/tild6431-3530-4666-b539-343538646532/260819_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild6431-3530-4666-b539-343538646532/260819_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 700,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-17": {
+    "url": "https://static.tildacdn.com/tild3761-6163-4835-a630-653034653333/260819_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3761-6163-4835-a630-653034653333/260819_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 1680,
+    "height": 1120
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-18": {
+    "url": "https://static.tildacdn.com/tild3536-3333-4666-a336-333833343530/photopng.webp",
+    "fetch_url": "https://static.tildacdn.com/tild3536-3333-4666-a336-333833343530/photopng.webp",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 750,
+    "height": 466
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-19": {
+    "url": "https://static.tildacdn.com/tild3636-3130-4535-b263-393136386165/260819_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3636-3130-4535-b263-393136386165/260819_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 1680,
+    "height": 1120
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-20": {
+    "url": "https://static.tildacdn.com/tild3730-6262-4565-a531-623261343833/260819_SergeyLukiano.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3730-6262-4565-a531-623261343833/260819_SergeyLukiano.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 1680,
+    "height": 1120
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-21": {
+    "url": "https://static.tildacdn.com/tild3862-6334-4265-a137-373966663766/81-7171png.webp",
+    "fetch_url": "https://static.tildacdn.com/tild3862-6334-4265-a137-373966663766/81-7171png.webp",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 1296,
+    "height": 864
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-22": {
+    "url": "https://static.tildacdn.com/tild3166-3864-4336-b133-616436353632/yauzapng.webp",
+    "fetch_url": "https://static.tildacdn.com/tild3166-3864-4336-b133-616436353632/yauzapng.webp",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 1240,
+    "height": 827
+  },
+  "gallery-moscow-transport-museum-melnikov-garage-2026-23": {
+    "url": "https://static.tildacdn.com/tild3332-6562-4239-b235-643430306638/photo_2026-09-12_18-.jpg",
+    "fetch_url": "https://static.tildacdn.com/tild3332-6562-4239-b235-643430306638/photo_2026-09-12_18-.jpg",
+    "source": "https://new.mtmuseum.ru/",
+    "credit": "Музей Транспорта Москвы; автор кадра на странице не указан",
+    "width": 1280,
+    "height": 853
+  },
+  "nested-house-iterare-valencia-2026": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-01.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-01.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 943,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-02": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-02.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-02.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-03": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/en/architecture/gallery/2026/09/25/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-2.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/en/architecture/gallery/2026/09/25/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-2.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-04": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-03.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-03.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-05": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-04.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-04.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-06": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/en/architecture/gallery/2026/09/25/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-3.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/en/architecture/gallery/2026/09/25/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-3.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-07": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-05.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-05.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 960,
+    "height": 720
+  },
+  "gallery-nested-house-iterare-valencia-2026-08": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/en/architecture/gallery/2026/09/25/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-1.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/en/architecture/gallery/2026/09/25/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-1.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-09": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-06.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-06.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-10": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-07.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-07.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 760,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-11": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-08.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-08.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 933,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-12": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-09.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-09.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 904,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-13": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-10.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-10.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-14": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-11.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-11.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-15": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-12.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-12.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-16": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-13.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-13.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-17": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-14.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-14.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 560,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-18": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-15.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-15.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Фото: David Zarzoso / Domus",
+    "width": 600,
+    "height": 800
+  },
+  "gallery-nested-house-iterare-valencia-2026-19": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-16.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-16.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Чертежи: Iterare Arquitectos / Domus",
+    "width": 960,
+    "height": 540
+  },
+  "gallery-nested-house-iterare-valencia-2026-20": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-17.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-17.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Чертежи: Iterare Arquitectos / Domus",
+    "width": 960,
+    "height": 540
+  },
+  "gallery-nested-house-iterare-valencia-2026-21": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-18.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-18.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Чертежи: Iterare Arquitectos / Domus",
+    "width": 960,
+    "height": 540
+  },
+  "gallery-nested-house-iterare-valencia-2026-22": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-20.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-20.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Чертежи: Iterare Arquitectos / Domus",
+    "width": 960,
+    "height": 540
+  },
+  "gallery-nested-house-iterare-valencia-2026-23": {
+    "url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-19.jpg.foto.rmedium.png",
+    "fetch_url": "https://www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2026/09/03/a-valencia-unabitazione-annidata-dentro-un-involucro-storico/gallery/domus-nested-house-19.jpg.foto.rmedium.png",
+    "source": "https://www.domusweb.it/en/architecture/gallery/2026/09/25/house-inside-existing-shell-valencia-iterare-arquitectos.html",
+    "credit": "Чертежи: Iterare Arquitectos / Domus",
+    "width": 960,
+    "height": 540
+  },
+  "clinamen-onassis-mandra-athens-2026": {
+    "url": "https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/crop/both/b8/b8499819e4fd46988ad471ba30e25aae.jpg?404=default&quality=81&v=4",
+    "fetch_url": "https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/crop/both/b8/b8499819e4fd46988ad471ba30e25aae.jpg?404=default&quality=81&v=4",
+    "source": "https://www.athinorama.gr/texnes/3078353/sti-dionusiou-areopagitou-exeis-pleon-enan-xoro-na-oneiropoliseis/",
+    "credit": "Фото: Margarita Yoko Nikitaki / Onassis Stegi",
+    "width": 750,
+    "height": 422
+  },
+  "gallery-clinamen-onassis-mandra-athens-2026-02": {
+    "url": "https://www.athinorama.gr/Content/ImagesDatabase/bd/bd1b2c0f0f9b40cd8c79371417f42b7b.jpg?maxwidth=680&originalwidth=1200&v=1",
+    "fetch_url": "https://www.athinorama.gr/Content/ImagesDatabase/bd/bd1b2c0f0f9b40cd8c79371417f42b7b.jpg?maxwidth=680&originalwidth=1200&v=1",
+    "source": "https://www.athinorama.gr/texnes/3078353/sti-dionusiou-areopagitou-exeis-pleon-enan-xoro-na-oneiropoliseis/",
+    "credit": "Фото: Margarita Yoko Nikitaki / Onassis Stegi",
+    "width": 680,
+    "height": 1020
+  },
+  "gallery-clinamen-onassis-mandra-athens-2026-03": {
+    "url": "https://www.athinorama.gr/Content/ImagesDatabase/63/63459d5a52ca4518b8bb7ff9b3ff7e47.jpg?maxwidth=680&originalwidth=1200&v=1",
+    "fetch_url": "https://www.athinorama.gr/Content/ImagesDatabase/63/63459d5a52ca4518b8bb7ff9b3ff7e47.jpg?maxwidth=680&originalwidth=1200&v=1",
+    "source": "https://www.athinorama.gr/texnes/3078353/sti-dionusiou-areopagitou-exeis-pleon-enan-xoro-na-oneiropoliseis/",
+    "credit": "Фото: Margarita Yoko Nikitaki / Onassis Stegi",
+    "width": 680,
+    "height": 1020
+  },
+  "gallery-clinamen-onassis-mandra-athens-2026-04": {
+    "url": "https://www.athinorama.gr/Content/ImagesDatabase/ee/eefd9667a451449291795355c5a4be98.jpg?maxwidth=680&originalwidth=1200&v=1",
+    "fetch_url": "https://www.athinorama.gr/Content/ImagesDatabase/ee/eefd9667a451449291795355c5a4be98.jpg?maxwidth=680&originalwidth=1200&v=1",
+    "source": "https://www.athinorama.gr/texnes/3078353/sti-dionusiou-areopagitou-exeis-pleon-enan-xoro-na-oneiropoliseis/",
+    "credit": "Фото: Margarita Yoko Nikitaki / Onassis Stegi",
+    "width": 680,
+    "height": 1020
+  },
+  "gallery-clinamen-onassis-mandra-athens-2026-05": {
+    "url": "https://www.athinorama.gr/Content/ImagesDatabase/77/77137ff0ff1c42dd83c54fbb6b89bae2.jpg?maxwidth=680&originalwidth=1200&v=1",
+    "fetch_url": "https://www.athinorama.gr/Content/ImagesDatabase/77/77137ff0ff1c42dd83c54fbb6b89bae2.jpg?maxwidth=680&originalwidth=1200&v=1",
+    "source": "https://www.athinorama.gr/texnes/3078353/sti-dionusiou-areopagitou-exeis-pleon-enan-xoro-na-oneiropoliseis/",
+    "credit": "Фото: Margarita Yoko Nikitaki / Onassis Stegi",
+    "width": 680,
+    "height": 1020
+  },
+  "gallery-clinamen-onassis-mandra-athens-2026-06": {
+    "url": "https://www.athinorama.gr/Content/ImagesDatabase/97/97750cddc608431b9dfadf86fae3b60c.jpg?maxwidth=680&originalwidth=2048&v=1",
+    "fetch_url": "https://www.athinorama.gr/Content/ImagesDatabase/97/97750cddc608431b9dfadf86fae3b60c.jpg?maxwidth=680&originalwidth=2048&v=1",
+    "source": "https://www.athinorama.gr/texnes/3078353/sti-dionusiou-areopagitou-exeis-pleon-enan-xoro-na-oneiropoliseis/",
+    "credit": "Фото: Andreas Simopoulos / Onassis Foundation",
+    "width": 680,
+    "height": 453
   }
 }
