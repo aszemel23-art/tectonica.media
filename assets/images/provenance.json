@@ -819,5 +819,21 @@
     "credit": "Photo: Mark Niedermann / Fondation Beyeler",
     "width": 600,
     "height": 801
+  },
+  "malba-frida-escobedo-underground-2026": {
+    "url": "https://images.adsttc.com/media/images/6ab5/3c85/e78f/b301/883c/f603/large_jpg/frida-escobedo_4.jpg?1790262550",
+    "fetch_url": "https://images.adsttc.com/media/images/6ab5/3c85/e78f/b301/883c/f603/large_jpg/frida-escobedo_4.jpg?1790262550",
+    "source": "https://www.archdaily.com/1185701/frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum",
+    "credit": "Image © Frida Escobedo Studio / ArchDaily",
+    "width": 2000,
+    "height": 1667
+  },
+  "lab-novy-urengoy-pi-arena-2026": {
+    "url": "https://piarena.ru/wp-content/uploads/2026/04/kvantorium_den-2-1-e1784017829404-1024x613.jpg",
+    "fetch_url": "https://piarena.ru/wp-content/uploads/2026/04/kvantorium_den-2-1-e1784017829404-1024x613.jpg",
+    "source": "https://piarena.ru/centr-dopolnitelnogo-obrazovanija-laboratorija-kvantorium-v-novom-urengoe/",
+    "credit": "ПИ «АРЕНА»",
+    "width": 1024,
+    "height": 613
   }
 }

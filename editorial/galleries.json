@@ -1779,7 +1779,9 @@
         "caption": "Fondation Beyeler: новый ансамбль Atelier Peter Zumthor",
         "credit": "Фото: Mark Niedermann / Fondation Beyeler"
       }
-    ]
+    ],
+    "malba-frida-escobedo-underground-2026": [],
+    "lab-novy-urengoy-pi-arena-2026": []
   },
   "covers": [
     {
@@ -2878,6 +2880,39 @@
       },
       "reviewedAt": "2026-09-23",
       "note": "Проверены все пять медиа на официальной странице: четыре архитектурных кадра используются, портрет архитектора исключён как не относящийся к визуальному разбору здания. Для публикации взяты те же официальные фотографии с архивного CDN Fondation Beyeler."
+    },
+    "malba-frida-escobedo-underground-2026": {
+      "sourceImageCount": 6,
+      "excluded": [
+        {
+          "url": "https://www.archdaily.com/1185701/frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum/6ab53c8559bf5a018bd686e9-frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum-photo",
+          "reason": "Дополнительный кадр не переносим без отдельного разрешения на повторную публикацию; оставляем один основной проектный рендер с явным кредитом."
+        },
+        {
+          "url": "https://www.archdaily.com/1185701/frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum/6ab53c8759bf5a018bd686eb-frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum-photo",
+          "reason": "Дополнительный кадр не переносим без отдельного разрешения на повторную публикацию; оставляем один основной проектный рендер с явным кредитом."
+        },
+        {
+          "url": "https://www.archdaily.com/1185701/frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum/6ab53c86e78fb301883cf604-frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum-photo",
+          "reason": "Дополнительный кадр не переносим без отдельного разрешения на повторную публикацию; оставляем один основной проектный рендер с явным кредитом."
+        },
+        {
+          "url": "https://www.archdaily.com/1185701/frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum/6ab53c8559bf5a018bd686ea-frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum-photo",
+          "reason": "Дополнительный кадр не переносим без отдельного разрешения на повторную публикацию; оставляем один основной проектный рендер с явным кредитом."
+        },
+        {
+          "url": "https://www.archdaily.com/1185701/frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum/6ab53c8559bf5a018bd686e8-frida-escobedo-studio-to-design-underground-expansion-for-buenos-aires-malba-museum-photo",
+          "reason": "Дополнительный кадр не переносим без отдельного разрешения на повторную публикацию; оставляем один основной проектный рендер с явным кредитом."
+        }
+      ],
+      "reviewedAt": "2026-09-26",
+      "note": "Проверена вся шестикадровая галерея ArchDaily. На сайте используется реальный проектный рендер Frida Escobedo Studio; редакционная заглушка не используется."
+    },
+    "lab-novy-urengoy-pi-arena-2026": {
+      "sourceImageCount": 1,
+      "excluded": [],
+      "reviewedAt": "2026-09-26",
+      "note": "Для обложки взят реальный кадр с официальной страницы ПИ «АРЕНА». Это не визуализация и не редакционная заглушка."
     }
   }
 }
