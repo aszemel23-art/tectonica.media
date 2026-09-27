@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-27",
+  "window": {
+    "from": "2026-09-26T01:55:39Z",
+    "to": "2026-09-27T01:55:39Z",
+    "timezone": "Asia/Novosibirsk",
+    "note": "Три сильные темы за сутки: Джеффри Бава в Vitra Design Museum, световая инсталляция на Дворцовой площади и Moomin Mug Mania в Тампере."
+  },
+  "intro": "Сегодня три истории о том, как дизайн работает с уже знакомыми вещами и местами, не пытаясь их перекричать. В Vitra Design Museum Джеффри Баву показывают через здания, которыми до сих пор пользуются. В Петербурге площадь изменили светом, не превращая памятник в экран. В Тампере собрали все 0,3-литровые кружки Moomin Arabia рядом с оригиналами Туве Янссон.",
+  "articles": [
+    {
+      "id": "geoffrey-bawa-vitra-architecture-for-the-senses-2026",
+      "title": "Vitra Design Museum собрал 250 работ Джеффри Бавы — и заново снял его здания с Иваном Бааном",
+      "category": "exhibitions",
+      "format": "Выставка",
+      "place": "Вайль-на-Рейне, Германия",
+      "dek": "26 сентября открылась большая ретроспектива архитектора Шри-Ланки: чертежи, модели, мебель, архивные фильмы и новая съёмка Ивана Баана. Сценографию сделал офис Lina Ghotmeh Architecture.",
+      "body": "26 сентября Vitra Design Museum открыл выставку «Geoffrey Bawa: Architecture for the Senses». В ней больше 250 предметов — от чертежей и моделей до мебели, архивной фотографии и фильмов. Для выставки Иван Баан специально переснял несколько ключевых зданий Бавы, а Lina Ghotmeh Architecture сделала сценографию.\n\n## Почему это интересно\n\nБаву часто быстро сводят к формуле «тропический модернизм». Выставка показывает другое: он проектировал не фасад ради кадра, а последовательность ощущений — свет, тень, рельеф, растения, воду, камень, текстиль и движение между помещением и ландшафтом. Новая съёмка Баана важна именно поэтому: здания показаны не стерильными объектами после сдачи, а местами, которыми продолжают пользоваться.\n\n## Что можно забрать в работу в России\n\nПолезный принцип — начинать не с образа, а с условий места: солнца, ветра, снега, деревьев, перепада высот и хороших видов. А местное ремесло встраивать в проект с самого начала, а не добавлять в финале как декоративный акцент.",
+      "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+      "sources": [
+        {
+          "title": "Vitra Design Museum — Geoffrey Bawa: Architecture for the Senses",
+          "url": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html"
+        },
+        {
+          "title": "Wallpaper* — Geoffrey Bawa exhibition",
+          "url": "https://www.wallpaper.com/architecture/architecture-events/geoffrey-bawa-exhibition-vitra-design-museum"
+        }
+      ],
+      "credit": "Фото: Iwan Baan, 2026 © Iwan Baan / Vitra Design Museum",
+      "image": "geoffrey-bawa-vitra-architecture-for-the-senses-2026",
+      "imageAlt": "Kandalama Hotel Джеффри Бавы, новая съёмка Ивана Баана для Vitra Design Museum",
+      "illustration": false,
+      "event": "Открытие — 26 сентября 2026 · выставка до 28 февраля 2027",
+      "imageReview": {
+        "sourceImageCount": 6,
+        "excluded": [],
+        "reviewedAt": "2026-09-27",
+        "note": "Использованы реальные изображения из официальных пресс-материалов Vitra Design Museum."
+      },
+      "gallery": [
+        {
+          "id": "gallery-geoffrey-bawa-vitra-2026-01",
+          "url": "https://www.design-museum.de/fileadmin/_processed_/8/5/csm_03_VDM_Geoffrey-Bawa_1377de1ab2.jpg",
+          "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+          "caption": "Дом Бавы Number 11 в Коломбо с воздуха",
+          "credit": "Фото: Iwan Baan, 2026 © Iwan Baan"
+        },
+        {
+          "id": "gallery-geoffrey-bawa-vitra-2026-02",
+          "url": "https://www.design-museum.de/fileadmin/_processed_/2/5/csm_14_VDM_Geoffrey-Bawa_7320ab8b9e.jpg",
+          "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+          "caption": "Гостиная Bentota Beach Hotel",
+          "credit": "Фото: Iwan Baan, 2026 © Iwan Baan"
+        }
+      ]
+    },
+    {
+      "id": "digital-rain-185-lights-palace-square-2026",
+      "title": "Вокруг Александровской колонны поставили 185 лучей света — без проекции на сам памятник",
+      "category": "exhibitions",
+      "format": "Инсталляция",
+      "place": "Санкт-Петербург, Россия",
+      "dek": "На Дворцовой площади во время Digital Rain работает инсталляция Smartlight: вертикальные лучи собирают новый объём вокруг колонны, но оставляют сам памятник читаемым.",
+      "body": "26 сентября на Дворцовой площади заработала одна из площадок фестиваля медиаискусства Digital Rain. Вокруг Александровской колонны установили 185 вертикальных световых лучей. Проект «185 световых» сделала команда Smartlight при поддержке Сбера.\n\n## Почему это интересно\n\nСамое сильное решение — не использовать памятник как экран. Лучи стоят вокруг колонны и уходят вверх, поэтому временная медиаинсталляция работает с пустым пространством площади и усиливает уже существующую вертикаль. После отключения света вмешательство просто исчезает.\n\n## Что можно забрать в работу в России\n\nДля исторической среды стоит чаще думать о бесконтактных и обратимых сценариях: свет, туман, звук, проекция на временные поверхности. Они позволяют заметно изменить восприятие места, не маскируя архитектуру. Ключевое условие — не сделать эффект сильнее самого памятника.",
+      "source": "https://digitalrain.art/sber",
+      "sources": [
+        {
+          "title": "Digital Rain — 185 световых",
+          "url": "https://digitalrain.art/sber"
+        },
+        {
+          "title": "Фонтанка — 185 лучей над Дворцовой",
+          "url": "https://www.fontanka.ru/2026/09/26/76664555/"
+        }
+      ],
+      "credit": "Фото: пресс-служба Сбера / Фонтанка.ру",
+      "image": "digital-rain-185-lights-palace-square-2026",
+      "imageAlt": "Александровская колонна в окружении вертикальных лучей Digital Rain",
+      "illustration": false,
+      "event": "Показ — 25–27 сентября 2026 · Дворцовая площадь",
+      "imageReview": {
+        "sourceImageCount": 3,
+        "excluded": [],
+        "reviewedAt": "2026-09-27",
+        "note": "Использованы реальные фотографии инсталляции на Дворцовой площади."
+      },
+      "gallery": [
+        {
+          "id": "gallery-digital-rain-185-lights-2026-01",
+          "url": "https://n1s1.hsmedia.ru/f7/ab/0c/f7ab0c80155d8d03ab8a97e2eec55d53/600x600_21_27164a327e49e2330e00fa9a5f5ea5c9%401706x2560_0xsw0EVdhx_6937019462317430467.jpg.webp",
+          "source": "https://www.fontanka.ru/2026/09/26/76664555/",
+          "caption": "Вертикальные лучи вокруг Александровской колонны",
+          "credit": "Фото: пресс-служба Сбера / Фонтанка.ру"
+        }
+      ]
+    },
+    {
+      "id": "moomin-mug-mania-tampere-2026",
+      "title": "В Тампере выставили все 0,3-литровые кружки Moomin Arabia — рядом с оригиналами Туве Янссон",
+      "category": "exhibitions",
+      "format": "Предметный дизайн",
+      "place": "Тампере, Финляндия",
+      "dek": "Moomin Museum показывает, как обычная кружка Kaj Franck превратилась в коллекционный объект: от первых работ Туве Янссон 1950-х до новой Winternight Glow.",
+      "body": "26 сентября в Moomin Museum открылась Moomin Mug Mania. В одном месте собрали все 0,3-литровые кружки Moomin Arabia, другие размеры, редкие экземпляры и японские серии. Рядом показывают оригинальные рисунки и комиксы Туве Янссон, из которых дизайнеры Arabia собирали изображения для керамики.\n\n## Почему это интересно\n\nСовременные кружки Moomin с 1990-х делают на базе Teema — классической формы Kaj Franck. Меняется графика, персонажи, выпуск и маркировка, но сама форма остаётся частью одной системы. К открытию музей выпустил Winternight Glow: Parvati Pillai адаптировала рисунок Янссон 1972 года, а первый месяц кружка продаётся только в музее.\n\n## Что можно забрать в работу в России\n\nСильная продуктовая линейка не обязана каждый год менять форму. Иногда выгоднее один раз сделать хороший базовый объект и дальше развивать вокруг него цвета, графику, специальные выпуски, коллаборации, архив и историю происхождения. Коллекционность появляется из последовательности, а не из одного слова «лимитированный».",
+      "source": "https://www.muumimuseo.fi/en/exhibitions-and-events/temporary-exhibitions/coming/",
+      "sources": [
+        {
+          "title": "Moomin Museum — Moomin Mug Mania",
+          "url": "https://www.muumimuseo.fi/en/exhibitions-and-events/temporary-exhibitions/coming/"
+        },
+        {
+          "title": "Moomin Museum — Winternight Glow",
+          "url": "https://www.muumimuseo.fi/en/news/moomin-museum-gets-a-new-moomin-mug-in-cooperation-with-moomin-arabia-moomintroll-and-the-groke-meet-in-winternight-glow/"
+        }
+      ],
+      "credit": "Фото: Patrik Rastenberger; Moomin Arabia © Moomin Characters TM",
+      "image": "moomin-mug-mania-tampere-2026",
+      "imageAlt": "Коллекция кружек Moomin Arabia перед выставкой Moomin Mug Mania",
+      "illustration": false,
+      "event": "Открытие — 26 сентября 2026 · выставка до 5 января 2028",
+      "imageReview": {
+        "sourceImageCount": 3,
+        "excluded": [],
+        "reviewedAt": "2026-09-27",
+        "note": "Использованы реальные фотографии коллекции и официальное изображение нового выпуска."
+      },
+      "gallery": [
+        {
+          "id": "gallery-moomin-mug-mania-2026-01",
+          "url": "https://www.tampere.fi/sites/default/files/styles/api_image_style/public/2026-09/Moomin-Winterglow1319_LowRes_JPG-kutsu.jpg?itok=2Za13Ux2",
+          "source": "https://www.muumimuseo.fi/en/news/moomin-museum-gets-a-new-moomin-mug-in-cooperation-with-moomin-arabia-moomintroll-and-the-groke-meet-in-winternight-glow/",
+          "caption": "Новая Winternight Glow по рисунку Туве Янссон 1972 года",
+          "credit": "Фото: Moomin Arabia © Moomin Characters TM"
+        }
+      ]
+    }
+  ],
+  "editorialPicks": [
+    {
+      "id": "geoffrey-bawa-vitra-architecture-for-the-senses-2026",
+      "time": "7 минут",
+      "reason": "Архитектура как маршрут ощущений: климат, ландшафт, ремесло и материал работают вместе."
+    },
+    {
+      "id": "digital-rain-185-lights-palace-square-2026",
+      "time": "5 минут",
+      "reason": "Российский пример временного вмешательства в историческую среду: эффект создают вокруг памятника, а не поверх него."
+    },
+    {
+      "id": "moomin-mug-mania-tampere-2026",
+      "time": "5 минут",
+      "reason": "Практический пример того, как одна стабильная форма превращается в долгую продуктовую систему и коллекционный рынок."
+    }
+  ],
+  "featured": {
+    "lead": "geoffrey-bawa-vitra-architecture-for-the-senses-2026",
+    "secondary": "digital-rain-185-lights-palace-square-2026",
+    "stories": [
+      "geoffrey-bawa-vitra-architecture-for-the-senses-2026",
+      "digital-rain-185-lights-palace-square-2026",
+      "moomin-mug-mania-tampere-2026"
+    ]
+  },
+  "images": [
+    {
+      "id": "geoffrey-bawa-vitra-architecture-for-the-senses-2026",
+      "url": "https://www.design-museum.de/fileadmin/_processed_/2/d/csm_keyvisual_geoffrey_bawa_c_iwan_baan_e4813922f7.png",
+      "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+      "credit": "Фото: Iwan Baan, 2026 © Iwan Baan / Vitra Design Museum"
+    },
+    {
+      "id": "gallery-geoffrey-bawa-vitra-2026-01",
+      "url": "https://www.design-museum.de/fileadmin/_processed_/8/5/csm_03_VDM_Geoffrey-Bawa_1377de1ab2.jpg",
+      "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+      "credit": "Фото: Iwan Baan, 2026 © Iwan Baan"
+    },
+    {
+      "id": "gallery-geoffrey-bawa-vitra-2026-02",
+      "url": "https://www.design-museum.de/fileadmin/_processed_/2/5/csm_14_VDM_Geoffrey-Bawa_7320ab8b9e.jpg",
+      "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+      "credit": "Фото: Iwan Baan, 2026 © Iwan Baan"
+    },
+    {
+      "id": "digital-rain-185-lights-palace-square-2026",
+      "url": "https://n1s1.hsmedia.ru/d8/50/79/d85079d05bf67381a3c9508625c2df89/600x600_21_14d6468bbed1f9311846391fdde80daa%402560x1706_0xQAFpuPlw_0261257369193429605.jpg.webp",
+      "source": "https://www.fontanka.ru/2026/09/26/76664555/",
+      "credit": "Фото: пресс-служба Сбера / Фонтанка.ру"
+    },
+    {
+      "id": "gallery-digital-rain-185-lights-2026-01",
+      "url": "https://n1s1.hsmedia.ru/f7/ab/0c/f7ab0c80155d8d03ab8a97e2eec55d53/600x600_21_27164a327e49e2330e00fa9a5f5ea5c9%401706x2560_0xsw0EVdhx_6937019462317430467.jpg.webp",
+      "source": "https://www.fontanka.ru/2026/09/26/76664555/",
+      "credit": "Фото: пресс-служба Сбера / Фонтанка.ру"
+    },
+    {
+      "id": "moomin-mug-mania-tampere-2026",
+      "url": "https://media.timeout.com/images/106443465/750/422/image.jpg",
+      "source": "https://www.timeout.com/finland/news/moomin-museum-mugs-tampere-090326",
+      "credit": "Фото: Patrik Rastenberger / Time Out"
+    },
+    {
+      "id": "gallery-moomin-mug-mania-2026-01",
+      "url": "https://www.tampere.fi/sites/default/files/styles/api_image_style/public/2026-09/Moomin-Winterglow1319_LowRes_JPG-kutsu.jpg?itok=2Za13Ux2",
+      "source": "https://www.muumimuseo.fi/en/news/moomin-museum-gets-a-new-moomin-mug-in-cooperation-with-moomin-arabia-moomintroll-and-the-groke-meet-in-winternight-glow/",
+      "credit": "Фото: Moomin Arabia © Moomin Characters TM"
+    }
+  ],
+  "featurePitches": [
+    {
+      "title": "Как Джеффри Бава проектировал не фасад, а маршрут ощущений",
+      "text": "Разобрать, как свет, тень, рельеф, вода, ремесло и движение человека превращаются у Бавы в архитектуру.",
+      "article": "geoffrey-bawa-vitra-architecture-for-the-senses-2026"
+    },
+    {
+      "title": "Как работать со светом в историческом центре, не превращая памятник в экран",
+      "text": "Разобрать петербургские «185 световых» как обратимое вмешательство, где материалом становится пустота вокруг архитектуры.",
+      "article": "digital-rain-185-lights-palace-square-2026"
+    },
+    {
+      "title": "Почему одна и та же кружка может жить десятилетиями и становиться коллекционной",
+      "text": "История Moomin Arabia как продуктовой системы: стабильная форма Kaj Franck, архив Туве Янссон и новые графические выпуски.",
+      "article": "moomin-mug-mania-tampere-2026"
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Архивы снова становятся рабочим материалом, а не складом прошлого",
+    "text": "За один день это видно в двух сильных проектах. Vitra Design Museum достаёт чертежи, мебель и старые снимки Джеффри Бавы, но добавляет новую съёмку Ивана Баана и современную сценографию Lina Ghotmeh. Moomin Museum ставит рядом оригиналы Туве Янссон и серийные кружки, а из рисунка 1972 года делает новый продукт. Похоже, хорошая работа с архивом всё чаще означает не просто показать наследие, а дать ему новую функцию, не теряя авторства и происхождения.",
+    "sources": [
+      {
+        "title": "Vitra Design Museum",
+        "url": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html"
+      },
+      {
+        "title": "Moomin Museum",
+        "url": "https://www.muumimuseo.fi/en/exhibitions-and-events/temporary-exhibitions/coming/"
+      }
+    ]
+  }
+}
