@@ -1259,5 +1259,61 @@
     "credit": "Фото: Andreas Simopoulos / Onassis Foundation",
     "width": 680,
     "height": 453
+  },
+  "geoffrey-bawa-vitra-architecture-for-the-senses-2026": {
+    "url": "https://www.design-museum.de/fileadmin/_processed_/2/d/csm_keyvisual_geoffrey_bawa_c_iwan_baan_e4813922f7.png",
+    "fetch_url": "https://www.design-museum.de/fileadmin/_processed_/2/d/csm_keyvisual_geoffrey_bawa_c_iwan_baan_e4813922f7.png",
+    "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+    "credit": "Фото: Iwan Baan, 2026 © Iwan Baan / Vitra Design Museum",
+    "width": 1200,
+    "height": 1200
+  },
+  "gallery-geoffrey-bawa-vitra-2026-01": {
+    "url": "https://www.design-museum.de/fileadmin/_processed_/8/5/csm_03_VDM_Geoffrey-Bawa_1377de1ab2.jpg",
+    "fetch_url": "https://www.design-museum.de/fileadmin/_processed_/8/5/csm_03_VDM_Geoffrey-Bawa_1377de1ab2.jpg",
+    "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+    "credit": "Фото: Iwan Baan, 2026 © Iwan Baan",
+    "width": 1200,
+    "height": 800
+  },
+  "gallery-geoffrey-bawa-vitra-2026-02": {
+    "url": "https://www.design-museum.de/fileadmin/_processed_/2/5/csm_14_VDM_Geoffrey-Bawa_7320ab8b9e.jpg",
+    "fetch_url": "https://www.design-museum.de/fileadmin/_processed_/2/5/csm_14_VDM_Geoffrey-Bawa_7320ab8b9e.jpg",
+    "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+    "credit": "Фото: Iwan Baan, 2026 © Iwan Baan",
+    "width": 1200,
+    "height": 746
+  },
+  "digital-rain-185-lights-palace-square-2026": {
+    "url": "https://n1s1.hsmedia.ru/d8/50/79/d85079d05bf67381a3c9508625c2df89/600x600_21_14d6468bbed1f9311846391fdde80daa%402560x1706_0xQAFpuPlw_0261257369193429605.jpg.webp",
+    "fetch_url": "https://n1s1.hsmedia.ru/d8/50/79/d85079d05bf67381a3c9508625c2df89/600x600_21_14d6468bbed1f9311846391fdde80daa%402560x1706_0xQAFpuPlw_0261257369193429605.jpg.webp",
+    "source": "https://www.fontanka.ru/2026/09/26/76664555/",
+    "credit": "Фото: пресс-служба Сбера / Фонтанка.ру",
+    "width": 600,
+    "height": 600
+  },
+  "gallery-digital-rain-185-lights-2026-01": {
+    "url": "https://n1s1.hsmedia.ru/f7/ab/0c/f7ab0c80155d8d03ab8a97e2eec55d53/600x600_21_27164a327e49e2330e00fa9a5f5ea5c9%401706x2560_0xsw0EVdhx_6937019462317430467.jpg.webp",
+    "fetch_url": "https://n1s1.hsmedia.ru/f7/ab/0c/f7ab0c80155d8d03ab8a97e2eec55d53/600x600_21_27164a327e49e2330e00fa9a5f5ea5c9%401706x2560_0xsw0EVdhx_6937019462317430467.jpg.webp",
+    "source": "https://www.fontanka.ru/2026/09/26/76664555/",
+    "credit": "Фото: пресс-служба Сбера / Фонтанка.ру",
+    "width": 600,
+    "height": 600
+  },
+  "moomin-mug-mania-tampere-2026": {
+    "url": "https://media.timeout.com/images/106443465/750/422/image.jpg",
+    "fetch_url": "https://media.timeout.com/images/106443465/750/422/image.jpg",
+    "source": "https://www.timeout.com/finland/news/moomin-museum-mugs-tampere-090326",
+    "credit": "Фото: Patrik Rastenberger / Time Out",
+    "width": 750,
+    "height": 422
+  },
+  "gallery-moomin-mug-mania-2026-01": {
+    "url": "https://www.tampere.fi/sites/default/files/styles/api_image_style/public/2026-09/Moomin-Winterglow1319_LowRes_JPG-kutsu.jpg?itok=2Za13Ux2",
+    "fetch_url": "https://www.tampere.fi/sites/default/files/styles/api_image_style/public/2026-09/Moomin-Winterglow1319_LowRes_JPG-kutsu.jpg?itok=2Za13Ux2",
+    "source": "https://www.muumimuseo.fi/en/news/moomin-museum-gets-a-new-moomin-mug-in-cooperation-with-moomin-arabia-moomintroll-and-the-groke-meet-in-winternight-glow/",
+    "credit": "Фото: Moomin Arabia © Moomin Characters TM",
+    "width": 768,
+    "height": 518
   }
 }

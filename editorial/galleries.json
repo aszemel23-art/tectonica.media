@@ -2137,6 +2137,40 @@
         "caption": "Onassis Mandra и инсталляция Clinamen вечером",
         "credit": "Фото: Andreas Simopoulos / Onassis Foundation"
       }
+    ],
+    "geoffrey-bawa-vitra-architecture-for-the-senses-2026": [
+      {
+        "id": "gallery-geoffrey-bawa-vitra-2026-01",
+        "url": "https://www.design-museum.de/fileadmin/_processed_/8/5/csm_03_VDM_Geoffrey-Bawa_1377de1ab2.jpg",
+        "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+        "caption": "Дом Бавы Number 11 в Коломбо с воздуха",
+        "credit": "Фото: Iwan Baan, 2026 © Iwan Baan"
+      },
+      {
+        "id": "gallery-geoffrey-bawa-vitra-2026-02",
+        "url": "https://www.design-museum.de/fileadmin/_processed_/2/5/csm_14_VDM_Geoffrey-Bawa_7320ab8b9e.jpg",
+        "source": "https://www.design-museum.de/en/exhibitions/detailpages/geoffrey-bawa.html",
+        "caption": "Гостиная Bentota Beach Hotel",
+        "credit": "Фото: Iwan Baan, 2026 © Iwan Baan"
+      }
+    ],
+    "digital-rain-185-lights-palace-square-2026": [
+      {
+        "id": "gallery-digital-rain-185-lights-2026-01",
+        "url": "https://n1s1.hsmedia.ru/f7/ab/0c/f7ab0c80155d8d03ab8a97e2eec55d53/600x600_21_27164a327e49e2330e00fa9a5f5ea5c9%401706x2560_0xsw0EVdhx_6937019462317430467.jpg.webp",
+        "source": "https://www.fontanka.ru/2026/09/26/76664555/",
+        "caption": "Вертикальные лучи вокруг Александровской колонны",
+        "credit": "Фото: пресс-служба Сбера / Фонтанка.ру"
+      }
+    ],
+    "moomin-mug-mania-tampere-2026": [
+      {
+        "id": "gallery-moomin-mug-mania-2026-01",
+        "url": "https://www.tampere.fi/sites/default/files/styles/api_image_style/public/2026-09/Moomin-Winterglow1319_LowRes_JPG-kutsu.jpg?itok=2Za13Ux2",
+        "source": "https://www.muumimuseo.fi/en/news/moomin-museum-gets-a-new-moomin-mug-in-cooperation-with-moomin-arabia-moomintroll-and-the-groke-meet-in-winternight-glow/",
+        "caption": "Новая Winternight Glow по рисунку Туве Янссон 1972 года",
+        "credit": "Фото: Moomin Arabia © Moomin Characters TM"
+      }
     ]
   },
   "covers": [
@@ -3300,6 +3334,24 @@
       ],
       "reviewedAt": "2026-09-26",
       "note": "Проверены девять изображений в репортаже Athinorama. Шесть кадров показывают сам Clinamen и включены в выпуск; три кадра магазина и мерча исключены как нерелевантные проекту."
+    },
+    "geoffrey-bawa-vitra-architecture-for-the-senses-2026": {
+      "sourceImageCount": 3,
+      "excluded": [],
+      "reviewedAt": "2026-09-27",
+      "note": "Проверены три релевантных кадра из официальных пресс-материалов Vitra Design Museum; обложка и два дополнительных кадра использованы в материале."
+    },
+    "digital-rain-185-lights-palace-square-2026": {
+      "sourceImageCount": 2,
+      "excluded": [],
+      "reviewedAt": "2026-09-27",
+      "note": "Проверены две реальные фотографии инсталляции; обе использованы."
+    },
+    "moomin-mug-mania-tampere-2026": {
+      "sourceImageCount": 2,
+      "excluded": [],
+      "reviewedAt": "2026-09-27",
+      "note": "Проверены два реальных изображения; оба использованы."
     }
   }
 }
