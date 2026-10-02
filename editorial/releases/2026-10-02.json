@@ -1,0 +1,748 @@
+{
+  "date": "2026-10-02",
+  "window": {
+    "from": "2026-10-01T06:00:00Z",
+    "to": "2026-10-02T06:00:00Z",
+    "timezone": "Asia/Novosibirsk",
+    "note": "Скользящее окно последних 24 часов. У зарубежных источников проверяется метка публикации; открытие СКАН — 1 октября. Дата публикации проекта не подменяет дату его открытия."
+  },
+  "intro": "Три истории с конкретным устройством: библиотека, где дерево отвечает и за конструкцию, и за акустику; мебель из возможностей металлообработки; региональная ярмарка, где можно найти авторов для интерьеров.",
+  "articles": [
+    {
+      "id": "stevens-ranch-library-workshops-timber-2026",
+      "title": "В библиотеке Stevens Ranch деревянное перекрытие стало акустическим потолком",
+      "category": "architecture",
+      "format": "Архитектура",
+      "place": "Дешут, Орегон, США",
+      "dek": "Свежая съёмка проекта Miller Hull и STEELE Associates: открытые деревянные конструкции, инженерия под полом и помещения для чтения, работы и мастерских.",
+      "body": "1 октября e-architect опубликовал новый фотоматериал о Stevens Ranch Library в округе Дешут, Орегон. Проект Miller Hull и STEELE Associates соединяет библиотеку, мастерские и места для совместной работы. Это свежая публикация завершённого объекта; дату открытия здания источник не устанавливает.\n\n## Дерево выполняет сразу три задачи\n\nСамое интересное здесь находится над головой. Перекрытия из деревянных элементов, соединённых нагелями, работают как несущая конструкция, видимый потолок и звукопоглощающая поверхность. Инженерию разместили под поднятым полом: балки и колонны остаются открытыми, а пространство можно перестраивать под разные занятия.\n\nПо данным бюро, в библиотеке предусмотрены мастерские, рабочие места и «библиотека вещей»: напрокат можно взять оборудование для нового увлечения. Таким образом, интерьеры проектируют под несколько режимов — сосредоточенную работу, разговор и занятие руками. Результаты акустических испытаний в опубликованных материалах не приведены.\n\n## Почему показать коллеге\n\nПосмотрите на фотографии потолков и общих залов. Здесь хорошо видно, как конструкция задаёт характер интерьеру и оставляет пространство для будущих изменений. Это предметный разговор о том, где проходит инженерия, что видно посетителю и какие поверхности отвечают за звук.\n\n## Что взять в российский проект\n\nДля районной библиотеки или культурного центра стоит сначала составить карту занятий: где читают, где разговаривают, где работает оборудование. Затем проверить акустику между этими зонами, доступ к коммуникациям и возможность перестановки мебели. Применение деревянных несущих систем в России потребует собственного расчёта и проверки пожарных требований; переносимая идея здесь — согласовать конструкцию, инженерные трассы и отделку ещё до выбора декоративного потолка.\n\nАвторы: The Miller Hull Partnership и STEELE Associates. Фотограф: Kevin Scott. Первоисточник проекта: millerhull.com/project/stevens-ranch-library/.",
+      "source": "https://millerhull.com/project/stevens-ranch-library/",
+      "sources": [
+        {
+          "title": "Свежая публикация и фотографии",
+          "url": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states"
+        },
+        {
+          "title": "Первоисточник: Miller Hull",
+          "url": "https://millerhull.com/project/stevens-ranch-library/"
+        }
+      ],
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+      "image": "stevens-ranch-library-workshops-timber-2026",
+      "imageAlt": "Рабочие места Stevens Ranch Library под открытым деревянным перекрытием",
+      "illustration": false,
+      "event": "Публикация фотоматериала — 1 октября 2026",
+      "imageReview": {
+        "sourceImageCount": 12,
+        "excluded": [],
+        "reviewedAt": "2026-10-02",
+        "note": "Все уникальные изображения основной публикации; дубли, логотипы, реклама и рекомендации исключены из подсчёта."
+      },
+      "gallery": [
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-01",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-architecture-m011026-k-3.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Атриум с подвесным произведением John Grade"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-02",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-architecture-m011026-k-4.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Вечерний вид с открытым остеклённым торцом"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-03",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-m011026-k-2.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Продольный фасад библиотеки"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-04",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-united-states-m011026-k-1.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Фото с воздуха: крыша и солнечные панели"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-05",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-united-states-m011026-k-2.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Библиотека в окружении застройки и леса"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-06",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-m011026-k-1.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Вход и вертикальные элементы фасада"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-07",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-architecture-m011026-k-2.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Открытая деревянная конструкция в атриуме"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-08",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-architecture-m011026-k-1.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Вечерний фасад со стороны улицы"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-09",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-united-states-m011026-k-3.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Входной фасад и площадь библиотеки"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-10",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-m011026-k-4.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Боковой фасад и ландшафт"
+        },
+        {
+          "id": "gallery-stevens-ranch-library-workshops-timber-2026-11",
+          "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-m011026-k-3.webp",
+          "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+          "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates",
+          "caption": "Входной навес"
+        }
+      ]
+    },
+    {
+      "id": "few-faixa-cantilever-construction-steel-2026",
+      "title": "FeW выпустила два стула на фабрике строительных лесов",
+      "category": "furniture",
+      "format": "Предметный дизайн",
+      "place": "Мескита, Бразилия",
+      "dek": "Бернарду Сенна использовал полосу и пруток для новых Faixa и Cantilever. Полезная история о том, как возможности местного цеха становятся основой предметного дизайна.",
+      "body": "1 октября D5 опубликовал новые стулья Faixa и Cantilever бразильского Estúdio FeW. Их спроектировал Бернарду Сенна; производство находится в Меските, рядом с Рио-де-Жанейро. По материалам публикации, фабрика делает строительные леса и опалубку, а мебель выпускает на уже имеющемся оборудовании.\n\n## Форма следует за способом изготовления\n\nУ Faixa каркас собирает стальная полоса, поставленная на ребро под сиденьем. У Cantilever пруток последовательно формирует опору, подлокотник и спинку. В галерее есть и более ранний Ângulos, выпущенный в 2023 году: его диагональные связи напоминают раскрепление строительных лесов. Он показан для сравнения, а не как новинка сегодняшнего дня.\n\nСварные соединения зачищают, затем металл получает порошковое покрытие. Изготовление становится частью внешнего вида: тонкие опоры, перегибы и соединения читаются без декоративной обшивки. Фотографии позволяют рассмотреть конструкцию, но не подтверждают удобство посадки или срок службы.\n\n## Почему показать коллеге\n\nЭто полезный пример сотрудничества дизайнера с конкретной мастерской. В собственной истории FeW основатель Матеус Салимена рассказывает, что семейная металлообработка решила создать продукт для конечного покупателя. Здесь есть связка автора, оборудования и предмета — с понятными операциями, которые можно обсудить с производственником.\n\n## Что взять в работу в России\n\nДля небольшого кафе или общественного интерьера можно начать разработку мебели с возможностей местного цеха: какие сечения он держит на складе, какой радиус гнёт, как зачищает шов и наносит покрытие. Затем заказать прототип и проверить устойчивость, прогиб, кромки, массу и посадку. Эффектный тонкий каркас ещё не гарантирует пригодность для интенсивного использования. А вот ранний разговор с производством помогает избежать предмета, который красиво нарисован, но слишком сложен для повторяемой серии.\n\nАвтор: Bernardo Senna. Производитель: Estúdio FeW / Salimena Metalúrgica. Фото: Pedro Barcellos.",
+      "source": "https://www.estudiofew.com/p/sobre",
+      "sources": [
+        {
+          "title": "Свежая публикация и фотографии",
+          "url": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/"
+        },
+        {
+          "title": "Производитель: история Estúdio FeW",
+          "url": "https://www.estudiofew.com/p/sobre"
+        }
+      ],
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+      "image": "few-faixa-cantilever-construction-steel-2026",
+      "imageAlt": "Новый стул Faixa Бернарду Сенны для Estúdio FeW",
+      "illustration": false,
+      "event": "Публикация новых моделей — 1 октября 2026",
+      "imageReview": {
+        "sourceImageCount": 17,
+        "excluded": [],
+        "reviewedAt": "2026-10-02",
+        "note": "Все уникальные изображения основной публикации; дубли, логотипы, реклама и рекомендации исключены из подсчёта."
+      },
+      "gallery": [
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-01",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/9-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Ângulos: зелёный стальной каркас"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-02",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/5-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Ângulos в интерьере"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-03",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/12-min-1-e1789075479730.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Ângulos — ранняя модель 2023 года, показана для сравнения"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-04",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/121-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Faixa: вид сбоку"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-05",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/126-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Faixa: соединение полосы и опор"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-06",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/129-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Faixa: крепление спинки"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-07",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/91-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Cantilever: общий вид"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-08",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/92-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Cantilever: профиль"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-09",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/96-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Cantilever: кожаная спинка"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-10",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/99-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Cantilever: изгиб подлокотника"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-11",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/27-1-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Ângulos: чёрный каркас"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-12",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/30-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Ângulos: вид спереди"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-13",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/24-min-1-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Ângulos в интерьере"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-14",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/27-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Ângulos: спинка и сиденье"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-15",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/137-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Faixa: светлая версия"
+        },
+        {
+          "id": "gallery-few-faixa-cantilever-construction-steel-2026-16",
+          "url": "https://d5mag.com/wp-content/uploads/2026/09/153-min-1067x1600.jpg",
+          "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+          "credit": "Фото: Pedro Barcellos / Estúdio FeW",
+          "caption": "Faixa: зелёная версия"
+        }
+      ]
+    },
+    {
+      "id": "scan-krasnoyarsk-design-fair-2026",
+      "title": "В Красноярске открылась СКАН: предметный дизайн получил собственную секцию",
+      "category": "exhibitions",
+      "format": "Ярмарка",
+      "place": "Красноярск, Россия",
+      "dek": "В официальном списке — четыре участника секции дизайна из трёх городов. Показываем работы Димы Филиппова из каталога стенда Anna Nova и объясняем, как искать авторов для интерьеров.",
+      "body": "1 октября ярмарка современного искусства СКАН открылась для публики в МВДЦ «Сибирь» в Красноярске. Она работает до 4 октября. Свежий репортаж NGS24 показывает уже собранную экспозицию; официальный сайт организатора позволяет сверить участников.\n\n## Российский дизайн можно искать по конкретным именам\n\nВ актуальном списке секции «Дизайн» четыре участника: DIFF MAKERS и мастерская «РАЗ-ДВА» из Красноярска, Ассоциация промышленных и предметных дизайнеров из Иркутска и «Антихрупкость» из Екатеринбурга. В раннем анонсе организатор называл пять брендов, поэтому ориентируемся на опубликованный именной список, а не повторяем плановую цифру.\n\nНа ярмарке также представлены независимые художники и региональные галереи. В репортаже есть деревянные объекты, керамика и фотографии; у Дарьи Гаузер керамические капсулы выставлены в освещённых нишах. В нашей галерее — официальные изображения конкретных работ Димы Филиппова, которые Anna Nova включила в каталог своего стенда: акварель и деревянные объекты из серии «Время земли» 2024 года. Это фотографии произведений, а не съёмка зала ярмарки. Кадры репортажа с водяными знаками мы не перепубликуем.\n\n## Почему показать коллеге\n\nДля интерьерщика это повод расширить круг авторов за пределы привычных столичных подборок. Каталог участников даёт первый ориентир, а список участников — возможность перейти к прямому разговору о конкретном предмете и его изготовлении.\n\n## Что взять в российский проект\n\nПосле отбора по фотографиям стоит запросить у автора размеры, материал, вес, способ крепления, условия ухода и возможность повторного изготовления. Для ресторана или отеля отдельно выяснить, как предмет переживает уборку и интенсивное использование. Ярмарочный объект и вещь для ежедневной эксплуатации могут требовать разных решений. Хороший результат такого поиска — авторская работа с документированным происхождением и понятным монтажом, заложенная в проект до финальной расстановки аксессуаров.\n\nОрганизатор: Центр развития современного искусства СКАН. Представленные работы: Дима Филиппов / Anna Nova Gallery. Фотограф в официальном каталоге не указан.",
+      "source": "https://scancommunity.ru/fair",
+      "sources": [
+        {
+          "title": "Свежая публикация и фотографии",
+          "url": "https://ngs24.ru/text/culture/2026/10/01/76671702/"
+        },
+        {
+          "title": "СКАН: организатор и условия участия",
+          "url": "https://scancommunity.ru/fair"
+        },
+        {
+          "title": "Официальный список участников 2026",
+          "url": "https://scancommunity.ru/fair/participants-2026"
+        },
+        {
+          "title": "Anna Nova: каталог работ стенда СКАН 2026",
+          "url": "https://www.annanova-gallery.ru/art-fairs/55-scan/"
+        }
+      ],
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+      "image": "scan-krasnoyarsk-design-fair-2026",
+      "imageAlt": "Деревянный объект Димы Филиппова из серии «Время земли», каталог стенда Anna Nova на СКАН 2026",
+      "illustration": false,
+      "event": "1–4 октября 2026 · МВДЦ «Сибирь»",
+      "imageReview": {
+        "sourceImageCount": 27,
+        "excluded": [
+          {
+            "url": "https://n1s1.hsmedia.ru/f1/f4/48/f1f448a55dcc185e3372655593f3c019/656x438_1%3A5563_fc4aa275d743e1bb6c111286444f8130%405000x3333_0xrXlVEuvt_0995992035528836919.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/ce/0d/76/ce0d7676a4d8d9cb6aa118ae83a96b3f/656x438_1%3A5563_06c1513d441e9646d26d77f7f59b539c%404497x2998_0xgBPcN6cG_3834526966557219153.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/70/3b/f6/703bf653c200985a6a484f2d29e481e0/656x438_1%3A5563_4be2a6d12c5697ca9fa1a37602a28b33%404810x3207_0xxwCBy8LW_3013428277347929628.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/80/65/17/806517134b0e203da297eb9d3010ec07/656x438_1%3A5563_5fe1a81ab9285a69d96050377072dd6c%405000x3333_0xG0DzJwYG_8905407777715239407.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/12/21/e2/1221e2eeb2f33ac774954cc427f0d3f5/656x438_1%3A5563_900436bb8e70306cad50b52716c107d7%405000x3333_0xlAgiTiJR_7510693963927076212.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/8a/cb/15/8acb15579d3c8e815105fd80c08d895a/656x438_1_2383db8c86a888dae4c11eae2f47fb76%405000x3333_0xMI6aLSCx_0829603684506186409.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/d0/a4/7c/d0a47cd36f374afad89d1a1c1eaf5e50/656x438_1%3A5563_984a94c2be4233f374dbc2568bc35657%405000x3333_0xz9PL2H89_1282653065387979811.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/2d/d0/19/2dd0192179489f3a07a0038863226bb4/656x438_1%3A5563_2713686c2bdf6c864a81bea962e7c883%405000x3333_0x2oOSZa9V_7333965569330200091.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/2b/cc/d9/2bccd98a06e683a1924abf2a626b92bf/656x438_1%3A5563_d4630c2c494d7cc6d2fd29af2e9a4474%405000x3333_0xHHawzZ0x_8278475195431203869.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/bc/77/58/bc77581c618833d305e188611ac02c79/656x438_1%3A5563_9df9a624db76c6c2bc9a6ec6d62f0edf%405000x3333_0xyQCIDes6_7835607698227095950.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/84/fc/62/84fc62515f6c15d6e1632ec2a7b6acac/656x438_1%3A5563_86689d37efcf5ae41a723a4f31a31fd2%404899x3266_0x8b4GhgyB_5494890760147917853.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/f2/4e/2f/f24e2febce39db92c29b7e62e23dac21/656x438_1%3A5563_55555dc56e7cb64302c5d0ebf95c2916%405000x3333_0xPcVR6BRS_1962844257628535824.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/d7/45/29/d745294d42f7a747c0da083f8b8ee41e/656x438_1%3A5563_c09582c27404f9865b844703190d6b27%405000x3333_0xpU5TYvP6_9601394262709233887.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/d0/ce/ee/d0ceeed2dfa6245d5c7d754c3957aabb/656x438_1%3A5563_30e3641b7a30c598cafae234f2aecf5d%404869x3246_0xYwI348j4_7337987574083011682.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/87/19/47/8719478521daf81643cfa92d51e4a246/656x438_1%3A5563_9b634fda9dc461ed202fa1202d3b5534%404428x2952_0xJeVoGh6F_2291161827512769132.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/a4/84/23/a484233c2e342ea91235499eff0e3208/656x438_1%3A5563_72c12eb1843e8c84002310f9ede4c69d%405000x3333_0x9c97QSRK_7318393795987323501.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          },
+          {
+            "url": "https://n1s1.hsmedia.ru/fc/ea/e5/fceae5045db37917542d237430781488/656x438_1%3A5563_9ee01a86978c19f76c843e7047b6644d%405000x3333_0xmNgt0erd_4918291529556710978.jpg.webp",
+            "reason": "На фотографии водяной знак NGS24.RU; не публикуется по требованию пользователя."
+          }
+        ],
+        "reviewedAt": "2026-10-02",
+        "note": "Все изображения работ из каталога Anna Nova для СКАН 2026. Они подписаны как фотографии работ 2024 года, представленных на ярмарке, а не как съёмка её зала. Проверены и исключены 17 фотографий репортажа с водяными знаками."
+      },
+      "gallery": [
+        {
+          "id": "gallery-scan-krasnoyarsk-design-fair-2026-01",
+          "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/eca1a708be365dad632608c23629215ej/annanovagallery-from-the-series-time-of-land-2024.jpg",
+          "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+          "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+          "caption": "Дима Филиппов. Из серии «Время земли», 2024 — работа из каталога стенда Anna Nova на СКАН 2026"
+        },
+        {
+          "id": "gallery-scan-krasnoyarsk-design-fair-2026-02",
+          "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/e757991a07e5a5b77717f1ba708117a0/annanovagallery-from-the-series-time-of-land-2025.jpg",
+          "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+          "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+          "caption": "Дима Филиппов. Из серии «Время земли», 2024 — работа из каталога стенда Anna Nova на СКАН 2026"
+        },
+        {
+          "id": "gallery-scan-krasnoyarsk-design-fair-2026-03",
+          "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/fe1b369b8139f76e621adf4b0754465ej/annanovagallery-from-the-series-time-of-land-2024.jpg",
+          "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+          "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+          "caption": "Дима Филиппов. Из серии «Время земли», 2024 — работа из каталога стенда Anna Nova на СКАН 2026"
+        },
+        {
+          "id": "gallery-scan-krasnoyarsk-design-fair-2026-04",
+          "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/5a2dd127d99c40896934efdc8b2c4b52j/annanovagallery-from-the-series-time-of-land-2024.jpg",
+          "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+          "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+          "caption": "Дима Филиппов. Из серии «Время земли», 2024 — работа из каталога стенда Anna Nova на СКАН 2026"
+        },
+        {
+          "id": "gallery-scan-krasnoyarsk-design-fair-2026-05",
+          "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/73edc5d179c1b05fff34c39ceb80ab57j/annanovagallery-from-the-series-time-of-land-2024.jpg",
+          "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+          "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+          "caption": "Дима Филиппов. Из серии «Время земли», 2024 — работа из каталога стенда Anna Nova на СКАН 2026"
+        },
+        {
+          "id": "gallery-scan-krasnoyarsk-design-fair-2026-06",
+          "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/04c5a5227044cd3c2f53493d88f2041dj/annanovagallery-from-the-series-time-of-land-2025.jpg",
+          "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+          "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+          "caption": "Дима Филиппов. Из серии «Время земли», 2024 — работа из каталога стенда Anna Nova на СКАН 2026"
+        },
+        {
+          "id": "gallery-scan-krasnoyarsk-design-fair-2026-07",
+          "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/03912538ea2c54537f3992a5f700a8fej/annanovagallery-from-the-series-time-of-land-2024.jpg",
+          "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+          "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+          "caption": "Дима Филиппов. Из серии «Время земли», 2024 — работа из каталога стенда Anna Nova на СКАН 2026"
+        },
+        {
+          "id": "gallery-scan-krasnoyarsk-design-fair-2026-08",
+          "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/1ba04a369b6526d0be5a24ec58a5f510/annanovagallery-from-the-series-time-of-land-2025.jpg",
+          "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+          "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+          "caption": "Дима Филиппов. Из серии «Время земли», 2024 — работа из каталога стенда Anna Nova на СКАН 2026"
+        },
+        {
+          "id": "gallery-scan-krasnoyarsk-design-fair-2026-09",
+          "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/557e34c7d70b366d1e3400b731d62602j/annanovagallery-time-of-land.-object-5-.-5-2024.jpg",
+          "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+          "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
+          "caption": "Дима Филиппов. «Время земли. Объект 5», 2024. Дуб, 57 × 30 × 2,5 см — работа из каталога стенда Anna Nova на СКАН 2026"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "stevens-ranch-library-workshops-timber-2026",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-united-states-m011026-k-4.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-01",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-architecture-m011026-k-3.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-02",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-architecture-m011026-k-4.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-03",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-m011026-k-2.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-04",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-united-states-m011026-k-1.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-05",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-united-states-m011026-k-2.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-06",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-m011026-k-1.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-07",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-architecture-m011026-k-2.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-08",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-architecture-m011026-k-1.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-09",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-united-states-m011026-k-3.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-10",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-m011026-k-4.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "gallery-stevens-ranch-library-workshops-timber-2026-11",
+      "url": "https://www.e-architect.com/wp-content/uploads/2026/10/stevens-ranch-library-oregon-usa-m011026-k-3.webp",
+      "source": "https://www.e-architect.com/america/stevens-ranch-library-oregon-united-states",
+      "credit": "Фото: Kevin Scott / пресс-материалы Miller Hull и STEELE Associates"
+    },
+    {
+      "id": "few-faixa-cantilever-construction-steel-2026",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/124-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-01",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/9-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-02",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/5-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-03",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/12-min-1-e1789075479730.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-04",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/121-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-05",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/126-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-06",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/129-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-07",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/91-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-08",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/92-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-09",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/96-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-10",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/99-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-11",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/27-1-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-12",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/30-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-13",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/24-min-1-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-14",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/27-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-15",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/137-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "gallery-few-faixa-cantilever-construction-steel-2026-16",
+      "url": "https://d5mag.com/wp-content/uploads/2026/09/153-min-1067x1600.jpg",
+      "source": "https://d5mag.com/fews-new-chairs-turn-construction-steel-into-everyday-furniture/",
+      "credit": "Фото: Pedro Barcellos / Estúdio FeW"
+    },
+    {
+      "id": "scan-krasnoyarsk-design-fair-2026",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/3064e66b40833844e27b40debfc65e8cj/annanovagallery-time-of-land.-object-4-.-4-2024.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    },
+    {
+      "id": "gallery-scan-krasnoyarsk-design-fair-2026-01",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/eca1a708be365dad632608c23629215ej/annanovagallery-from-the-series-time-of-land-2024.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    },
+    {
+      "id": "gallery-scan-krasnoyarsk-design-fair-2026-02",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/e757991a07e5a5b77717f1ba708117a0/annanovagallery-from-the-series-time-of-land-2025.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    },
+    {
+      "id": "gallery-scan-krasnoyarsk-design-fair-2026-03",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/fe1b369b8139f76e621adf4b0754465ej/annanovagallery-from-the-series-time-of-land-2024.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    },
+    {
+      "id": "gallery-scan-krasnoyarsk-design-fair-2026-04",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/5a2dd127d99c40896934efdc8b2c4b52j/annanovagallery-from-the-series-time-of-land-2024.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    },
+    {
+      "id": "gallery-scan-krasnoyarsk-design-fair-2026-05",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/73edc5d179c1b05fff34c39ceb80ab57j/annanovagallery-from-the-series-time-of-land-2024.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    },
+    {
+      "id": "gallery-scan-krasnoyarsk-design-fair-2026-06",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/04c5a5227044cd3c2f53493d88f2041dj/annanovagallery-from-the-series-time-of-land-2025.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    },
+    {
+      "id": "gallery-scan-krasnoyarsk-design-fair-2026-07",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/03912538ea2c54537f3992a5f700a8fej/annanovagallery-from-the-series-time-of-land-2024.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    },
+    {
+      "id": "gallery-scan-krasnoyarsk-design-fair-2026-08",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/1ba04a369b6526d0be5a24ec58a5f510/annanovagallery-from-the-series-time-of-land-2025.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    },
+    {
+      "id": "gallery-scan-krasnoyarsk-design-fair-2026-09",
+      "url": "https://static-assets.artlogic.net/w_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/annanovagallery/images/view/557e34c7d70b366d1e3400b731d62602j/annanovagallery-time-of-land.-object-5-.-5-2024.jpg",
+      "source": "https://www.annanova-gallery.ru/art-fairs/55-scan/",
+      "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан"
+    }
+  ],
+  "editorialPicks": [
+    {
+      "id": "stevens-ranch-library-workshops-timber-2026",
+      "time": "5 минут",
+      "reason": "Конкретный пример совмещения конструкции, акустики и видимой отделки; фотографии позволяют разобрать инженерное решение."
+    },
+    {
+      "id": "scan-krasnoyarsk-design-fair-2026",
+      "time": "5 минут",
+      "reason": "Свежая российская ярмарка с региональной секцией предметного дизайна и опубликованным списком авторов для интерьерных проектов."
+    },
+    {
+      "id": "few-faixa-cantilever-construction-steel-2026",
+      "time": "5 минут",
+      "reason": "Пример разработки предмета на базе существующего металлообрабатывающего производства, полезный для работы с местным цехом."
+    }
+  ],
+  "featured": {
+    "lead": "stevens-ranch-library-workshops-timber-2026",
+    "secondary": "scan-krasnoyarsk-design-fair-2026",
+    "stories": [
+      "stevens-ranch-library-workshops-timber-2026",
+      "scan-krasnoyarsk-design-fair-2026",
+      "few-faixa-cantilever-construction-steel-2026"
+    ],
+    "daily": [
+      [
+        "Начните с пространства",
+        "stevens-ranch-library-workshops-timber-2026"
+      ],
+      [
+        "Россия: авторы и предметы",
+        "scan-krasnoyarsk-design-fair-2026"
+      ],
+      [
+        "Разберите конструкцию стула",
+        "few-faixa-cantilever-construction-steel-2026"
+      ]
+    ]
+  },
+  "featurePitches": [
+    {
+      "title": "Как спроектировать библиотеку для чтения, работы и мастерских",
+      "text": "Разобрать акустические зоны, доступ к инженерии и сценарии использования Stevens Ranch; сопоставить с требованиями и бюджетами российских культурных центров.",
+      "article": "stevens-ranch-library-workshops-timber-2026"
+    },
+    {
+      "title": "Мебель вместе с местным цехом: от первой гибки до серии",
+      "text": "Проследить путь прототипа, испытаний и повторяемого изготовления на примере FeW; собрать российские примеры сотрудничества автора с металлообработкой.",
+      "article": "few-faixa-cantilever-construction-steel-2026"
+    },
+    {
+      "title": "Где интерьерщику искать авторов за пределами Москвы",
+      "text": "Начать с участников секции дизайна СКАН: изучить реальные предметы, производство, документацию и условия включения в коммерческий интерьер.",
+      "article": "scan-krasnoyarsk-design-fair-2026"
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Проект всё чаще начинается с доступного производства",
+    "text": "У FeW форма стула связана с оборудованием семейной металлообработки. В Stevens Ranch деревянное перекрытие одновременно работает как конструкция, видимая поверхность и акустический элемент. Это два примера одного полезного подхода: заранее договориться, что умеет материал и кто его изготовит. Пока это редакционная гипотеза, а не доказанный рыночный тренд. Следующий шаг — проверить, сколько российских проектов получают таким способом повторяемую серию, предсказуемую цену и более простой монтаж.",
+    "sources": [
+      {
+        "title": "Estúdio FeW",
+        "url": "https://www.estudiofew.com/p/sobre"
+      },
+      {
+        "title": "Miller Hull: Central Library",
+        "url": "https://millerhull.com/project/stevens-ranch-library/"
+      }
+    ]
+  }
+}
