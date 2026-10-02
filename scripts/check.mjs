@@ -23,6 +23,19 @@ for(const loc of locations){const route=new URL(loc).pathname;assert(fs.existsSy
 for(const route of ['daily','radar','features'])assert(locations.includes('https://tectonica.media/'+route+'/'));
 assert(!locations.includes('https://tectonica.media/search/'));
 const search=JSON.parse(fs.readFileSync(path.join(root,'assets/search.json'),'utf8'));assert.equal(search.length,articles.length);
+// Category landing pages must expose current stories before the preserved archive.
+for(const k of Object.keys(categories)){
+ const h=fs.readFileSync(path.join(root,'category',k,'index.html'),'utf8');
+ const ids=[...h.matchAll(/<article class="card [^"]*"><a href="\/articles\/([^/]+)\//g)].map(m=>m[1]);
+ const shown=ids.map(id=>articles.find(a=>a.id===id));
+ assert(shown.every(Boolean),'Unknown category story');
+ for(let i=1;i<shown.length;i++)assert(shown[i-1].date>=shown[i].date,'Older story hides newer story in '+k);
+ const key=c=>c==='lighting'?'furniture':c;
+ const expected=articles.filter(a=>k==='lighting'?a.category===k||(a.categories||[]).includes(k):key(a.category)===key(k)||(a.categories||[]).some(c=>key(c)===key(k)));
+ assert.deepEqual(new Set(ids),new Set(expected.map(a=>a.id)),'Category omits a relevant story: '+k);
+ for(const a of shown)assert(h.includes('<time class="photo-credit" datetime="'+a.date+'">'),'Category card lacks date');
+}
+for(let i=1;i<search.length;i++)assert(search[i-1].date>=search[i].date,'Search index must put new stories first');
 for(const file of walk(root).filter(f=>f.endsWith('.html')&&!f.includes(path.join('archive','legacy')))){
  const h=fs.readFileSync(file,'utf8');
  for(const match of h.matchAll(/srcset="([^"]+)"/g))for(const part of match[1].split(','))assert(fs.existsSync(path.join(root,part.trim().split(' ')[0])),'Missing responsive image');
