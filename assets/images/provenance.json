@@ -1627,5 +1627,253 @@
     "credit": "Изображения работ: Дима Филиппов / Anna Nova Gallery; фотограф в каталоге не указан",
     "width": 800,
     "height": 1200
+  },
+  "nc-state-magnesium-eggshell-composite-2026": {
+    "url": "https://news.ncsu.edu/wp-content/uploads/2026/10/Gwalani-eggshell-HEADER.jpg",
+    "fetch_url": "https://news.ncsu.edu/wp-content/uploads/2026/10/Gwalani-eggshell-HEADER.jpg",
+    "source": "https://news.ncsu.edu/2026/10/making-metal-alloys-with-eggshells/",
+    "credit": "Фото: Bharat Gwalani / пресс-служба NC State",
+    "width": 1500,
+    "height": 844
+  },
+  "ph-piano-louis-poulsen-reissue-2026": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68609/50422.webp?timestamp=2026-07-03T12%3A50%3A49.0901204",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68609/50422.webp?timestamp=2026-07-03T12%3A50%3A49.0901204",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4001
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-01": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/67938/50422.webp?timestamp=2026-05-20T09%3A29%3A14.6449080",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/67938/50422.webp?timestamp=2026-05-20T09%3A29%3A14.6449080",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 3000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-02": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68519/50422.webp?timestamp=2026-07-03T11%3A23%3A48.6299723",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68519/50422.webp?timestamp=2026-07-03T11%3A23%3A48.6299723",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-03": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68515/50422.webp?timestamp=2026-07-03T11%3A23%3A12.4094427",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68515/50422.webp?timestamp=2026-07-03T11%3A23%3A12.4094427",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-04": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68522/50422.webp?timestamp=2026-07-03T11%3A26%3A19.5806036",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68522/50422.webp?timestamp=2026-07-03T11%3A26%3A19.5806036",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-05": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68523/50422.webp?timestamp=2026-07-03T11%3A27%3A15.1030978",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68523/50422.webp?timestamp=2026-07-03T11%3A27%3A15.1030978",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-06": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/67940/50422.webp?timestamp=2026-05-20T09%3A28%3A52.5514422",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/67940/50422.webp?timestamp=2026-05-20T09%3A28%3A52.5514422",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 3000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-07": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68604/50422.webp?timestamp=2026-07-03T12%3A42%3A31.6567099",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68604/50422.webp?timestamp=2026-07-03T12%3A42%3A31.6567099",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 2250
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-08": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68527/50422.webp?timestamp=2026-07-03T11%3A30%3A50.3345721",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68527/50422.webp?timestamp=2026-07-03T11%3A30%3A50.3345721",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-09": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68299/50422.webp?timestamp=2026-06-09T09%3A50%3A05.6805947",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68299/50422.webp?timestamp=2026-06-09T09%3A50%3A05.6805947",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-10": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68530/50422.webp?timestamp=2026-07-03T11%3A31%3A20.5972692",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68530/50422.webp?timestamp=2026-07-03T11%3A31%3A20.5972692",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-11": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68531/50422.webp?timestamp=2026-07-03T11%3A33%3A53.0623193",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68531/50422.webp?timestamp=2026-07-03T11%3A33%3A53.0623193",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-12": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68297/50422.webp?timestamp=2026-06-09T09%3A51%3A02.1391314",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68297/50422.webp?timestamp=2026-06-09T09%3A51%3A02.1391314",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4000
+  },
+  "gallery-ph-piano-louis-poulsen-reissue-2026-13": {
+    "url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68301/50422.webp?timestamp=2026-06-09T09%3A53%3A04.8939069",
+    "fetch_url": "https://dam.louispoulsen.dk/DigizuiteCore/LegacyService/api/assetstream/68301/50422.webp?timestamp=2026-06-09T09%3A53%3A04.8939069",
+    "source": "https://www.louispoulsen.com/en-ie/catalog/professional/decorative-lighting/table/ph-11-piano-table-lamp",
+    "credit": "Изображения: Louis Poulsen · фотограф не указан",
+    "width": 3000,
+    "height": 4001
+  },
+  "marks-roastery-anna-lazar-minsk-2026": {
+    "url": "https://static.wixstatic.com/media/fe526f_2bf8fbe0f7864876921253ceb4e728de~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_2bf8fbe0f7864876921253ceb4e728de~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 3000,
+    "height": 2000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-01": {
+    "url": "https://static.wixstatic.com/media/fe526f_5f37a83d57634c978db5b12730277a33~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_5f37a83d57634c978db5b12730277a33~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-02": {
+    "url": "https://static.wixstatic.com/media/fe526f_54b013b5d42f4e28b790e7992a17e34c~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_54b013b5d42f4e28b790e7992a17e34c~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-03": {
+    "url": "https://static.wixstatic.com/media/fe526f_107486435b9145cbaad889d0a5916782~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_107486435b9145cbaad889d0a5916782~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-04": {
+    "url": "https://static.wixstatic.com/media/fe526f_537d255b10e24e0fb9ee81dfbe7c6752~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_537d255b10e24e0fb9ee81dfbe7c6752~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-05": {
+    "url": "https://static.wixstatic.com/media/fe526f_b1f5d9d4f1fd4cdb86d1518aa5d9d8a4~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_b1f5d9d4f1fd4cdb86d1518aa5d9d8a4~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-06": {
+    "url": "https://static.wixstatic.com/media/fe526f_455cd60d450f46c49e9d98a39803be80~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_455cd60d450f46c49e9d98a39803be80~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-07": {
+    "url": "https://static.wixstatic.com/media/fe526f_2b46866a6e5b4d6798983b3fe6c981eb~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_2b46866a6e5b4d6798983b3fe6c981eb~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-08": {
+    "url": "https://static.wixstatic.com/media/fe526f_3a9a2a0733df4d8eb6c976b0b47ce472~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_3a9a2a0733df4d8eb6c976b0b47ce472~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-09": {
+    "url": "https://static.wixstatic.com/media/fe526f_f976e3ec6c154411a66084589205fdca~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_f976e3ec6c154411a66084589205fdca~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-10": {
+    "url": "https://static.wixstatic.com/media/fe526f_4df37bf1f3454a22a265b0c91255ff66~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_4df37bf1f3454a22a265b0c91255ff66~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-11": {
+    "url": "https://static.wixstatic.com/media/fe526f_23b97985a6e74e27bc208df8c160fc3a~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_23b97985a6e74e27bc208df8c160fc3a~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 3000,
+    "height": 2250
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-12": {
+    "url": "https://static.wixstatic.com/media/fe526f_c74b417fedff4e83b682bdf56e41dca1~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_c74b417fedff4e83b682bdf56e41dca1~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-13": {
+    "url": "https://static.wixstatic.com/media/fe526f_6bea79e783ae456fba343311c63d0384~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_6bea79e783ae456fba343311c63d0384~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-14": {
+    "url": "https://static.wixstatic.com/media/fe526f_69f3519b71ed44b1a18c65071e1a8b65~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_69f3519b71ed44b1a18c65071e1a8b65~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
+  },
+  "gallery-marks-roastery-anna-lazar-minsk-2026-15": {
+    "url": "https://static.wixstatic.com/media/fe526f_49b147c9458f4da6afc6bc469588a2a5~mv2.jpg",
+    "fetch_url": "https://static.wixstatic.com/media/fe526f_49b147c9458f4da6afc6bc469588a2a5~mv2.jpg",
+    "source": "https://www.lazarhanna.com/projects/roastery-cafe",
+    "credit": "Фото: Vitalina Voroshkevich · стилист: Tatiana Guzik / Anna Lazar",
+    "width": 2250,
+    "height": 3000
   }
 }
