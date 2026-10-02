@@ -62,7 +62,7 @@ for(const a of release.articles||[]){
   const fn=a.short?'short':'add';
   const args=[q(a.id),q(a.title),q(a.category),q(a.format),q(a.place),q(a.dek),tpl(a.body),q(a.source),q(a.credit||''),q(a.image??a.id),q(a.event||''),q(date)];
   lines.push(fn+'('+args.join(',')+');');
-  lines.push('Object.assign(articles.at(-1),'+JSON.stringify({sources:a.sources||[],imageAlt:a.imageAlt||a.title})+');');
+  lines.push('Object.assign(articles.at(-1),'+JSON.stringify({sources:a.sources||[],imageAlt:a.imageAlt||a.title,categories:a.categories||[]})+');');
 }
 if(lines.length){
   const marker='export const candidates=[';
