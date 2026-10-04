@@ -1,4 +1,4 @@
-export const edition='2026-10-03';
+export const edition='2026-10-04';
 export const categories={architecture:'Архитектура',interiors:'Интерьеры',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
 import {photoLegacyArticles} from './editorial/photo-legacy.mjs';
 export const articles=[...photoLegacyArticles];
@@ -693,6 +693,24 @@ add("vaduz-historic-hall-lightweight-chandelier-2026","Люстру для ис�
 
 Проверять нужно весь узел, включая драйверы, доступ для обслуживания и поведение материалов при нагреве. Заявленное авторами снижение энергопотребления относится ко всему обновлению зала; его нельзя переносить на одну люстру или обещать другому объекту без расчёта.`,"https://lightsphere.ch/en/portfolio/projects/prince-johannes-hall.html","Фото: Martin Walser и Julian Konrad / lightsphere","vaduz-historic-hall-lightweight-chandelier-2026","Реализация — март 2025; свежий разбор — 2 октября 2026","2026-10-03");
 Object.assign(articles.at(-1),{"sources":[{"title":"Свежий разбор D5 — 2 октября","url":"https://d5mag.com/liechtenstein-government-building-gets-a-3d-printed-chandelier-for-its-historic-ceremonial-hall/"},{"title":"Первичный проект и галерея: lightsphere","url":"https://lightsphere.ch/en/portfolio/projects/prince-johannes-hall.html"},{"title":"Дата завершения и фотокредиты: LIT Awards","url":"https://litawards.com/winners/winner.php?id=4568&mode=win"},{"title":"Размеры и масса: медиапортал правительства","url":"https://medienportal.regierung.li/text/16236/einblicke"}],"imageAlt":"Общий вид обновлённого зала","categories":["technology","interiors"]});
+add("mit-met-warehouse-public-opening-2026","MIT ���� ��� �㡫��� 誮�� ���⥪���� � ��襬 ��௨筮� ᪫���","architecture","������","����ਤ�, ���","DS+R ��१��� � ��஬ ������ ������⠦�� ������ � �����ᨫ� ����� �祡�� ��㤨�. �����ࠥ�, ��� ᪫�� ��ᯮᮡ��� � ࠡ�� ��.",`3 ������ MIT ���� Metropolitan Warehouse ��� ��� ������� � ࠬ��� Future Fest. �� ���� ��� ����� ���⥪���� � �����஢����: Diller Scofidio + Renfro ����� � Leers Weinzapfel Associates �ॢ�⨫� ������ ��௨�� ᪫�� � �祡�� � ��᫥����⥫�᪨� ����࠭�⢠. ����� ࠧ������ ����: ���㤭��� � ��㤥��� ��砫� ��॥����� � ������, �६���� ����饭�� ��諠 1 ������, � ��� ���﫮�� ������ �㡫�筮� ����⨥. ��⮣�䨨 � ����॥ �����뢠�� ������ � ��� ४��������; �� �� ९��⠦ � ��⨢���.
+
+## ���� ����稫� �� ���� ����� ����� ������
+
+����� ��ந�� � 1894 �� 1923 ���. �����쪨� ����, ������ �⠦� � ���� �⪠ ������ ���室��� ��� �࠭���� ��饩, �� ��蠫� ���ன��� �祡��� �����᪨�. ����� ���������� ��।���� ������� �⠦� ���⥪��� ��१��� ������⠦�� ������ � ����� �⥪�ﭭ� ���⪨ �ᠤ�. ����� ������ �����襭�� ��㤨�; ��⠢訥�� ������訥 �祩�� ���﫨 ��������, ��ॣ����� � ��㣨� ����饭��, ����� �� �㦥� ����让 �஫��.
+
+�த��쭠� ���⭨� ��뢠�� ࠧ�� ��� ��������. ��� �த������ ���� 㭨������᪮�� Infinite Corridor: ���� �१ ������ �������� ��ꥤ����� ࠭�� ࠧ����� ���ࠧ�������. � Commons �।�ᬮ�७� ���⠢��� � ����⢥��� �ணࠬ��. �९��������, ��᫥������� � �㡫�筠� ����� ������� ��騥 �窨 ����祭��, � �� ⮫쪮 ��騩 ����.
+
+## ����� ��������� ��⠢��� ����� �ப�
+
+�� ᭨���� ��� ����� ��௨�� �⥭�, ���� ��४���� � ���� ��⠫���᪨� ��������. ��� ᮧ��⥫쭮 ��⠢��� ᫥�� ����⥫��⢠ �����묨: ��㤥��� ����� ���� ���ன�⢮ ������ ��אַ �� ����. �� �⮨� �������� �������, ����� ࠡ�⠥� � �஬�諥��� ��᫥����. ����� ��।������ �㭪権 ������ �� ⮣�, ����� ��� ��ண� ��ઠ� ����� ��࠭���, � ��� ��ࠢ���� ��ண�� ����࠭�⢥���� ����⥫��⢮.
+
+## �� ����� � ��ᨩ��� ४��������
+
+��� �祡���� 業�� � ��襬 ������ ��� ᪫��� ������� ᠬ ���冷� �襭��: ᭠砫� ��᫥������ ���������, ��⥬ ��।����� ����饭�� �� �����⨬� �஫�⠬ � ���⠬, ��᫥ �⮣� ����� ���� ����� ����� � �痢�. �� ������� �������� �㦥� ���ᢥ�� ����; ����訥 �����᪨� � ����⢥��� ���� ����� ��।����� ⠬, ��� ����⥫��⢮ �ਭ���� ���������� �����.
+
+������ �������⨢�� ᫮� ᯮᮡ�� ���� �祡�� ���ਠ��� � �ਥ��஬ � ������. �� ��࠭���� � ��ᨩ᪮� �஥�� ���ॡ�� �⤥�쭮�� �襭�� �� �����⮩����, ����⨪� � ��࠭� ��᫥���. �����襭�� ��㤨� MIT ����� ��७���� � ��㣮� ᪫�� ��� ����� ��� ��ઠ�. � ��㡫��������� ���ਠ��� ��� ᮯ��⠢���� ᬥ�� ��ᯫ��樨, ���⮬� �뢮� � ��襢���� ⠪�� ४������樨 ������ ࠭�.`,"https://dsrny.com/project/mit-metropolitan-warehouse","���: Brett Beyer � Project Manus / DS+R; �����஢�� ��ਡ��� �� ᠩ� ��� �� 㪠����","mit-met-warehouse-public-opening-2026","����������� �����襭� � 2026 ����; �㡫�筮� ����⨥ - 3 ������. DS+R, associate architect Leers Weinzapfel Associates; ������� Reed Hildebrand.","2026-10-04");
+Object.assign(articles.at(-1),{"sources":[{"title":"�㡫�筮� ����⨥ 3 ������: �ணࠬ�� MIT","url":"https://sap.mit.edu/events/met-opening-events"},{"title":"���ᠭ�� �஥��, ������� � ������ ������: DS+R","url":"https://dsrny.com/project/mit-metropolitan-warehouse"},{"title":"MIT News: ��॥�� � ������ � �⤥��� ���� ������","url":"https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812"}],"imageAlt":"���������஢���� ᪫��: �⥪�ﭭ� ��⠢�� ���뢠�� ����७��� ����࠭�⢠","categories":["interiors"]});
 export const candidates=[
 ...articles.map(a=>({title:a.title,url:a.source,status:'published',article:a.id})),
 {title:'RP02 House / Cornetta',url:'https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura',status:'reserve',reason:'Построен в 2022; оставить для тематической подборки.'},
