@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-05",
+  "window": "2026-10-04T02:00:27Z - 2026-10-05T02:00:27Z",
+  "status": "no_qualified_new_stories",
+  "publishedIssueDate": "2026-10-04",
+  "articles": [],
+  "rubricReview": {
+    "date": "2026-10-05",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "results": {
+      "architecture": {
+        "latestPublication": "2026-10-04",
+        "added": [],
+        "note": "Archi.ru, e-architect и Snøhetta: первоисточники новых проектов в окне не найдены; MIT уже опубликован, MIND и Lech — старые первоисточники."
+      },
+      "interiors": {
+        "latestPublication": "2026-10-04",
+        "added": [],
+        "note": "Korčula Essence: новая статья D5 от 4 октября, но незавершённый проект и награда 2025 года. Самостоятельный сильный новый повод не подтверждён. Российская лента интерьеров Design Mate без подтверждённой новой темы."
+      },
+      "objects": {
+        "latestPublication": "2026-10-02",
+        "added": [],
+        "note": "Проверены Design Mate и D5 Industrial Design. TOT уже представлен в 2025 году; новые датированные первоисточники не найдены."
+      },
+      "furniture": {
+        "latestPublication": "2026-10-03",
+        "added": [],
+        "note": "Мебельная и световая ленты D5 проверены отдельно. FeW и люстра Вадуца уже в архиве; TOT — повтор. Достойный новый запуск не подтверждён."
+      },
+      "materials": {
+        "latestPublication": "2026-10-03",
+        "added": [],
+        "note": "Vollebak Rock Jacket: вторичная публикация 4 октября; первичный запуск в пределах окна не подтверждён, официальный URL недоступен через веб-инструмент. Не объявляем это строительным материалом."
+      },
+      "technology": {
+        "latestPublication": "2026-10-03",
+        "added": [],
+        "note": "Проверены D5 Industrial Design и технологические новости российских лент. Сильная новая архитектурная технология с подтверждённой датой не найдена."
+      },
+      "exhibitions": {
+        "latestPublication": "2026-10-02",
+        "added": [],
+        "note": "Подборка AD Middle East от 4 октября по Amman Design Week проверена: начало фестиваля 2 октября, нового открытия в окне не подтверждает. СКАН закончилась 4 октября: исключена из актуального блока, сохранена в архиве."
+      },
+      "people": {
+        "latestPublication": "2026-09-19",
+        "added": [],
+        "note": "Проверены Люди Design Mate и D5 Interviews. Новое содержательное интервью или кадровый повод в пределах окна не подтверждён. Старые авторские профили не передатированы."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://design-mate.ru/",
+      "https://www.e-architect.com/",
+      "https://www.snohetta.com/news",
+      "https://www.cfmoller.com/r/-da/Presse",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://d5mag.com/interviews/",
+      "https://www.admiddleeast.com/story/amman-design-week-2026"
+    ],
+    "limitations": [
+      "Часть страниц D5 в веб-инструменте имеет старую дату обхода; по таким страницам не заявляется отсутствие всех мировых новостей.",
+      "Это результат редакционного поиска, а не доказательство отсутствия событий во всём мире."
+    ]
+  },
+  "featurePitches": [],
+  "radar": null,
+  "note": "Новых доказательных оснований для Разборов и Radar нет; выпуск за 4 октября сохраняется главным. Отдельный новостной выпуск без сильных историй не создаётся."
+}
