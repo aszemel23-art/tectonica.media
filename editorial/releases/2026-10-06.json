@@ -1,0 +1,583 @@
+{
+  "date": "2026-10-06",
+  "window": "2026-10-05T02:00:58Z - 2026-10-06T02:00:58Z",
+  "intro": "Музей в Бильбао растёт над историческими корпусами, исследование сибирского кирпича становится доступно онлайн, а плетение из пальмового листа собирает выставку petit h в Дубае.",
+  "featured": {
+    "lead": "bilbao-agravitas-museum-reopening-2026",
+    "stories": [
+      "bilbao-agravitas-museum-reopening-2026",
+      "siberian-format-brick-film-online-2026",
+      "hermes-petit-h-palm-leaf-dubai-2026"
+    ],
+    "daily": [
+      [
+        "Музей над музеем",
+        "bilbao-agravitas-museum-reopening-2026"
+      ],
+      [
+        "Кирпич как предмет исследования",
+        "siberian-format-brick-film-online-2026"
+      ],
+      [
+        "Плетение собирает выставку",
+        "hermes-petit-h-palm-leaf-dubai-2026"
+      ]
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "bilbao-agravitas-museum-reopening-2026",
+      "time": "5 минут",
+      "reason": "Фактическое открытие комплекса 5 октября позволяет разобрать, как надстройка сохраняет старые корпуса и создаёт общее пространство под новыми залами."
+    },
+    {
+      "id": "siberian-format-brick-film-online-2026",
+      "time": "3 минуты",
+      "reason": "Новый онлайн-анонс даёт российским коллегам доступ к исследованию регионального материала через архивы, музейные образцы и действующее производство."
+    },
+    {
+      "id": "hermes-petit-h-palm-leaf-dubai-2026",
+      "time": "4 минуты",
+      "reason": "Новый показ 5 октября демонстрирует конкретный пространственный приём: плетёная поверхность на отдельном каркасе организует маршрут и размещение предметов."
+    }
+  ],
+  "featurePitches": [
+    {
+      "title": "Как расширить музей, сохранив его старые здания",
+      "article": "bilbao-agravitas-museum-reopening-2026",
+      "text": "Сопоставить планы потоков, надстройку и пристройку на земле, этапы работы действующего музея и требования к охраняемому зданию. Для большого материала нужны планы, данные о стоимости и разговор с проектной командой; сегодняшняя статья — разбор опубликованного проекта."
+    },
+    {
+      "title": "Кирпич Новосибирска: от архивного клейма до нового фасада",
+      "article": "siberian-format-brick-film-online-2026",
+      "text": "Посмотреть полный фильм, проверить исторические выводы по документам и поговорить с исследователями, реставраторами и производителями. Сопоставить старые образцы с современным кирпичом по размерам, поверхности и результатам испытаний."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Выставку начинают проектировать с имеющегося материала",
+    "text": "В дубайском petit h остатки материалов задают предметы, а пальмовое плетение — устройство всей экспозиции. Наше раннее наблюдение: выбор того, что уже есть у мастерской, может стать началом пространственного проекта, а не последней заменой в смете. Это гипотеза по одному показу и давно существующей практике petit h, а не доказанная новая рыночная тенденция. Проверять её стоит по независимым выставочным проектам: сохраняется ли такой порядок работы, удаётся ли разобрать конструкцию и использовать материал снова.",
+    "sources": [
+      {
+        "title": "Hermès: практика petit h и дубайский показ",
+        "url": "https://www.hermes.com/dh/en/content/402479-petit-h-event/"
+      },
+      {
+        "title": "Фотографии инсталляции и дата начала показа",
+        "url": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/"
+      }
+    ]
+  },
+  "rubricReview": {
+    "date": "2026-10-06",
+    "window": "2026-10-05T02:00:58Z - 2026-10-06T02:00:58Z",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "note": "Все восемь рубрик проверены отдельно; мебель и свет проверены также раздельно. Новые статьи включены по содержанию, без квот. Исходные даты архива сохранены.",
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-04",
+        "latestPublication": "2026-10-06",
+        "added": [
+          "bilbao-agravitas-museum-reopening-2026"
+        ],
+        "note": "Бильбао: новый повод — церемония открытия 5 октября; пресс-показ 2 октября и общий доступ 6 октября разделены. Мурманский «Музей тишины» отклонён: проект уже опубликован в июне 2025 и обсуждался в сентябре 2026; новая авторская публикация не подтверждает нового этапа. Sweetbird North также известен с июня 2026; статья Archpaper 5 октября не делает проект новым."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-04",
+        "latestPublication": "2026-10-06",
+        "added": [
+          "bilbao-agravitas-museum-reopening-2026",
+          "hermes-petit-h-palm-leaf-dubai-2026"
+        ],
+        "note": "Добавлены маршруты, атриум и выставочные залы Agravitas, а также новая сценография petit h. Дом OZ опубликован в INEX ещё в сентябре; Mellem Grace Dart завершён ранее и награждён летом 2026; кампус Бристоля открылся 7 сентября. Повторные публикации 5 октября не отобраны."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-02",
+        "latestPublication": "2026-10-06",
+        "added": [
+          "hermes-petit-h-palm-leaf-dubai-2026"
+        ],
+        "note": "Новый показ petit h включает предметы из оставшихся материалов и конкретные способы их соединения; это содержательная дополнительная рубрика. Nothing: первичная публикация 2 октября, сегодняшняя перепечатка отклонена. Новая расцветка Stokke × MoMA подтверждена пресс-релизом IMG 5 октября, но для самостоятельной статьи решение сочтено недостаточно сильным."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-03",
+        "latestPublication": "2026-10-03",
+        "added": [],
+        "note": "Проверены мебельная лента D5 и новости Design Mate. Rafael Prieto / The Future of the Past: выставка открылась на рубеже сентября и октября, пресс-материалы выходили до окна. FeW уже в архиве. Stokke × MoMA — ограниченная цветовая версия прежней модели, без достаточно сильного самостоятельного изменения для выпуска."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-03",
+        "latestPublication": "2026-10-03",
+        "added": [],
+        "note": "Проверена световая лента D5 отдельно от мебели: новые датированные проекты в окне не подтверждены. Вадуц уже опубликован. Световые элементы мурманского проекта не объявлены новым световым запуском."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-03",
+        "latestPublication": "2026-10-06",
+        "added": [
+          "siberian-format-brick-film-online-2026"
+        ],
+        "note": "Добавлен анонс онлайн-доступа «Сибирского формата» от 5 октября: фильм связывает кирпич, архивное исследование и архитектуру Новосибирска. Премьера 18 сентября не передатирована; время загрузки видео не заявлено. Nothing исключён как повтор первичной новости 2 октября. Не утверждаются непроверенные эксплуатационные свойства материалов."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-03",
+        "latestPublication": "2026-10-03",
+        "added": [],
+        "note": "Проверены технологические разделы российских лент и D5 Industrial Design. Архивно-исторический фильм не объявлен новой технологией производства, а предметы petit h — инженерным прорывом. Самостоятельного сильного нового технологического повода не подтверждено."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-02",
+        "latestPublication": "2026-10-06",
+        "added": [
+          "hermes-petit-h-palm-leaf-dubai-2026"
+        ],
+        "note": "Новый повод petit h — начало показа 5 октября, подтверждённое двумя пресс-публикациями и региональной страницей Hermès. Окончание расходится: 20 октября в прессе, 22 октября у Hermès; для актуального блока выбрана ранняя дата. Collection Gallery / Space Popular открылась 20 мая 2026; октябрьские публикации исключены как повтор. Уфимский рекламный анонс не взят ради количества. SCAN и Digital Rain остаются в архиве, но не в актуальной афише."
+      },
+      "people": {
+        "previousLatestPublication": "2026-09-19",
+        "latestPublication": "2026-09-19",
+        "added": [],
+        "note": "Отдельно проверены Люди Design Mate: последняя новая командная история Arch(e)type от 1 октября, вне окна; D5 Interviews также без подтверждённого нового интервью. Имена авторов сегодняшних работ указаны в статьях, но наличие автора не является поводом добавить статью в рубрику Люди."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://design-mate.ru/",
+      "https://design-mate.ru/read/people",
+      "https://d5mag.com/",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://d5mag.com/interviews/",
+      "https://www.archpaper.com/",
+      "https://www.snohetta.com/projects/sweetbird-north",
+      "https://provencherroy.ca/en/news/grace-dart-laureat-oaq",
+      "https://www.bristol.ac.uk/temple-quarter-enterprise-campus/news/",
+      "https://nieuweinstituut.nl/en/projects/collection-gallery",
+      "https://inex-magazine.ru/dom-v-podmoskove-ot-byuro-oz/",
+      "https://www.emmascullygallery.com/exhibitions/27-the-future-of-the-past-an-exhibition-of-works-by-rafael-prieto/press_release_text/",
+      "https://imglicensing.com/news/stokke-introduces-the-limited-edition-tripp-trapp-chair-moma-edition-celebrating-a-design-icon/"
+    ],
+    "limitations": [
+      "Отдельные страницы D5 в веб-инструменте имеют старый обход; отсутствие отобранной темы не означает отсутствия событий во всём мире.",
+      "Полное видео VK недоступно через инструмент чтения из-за перенаправления; статья основана на датированном анонсе, не выдаётся за просмотр фильма.",
+      "Для Hermès зафиксировано расхождение даты окончания; три дополнительных изображения Signé недоступны для загрузки из-за TLS-сбоя. Все семь доступных фотографий YUNG включены."
+    ]
+  },
+  "articles": [
+    {
+      "id": "bilbao-agravitas-museum-reopening-2026",
+      "title": "В Бильбао открыли музей, новые залы которого подняты над старыми корпусами",
+      "category": "architecture",
+      "categories": [
+        "interiors"
+      ],
+      "format": "Разбор",
+      "place": "Бильбао, Испания",
+      "dek": "Foster + Partners и Луис Мария Уриарте расширили музей вверх. Под новыми галереями появился крытый атриум, соединяющий здания 1945 и 1970 годов.",
+      "body": "5 октября в Музее изящных искусств Бильбао состоялась церемония открытия комплекса Agravitas. Посетителей пускают с 6 октября. Это завершённое расширение Foster + Partners и Луиса Марии Уриарте, выигравших конкурс в 2019 году. Представление для прессы прошло раньше, 2 октября; сегодняшний повод — официальное открытие. В галерее — фотографии готового здания, отдельно подписанные проектная визуализация и конкурсный эскиз.\n\n## Пристройка заняла пространство над музеем\n\nНовый объём перекрывает исторические корпуса, сохраняя их фасады видимыми. Крупные V-образные опоры несут конструкцию с пролётом 55 метров. Выразительность возникает из того, как верхний этаж отделён от старой кладки: границы разных этапов строительства легко прочитать даже без пояснений.\n\nПод галереями бывшая площадь Арриага стала крытым атриумом. В нём соединены входы, переходы и скульптуры; круглый проём в перекрытии пропускает свет к восстановленному памятнику композитору Хуану Крисостомо де Арриага. Старые наружные стены теперь окружают общее внутреннее пространство. Наверху расположен большой зал временных выставок без колонн, с дневным светом и видом на парк.\n\n## Что стоит рассмотреть с коллегой\n\nУ расширения получился двойной результат: музей получил дополнительные залы и место, связывающее разрозненные части комплекса. Атриум здесь заслуживает не меньшего внимания, чем новый фасад. По фотографиям можно разобрать, где посетитель видит старое здание, как попадает в новое и какие пространства объединяют оба.\n\nДля российского музейного проекта полезно начать с такой же проверки маршрутов: выписать все входы, перепады уровней и места пересечения потоков до выбора формы пристройки. Надстройка потребует собственного расчёта конструкций и согласования с режимом охраны конкретного памятника. Опубликованные материалы не дают оснований считать этот способ дешёвым или легко повторимым.\n\nВ большом разборе здесь нужны планы движения и сравнение вариантов расширения: сколько площади даёт каждый, что он сохраняет и какие затраты добавляет в эксплуатации.",
+      "source": "https://www.fosterandpartners.com/projects/bilbao-fine-arts-museum",
+      "sources": [
+        {
+          "title": "Foster + Partners: проект Bilbao Fine Arts Museum",
+          "url": "https://www.fosterandpartners.com/projects/bilbao-fine-arts-museum"
+        },
+        {
+          "title": "Bilbao Musika: церемония открытия 5 октября, 11:00",
+          "url": "https://www.bilbaomusika.eus/txistubanda/txagprotocolos.asp?lang=es"
+        },
+        {
+          "title": "Фотографии и описание завершённого проекта: designboom, 5 октября",
+          "url": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/"
+        },
+        {
+          "title": "Пресс-материалы Foster + Partners и конкурсный эскиз: Beedier",
+          "url": "https://beedier.com/global_snapshots/bilbao-fine-arts-museum-builds-above-its-past/"
+        },
+        {
+          "title": "Репортаж об открытии: Radio Popular, 5 октября",
+          "url": "https://radiopopular.com/2026/10/118-anos-cumple-hoy-el-museo-de-bellas-artes-de-bilbao"
+        }
+      ],
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан",
+      "event": "Проект Foster + Partners и LM Uriarte Arkitektura. Церемония открытия — 5 октября 2026; вход для посетителей — с 6 октября.",
+      "image": "bilbao-agravitas-museum-reopening-2026",
+      "imageAlt": "Атриум Agravitas: обложка в максимальном доступном размере",
+      "gallery": [
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-01.jpg",
+          "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-01",
+          "caption": "Agravitas: новые галереи над историческими корпусами",
+          "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-02.jpg",
+          "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-02",
+          "caption": "Старый вход и поднятый над ним новый объём",
+          "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-03.jpg",
+          "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-03",
+          "caption": "Кромка нового этажа со стороны парка",
+          "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-05.jpg",
+          "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-04",
+          "caption": "Крытый атриум между фасадами исторических зданий",
+          "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-07.jpg",
+          "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-05",
+          "caption": "Входная зона корпуса 1945 года",
+          "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-08.jpg",
+          "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-06",
+          "caption": "Круглый световой проём над атриумом",
+          "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-06a.jpg",
+          "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-07",
+          "caption": "Большой зал временных выставок BBK Museoa",
+          "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-09a.jpg",
+          "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-08",
+          "caption": "Расширенный музей со стороны деревьев",
+          "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+        },
+        {
+          "url": "https://beedier.com/wp-content/uploads/2026/10/261005_Bilbao_Museum_4-1.jpg",
+          "source": "https://beedier.com/global_snapshots/bilbao-fine-arts-museum-builds-above-its-past/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-09",
+          "caption": "Проектная визуализация выставочного зала; это не фотография",
+          "credit": "Визуализация: Foster + Partners / Beedier"
+        },
+        {
+          "url": "https://beedier.com/wp-content/uploads/2026/10/261005_Bilbao_Museum_5.jpg",
+          "source": "https://beedier.com/global_snapshots/bilbao-fine-arts-museum-builds-above-its-past/",
+          "id": "gallery-bilbao-agravitas-museum-reopening-2026-10",
+          "caption": "Конкурсный эскиз: новый объём, исторические здания и маршруты",
+          "credit": "Эскиз: Foster + Partners / Beedier"
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 12,
+        "excluded": [
+          {
+            "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-04.jpg",
+            "reason": "Duplicate frame; larger cover version retained."
+          }
+        ],
+        "note": "All available project images visually inspected. Bilbao includes explicitly labelled render and sketch; Siberian Format uses photographs of the premiere and film poster, not film stills."
+      }
+    },
+    {
+      "id": "siberian-format-brick-film-online-2026",
+      "title": "«Сибирский формат» появился в сети: фильм исследует историю кирпича Новосибирска",
+      "category": "materials",
+      "categories": [],
+      "format": "Обзор",
+      "place": "Новосибирск, Россия",
+      "dek": "Архивы, кирпичи с клеймами и действующий завод помогают проследить, как материал менял город. Онлайн-показ объявлен 5 октября; премьера прошла 18 сентября.",
+      "body": "5 октября опубликован анонс онлайн-показа документального фильма «Сибирский формат» со ссылкой на полную версию. Его подготовили Новосибирское отделение Союза архитекторов России, группа компаний «Первый строительный» и завод «Ликолор». Премьерный показ состоялся 18 сентября на Днях архитектуры. Дата сегодняшней новости относится к объявлению онлайн-доступа, а не к премьере или подтверждённому времени загрузки видео.\n\n## Материал помогает разобраться в истории города\n\nИсследование начинается с конкретного вопроса: был ли у Андрея Крячкова первый кирпичный завод Новосибирска? Команда обращалась к архивным документам, музейным коллекциям кирпича с клеймами и сохранившимся зданиям. Съёмки прошли в двадцати местах, включая работающие цеха «Ликолора». В фильме участвовали историки, краеведы и архитекторы.\n\nТакой подход интересен для разговора с коллегой: привычный фасадный материал рассматривают через происхождение, производство и конкретные постройки. Это даёт повод сравнить, как менялись размеры кирпича, характер поверхности и архитектурные задачи. Ответ на вопрос о заводе Крячкова по одному анонсу делать нельзя; здесь мы не пересказываем выводы непросмотренного фильма.\n\nДля работы с историческим кирпичным зданием можно взять сам порядок исследования: собрать сведения о поставщике, изучить клейма и сохранившиеся образцы, сопоставить их с архивом. Если проект требует нового кирпича, дальше нужны отдельные образцы и испытания. Историческая справка не подтверждает морозостойкость, влагопоглощение или совместимость нового материала со старой кладкой.\n\nВизуальный материал к новости — две фотографии сентябрьской премьеры, предоставленные Новосибирским отделением САР: афиша фильма и его участники. Их не выдаём за кадры самой картины. Ссылка на онлайн-показ находится в списке источников.",
+      "source": "https://archi.ru/news/102765/v-seti-vyshel-sibirskii-proekt-dokumentalnyi-film-ob-istorii-sibirskogo-kirpicha",
+      "sources": [
+        {
+          "title": "Анонс онлайн-показа и фотографии НО САР: Архи.ру, 5 октября",
+          "url": "https://archi.ru/news/102765/v-seti-vyshel-sibirskii-proekt-dokumentalnyi-film-ob-istorii-sibirskogo-kirpicha"
+        },
+        {
+          "title": "Полная версия: ссылка из анонса",
+          "url": "https://vkvideo.ru/video-220790254_456239221"
+        },
+        {
+          "title": "НО САР: трейлер и описание исследовательского проекта",
+          "url": "https://rutube.ru/video/d7a4da5bc705cadd97cd38c2ad619fce/"
+        },
+        {
+          "title": "Ликолор: репортаж о премьере 18 сентября",
+          "url": "https://rutube.ru/video/ec41b72efd5347454f2864dbe8500a1c/"
+        }
+      ],
+      "credit": "Фото предоставлено Новосибирским отделением Союза архитекторов России; фотограф не указан",
+      "event": "Авторы проекта: Новосибирское отделение САР, ГК «Первый строительный», завод «Ликолор». Премьера — 18 сентября; анонс онлайн-доступа — 5 октября 2026.",
+      "image": "siberian-format-brick-film-online-2026",
+      "imageAlt": "Афиша «Сибирского формата» в кинотеатре «Победа» на премьере 18 сентября",
+      "gallery": [
+        {
+          "url": "https://i.archi.ru/i/517118.jpg",
+          "caption": "Участники сентябрьской премьеры «Сибирского формата»; фото мероприятия",
+          "source": "https://archi.ru/news/102765/v-seti-vyshel-sibirskii-proekt-dokumentalnyi-film-ob-istorii-sibirskogo-kirpicha",
+          "id": "gallery-siberian-format-brick-film-online-2026-01",
+          "credit": "Фото предоставлено Новосибирским отделением Союза архитекторов России; фотограф не указан"
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 2,
+        "excluded": [],
+        "note": "All available project images visually inspected. Bilbao includes explicitly labelled render and sketch; Siberian Format uses photographs of the premiere and film poster, not film stills."
+      }
+    },
+    {
+      "id": "hermes-petit-h-palm-leaf-dubai-2026",
+      "title": "В Дубае petit h превратил плетёный ковёр в выставочное пространство",
+      "category": "exhibitions",
+      "categories": [
+        "interiors",
+        "objects"
+      ],
+      "format": "Разбор",
+      "place": "Дубай, ОАЭ",
+      "dek": "Годфруа де Вирьё поднял плетение из пальмовых листьев на металлических опорах. Между изгибами разместили вещи из оставшихся материалов Hermès.",
+      "body": "5 октября в магазине Hermès в Dubai Mall открылась выставка petit h. Годфруа де Вирьё, творческий директор мастерской, построил её вокруг плетёного ковра из пальмовых листьев. Металлические опоры поднимают поверхность над полом, сворачивают её в петли и превращают в фон для предметов. На фотографиях показана именно эта инсталляция, а не прежний дубайский показ 2022 года.\n\n## Плетение задаёт маршрут и масштаб\n\nНа общем плане видна непрерывная поверхность, а вблизи — мелкий рисунок листьев. Жёлтые опоры отделены от природного материала; они удерживают форму и остаются частью композиции. Предметы размещены на разных уровнях, поэтому выставка предлагает несколько расстояний просмотра: целое пространство, группу вещей и отдельную деталь.\n\nСреди работ — книжная полка в форме лошади, созданная Лиз Стирлинг, и предметы, соединяющие кожу, шёлк, керамику и другие материалы. Мастерская petit h с 2010 года начинает разработку с того, что осталось у других подразделений Hermès. Новым событием здесь стал конкретный дубайский показ; сам принцип работы с остатками давно существует.\n\n## Что полезно для своего проекта\n\nКоллеге стоит показать, как одна поверхность берёт на себя сразу несколько задач: организует движение, создаёт фон и связывает разнородные вещи. На снимках её изгибы работают даже там, где рядом совсем небольшие предметы. При этом красота плетения остаётся различимой, хотя конструкция крупная.\n\nДля временной выставки или российского шоурума можно проверить аналогичный приём на простом макете: материал, отдельный несущий каркас и несколько высот размещения экспонатов. Конкретное плетение придётся выбирать вместе с местной мастерской и проверять на образце. Пальмовый лист не доказывает пригодность любого природного волокна для такого пролёта; крепления, огнезащита и возможность разборки требуют своего решения.\n\nДаты окончания в источниках расходятся: региональная страница Hermès указывает 22 октября, пресс-анонсы — 20 октября 2026 года. Начало 5 октября совпадает. Для поездки стоит уточнить срок у магазина; в актуальном блоке используем более раннюю дату.",
+      "source": "https://www.hermes.com/dh/en/content/402479-petit-h-event/",
+      "sources": [
+        {
+          "title": "Hermès UAE: инсталляция petit h из пальмового листа, 5–22 октября",
+          "url": "https://www.hermes.com/dh/en/content/402479-petit-h-event/"
+        },
+        {
+          "title": "YUNG: дата открытия и полный доступный фотоматериал, 5 октября 2026",
+          "url": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/"
+        },
+        {
+          "title": "Signé: авторы, фотокредит и пресс-анонс, 3 октября 2026",
+          "url": "https://signemagazine.com/artanddesign/hermes-petit-h-dubai-2026-art-of-reinvention/"
+        }
+      ],
+      "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан",
+      "event": "Сценография: Годфруа де Вирьё / petit h. Открытие — 5 октября 2026; окончание — 20 октября по пресс-анонсу, 22 октября на странице Hermès. Dubai Mall, Fashion Avenue, Level 2.",
+      "image": "hermes-petit-h-palm-leaf-dubai-2026",
+      "imageAlt": "Плетёная поверхность на жёлтых металлических опорах",
+      "gallery": [
+        {
+          "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2086-1-Large.jpg",
+          "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+          "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-01",
+          "caption": "Полка в форме лошади и предметы внутри инсталляции petit h",
+          "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+        },
+        {
+          "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2324-1-Large.jpg",
+          "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+          "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-02",
+          "caption": "Плетение как фон для небольших предметов",
+          "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+        },
+        {
+          "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2126-Large.jpg",
+          "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+          "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-03",
+          "caption": "Предметы на нескольких уровнях внутри изгиба ковра",
+          "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+        },
+        {
+          "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2124-Large.jpg",
+          "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+          "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-04",
+          "caption": "Зеркало и предметы на фоне плетёной стенки",
+          "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+        },
+        {
+          "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2365-Large.jpg",
+          "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+          "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-05",
+          "caption": "Деталь табурета из экспозиции petit h",
+          "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+        },
+        {
+          "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2101-1-Large.jpg",
+          "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+          "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-06",
+          "caption": "Общий вид зоны с небольшими предметами у стены",
+          "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 10,
+        "excluded": [
+          {
+            "url": "https://signemagazine.com/wp-content/uploads/2026/10/hermes-petit-h-palm-leaf-installation.jpg",
+            "reason": "Source image unavailable: TLS connection failed; no substitute used."
+          },
+          {
+            "url": "https://signemagazine.com/wp-content/uploads/2026/10/hermes-petit-h-rocabar-horse-bookshelf.jpg",
+            "reason": "Source image unavailable: TLS connection failed; no substitute used."
+          },
+          {
+            "url": "https://signemagazine.com/wp-content/uploads/2026/10/hermes-petit-h-playful-cup.jpg",
+            "reason": "Source image unavailable: TLS connection failed; no substitute used."
+          }
+        ],
+        "note": "All available project images visually inspected. Bilbao includes explicitly labelled render and sketch; Siberian Format uses photographs of the premiere and film poster, not film stills."
+      }
+    }
+  ],
+  "images": [
+    {
+      "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-1800.jpg",
+      "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+      "id": "bilbao-agravitas-museum-reopening-2026",
+      "caption": "Атриум Agravitas: обложка в максимальном доступном размере",
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+    },
+    {
+      "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-01.jpg",
+      "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-01",
+      "caption": "Agravitas: новые галереи над историческими корпусами",
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+    },
+    {
+      "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-02.jpg",
+      "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-02",
+      "caption": "Старый вход и поднятый над ним новый объём",
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+    },
+    {
+      "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-03.jpg",
+      "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-03",
+      "caption": "Кромка нового этажа со стороны парка",
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+    },
+    {
+      "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-05.jpg",
+      "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-04",
+      "caption": "Крытый атриум между фасадами исторических зданий",
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+    },
+    {
+      "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-07.jpg",
+      "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-05",
+      "caption": "Входная зона корпуса 1945 года",
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+    },
+    {
+      "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-08.jpg",
+      "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-06",
+      "caption": "Круглый световой проём над атриумом",
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+    },
+    {
+      "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-06a.jpg",
+      "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-07",
+      "caption": "Большой зал временных выставок BBK Museoa",
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+    },
+    {
+      "url": "https://static.designboom.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-designboom-09a.jpg",
+      "source": "https://www.designboom.com/architecture/foster-partners-completes-floating-addition-bilbao-fine-arts-museum-spain/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-08",
+      "caption": "Расширенный музей со стороны деревьев",
+      "credit": "Фото: © Foster + Partners; фотограф в публикации не указан"
+    },
+    {
+      "url": "https://beedier.com/wp-content/uploads/2026/10/261005_Bilbao_Museum_4-1.jpg",
+      "source": "https://beedier.com/global_snapshots/bilbao-fine-arts-museum-builds-above-its-past/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-09",
+      "caption": "Проектная визуализация выставочного зала; это не фотография",
+      "credit": "Визуализация: Foster + Partners / Beedier"
+    },
+    {
+      "url": "https://beedier.com/wp-content/uploads/2026/10/261005_Bilbao_Museum_5.jpg",
+      "source": "https://beedier.com/global_snapshots/bilbao-fine-arts-museum-builds-above-its-past/",
+      "id": "gallery-bilbao-agravitas-museum-reopening-2026-10",
+      "caption": "Конкурсный эскиз: новый объём, исторические здания и маршруты",
+      "credit": "Эскиз: Foster + Partners / Beedier"
+    },
+    {
+      "url": "https://i.archi.ru/i/517114.jpg",
+      "caption": "Афиша «Сибирского формата» в кинотеатре «Победа» на премьере 18 сентября",
+      "source": "https://archi.ru/news/102765/v-seti-vyshel-sibirskii-proekt-dokumentalnyi-film-ob-istorii-sibirskogo-kirpicha",
+      "id": "siberian-format-brick-film-online-2026",
+      "credit": "Фото предоставлено Новосибирским отделением Союза архитекторов России; фотограф не указан"
+    },
+    {
+      "url": "https://i.archi.ru/i/517118.jpg",
+      "caption": "Участники сентябрьской премьеры «Сибирского формата»; фото мероприятия",
+      "source": "https://archi.ru/news/102765/v-seti-vyshel-sibirskii-proekt-dokumentalnyi-film-ob-istorii-sibirskogo-kirpicha",
+      "id": "gallery-siberian-format-brick-film-online-2026-01",
+      "credit": "Фото предоставлено Новосибирским отделением Союза архитекторов России; фотограф не указан"
+    },
+    {
+      "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2340-Large.jpg",
+      "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+      "id": "hermes-petit-h-palm-leaf-dubai-2026",
+      "caption": "Плетёная поверхность на жёлтых металлических опорах",
+      "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+    },
+    {
+      "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2086-1-Large.jpg",
+      "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+      "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-01",
+      "caption": "Полка в форме лошади и предметы внутри инсталляции petit h",
+      "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+    },
+    {
+      "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2324-1-Large.jpg",
+      "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+      "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-02",
+      "caption": "Плетение как фон для небольших предметов",
+      "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+    },
+    {
+      "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2126-Large.jpg",
+      "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+      "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-03",
+      "caption": "Предметы на нескольких уровнях внутри изгиба ковра",
+      "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+    },
+    {
+      "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2124-Large.jpg",
+      "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+      "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-04",
+      "caption": "Зеркало и предметы на фоне плетёной стенки",
+      "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+    },
+    {
+      "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2365-Large.jpg",
+      "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+      "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-05",
+      "caption": "Деталь табурета из экспозиции petit h",
+      "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+    },
+    {
+      "url": "https://thisisyungmea.com/wp-content/uploads/2026/10/DSCF2101-1-Large.jpg",
+      "source": "https://thisisyungmea.com/hermes-petit-h-rolls-out-a-carpet-of-reinvention-in-dubai/",
+      "id": "gallery-hermes-petit-h-palm-leaf-dubai-2026-06",
+      "caption": "Общий вид зоны с небольшими предметами у стены",
+      "credit": "Фото инсталляции: материалы Hermès / YUNG; фотограф в этой публикации не указан"
+    }
+  ]
+}
