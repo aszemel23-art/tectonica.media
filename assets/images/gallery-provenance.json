@@ -14532,6 +14532,806 @@
       ]
     }
   },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-01": {
+    "url": "https://litovsky.ru/projects/038/03.jpg",
+    "fetch_url": "https://litovsky.ru/projects/038/03.jpg",
+    "source": "https://litovsky.ru/projects.php?alias=038",
+    "credit": "Фото: Алексей Народицкий / Архитектурная мастерская Антона Литовского",
+    "width": 1500,
+    "height": 1000,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-01",
+    "caption": "Боковой фасад с деревянными рейками.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-02": {
+    "url": "https://litovsky.ru/projects/038/04.jpg",
+    "fetch_url": "https://litovsky.ru/projects/038/04.jpg",
+    "source": "https://litovsky.ru/projects.php?alias=038",
+    "credit": "Фото: Алексей Народицкий / Архитектурная мастерская Антона Литовского",
+    "width": 1500,
+    "height": 1000,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-02",
+    "caption": "Остеклённый торец: стеклопакеты в ячейках деревянного каркаса.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-03": {
+    "url": "https://litovsky.ru/projects/038/05.jpg",
+    "fetch_url": "https://litovsky.ru/projects/038/05.jpg",
+    "source": "https://litovsky.ru/projects.php?alias=038",
+    "credit": "Фото: Алексей Народицкий / Архитектурная мастерская Антона Литовского",
+    "width": 1500,
+    "height": 1000,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-03",
+    "caption": "Павильон с противоположного угла.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-04": {
+    "url": "https://litovsky.ru/projects/038/08.jpg",
+    "fetch_url": "https://litovsky.ru/projects/038/08.jpg",
+    "source": "https://litovsky.ru/projects.php?alias=038",
+    "credit": "Фото: Алексей Народицкий / Архитектурная мастерская Антона Литовского",
+    "width": 1500,
+    "height": 1000,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-04",
+    "caption": "Спортивный зал со стороны глухой стены.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-05": {
+    "url": "https://litovsky.ru/projects/038/09.jpg",
+    "fetch_url": "https://litovsky.ru/projects/038/09.jpg",
+    "source": "https://litovsky.ru/projects.php?alias=038",
+    "credit": "Фото: Алексей Народицкий / Архитектурная мастерская Антона Литовского",
+    "width": 1500,
+    "height": 1000,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-05",
+    "caption": "Деревянные балки и потолок спортивного зала.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-06": {
+    "url": "https://litovsky.ru/projects/038/10.jpg",
+    "fetch_url": "https://litovsky.ru/projects/038/10.jpg",
+    "source": "https://litovsky.ru/projects.php?alias=038",
+    "credit": "Фото: Алексей Народицкий / Архитектурная мастерская Антона Литовского",
+    "width": 1500,
+    "height": 1000,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-06",
+    "caption": "Соединение деревянной балки и стойки.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-07": {
+    "url": "https://litovsky.ru/projects/038/11.jpg",
+    "fetch_url": "https://litovsky.ru/projects/038/11.jpg",
+    "source": "https://litovsky.ru/projects.php?alias=038",
+    "credit": "Фото: Алексей Народицкий / Архитектурная мастерская Антона Литовского",
+    "width": 1500,
+    "height": 1000,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-07",
+    "caption": "Спортивный зал с видом на остеклённый торец.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-08": {
+    "url": "https://i.archi.ru/i/515944.jpg",
+    "fetch_url": "https://i.archi.ru/i/515944.jpg",
+    "source": "https://archi.ru/russia/102766/pavilon-sporta",
+    "credit": "Фото: Алексей Народицкий / Архитектурная мастерская Антона Литовского",
+    "width": 2500,
+    "height": 1061,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-08",
+    "caption": "Протяжённый боковой фасад павильона.",
+    "sizes": {
+      "640": [
+        640,
+        272
+      ],
+      "1440": [
+        1440,
+        611
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-09": {
+    "url": "https://i.archi.ru/i/515955.jpg",
+    "fetch_url": "https://i.archi.ru/i/515955.jpg",
+    "source": "https://archi.ru/russia/102766/pavilon-sporta",
+    "credit": "Чертёж: Архитектурная мастерская Антона Литовского / Архи.ру",
+    "width": 2500,
+    "height": 1798,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-09",
+    "caption": "План спортивного павильона.",
+    "sizes": {
+      "640": [
+        640,
+        460
+      ],
+      "1440": [
+        1440,
+        1036
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-10": {
+    "url": "https://i.archi.ru/i/515956.jpg",
+    "fetch_url": "https://i.archi.ru/i/515956.jpg",
+    "source": "https://archi.ru/russia/102766/pavilon-sporta",
+    "credit": "Чертёж: Архитектурная мастерская Антона Литовского / Архи.ру",
+    "width": 2500,
+    "height": 1544,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-10",
+    "caption": "Разрез спортивного павильона.",
+    "sizes": {
+      "640": [
+        640,
+        395
+      ],
+      "1440": [
+        1440,
+        889
+      ]
+    }
+  },
+  "gallery-litovsky-sports-pavilion-timber-glazing-2026-11": {
+    "url": "https://i.archi.ru/i/515948.jpg",
+    "fetch_url": "https://i.archi.ru/i/515948.jpg",
+    "source": "https://archi.ru/russia/102766/pavilon-sporta",
+    "credit": "Фото: Алексей Народицкий / Архитектурная мастерская Антона Литовского",
+    "width": 1666,
+    "height": 2500,
+    "id": "gallery-litovsky-sports-pavilion-timber-glazing-2026-11",
+    "caption": "Остекление и деревянный каркас снаружи.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2161
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-01": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_1-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_1-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-01",
+    "caption": "Вид на дом и надстройку с улицы.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-02": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_3-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_3-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-02",
+    "caption": "Пристройка с крупным окном и цинковой облицовкой.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-03": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_6-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_6-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-03",
+    "caption": "Винтовая лестница между рабочими и жилыми уровнями.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-04": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_17.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_17.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1576,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-04",
+    "caption": "Кастинг-студия с голубыми стенами.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-05": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_13.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_13.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1576,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-05",
+    "caption": "Спальня: деревянная перегородка и встроенное хранение.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-06": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_20-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_20-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-06",
+    "caption": "Розовый холл с верхним светом.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-07": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_4-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_4-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-07",
+    "caption": "Холл со стульями и круглым зеркалом.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-08": {
+    "url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_2.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_2.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Чертёж: Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1671,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-08",
+    "caption": "План нижнего уровня с кастинг-студией.",
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-09": {
+    "url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_6.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_6.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Чертёж: Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1671,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-09",
+    "caption": "План первого жилого уровня.",
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-10": {
+    "url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_0.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_0.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Чертёж: Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1671,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-10",
+    "caption": "План верхнего жилого уровня.",
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-11": {
+    "url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_3.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_3.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Чертёж: Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1671,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-11",
+    "caption": "План кровли.",
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-12": {
+    "url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_1.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_1.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Чертёж: Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1671,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-12",
+    "caption": "Фасад дома: чертёж Fieldwork.",
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-13": {
+    "url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_5.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_5.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Чертёж: Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1671,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-13",
+    "caption": "Второй фасад: чертёж Fieldwork.",
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-14": {
+    "url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_4.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/casting-studio-fieldwork_dezeen_2364_col_4.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Чертёж: Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1671,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-14",
+    "caption": "Разрез дома и кастинг-студии.",
+    "sizes": {
+      "640": [
+        640,
+        452
+      ],
+      "1440": [
+        1440,
+        1018
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-15": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_19-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_19-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-15",
+    "caption": "Верхняя площадка лестницы и изогнутая розовая стена.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-16": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_22-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_22-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-16",
+    "caption": "Круглый световой проём над розовым холлом.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-17": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_21-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_21-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-17",
+    "caption": "Ванная комната.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-18": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_15-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_15-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-18",
+    "caption": "Вид вверх вдоль лестницы к световому проёму.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-19": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_14-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_14-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-19",
+    "caption": "Цинковая облицовка пристройки и вход.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-20": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_12-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_12-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-20",
+    "caption": "Лестница и верхний свет.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-21": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_10-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_10-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-21",
+    "caption": "Кухонная столешница и жилое пространство.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-22": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_5-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_5-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-22",
+    "caption": "Розовый холл: дополнительный ракурс.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-23": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_9-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_9-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 1576,
+    "height": 2364,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-23",
+    "caption": "Кухня рядом с решётчатой перегородкой лестницы.",
+    "sizes": {
+      "640": [
+        640,
+        960
+      ],
+      "1440": [
+        1440,
+        2160
+      ]
+    }
+  },
+  "gallery-fieldwork-casting-studio-house-london-2026-24": {
+    "url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_11.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/fieldwork-casting-studio-london_dezeen_2364_col_11.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/fieldwork-house-casting-studio/",
+    "credit": "Фото: French + Tye / Fieldwork / Dezeen",
+    "width": 2364,
+    "height": 1576,
+    "id": "gallery-fieldwork-casting-studio-house-london-2026-24",
+    "caption": "Винтовая лестница сверху.",
+    "sizes": {
+      "640": [
+        640,
+        427
+      ],
+      "1440": [
+        1440,
+        960
+      ]
+    }
+  },
+  "gallery-omhu-salomonsson-teddy-direct-sales-2026-01": {
+    "url": "https://static.dezeen.com/uploads/2026/10/simon-salomonsson-omhu_dezeen_1704_col_0-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/simon-salomonsson-omhu_dezeen_1704_col_0-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/omhu-teddy-sofa-interview/",
+    "credit": "Фото: Omhu; фотограф не указан / Dezeen",
+    "width": 1584,
+    "height": 2364,
+    "id": "gallery-omhu-salomonsson-teddy-direct-sales-2026-01",
+    "caption": "Simon Salomonsson, глава Omhu.",
+    "sizes": {
+      "640": [
+        640,
+        955
+      ],
+      "1440": [
+        1440,
+        2149
+      ]
+    }
+  },
+  "gallery-omhu-salomonsson-teddy-direct-sales-2026-02": {
+    "url": "https://static.dezeen.com/uploads/2026/10/omhu-teddy-sofa_dezeen_2364_col_0-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/omhu-teddy-sofa_dezeen_2364_col_0-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/omhu-teddy-sofa-interview/",
+    "credit": "Фото: Omhu; фотограф не указан / Dezeen",
+    "width": 1891,
+    "height": 2364,
+    "id": "gallery-omhu-salomonsson-teddy-direct-sales-2026-02",
+    "caption": "Teddy в коричневой и светлой обивке.",
+    "sizes": {
+      "640": [
+        640,
+        800
+      ],
+      "1440": [
+        1440,
+        1800
+      ]
+    }
+  },
+  "gallery-omhu-salomonsson-teddy-direct-sales-2026-03": {
+    "url": "https://static.dezeen.com/uploads/2026/10/omhu-teddy-sofa_dezeen_2364_col_3.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/omhu-teddy-sofa_dezeen_2364_col_3.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/omhu-teddy-sofa-interview/",
+    "credit": "Фото: Omhu; фотограф не указан / Dezeen",
+    "width": 2364,
+    "height": 1330,
+    "id": "gallery-omhu-salomonsson-teddy-direct-sales-2026-03",
+    "caption": "Зелёный Teddy в интерьере шоурума.",
+    "sizes": {
+      "640": [
+        640,
+        360
+      ],
+      "1440": [
+        1440,
+        810
+      ]
+    }
+  },
+  "gallery-omhu-salomonsson-teddy-direct-sales-2026-04": {
+    "url": "https://static.dezeen.com/uploads/2026/10/omhu-teddy-sofa_dezeen_2364_col_5-scaled.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/omhu-teddy-sofa_dezeen_2364_col_5-scaled.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/omhu-teddy-sofa-interview/",
+    "credit": "Фото: Omhu; фотограф не указан / Dezeen",
+    "width": 1891,
+    "height": 2364,
+    "id": "gallery-omhu-salomonsson-teddy-direct-sales-2026-04",
+    "caption": "Несколько элементов Teddy, собранных вокруг общего пространства.",
+    "sizes": {
+      "640": [
+        640,
+        800
+      ],
+      "1440": [
+        1440,
+        1800
+      ]
+    }
+  },
+  "gallery-omhu-salomonsson-teddy-direct-sales-2026-05": {
+    "url": "https://static.dezeen.com/uploads/2026/10/omhu-teddy-sofa_dezeen_2364_col_2.jpg",
+    "fetch_url": "https://static.dezeen.com/uploads/2026/10/omhu-teddy-sofa_dezeen_2364_col_2.jpg",
+    "source": "https://www.dezeen.com/2026/10/06/omhu-teddy-sofa-interview/",
+    "credit": "Фото: Omhu; фотограф не указан / Dezeen",
+    "width": 2364,
+    "height": 1689,
+    "id": "gallery-omhu-salomonsson-teddy-direct-sales-2026-05",
+    "caption": "Teddy в разложенном положении.",
+    "sizes": {
+      "640": [
+        640,
+        457
+      ],
+      "1440": [
+        1440,
+        1029
+      ]
+    }
+  },
   "audit-cover-sender-unknown": {
     "id": "audit-cover-sender-unknown",
     "url": "https://vanda-production-assets.s3.amazonaws.com/2026/09/15/09/45/31/ee42b13c-d276-4e3a-bc16-49c174ed64bd/banner.jpg",
