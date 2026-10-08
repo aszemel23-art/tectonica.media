@@ -2955,5 +2955,37 @@
     "credit": "Фото: Omhu; фотограф не указан / Dezeen",
     "width": 2364,
     "height": 1689
+  },
+  "chrysler-building-ground-lease-retrofit-2026": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Chrysler_Building_eagle.jpg",
+    "fetch_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Chrysler_Building_eagle.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_eagle.jpg",
+    "credit": "Фото: Jason Eppink, 2013 / CC BY 2.0; кадрирование Triplecaña. Архитектор здания: Уильям Ван Ален.",
+    "width": 3039,
+    "height": 3028
+  },
+  "ikea-secondhand-marketplace-uk-ireland-2026": {
+    "url": "https://www.ikea.com/ext/ingkadam/m/459bee3e0c0c2ede/original/CF-SecondHandMarketplace-FY26-MultipleUse-Image-14-16x9.png",
+    "fetch_url": "https://www.ikea.com/ext/ingkadam/m/459bee3e0c0c2ede/original/CF-SecondHandMarketplace-FY26-MultipleUse-Image-14-16x9.png",
+    "source": "https://www.ikea.com/gb/en/newsroom/corporate-news/buy-sell-pass-it-on-ikea-launches-second-hand-marketplace-in-the-uk-pubc528b4c0/",
+    "credit": "Фото: IKEA / Ingka Group, пресс-материалы запуска; фотограф не указан.",
+    "width": 1400,
+    "height": 787
+  },
+  "russkiy-dom-opening-design-production-2026": {
+    "url": "https://cdn4.telesco.pe/file/XIvp7Vagio29mYr-TcxH0EoFSsy52yrFeE4tFab-dyw6O_dibXr8cABFtz2xxm34Pj5-MSExc1ZiLj_9sWVxlCBaxJcacKFvIPgJ_Ld6Db9685hlIq11zyg0C46L31h29plV18Vne7w-QZXoIdXUkZqSaf0x9oFaRmMcY1q7cTszWVbsh6A2Og3HHm-fi_gE-TjUmIOWKJ-6SSlg3_S3Dz5B90dsq8wzP6XVIlbH8ZJgtcIr5YjhIPxjKxzYpzObVBg5JJ1czbbTeaxwOdFbFAmOIns0ZDEtSIZrZG0Phk6nY9o6-u8S4aEx-aAS4dU-4LZGU_WXg0QiQZQdXV69Og.jpg",
+    "fetch_url": "https://cdn4.telesco.pe/file/XIvp7Vagio29mYr-TcxH0EoFSsy52yrFeE4tFab-dyw6O_dibXr8cABFtz2xxm34Pj5-MSExc1ZiLj_9sWVxlCBaxJcacKFvIPgJ_Ld6Db9685hlIq11zyg0C46L31h29plV18Vne7w-QZXoIdXUkZqSaf0x9oFaRmMcY1q7cTszWVbsh6A2Og3HHm-fi_gE-TjUmIOWKJ-6SSlg3_S3Dz5B90dsq8wzP6XVIlbH8ZJgtcIr5YjhIPxjKxzYpzObVBg5JJ1czbbTeaxwOdFbFAmOIns0ZDEtSIZrZG0Phk6nY9o6-u8S4aEx-aAS4dU-4LZGU_WXg0QiQZQdXV69Og.jpg",
+    "source": "https://t.me/rdmoscownew/6723",
+    "credit": "Фото: организатор выставки «Русский дом», 7 октября 2026; фотограф не указан. На снимке — деловая программа.",
+    "width": 800,
+    "height": 533
+  },
+  "fluxwerx-splice-suspended-optics-2026": {
+    "url": "https://www.fluxwerx.com/files/formats/full@2x/35/5/60cc3_splice-handshot.webp",
+    "fetch_url": "https://www.fluxwerx.com/files/formats/full@2x/35/5/60cc3_splice-handshot.webp",
+    "source": "https://www.fluxwerx.com/company/news/44/fluxwerx-introduces-splice-a-new-suspended-linear-luminaire",
+    "credit": "Изображение: Fluxwerx, официальные материалы Splice; фотограф не указан.",
+    "width": 3840,
+    "height": 1907
   }
 }
