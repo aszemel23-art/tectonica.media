@@ -3623,6 +3623,36 @@
         "caption": "Splice у стойки приёма. Интерьерная визуализация Fluxwerx.",
         "credit": "Изображение: Fluxwerx, официальные материалы Splice; фотограф не указан."
       }
+    ],
+    "justin-caguiat-change-ringing-2026": [
+      {
+        "id": "gallery-justin-caguiat-change-ringing-2026-01",
+        "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/10/2026.10.06_Serp-Justin-Caguiat_057.jpg",
+        "source": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+        "caption": "Бронзовые колокола на опорах: фрагмент звуковой установки в Serpentine South.",
+        "credit": "Justin Caguiat: Change Ringing, installation view, Serpentine South, 2026. Courtesy Serpentine. Photo: George Darrell."
+      },
+      {
+        "id": "gallery-justin-caguiat-change-ringing-2026-02",
+        "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/10/2026.10.06_Serp-Justin-Caguiat_039.jpg",
+        "source": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+        "caption": "Общий вид смонтированной выставки Change Ringing в Serpentine South.",
+        "credit": "Justin Caguiat: Change Ringing, installation view, Serpentine South, 2026. Courtesy Serpentine. Photo: George Darrell."
+      },
+      {
+        "id": "gallery-justin-caguiat-change-ringing-2026-03",
+        "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/09/CAGUJ-00109-I1-1-1.jpg",
+        "source": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+        "caption": "Джастин Кагуиат, Forensics with Air, 2026. Масло, мел и пигмент на льне, 231,1 × 284,7 см.",
+        "credit": "Justin Caguiat, Forensics with Air, 2026. Oil, chalk, pigment on linen, 231.1 x 284.7 cm. Courtesy Sandretto Re Rebaudengo Collection; Greene Naftali and Modern Art."
+      },
+      {
+        "id": "gallery-justin-caguiat-change-ringing-2026-04",
+        "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/CAGUJ-00170-C.jpg",
+        "source": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+        "caption": "Джастин Кагуиат, Untitled 7 (Alphabet of Dots), 2025. Акватинта, мягкий лак, бумага гампи в технике chine collé поверх монотипии; 35,2 × 26,5 см.",
+        "credit": "Justin Caguiat, Untitled 7 (Alphabet of Dots), 2025. Aquatint and soft-ground etching, gampi paper chine collé over monotype on paper, 35.2 x 26.5 cm. Courtesy the artist; Greene Naftali, New York; Modern Art, London; and Serpentine, London."
+      }
     ]
   },
   "covers": [
@@ -5044,6 +5074,24 @@
         }
       ],
       "note": "Проверены восемь уникальных изображений официального релиза. Предметный кадр — обложка; набор исполнений и пять интерьерных визуализаций включены. Рекламная заставка с надписью FALL 2026 исключена с явной причиной. Карточки других новостей и логотипы вне материала не считаются изображениями проекта."
+    },
+    "justin-caguiat-change-ringing-2026": {
+      "sourceImageCount": 8,
+      "excluded": [
+        {
+          "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/JUSTIN-CAGUIAT_A1_Page_1.jpg",
+          "reason": "Графическая афиша с текстом анонса; вместо неё использованы фотографии самой выставки и изображения произведений."
+        },
+        {
+          "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/JUSTIN-CAGUIAT_A1_Page_2.jpg",
+          "reason": "Графическая афиша с текстом анонса; вместо неё использованы фотографии самой выставки и изображения произведений."
+        },
+        {
+          "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/JUSTIN-CAGUIAT_A1_Page_3.jpg",
+          "reason": "Графическая афиша с текстом анонса; вместо неё использованы фотографии самой выставки и изображения произведений."
+        }
+      ],
+      "note": "Полностью просмотрены восемь уникальных изображений официального пресс-пакета: три фотографии выставки, два изображения произведений и три графические афиши. Все фотографии и изображения работ сохранены, афиши исключены по точным URL. Условия Serpentine разрешают редакционную пресс-публикацию с предоставленными подписями и кредитами, без обрезки, изменения и текста поверх изображений. Для этой статьи оформление обложки и карточек сохраняет полный кадр."
     }
   }
 }
