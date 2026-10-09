@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-09",
+  "window": "2026-10-08T02:02:37.969Z - 2026-10-09T02:02:37.969Z",
+  "intro": "Одна сильная история без повторов: в Лондоне открылась Change Ringing. Рассматриваем связь термочувствительной поверхности, механического звучания и архитектуры зала.",
+  "featured": {
+    "lead": "justin-caguiat-change-ringing-2026",
+    "secondary": "russkiy-dom-opening-design-production-2026",
+    "stories": [
+      "justin-caguiat-change-ringing-2026"
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "justin-caguiat-change-ringing-2026",
+      "time": "6 минут",
+      "reason": "Публичное открытие выставки 8 октября даёт свежий повод рассмотреть материал и акустику вместе с архитектурой. Есть настоящая съёмка экспозиции и полный разрешённый пресс-пакет; технические эффекты отделены от независимых измерений."
+    }
+  ],
+  "featurePitches": [
+    {
+      "article": "justin-caguiat-change-ringing-2026",
+      "title": "Материал, который меняется: как проверять эффект до открытия выставки",
+      "text": "Разобрать на конкретном российском экспозиционном макете термочувствительный слой, свет, температуру, долговечность и требования хранения. Понадобятся образцы, автор и материаловед; фотография лондонской выставки не заменяет испытаний."
+    },
+    {
+      "article": "justin-caguiat-change-ringing-2026",
+      "title": "Зал как часть звуковой работы: кто должен проектировать акустику",
+      "text": "Сопоставить геометрию, отражающие поверхности, расположение источников и соседние экспозиции. Для большого материала нужен измеренный российский пример и разговор с акустиком, а не только художественное описание Serpentine."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Меняющаяся поверхность требует проектировать режим помещения",
+    "text": "Ранняя гипотеза: в части выставочных проектов выбор материала и настройку среды придётся обсуждать одновременно. Change Ringing даёт один конкретный пример: термочувствительная живопись задумана в связи с температурой и светом. Это не доказанная рыночная тенденция и не готовый продукт для массового интерьера. Проверять наблюдение следует на независимых реализованных проектах — есть ли повторяемые режимы, обслуживание и устойчивый результат. Для российской выставки практический шаг — макет 1:1 и протокол испытания материала в условиях будущего зала.",
+    "sources": [
+      {
+        "title": "Serpentine — материал и среда в Change Ringing",
+        "url": "https://www.serpentinegalleries.org/whats-on/justin-caguiat-change-ringing/"
+      }
+    ]
+  },
+  "rubricReview": {
+    "date": "2026-10-09",
+    "window": "2026-10-08T02:02:37.969Z - 2026-10-09T02:02:37.969Z",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "note": "Просмотрены все восемь основных рубрик и отдельный адрес lighting. Найдена одна сильная тема с новым событием и разрешённым полным визуалом. Российский интерьерный кандидат сохранён в подготовке из-за условий перепубликации фотографий. Старые материалы не передатированы, заполнение всех рубрик количеством не применялось.",
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены Dezeen, Archi.ru и сайты авторов. iXcampus уже опубликован 8 сентября и 24 сентября, новый этап не найден. Wardrobe House представлен на сайте автора раньше окна; новая заметка не принята за новое завершение. Oxford Street показан новыми визуализациями, но полноценный комплект реальных фото и новый первичный анонс в окне не подтверждены. Красный Октябрь — исторический разбор 2024–2025 годов, а не новая стройка."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Сильный российский кандидат — авторская публикация «Алхимии» от 8 октября, проект 2025 года. Фотографии Ивана Сорокина предоставлены AN-Design для Archi.ru; условия сайта допускают личное некоммерческое использование, разрешение на перепубликацию не найдено. Официальный сайт бюро an-d.org недоступен. Кандидат сохранён отдельно, в выпуск не включён. VV’s Cocktail Room проверен как новый материал, но первичный комплект и дата нового этапа не подтверждены."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-06",
+        "latestPublication": "2026-10-06",
+        "added": [],
+        "note": "Новой самостоятельной проверенной темы в окне не найдено. Снятые в Change Ringing колокола — часть конкретной выставочной инсталляции, без искусственного тега предметного дизайна. Не использованы подборки старых объектов Adorno."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "LEMA Graffetta и Masami проверены по новой заметке D5, но точная дата первичного запуска не подтверждена; рекламное описание комфорта не заменяет новостной повод. Новая самостоятельная тема не добавлена. IKEA от 8 октября сохранена без смены даты."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Knit в D5 датирован 8 октября, но iF Design указывает запуск в 2020 году; нового этапа не найдено. Eureka объявила награды 16 сентября, гала 8 октября не новый выпуск светильников. Splice от 8 октября сохранён без повторной публикации."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-09",
+        "added": [
+          "justin-caguiat-change-ringing-2026"
+        ],
+        "note": "Добавлен Change Ringing: термочувствительная поверхность — центральное решение реально открывшейся выставки. Это применение материала, а не заявление об изобретении нового пигмента. Neolith THE EDIT показан ещё на Marmomac до 24 сентября; заметка Retrofit 8 октября не новый запуск. Saxum проверен как новая рекламная заметка, но первичная дата запуска в окне не подтверждена."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Самостоятельной сильной новой архитектурной технологии в окне не подтверждено. Механика выставочной инсталляции описана в статье, но не превращена в самостоятельную технологическую новость без спецификации. Новости бытовой электроники и автомобилей не использованы для добивки."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-09",
+        "added": [
+          "justin-caguiat-change-ringing-2026"
+        ],
+        "note": "Добавлено публичное открытие Change Ringing 8 октября, подтверждённое Serpentine и галереей художника. Пресс-показ 7 октября и прежний анонс отделены от открытия. Изображения смонтированной выставки датированы 6 октября. Бывший офис Захи Хадид уже анонсирован 6–7 октября; повтор 8 октября не включён. Collection Gallery Nieuwe Instituut открылась в июне. «Русский дом» работает последний день 9 октября; его дату не меняли."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-07",
+        "added": [],
+        "note": "Проверены рубрика DesignMate и новое интервью Kevin McCloud в Dezeen. Последний доступный самостоятельный материал DesignMate — 1 октября; для интервью Dezeen не получен проверенный комплект первичных фото с условиями перепубликации. Общие цитаты из анонсов не оформлены как новая статья о человеке."
+      }
+    },
+    "sourcesChecked": [
+      "https://www.serpentinegalleries.org/whats-on/justin-caguiat-change-ringing/",
+      "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+      "https://www.modernart.net/en/",
+      "https://archi.ru/",
+      "https://archi.ru/russia/102780/dizain-terapiya-ot-stressa",
+      "https://archi.ru/files/about/terms_of_use.html",
+      "https://an-d.org/",
+      "https://www.dezeen.com/",
+      "https://design-mate.ru/read/people",
+      "https://d5mag.com/",
+      "https://www.futurewave.eu/work/knit-lighting",
+      "https://ifdesign.com/en/winner-ranking/project/knit/565356",
+      "https://d5mag.com/lemas-new-furniture-collection-offers-two-distinct-expressions-of-comfort/",
+      "https://www.sepka-architekti.cz/en/projects/wardrobe-house-prague",
+      "https://www.e-architect.com/london/zaha-hadid-foundation-london-england",
+      "https://nieuweinstituut.nl/en/articles/persbericht-opening-collection-gallery",
+      "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/"
+    ],
+    "limitations": [
+      "Новый российский интерьерный кандидат не опубликован: не найдено разрешение на использование снимков Archi.ru в TECTONICA; источник и авторы сохранены в отдельной карточке подготовки.",
+      "Страницы отдельных материалов Dezeen отказали в прямом доступе. Не подтверждённые по первоисточникам даты и свойства не публиковались.",
+      "У Serpentine разрешение ограничено редакционным пресс-использованием с подписями, без обрезки и текста поверх фото; это обеспечено отдельным стилем обложки и карточек.",
+      "Три графические афиши в пресс-пакете исключены; все пять фотографий выставки и изображений произведений сохранены."
+    ]
+  },
+  "pendingCandidates": [
+    {
+      "id": "alchemy-an-design-2026",
+      "title": "«Алхимия»: интерьер AN-Design в авторской публикации Archi.ru",
+      "publicationDate": "2026-10-08",
+      "projectDate": "2025-04 — 2025-09",
+      "author": "AN-Design / Алеся Нестяк",
+      "photographer": "Иван Сорокин",
+      "source": "https://archi.ru/russia/102780/dizain-terapiya-ot-stressa",
+      "rightsSource": "https://archi.ru/files/about/terms_of_use.html",
+      "officialSite": "https://an-d.org/",
+      "status": "awaiting-image-permission",
+      "reason": "Фотографии предоставлены авторами для Archi.ru, разрешение на перепубликацию в TECTONICA не найдено; официальный сайт бюро недоступен."
+    }
+  ],
+  "articles": [
+    {
+      "id": "justin-caguiat-change-ringing-2026",
+      "title": "В Serpentine открылась Change Ringing: картины меняются от тепла, а зал участвует в звучании",
+      "category": "exhibitions",
+      "categories": [
+        "materials"
+      ],
+      "format": "Разбор",
+      "place": "Лондон, Великобритания",
+      "dek": "Джастин Кагуиат соединяет термочувствительные поверхности, бронзовые колокола и акустику галереи. Новая выставка открылась для публики 8 октября.",
+      "body": "8 октября в Serpentine South открылась Change Ringing Джастина Кагуиата. До 10 января 2027 года здесь показывают живопись, скульптуру, графику, звук и кино. Анонс появился раньше; свежий повод — начало публичного показа. В статье используются настоящие фотографии смонтированной выставки Джорджа Даррелла, предоставленные галереей для прессы.\n\n## Поверхность реагирует на среду\n\nПо описанию Serpentine, новые работы с термочувствительным пигментом меняют цвет и проявляют разные формы при изменении температуры и света. Это интересный поворот в работе с экспозиционным материалом: условия в помещении становятся частью восприятия произведения.\n\nРядом звучат бронзовые колокола, отлитые в формах цветов и семян. Композиция Лили Пикетт опирается на английскую традицию change ringing — последовательного изменения порядка ударов. В установке последовательность воспроизводится механически. Галерея описывает стены зала как часть акустического устройства, собирающего и усиливающего звук. Кураторы — Ханс Ульрих Обрист и Наталья Грабовская при участии Алексы Чоу.\n\n## Почему стоит показать коллеге\n\nОбычно освещение, температура и звук обсуждаются как отдельные разделы проекта. Здесь они встречаются в одной работе. Поверхность не обязана выглядеть одинаково в любой момент, а помещение помогает задать характер звучания.\n\nФотографии показывают расположение работ и устройства в залах. Они не позволяют проверить диапазон изменения цвета, температуру срабатывания или уровень звука: этих измерений в доступных материалах нет. Отдельные изображения произведений в галерее не следует автоматически считать термохромными — их техника указана в подписях.\n\n## Что можно применить в России\n\nДля выставочного проекта полезно сделать пробный фрагмент в масштабе 1:1 и проверить его при нескольких режимах света и температуры. У меняющей цвет поверхности важны не только эффект, но и повторяемость реакции, стойкость материала и условия хранения. Звуковую работу стоит проверять вместе с геометрией зала и соседними экспозициями.\n\nЭто повод раньше свести за одним столом художника, куратора, материаловеда и акустика. Из лондонской выставки не следует готовая спецификация для российского интерьера; практическая ценность — в способе испытать связь материала с конкретным помещением.",
+      "source": "https://www.serpentinegalleries.org/whats-on/justin-caguiat-change-ringing/",
+      "sources": [
+        {
+          "title": "Serpentine — выставка, даты и описание",
+          "url": "https://www.serpentinegalleries.org/whats-on/justin-caguiat-change-ringing/"
+        },
+        {
+          "title": "Serpentine — пресс-материалы, подписи и условия использования фотографий",
+          "url": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/"
+        },
+        {
+          "title": "Modern Art — подтверждение показа Change Ringing",
+          "url": "https://www.modernart.net/en/"
+        }
+      ],
+      "credit": "Justin Caguiat: Change Ringing, installation view, Serpentine South, 2026. Courtesy Serpentine. Photo: George Darrell.",
+      "image": "justin-caguiat-change-ringing-2026",
+      "imageAlt": "Вид выставки Change Ringing Джастина Кагуиата в Serpentine South: живописная работа и выставочная конструкция",
+      "event": "Автор: Джастин Кагуиат. Музыка: Лили Пикетт. Открытие для публики — 8 октября 2026; завершение — 10 января 2027. Фотографии экспозиции: George Darrell / Serpentine.",
+      "gallery": [
+        {
+          "id": "gallery-justin-caguiat-change-ringing-2026-01",
+          "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/10/2026.10.06_Serp-Justin-Caguiat_057.jpg",
+          "source": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+          "caption": "Бронзовые колокола на опорах: фрагмент звуковой установки в Serpentine South.",
+          "credit": "Justin Caguiat: Change Ringing, installation view, Serpentine South, 2026. Courtesy Serpentine. Photo: George Darrell."
+        },
+        {
+          "id": "gallery-justin-caguiat-change-ringing-2026-02",
+          "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/10/2026.10.06_Serp-Justin-Caguiat_039.jpg",
+          "source": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+          "caption": "Общий вид смонтированной выставки Change Ringing в Serpentine South.",
+          "credit": "Justin Caguiat: Change Ringing, installation view, Serpentine South, 2026. Courtesy Serpentine. Photo: George Darrell."
+        },
+        {
+          "id": "gallery-justin-caguiat-change-ringing-2026-03",
+          "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/09/CAGUJ-00109-I1-1-1.jpg",
+          "source": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+          "caption": "Джастин Кагуиат, Forensics with Air, 2026. Масло, мел и пигмент на льне, 231,1 × 284,7 см.",
+          "credit": "Justin Caguiat, Forensics with Air, 2026. Oil, chalk, pigment on linen, 231.1 x 284.7 cm. Courtesy Sandretto Re Rebaudengo Collection; Greene Naftali and Modern Art."
+        },
+        {
+          "id": "gallery-justin-caguiat-change-ringing-2026-04",
+          "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/CAGUJ-00170-C.jpg",
+          "source": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+          "caption": "Джастин Кагуиат, Untitled 7 (Alphabet of Dots), 2025. Акватинта, мягкий лак, бумага гампи в технике chine collé поверх монотипии; 35,2 × 26,5 см.",
+          "credit": "Justin Caguiat, Untitled 7 (Alphabet of Dots), 2025. Aquatint and soft-ground etching, gampi paper chine collé over monotype on paper, 35.2 x 26.5 cm. Courtesy the artist; Greene Naftali, New York; Modern Art, London; and Serpentine, London."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 8,
+        "excluded": [
+          {
+            "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/JUSTIN-CAGUIAT_A1_Page_1.jpg",
+            "reason": "Графическая афиша с текстом анонса; вместо неё использованы фотографии самой выставки и изображения произведений."
+          },
+          {
+            "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/JUSTIN-CAGUIAT_A1_Page_2.jpg",
+            "reason": "Графическая афиша с текстом анонса; вместо неё использованы фотографии самой выставки и изображения произведений."
+          },
+          {
+            "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/07/JUSTIN-CAGUIAT_A1_Page_3.jpg",
+            "reason": "Графическая афиша с текстом анонса; вместо неё использованы фотографии самой выставки и изображения произведений."
+          }
+        ],
+        "note": "Полностью просмотрены восемь уникальных изображений официального пресс-пакета: три фотографии выставки, два изображения произведений и три графические афиши. Все фотографии и изображения работ сохранены, афиши исключены по точным URL. Условия Serpentine разрешают редакционную пресс-публикацию с предоставленными подписями и кредитами, без обрезки, изменения и текста поверх изображений. Для этой статьи оформление обложки и карточек сохраняет полный кадр."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "justin-caguiat-change-ringing-2026",
+      "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2026/10/2026.10.06_Serp-Justin-Caguiat_003.jpg",
+      "source": "https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/",
+      "credit": "Justin Caguiat: Change Ringing, installation view, Serpentine South, 2026. Courtesy Serpentine. Photo: George Darrell."
+    }
+  ]
+}

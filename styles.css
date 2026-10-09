@@ -31,3 +31,8 @@ nav,.formatnav{scrollbar-width:none}nav::-webkit-scrollbar,.formatnav::-webkit-s
 @media(prefers-reduced-motion:no-preference){.card img,.secondary img{transition:filter .2s}.card a:hover img,.secondary a:hover img{filter:brightness(.96)}}
 
 .illustration-label{display:block;font-size:9px;color:var(--muted);margin:7px 0}.row-illustration{float:right;width:132px;margin:0 0 8px 18px}.row-illustration img{aspect-ratio:1.5;object-fit:cover}.row-illustration small{display:block;font-size:8px;color:var(--muted);margin-top:4px}.newsrow>a{display:flow-root}@media(max-width:700px){.row-illustration{width:96px;margin-left:12px}}
+
+/* Serpentine press images: preserve the full frame and keep text outside. */
+img[src*="/assets/images/justin-caguiat-change-ringing-2026-"]{object-fit:contain!important;aspect-ratio:auto!important;height:auto!important;filter:none!important}
+.lead:has(img[src*="/justin-caguiat-change-ringing-2026-"])>a{display:block}
+.lead:has(img[src*="/justin-caguiat-change-ringing-2026-"]) h1{grid-area:auto;position:static;background:none;color:var(--ink)!important;padding:0;margin:16px 0}
