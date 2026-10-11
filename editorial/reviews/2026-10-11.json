@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-11",
+  "status": "held",
+  "window": {
+    "from": "2026-10-10T11:42:48.163Z",
+    "to": "2026-10-11T11:42:48.163Z"
+  },
+  "publication": {
+    "published": false,
+    "lastPublishedIssue": "2026-10-09",
+    "reason": "Не подготовлено ни одной темы, одновременно прошедшей отбор по свежести, первоисточникам и разрешённому реальному визуалу."
+  },
+  "rubricReview": {
+    "date": "2026-10-11",
+    "window": "10 октября 11:42:48 UTC — 11 октября 11:42:48 UTC",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Black Schoolhouse: публичное открытие 10 октября попадает в окно, подтверждено организатором. Фотографии Neil Alexander найдены, разрешение на переиздание не подтверждено; материал сохранён в подготовке. Biribinhas, Monastic Field и реконструкция свинарника Facha уже публиковались до окна."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены новые публикации Dezeen, D5, Design Mate, Futurist. Casa Akina опубликована ArchDaily 31 августа. Театр Ian Potter: первоисточник Snøhetta от 7 октября. Для проекта Дарьи Сусековой не подтверждена дата первой публикации."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-06",
+        "latestPublication": "2026-10-06",
+        "added": [],
+        "note": "Проверены Design Mate и Decorex Making Spaces. Нового объекта с подтверждённым свежим поводом, полной галереей и правами на фотографии не отобрано."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Консоль Sam Chermayeff для Knoll опубликована Wallpaper 23 сентября, Sixtysix 29 сентября. Материал 10 октября повторяет известный проект. LEMA Masami опубликована 8 октября."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Fritz Fryer: Alton Two Tier и Linear заявлены для первого дня Decorex 11 октября. На доступной официальной странице нет проверенной полной галереи новых изделий и разрешения на переиздание; отложено. Shan Faro представлен в июле 2024 года; SPIN опубликован 9 октября."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-09",
+        "added": [],
+        "note": "Проверены Archi.ru, Material Matters, Decorex Making Spaces. Carbon Cell повторяет уже имеющийся материал в архиве. Программа ремесленных демонстраций Decorex опубликована в июле; новых проверенных результатов и фотографий события нет."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены Archi.ru и D5 Industrial Design. Свежего архитектурного или предметного технологического решения с проверяемыми данными и подходящим визуалом не найдено. Экологические обещания не превращались в подтверждённые результаты."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-09",
+        "added": [],
+        "note": "Decorex открылся 11 октября, но новых работ с проверенным визуалом не отобрано. Inner Child в Artipelag открылся 10 октября в 11:00 CEST, до начала строгого окна. Ивановская выставка «От текстиля до автомобиля» открылась 9 июля. Предмерье и Design Weekend в Туле начались 9 октября. Русский Дом завершился 9 октября: требуется обновление календарного блока."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-07",
+        "added": [],
+        "note": "Проверены Design Mate People и интервью Dezeen с Даниэлем Либескиндом. Пересмотр пяти известных работ не принят как новая проектная новость. Нового материала о человеке с сильным свежим поводом не отобрано."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://www.dezeen.com/",
+      "https://www.designboom.com/",
+      "https://d5mag.com/",
+      "https://design-mate.ru/read/people",
+      "https://theblack.school/",
+      "https://theblack.school/opening/",
+      "https://lot-ek.com/THE-BLACK-SCHOOL-2",
+      "https://www.aiany.org/news/in-the-news-october-7-2026/",
+      "https://www.neilphoto.com/",
+      "https://www.decorex.com/",
+      "https://www.decorex.com/whats-on/making-spaces/artisans/",
+      "https://fritzfryer.co.uk/as-seen-at-decorex-2026/",
+      "https://artipelag.se/pa-gang/utstallning/inner-child-playing-with-design/",
+      "https://1000inf.ru/news/116775/",
+      "https://www.archdaily.com/1184279/akina-house-di-frenna-arquitectos",
+      "https://www.snohetta.com/news/nh-architecture-and-snohetta-design-melbournes-ian-potter-state-theatre-for-next-generation"
+    ],
+    "limitations": [
+      "Результат поиска не доказывает отсутствие новостей вообще.",
+      "Фотокредит не равен разрешению на публикацию. Black Schoolhouse и Fritz Fryer отложены до подтверждения прав и полного визуала.",
+      "Информация об открытии Black Schoolhouse подтверждена анонсом организатора; независимый отчёт о состоявшемся открытии ещё не найден."
+    ]
+  },
+  "featurePitches": [
+    {
+      "title": "Как районная школа дизайна получила собственное здание",
+      "article": "black-schoolhouse-opening-2026",
+      "status": "research",
+      "text": "Разобрать связь платных молодёжных стажировок, общей мастерской и небольшого здания LOT-EK. Потребуются планы, фотографии с разрешением и сведения о фактической работе помещений."
+    }
+  ],
+  "radar": {
+    "status": "hypothesis",
+    "title": "Школа дизайна становится районной инфраструктурой",
+    "text": "Black Schoolhouse — один пример объединения обучения, профессиональной дизайн-студии и общественного пространства. Для вывода о тенденции нужны независимые сопоставимые проекты и данные о работе программ."
+  },
+  "calendarReview": {
+    "expired": [
+      "russkiy-dom-opening-design-production-2026"
+    ],
+    "action": "Пересборка существующего календарного блока без изменения даты последнего выпуска."
+  }
+}
