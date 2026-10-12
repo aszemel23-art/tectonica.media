@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-12",
+  "status": "held",
+  "window": {
+    "from": "2026-10-11T01:57:01.440Z",
+    "to": "2026-10-12T01:57:01.440Z"
+  },
+  "publication": {
+    "published": false,
+    "lastPublishedIssue": "2026-10-09",
+    "reason": "Не найдена готовая сильная тема с проверенным свежим поводом и разрешённой полной реальной фотосерией."
+  },
+  "rubricReview": {
+    "date": "2026-10-12",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "window": "11 октября 01:57:01 UTC — 12 октября 01:57:01 UTC",
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Повторно проверены Archi.ru, Dezeen, D5. Monastic Field, Facha и Biribinhas уже публиковались ранее. Открытие Black Schoolhouse 10 октября вне нового окна; разрешение на фотографии не появилось."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Библиотека Сарабьянова в Суздале: публикация Archi.ru 11 октября, архитектор Сергей Мешалкин, фотографии Владимир Никонов / ВСМЗ. Источники различают торжественное открытие 10 октября и доступ посетителей с 11 октября. Полная первичная музейная фотосерия и разрешение на переиздание не подтверждены. Тема сохранена в подготовке."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-06",
+        "latestPublication": "2026-10-06",
+        "added": [],
+        "note": "Проверены Design Mate, Decorex и Making Spaces. Нового сильного предмета с проверенной датой и разрешённой полной фотосерией не отобрано."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "В свежей ленте D5 последняя мебельная новость LEMA от 8 октября, вне окна. Консоль Sam Chermayeff / Knoll уже опубликована в сентябре. Новых самостоятельных тем не отобрано."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Fritz Fryer Alton Two Tier и Linear заявлены для первого дня Decorex 11 октября. Повторный просмотр официальной страницы не дал проверенной полной галереи новых изделий и разрешения на переиздание. SPIN от 9 октября вне окна."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-09",
+        "added": [],
+        "note": "Carbon Cell уже присутствует в архиве. Проверены Archi.ru и программа Making Spaces Decorex: программа опубликована раньше, новых проверенных результатов демонстраций с подходящим визуалом нет."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены Archi.ru и D5 Industrial Design. Нового сильного решения для зданий, интерьеров или предметов не отобрано; свежие спортивные товары не добавлялись ради количества."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-09",
+        "added": [],
+        "note": "Decorex открылся 11 октября, опубликован официальный видеодневник первого дня. Новых конкретных проектов с разрешённой полной фотосерией не найдено. Inner Child открыт 10 октября вне окна. Русский Дом завершён; обновление календаря 11 октября сохранено."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-07",
+        "added": [],
+        "note": "Design Mate People: последняя публикация 1 октября. Интервью Dezeen с Либескиндом 11 октября посвящено пяти известным зданиям; нового проектного события нет."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://www.dezeen.com/",
+      "https://www.designboom.com/",
+      "https://d5mag.com/",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://design-mate.ru/read/news",
+      "https://design-mate.ru/read/people",
+      "https://www.decorex.com/show-highlights/",
+      "https://fritzfryer.co.uk/as-seen-at-decorex-2026/",
+      "https://archi.ru/news/102787/v-suzdalskom-kremle-otkrylas-biblioteka-iskusstv-osnovannaya-na-kollekcii-dmitriya-sarabyanova",
+      "https://archi.ru/projects/russia/21430/biblioteka-sarabyanova-s-vsmz",
+      "https://vladmuseum.ru/ru/",
+      "https://sammlung.ru/?p=114706"
+    ],
+    "limitations": [
+      "Повторяется известный блокер: не подтверждены права на подходящий реальный визуал.",
+      "Музейная главная доступна, но раздел новостей возвращает ошибку SSL; не подтверждено, где опубликована полная пресс-фотосерия библиотеки.",
+      "Поиск не доказывает отсутствие новостей вообще."
+    ]
+  },
+  "featurePitches": [
+    {
+      "title": "Рабочая библиотека внутри Архиерейских палат",
+      "status": "research",
+      "text": "Исследовать, как читальный зал, отдельные исследовательские места и камерные лекции соседствуют в памятнике архитектуры. Нужны планы и разрешённая музейная фотосерия."
+    }
+  ],
+  "radar": {
+    "status": "hypothesis",
+    "title": "Музей дополняют рабочим читальным пространством",
+    "text": "Библиотека Сарабьянова — возможный отдельный пример сближения музейной коллекции и исследовательской работы. Тенденция не установлена; публикация отложена до проверки первоисточника."
+  }
+}
