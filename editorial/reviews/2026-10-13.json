@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-13",
+  "status": "held",
+  "window": {
+    "from": "2026-10-12T03:03:03.389Z",
+    "to": "2026-10-13T03:03:03.389Z"
+  },
+  "publication": {
+    "published": false,
+    "lastPublishedIssue": "2026-10-09",
+    "reason": "Нет темы, полностью прошедшей проверку свежести, первоисточника и разрешённой фотосерии. Дополнительный блокер: поиск возвращает HTTP 403, резервный поиск не ответил. Прямые официальные страницы проверены там, где доступны."
+  },
+  "rubricReview": {
+    "date": "2026-10-13",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "window": "12 октября 03:03:03 UTC — 13 октября 03:03:03 UTC",
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены новые публикации Dezeen, Archi.ru, D5 и официальные страницы. Tirana Fountain Plaza / BIG: результат конкурса известен с 1 октября. Twelve Apostles / Grimshaw: открытие назначено на 16 октября, анонс существовал 7 октября. NOT A MUSEUM / NOT A HOTEL: официальный пресс-релиз от 5 октября, повтор 12 октября не принят за новость. WW+P сообщило о награде Waterloo 12 октября, но первичная дата результатов и права на фотосерию не подтверждены."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Капельский, 5 / Syntaxis опубликован Archi.ru 12 октября, но тот же интерьер описан 2 октября в более раннем сообщении; визуал проекта не следует выдавать за съёмку завершённого здания. Cassette / Gundry & Ducker и квартира в Амстердаме / D5 оставлены кандидатами: не проверены первичная дата и разрешённая полная фотосерия."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-06",
+        "latestPublication": "2026-10-06",
+        "added": [],
+        "note": "Gustaf Westman / Disney: свежий анонс 12 октября, диван и чашка с формой Mickey Mouse. Полная первичная фотосерия, автор съёмки и разрешение не подтверждены. Тема сохранена для дополнительной проверки; нет готовой статьи."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены Dezeen Showroom и D5 Furniture. Profondo / Zenith присутствует в рекламной продуктовой подборке 12 октября; не установлен новый запуск и достаточно сильное проектное решение. Коллаборация Westman / Disney требует первичного пресс-комплекта."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Повторно проверены D5 Lighting и доступные производственные источники. Самостоятельного сильного нового запуска с проверенным разрешённым визуалом не отобрано. Ранее сохранённый Fritz Fryer не получил подтверждения прав на фотосерию."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-09",
+        "added": [],
+        "note": "Проверены Archi.ru, D5 и доступные пресс-страницы Decorex. Carbon Cell повторяет архив. Новая статья о трёх способах монтажа мансардного окна — обзор существующих решений, не новый материал. Новых проверенных результатов Making Spaces не получено."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены Archi.ru и D5 Industrial Design. Bentley Torcal представлен в D5 как новый электромобиль; не отобран без проверки официальной даты и конструктивных данных. Продуктовая новость сама по себе не заменила проектную тему."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-09",
+        "added": [],
+        "note": "Предпросмотр Dutch Design Week опубликован 12 октября, но будущие события нельзя выдавать за открывшиеся. Pan Afrikan Design Week в D5 требует проверки официальной программы и дат. NOT A MUSEUM анонсирован первоисточником 5 октября. Истёкший Русский Дом отсутствует в актуальном календаре."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-07",
+        "added": [],
+        "note": "Design Mate People по-прежнему содержит последнюю статью от 1 октября. За Gustaf Westman стоит свежий предметный запуск, но отдельную рубрику «Люди» ему не присваивали только из-за имени."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://www.dezeen.com/",
+      "https://www.designboom.com/",
+      "https://d5mag.com/",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://design-mate.ru/read/news",
+      "https://design-mate.ru/read/people",
+      "https://notahotel.com/news",
+      "https://www.wwparchitects.com/",
+      "https://www.elbra.com/press",
+      "https://archi.ru/russia/102793/iskusstvo-pervogo-vpechatleniya"
+    ],
+    "limitations": [
+      "Основной поиск перестал отвечать: HTTP 403; резервный поиск возвратил ошибку. Проверка первоисточников ограничена доступными прямыми страницами.",
+      "У новых предметных кандидатов не подтверждены фотоправа и полная галерея.",
+      "Даты появления новостей не использованы как даты открытия или завершения объектов.",
+      "Результат ограниченного поиска не доказывает отсутствие сильных новостей."
+    ]
+  },
+  "featurePitches": [
+    {
+      "title": "Что меняется в предмете, когда персонаж становится формой",
+      "status": "research",
+      "text": "Коллаборация Gustaf Westman и Disney: проверить конструкцию дивана и чашки, масштаб, материалы и отличия от обычного нанесения изображения. До получения первичных спецификаций и фотосерии материал не готов."
+    }
+  ],
+  "radar": {
+    "status": "hypothesis",
+    "title": "Форма персонажа вместо рисунка на готовом предмете",
+    "text": "Предметы Westman / Disney дают кандидат для наблюдения, но один запуск не доказывает тенденцию. Нужны независимые примеры и проверка того, как форма влияет на использование."
+  }
+}
