@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-13",
+  "window": "2026-10-12T03:03:03.389Z - 2026-10-13T03:03:03.389Z",
+  "intro": "В MoMA открылась Wetland: исчезнувший ландшафт Берлина восстановлен из натурных съёмок, 3D-сканов и звуков. Рассматриваем, как цифровой экран может стать продолжением музейного исследования.",
+  "featured": {
+    "lead": "jakob-kudsk-steensen-wetland-moma-2026",
+    "secondary": "russkiy-dom-opening-design-production-2026",
+    "stories": [
+      "jakob-kudsk-steensen-wetland-moma-2026"
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "jakob-kudsk-steensen-wetland-moma-2026",
+      "time": "5 минут",
+      "reason": "Выставка открылась 12 октября, поэтому повод свежий, хотя сама работа развивается с 2021 года. У MoMA есть полный разрешённый пресс-комплект. Разбираем связь полевого исследования, цифровой поверхности и звука, полезную для выставочных проектов."
+    }
+  ],
+  "featurePitches": [
+    {
+      "article": "jakob-kudsk-steensen-wetland-moma-2026",
+      "title": "Как собрать музейный ландшафт из местных съёмок и архивов",
+      "text": "Разобрать российский пример от исходных записей до 3D-модели, экрана и акустики. Что снимает музей, что делает художник, как хранятся исходники и кто отвечает за обновление работы. Для большого материала нужны образцы данных, техническая команда и действующая экспозиция."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Экран становится пространственным архивом",
+    "text": "Ранняя гипотеза: музейные цифровые работы будут чаще строиться из конкретных местных съёмок и коллекций, объединяя изображение и звук в меняющуюся среду. Wetland даёт один пример такого подхода; распространение на рынок пока не доказано. Проверять гипотезу стоит по независимым проектам, где известны происхождение данных, бюджет, обслуживание и роль экрана в общей экспозиции.",
+    "sources": [
+      {
+        "title": "MoMA — цифровая работа, полевое исследование и команда",
+        "url": "https://www.moma.org/calendar/exhibitions/5936"
+      }
+    ]
+  },
+  "rubricReview": {
+    "date": "2026-10-13",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "window": "12 октября 03:03:03 UTC — 13 октября 03:03:03 UTC",
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены новые публикации Dezeen, Archi.ru, D5 и официальные страницы. Tirana Fountain Plaza / BIG: результат конкурса известен с 1 октября. Twelve Apostles / Grimshaw: открытие назначено на 16 октября, анонс существовал 7 октября. NOT A MUSEUM / NOT A HOTEL: официальный пресс-релиз от 5 октября, повтор 12 октября не принят за новость. WW+P сообщило о награде Waterloo 12 октября, но первичная дата результатов и права на фотосерию не подтверждены."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Капельский, 5 / Syntaxis опубликован Archi.ru 12 октября, но тот же интерьер описан 2 октября в более раннем сообщении; визуал проекта не следует выдавать за съёмку завершённого здания. Cassette / Gundry & Ducker и квартира в Амстердаме / D5 оставлены кандидатами: не проверены первичная дата и разрешённая полная фотосерия."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-06",
+        "latestPublication": "2026-10-06",
+        "added": [],
+        "note": "Disney и Gustaf Westman действительно раскрыли коллекцию 12 октября: найден первичный пресс-релиз, проверены даты будущих pop-up и продаж. Общие условия Disney не дают разрешения на переиздание, а отдельные фотостраницы недоступны. Кандидат сохранён в подготовке."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверен первичный анонс Mickey Mouse Sofa / Gustaf Westman и Disney 12 октября. Предмет не включён без подтверждённых условий использования фотосерии. Profondo / Zenith требует отдельного свежего повода, рекламная подборка сама по себе не принята за запуск."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Повторно проверены D5 Lighting и доступные производственные источники. Самостоятельного сильного нового запуска с проверенным разрешённым визуалом не отобрано. Ранее сохранённый Fritz Fryer не получил подтверждения прав на фотосерию."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-09",
+        "added": [],
+        "note": "Проверены Archi.ru, D5 и доступные пресс-страницы Decorex. Carbon Cell повторяет архив. Новая статья о трёх способах монтажа мансардного окна — обзор существующих решений, не новый материал. Новых проверенных результатов Making Spaces не получено."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-13",
+        "added": [
+          "jakob-kudsk-steensen-wetland-moma-2026"
+        ],
+        "note": "Wetland содержательно относится к технологиям: музей подтверждает макрофотограмметрию, 3D-сканирование и игровой движок. Художественная работа не объявлена научной моделью, техническое поведение и акустика зала не выведены из пресс-кадров."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-13",
+        "added": [
+          "jakob-kudsk-steensen-wetland-moma-2026"
+        ],
+        "note": "Добавлена Wetland в MoMA: открытие 12 октября подтверждено музеем, сама работа Berl-Berl развивается с 2021 года. Просмотрен полный разрешённый пресс-комплект из четырёх кадров произведения. TŌMO: анонс нового московского пространства уже известен 7 октября, открытие 14 октября ещё впереди; повтор 12 октября не принят за новость."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-07",
+        "added": [],
+        "note": "Design Mate People по-прежнему содержит последнюю статью от 1 октября. За Gustaf Westman стоит свежий предметный запуск, но отдельную рубрику «Люди» ему не присваивали только из-за имени."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://www.dezeen.com/",
+      "https://www.designboom.com/",
+      "https://d5mag.com/",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://design-mate.ru/read/news",
+      "https://design-mate.ru/read/people",
+      "https://notahotel.com/news",
+      "https://www.wwparchitects.com/",
+      "https://www.elbra.com/press",
+      "https://archi.ru/russia/102793/iskusstvo-pervogo-vpechatleniya",
+      "https://www.moma.org/calendar/exhibitions/5936",
+      "https://press.moma.org/exhibition/jakob-kudsk-steensen/",
+      "https://press.disney.co.uk/news/gustaf-westman-reimagines-disney-mickey-%26-friends-with-new-collection",
+      "https://newsroom.disney.fr/actualites/gustaf-westman-reinvente-mickey-ses-amis-au-travers-d-une-toute-nouvelle-collection-5c077-dc71f.html",
+      "https://theblueprint.ru/news/42343",
+      "https://tvgram.ru/mosnow/84033"
+    ],
+    "limitations": [
+      "Поиск восстановился при ручном продолжении. Обновлённый просмотр первоисточников позволил подготовить Wetland.",
+      "Фотографии зала Wetland пока не предоставлены. Использован полный разрешённый комплект кадров самого произведения с точной маркировкой.",
+      "Сильной российской темы с одновременно новым поводом и проверенным разрешённым визуалом не отобрано. На главной сохранён явно обозначенный российский материал из архива; его дата не изменена."
+    ],
+    "note": "Проверены все восемь основных рубрик и адрес lighting. Новая выставочная история содержательно включена также в технологии. Старые материалы сохранены без передатировки, рубрики не заполнялись количеством."
+  },
+  "articles": [
+    {
+      "id": "jakob-kudsk-steensen-wetland-moma-2026",
+      "title": "В MoMA открылась Wetland: исчезнувшие болота Берлина в 3D и звуке",
+      "category": "exhibitions",
+      "categories": [
+        "technology"
+      ],
+      "format": "Разбор",
+      "place": "Нью-Йорк, США",
+      "dek": "Якоб Кудск Стинсен собрал меняющийся цифровой ландшафт из натурных съёмок, музейных образцов и полевых записей. Работа показана на первом этаже MoMA.",
+      "body": "12 октября в MoMA открылась Wetland Якоба Кудск Стинсена. На цифровой стене первого этажа показывают Berl-Berl — работу, которая развивается с 2021 года. Новость здесь — новый музейный показ, а не создание произведения с нуля.\n\nВместе с берлинским Музеем естествознания художник исследовал оставшиеся болотные участки, изучал местный фольклор и коллекции. Камни, растения и другие образцы вошли в цифровой ландшафт. Макросъёмка и 3D-сканирование помогли перенести поверхности в модель; игровой движок позволяет среде меняться во времени.\n\nНа кадрах видны корни, отражения воды, плотные скопления светлых форм. Они интересны сменой масштаба: фрагмент поверхности можно рассматривать как целый пейзаж. Эти изображения — кадры самой цифровой работы, предоставленные MoMA. Они показывают её визуальный язык; расположение посетителей, свет и акустику зала по ним оценить нельзя.\n\nЗвук также вырос из исследования места. Полевые записи соединены с музыкой и голосом: композитор — Мэтт Маккоркл, вокал — Arca. Пространственным звуком занимался Луг О’Нилл. Работа относится к программе Hyundai Card Digital Wall и находится в Garden Lobby, а не в отдельной реконструкции берлинского болота.\n\nКоллеге стоит показать, как происхождение изображения связано с конкретной исследовательской работой. Для российского музея полезен такой порядок: сначала собрать местные съёмки, образцы и записи, затем решить, что они должны объяснять посетителю, и только после этого выбирать экран и способ воспроизведения. Из одного изображения нельзя вывести требования к будущему залу; для них понадобится макет изображения и звука в масштабе помещения.\n\nWetland работает до 7 марта 2027 года. Кураторы — Джуён Сон и Лидия Маллин. Первоначальный заказчик Berl-Berl — LAS Art Foundation.",
+      "source": "https://press.moma.org/exhibition/jakob-kudsk-steensen/",
+      "sources": [
+        {
+          "title": "MoMA — выставка, место показа и авторы работы",
+          "url": "https://www.moma.org/calendar/exhibitions/5936"
+        },
+        {
+          "title": "MoMA Press — даты, полный визуал и условия использования",
+          "url": "https://press.moma.org/exhibition/jakob-kudsk-steensen/"
+        }
+      ],
+      "credit": "Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist",
+      "image": "jakob-kudsk-steensen-wetland-moma-2026",
+      "imageAlt": "Кадр Berl-Berl: корни дерева и вода в цифровом болотном ландшафте. Из пресс-комплекта MoMA; автор Якоб Кудск Стинсен.",
+      "event": "Выставка открылась 12 октября 2026 · До 7 марта 2027 · Berl-Berl создаётся с 2021 года",
+      "gallery": [
+        {
+          "id": "gallery-wetland-moma-2026-1",
+          "url": "https://press.moma.org/wp-content/uploads/2026/10/MoMa_Final.00_02_11_11.Still010.jpg",
+          "source": "https://press.moma.org/exhibition/jakob-kudsk-steensen/",
+          "caption": "Berl-Berl: вода, корни и тёмная глубина цифрового ландшафта. Кадр работы, предоставленный MoMA.",
+          "credit": "Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist"
+        },
+        {
+          "id": "gallery-wetland-moma-2026-2",
+          "url": "https://press.moma.org/wp-content/uploads/2026/10/MoMa_Final.00_15_02_05.Still015.jpg",
+          "source": "https://press.moma.org/exhibition/jakob-kudsk-steensen/",
+          "caption": "Berl-Berl: светлые формы на цифровой поверхности. Кадр работы, предоставленный MoMA.",
+          "credit": "Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist"
+        },
+        {
+          "id": "gallery-wetland-moma-2026-3",
+          "url": "https://press.moma.org/wp-content/uploads/2026/10/MoMa_Final.00_58_11_28.Still021.jpg",
+          "source": "https://press.moma.org/exhibition/jakob-kudsk-steensen/",
+          "caption": "Berl-Berl: крупный фрагмент цифровой формы. Кадр работы, предоставленный MoMA.",
+          "credit": "Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist"
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 4,
+        "excluded": [],
+        "note": "Просмотрены все четыре уникальных кадра пресс-комплекта MoMA. Это кадры самой цифровой работы, не фотографии экспозиционного зала и не редакционные иллюстрации. Полный кадр и пропорции сохранены. MoMA разрешает некоммерческое редакционное использование при освещении текущей выставки с точным кредитом; https://press.moma.org/exhibition/jakob-kudsk-steensen/ ."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "jakob-kudsk-steensen-wetland-moma-2026",
+      "url": "https://press.moma.org/wp-content/uploads/2026/08/HighresScreenshot00111_Webpage-Image.png",
+      "source": "https://press.moma.org/exhibition/jakob-kudsk-steensen/",
+      "credit": "Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist"
+    }
+  ]
+}

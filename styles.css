@@ -36,3 +36,8 @@ nav,.formatnav{scrollbar-width:none}nav::-webkit-scrollbar,.formatnav::-webkit-s
 img[src*="/assets/images/justin-caguiat-change-ringing-2026-"]{object-fit:contain!important;aspect-ratio:auto!important;height:auto!important;filter:none!important}
 .lead:has(img[src*="/justin-caguiat-change-ringing-2026-"])>a{display:block}
 .lead:has(img[src*="/justin-caguiat-change-ringing-2026-"]) h1{grid-area:auto;position:static;background:none;color:var(--ink)!important;padding:0;margin:16px 0}
+
+/* MoMA press images: preserve the complete artwork frame. */
+img[src*="/assets/images/jakob-kudsk-steensen-wetland-moma-2026-"]{object-fit:contain!important;aspect-ratio:auto!important;height:auto!important;filter:none!important}
+.lead:has(img[src*="/jakob-kudsk-steensen-wetland-moma-2026-"])>a{display:block}
+.lead:has(img[src*="/jakob-kudsk-steensen-wetland-moma-2026-"]) h1{grid-area:auto;position:static;background:none;color:var(--ink)!important;padding:0;margin:16px 0}
