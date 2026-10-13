@@ -3653,6 +3653,29 @@
         "caption": "Джастин Кагуиат, Untitled 7 (Alphabet of Dots), 2025. Акватинта, мягкий лак, бумага гампи в технике chine collé поверх монотипии; 35,2 × 26,5 см.",
         "credit": "Justin Caguiat, Untitled 7 (Alphabet of Dots), 2025. Aquatint and soft-ground etching, gampi paper chine collé over monotype on paper, 35.2 x 26.5 cm. Courtesy the artist; Greene Naftali, New York; Modern Art, London; and Serpentine, London."
       }
+    ],
+    "jakob-kudsk-steensen-wetland-moma-2026": [
+      {
+        "id": "gallery-wetland-moma-2026-1",
+        "url": "https://press.moma.org/wp-content/uploads/2026/10/MoMa_Final.00_02_11_11.Still010.jpg",
+        "source": "https://press.moma.org/exhibition/jakob-kudsk-steensen/",
+        "caption": "Berl-Berl: вода, корни и тёмная глубина цифрового ландшафта. Кадр работы, предоставленный MoMA.",
+        "credit": "Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist"
+      },
+      {
+        "id": "gallery-wetland-moma-2026-2",
+        "url": "https://press.moma.org/wp-content/uploads/2026/10/MoMa_Final.00_15_02_05.Still015.jpg",
+        "source": "https://press.moma.org/exhibition/jakob-kudsk-steensen/",
+        "caption": "Berl-Berl: светлые формы на цифровой поверхности. Кадр работы, предоставленный MoMA.",
+        "credit": "Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist"
+      },
+      {
+        "id": "gallery-wetland-moma-2026-3",
+        "url": "https://press.moma.org/wp-content/uploads/2026/10/MoMa_Final.00_58_11_28.Still021.jpg",
+        "source": "https://press.moma.org/exhibition/jakob-kudsk-steensen/",
+        "caption": "Berl-Berl: крупный фрагмент цифровой формы. Кадр работы, предоставленный MoMA.",
+        "credit": "Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist"
+      }
     ]
   },
   "covers": [
@@ -5092,6 +5115,11 @@
         }
       ],
       "note": "Полностью просмотрены восемь уникальных изображений официального пресс-пакета: три фотографии выставки, два изображения произведений и три графические афиши. Все фотографии и изображения работ сохранены, афиши исключены по точным URL. Условия Serpentine разрешают редакционную пресс-публикацию с предоставленными подписями и кредитами, без обрезки, изменения и текста поверх изображений. Для этой статьи оформление обложки и карточек сохраняет полный кадр."
+    },
+    "jakob-kudsk-steensen-wetland-moma-2026": {
+      "sourceImageCount": 4,
+      "excluded": [],
+      "note": "Просмотрены все четыре уникальных кадра пресс-комплекта MoMA. Это кадры самой цифровой работы, не фотографии экспозиционного зала и не редакционные иллюстрации. Полный кадр и пропорции сохранены. MoMA разрешает некоммерческое редакционное использование при освещении текущей выставки с точным кредитом; https://press.moma.org/exhibition/jakob-kudsk-steensen/ ."
     }
   }
 }

@@ -1,4 +1,4 @@
-export const edition='2026-10-09';
+export const edition='2026-10-13';
 export const categories={architecture:'Архитектура',interiors:'Интерьеры',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
 import {photoLegacyArticles} from './editorial/photo-legacy.mjs';
 export const articles=[...photoLegacyArticles];
@@ -901,6 +901,18 @@ add("justin-caguiat-change-ringing-2026","В Serpentine открылась Chang
 
 Это повод раньше свести за одним столом художника, куратора, материаловеда и акустика. Из лондонской выставки не следует готовая спецификация для российского интерьера; практическая ценность — в способе испытать связь материала с конкретным помещением.`,"https://www.serpentinegalleries.org/whats-on/justin-caguiat-change-ringing/","Justin Caguiat: Change Ringing, installation view, Serpentine South, 2026. Courtesy Serpentine. Photo: George Darrell.","justin-caguiat-change-ringing-2026","Автор: Джастин Кагуиат. Музыка: Лили Пикетт. Открытие для публики — 8 октября 2026; завершение — 10 января 2027. Фотографии экспозиции: George Darrell / Serpentine.","2026-10-09");
 Object.assign(articles.at(-1),{"sources":[{"title":"Serpentine — выставка, даты и описание","url":"https://www.serpentinegalleries.org/whats-on/justin-caguiat-change-ringing/"},{"title":"Serpentine — пресс-материалы, подписи и условия использования фотографий","url":"https://www.serpentinegalleries.org/about/press/exhibition-justin-caguiat-change-ringing/"},{"title":"Modern Art — подтверждение показа Change Ringing","url":"https://www.modernart.net/en/"}],"imageAlt":"Вид выставки Change Ringing Джастина Кагуиата в Serpentine South: живописная работа и выставочная конструкция","categories":["materials"]});
+add("jakob-kudsk-steensen-wetland-moma-2026","В MoMA открылась Wetland: исчезнувшие болота Берлина в 3D и звуке","exhibitions","Разбор","Нью-Йорк, США","Якоб Кудск Стинсен собрал меняющийся цифровой ландшафт из натурных съёмок, музейных образцов и полевых записей. Работа показана на первом этаже MoMA.",`12 октября в MoMA открылась Wetland Якоба Кудск Стинсена. На цифровой стене первого этажа показывают Berl-Berl — работу, которая развивается с 2021 года. Новость здесь — новый музейный показ, а не создание произведения с нуля.
+
+Вместе с берлинским Музеем естествознания художник исследовал оставшиеся болотные участки, изучал местный фольклор и коллекции. Камни, растения и другие образцы вошли в цифровой ландшафт. Макросъёмка и 3D-сканирование помогли перенести поверхности в модель; игровой движок позволяет среде меняться во времени.
+
+На кадрах видны корни, отражения воды, плотные скопления светлых форм. Они интересны сменой масштаба: фрагмент поверхности можно рассматривать как целый пейзаж. Эти изображения — кадры самой цифровой работы, предоставленные MoMA. Они показывают её визуальный язык; расположение посетителей, свет и акустику зала по ним оценить нельзя.
+
+Звук также вырос из исследования места. Полевые записи соединены с музыкой и голосом: композитор — Мэтт Маккоркл, вокал — Arca. Пространственным звуком занимался Луг О’Нилл. Работа относится к программе Hyundai Card Digital Wall и находится в Garden Lobby, а не в отдельной реконструкции берлинского болота.
+
+Коллеге стоит показать, как происхождение изображения связано с конкретной исследовательской работой. Для российского музея полезен такой порядок: сначала собрать местные съёмки, образцы и записи, затем решить, что они должны объяснять посетителю, и только после этого выбирать экран и способ воспроизведения. Из одного изображения нельзя вывести требования к будущему залу; для них понадобится макет изображения и звука в масштабе помещения.
+
+Wetland работает до 7 марта 2027 года. Кураторы — Джуён Сон и Лидия Маллин. Первоначальный заказчик Berl-Berl — LAS Art Foundation.`,"https://press.moma.org/exhibition/jakob-kudsk-steensen/","Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist","jakob-kudsk-steensen-wetland-moma-2026","Выставка открылась 12 октября 2026 · До 7 марта 2027 · Berl-Berl создаётся с 2021 года","2026-10-13");
+Object.assign(articles.at(-1),{"sources":[{"title":"MoMA — выставка, место показа и авторы работы","url":"https://www.moma.org/calendar/exhibitions/5936"},{"title":"MoMA Press — даты, полный визуал и условия использования","url":"https://press.moma.org/exhibition/jakob-kudsk-steensen/"}],"imageAlt":"Кадр Berl-Berl: корни дерева и вода в цифровом болотном ландшафте. Из пресс-комплекта MoMA; автор Якоб Кудск Стинсен.","categories":["technology"]});
 export const candidates=[
 ...articles.map(a=>({title:a.title,url:a.source,status:'published',article:a.id})),
 {title:'RP02 House / Cornetta',url:'https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura',status:'reserve',reason:'Построен в 2022; оставить для тематической подборки.'},
