@@ -3676,6 +3676,36 @@
         "caption": "Berl-Berl: крупный фрагмент цифровой формы. Кадр работы, предоставленный MoMA.",
         "credit": "Jakob Kudsk Steensen. Berl-Berl. 2021–ongoing. Real-time simulation (moving image and sound). Originally commissioned by LAS Art Foundation. Courtesy the artist"
       }
+    ],
+    "church-architecture-biennale-moscow-2026": [
+      {
+        "id": "gallery-church-biennale-moscow-2026-0",
+        "url": "https://uar.ru/contests/IMG_20261015_193049.jpg",
+        "source": "https://uar.ru/news/v-moskve-otkrylas-pervaya-mezhdunarodnaya-biennale-tserkovnoy-arkhitektury/",
+        "credit": "Фото: Союз архитекторов России; фотограф в источнике не указан. Источник: uar.ru.",
+        "caption": "Участники открытия на фоне экспозиции. Фотография соорганизатора, 15 октября 2026."
+      },
+      {
+        "id": "gallery-church-biennale-moscow-2026-1",
+        "url": "https://uar.ru/upload/iblock/390/dvnuxqdl7nj718q19o5ouj5p92a1enu2/IMG_20261015_193800.jpg",
+        "source": "https://uar.ru/news/v-moskve-otkrylas-pervaya-mezhdunarodnaya-biennale-tserkovnoy-arkhitektury/",
+        "credit": "Фото: Союз архитекторов России; фотограф в источнике не указан. Источник: uar.ru.",
+        "caption": "Каталог биеннале в экспозиции. Фотография соорганизатора, 15 октября 2026."
+      },
+      {
+        "id": "gallery-church-biennale-moscow-2026-2",
+        "url": "https://uar.ru/upload/iblock/0a0/4j3siu1idp8vvwgxsgci2n2yu348e71z/IMG_20261015_193805.jpg",
+        "source": "https://uar.ru/news/v-moskve-otkrylas-pervaya-mezhdunarodnaya-biennale-tserkovnoy-arkhitektury/",
+        "credit": "Фото: Союз архитекторов России; фотограф в источнике не указан. Источник: uar.ru.",
+        "caption": "Архитектурные макеты и проектные планшеты: работы участников из Албании и мастерской «Головин & Шретер»."
+      },
+      {
+        "id": "gallery-church-biennale-moscow-2026-4",
+        "url": "https://uar.ru/upload/iblock/c0b/a30v17wmb1t04bik3d9v77gr25o86rme/IMG_20261015_193818.jpg",
+        "source": "https://uar.ru/news/v-moskve-otkrylas-pervaya-mezhdunarodnaya-biennale-tserkovnoy-arkhitektury/",
+        "credit": "Фото: Союз архитекторов России; фотограф в источнике не указан. Источник: uar.ru.",
+        "caption": "Экспозиционный планшет с фасадом, планами и изображениями храмового интерьера. Фото экспозиции, не отдельная съёмка построенного здания."
+      }
     ]
   },
   "covers": [
@@ -5120,6 +5150,20 @@
       "sourceImageCount": 4,
       "excluded": [],
       "note": "Просмотрены все четыре уникальных кадра пресс-комплекта MoMA. Это кадры самой цифровой работы, не фотографии экспозиционного зала и не редакционные иллюстрации. Полный кадр и пропорции сохранены. MoMA разрешает некоммерческое редакционное использование при освещении текущей выставки с точным кредитом; https://press.moma.org/exhibition/jakob-kudsk-steensen/ ."
+    },
+    "church-architecture-biennale-moscow-2026": {
+      "sourceImageCount": 7,
+      "excluded": [
+        {
+          "url": "https://uar.ru/upload/iblock/5ec/64nhvhof4uvduqi1417fk1m0i0815ug1/IMG_20261015_193821.jpg",
+          "reason": "Исходная фотография планшета шириной 412 пикселей: проектные подписи и детали не читаются, для качественной публикации непригодна. Не увеличиваем и не подменяем другим объектом."
+        },
+        {
+          "url": "https://uar.ru/upload/iblock/d00/0r8sta53u1e4izwqtpatbkx2o37ssg08/IMG_20261015_193834.jpg",
+          "reason": "Исходная фотография планшета шириной 271 пикселей: проектные подписи и детали не читаются, для качественной публикации непригодна. Не увеличиваем и не подменяем другим объектом."
+        }
+      ],
+      "note": "Фотографии самого события опубликованы соорганизатором. В разделе «Условия использования материалов сайта» САР указано: «При использовании материалов сайта ссылка на источник uar.ru обязательна». Кредиты и активная ссылка сохранены. Снимки не обрезаны, файлы не увеличены. Низкокачественные изображения планшетов исключены с указанием причины."
     }
   }
 }

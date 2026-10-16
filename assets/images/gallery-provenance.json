@@ -15712,6 +15712,82 @@
       ]
     }
   },
+  "gallery-church-biennale-moscow-2026-0": {
+    "id": "gallery-church-biennale-moscow-2026-0",
+    "url": "https://uar.ru/contests/IMG_20261015_193049.jpg",
+    "source": "https://uar.ru/news/v-moskve-otkrylas-pervaya-mezhdunarodnaya-biennale-tserkovnoy-arkhitektury/",
+    "credit": "Фото: Союз архитекторов России; фотограф в источнике не указан. Источник: uar.ru.",
+    "caption": "Участники открытия на фоне экспозиции. Фотография соорганизатора, 15 октября 2026.",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    }
+  },
+  "gallery-church-biennale-moscow-2026-1": {
+    "id": "gallery-church-biennale-moscow-2026-1",
+    "url": "https://uar.ru/upload/iblock/390/dvnuxqdl7nj718q19o5ouj5p92a1enu2/IMG_20261015_193800.jpg",
+    "source": "https://uar.ru/news/v-moskve-otkrylas-pervaya-mezhdunarodnaya-biennale-tserkovnoy-arkhitektury/",
+    "credit": "Фото: Союз архитекторов России; фотограф в источнике не указан. Источник: uar.ru.",
+    "caption": "Каталог биеннале в экспозиции. Фотография соорганизатора, 15 октября 2026.",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    }
+  },
+  "gallery-church-biennale-moscow-2026-2": {
+    "id": "gallery-church-biennale-moscow-2026-2",
+    "url": "https://uar.ru/upload/iblock/0a0/4j3siu1idp8vvwgxsgci2n2yu348e71z/IMG_20261015_193805.jpg",
+    "source": "https://uar.ru/news/v-moskve-otkrylas-pervaya-mezhdunarodnaya-biennale-tserkovnoy-arkhitektury/",
+    "credit": "Фото: Союз архитекторов России; фотограф в источнике не указан. Источник: uar.ru.",
+    "caption": "Архитектурные макеты и проектные планшеты: работы участников из Албании и мастерской «Головин & Шретер».",
+    "width": 750,
+    "height": 1000,
+    "sizes": {
+      "640": [
+        640,
+        853
+      ],
+      "1440": [
+        750,
+        1000
+      ]
+    }
+  },
+  "gallery-church-biennale-moscow-2026-4": {
+    "id": "gallery-church-biennale-moscow-2026-4",
+    "url": "https://uar.ru/upload/iblock/c0b/a30v17wmb1t04bik3d9v77gr25o86rme/IMG_20261015_193818.jpg",
+    "source": "https://uar.ru/news/v-moskve-otkrylas-pervaya-mezhdunarodnaya-biennale-tserkovnoy-arkhitektury/",
+    "credit": "Фото: Союз архитекторов России; фотограф в источнике не указан. Источник: uar.ru.",
+    "caption": "Экспозиционный планшет с фасадом, планами и изображениями храмового интерьера. Фото экспозиции, не отдельная съёмка построенного здания.",
+    "width": 630,
+    "height": 1231,
+    "sizes": {
+      "640": [
+        630,
+        1231
+      ],
+      "1440": [
+        630,
+        1231
+      ]
+    }
+  },
   "audit-cover-sender-unknown": {
     "id": "audit-cover-sender-unknown",
     "url": "https://vanda-production-assets.s3.amazonaws.com/2026/09/15/09/45/31/ee42b13c-d276-4e3a-bc16-49c174ed64bd/banner.jpg",
