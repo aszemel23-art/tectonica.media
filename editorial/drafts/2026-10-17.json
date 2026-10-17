@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-17",
+  "window": "2026-10-16T02:04:07.499Z - 2026-10-17T02:04:07.499Z",
+  "status": "held",
+  "publication": {
+    "published": false,
+    "latestPublishedIssue": "2026-10-16",
+    "reason": "Не подтверждены доступный разрешённый фотокомплект и готовность полного визуала. Новый release не создан.",
+    "githubFailure": false
+  },
+  "articleDraft": {
+    "id": "twelve-apostles-keerray-woorroong-visitor-centre-2026",
+    "category": "architecture",
+    "title": "У «Двенадцати апостолов» открылся центр Grimshaw с садом на крыше",
+    "dek": "Здание встроили в маршрут к побережью: от парковки посетитель проходит через сад, а на крышу можно подняться как на смотровую площадку.",
+    "body": "16 октября для посетителей открылся Keerray Woorroong Visitor Centre в австралийском национальном парке Порт-Кэмпбелл. Дату подтверждают оператор территории и муниципалитет Корэнгамайт. Это начало работы для публики; сообщение о завершении комплекса правительство Виктории выпустило ещё 7 октября.\n\nGrimshaw проектировало центр вместе с ландшафтным бюро ASPECT Studios и Eastern Maar Aboriginal Corporation. Два связанных объёма следуют рельефу. Между парковкой и берегом появился Welcome Garden; маршрут больше не сводится к быстрому выходу из машины на смотровую площадку. Доступная посетителям крыша продолжает этот маршрут над зданием.\n\nВ центре разместились кафе на 230 мест, киоск, галерея и информационные пространства. Система бронирования начала действовать одновременно с открытием. До апреля 2027 года посещение остаётся бесплатным; затем предусмотрена плата. Здесь архитектуру стоит рассматривать вместе с управлением потоком людей: новая площадь сама по себе не решает проблему перегрузки природной территории.\n\nДля российского проекта визит-центра полезен именно порядок работы: сначала связать парковку, пешеходный маршрут, остановки и видовые точки, затем определять объём здания. Озеленённую крышу и земляные стены нельзя переносить без расчёта климата, водоотведения и обслуживания. Заявленное бюро проектирование по стандартам Passive House ещё не доказывает полученную сертификацию или фактическое энергопотребление.",
+    "sources": [
+      {
+        "title": "Grimshaw: устройство комплекса",
+        "url": "https://grimshaw.global/projects/culture-and-exhibition/the-twelve-apostles-precinct-redevelopment-and-visitor-experience-centre/"
+      },
+      {
+        "title": "Regional Development Victoria: завершение и дата открытия",
+        "url": "https://www.rdv.vic.gov.au/news/new-visitor-centre-completed-at-twelve-apostles"
+      },
+      {
+        "title": "Corangamite: открытие для посетителей 16 октября",
+        "url": "https://www.corangamite.vic.gov.au/Council/News-and-Media/Latest-News/Council-welcomes-Keerray-Woorroong-Visitor-Centre-opening"
+      }
+    ],
+    "imageReview": {
+      "sourceImageCount": 3,
+      "reviewComplete": false,
+      "note": "В статье RDV указаны три фотографии самого центра: вид сверху, фасад и лобби. Загрузка оригиналов вернула HTTP 403. Copyright RDV исключает any images or branding из CC BY 4.0; разрешение на фото не подтверждено. На странице Grimshaw отдельного доступного пресс-пакета не найдено. Не подменять эти фотографии визуализациями или видами скал.",
+      "rightsSource": "https://www.rdv.vic.gov.au/copyright",
+      "candidates": [
+        "https://www.rdv.vic.gov.au/__data/assets/image/0005/2504435/KeerrayWooroongVCdrone.jpg",
+        "https://www.rdv.vic.gov.au/__data/assets/image/0006/2504436/KeerrayWooroongVCfront.jpg",
+        "https://www.rdv.vic.gov.au/__data/assets/image/0007/2504437/KeerrayWooroongVClobby.jpg"
+      ]
+    }
+  },
+  "featurePitches": [
+    {
+      "title": "Визит-центр начинается на парковке",
+      "text": "Сравнить маршруты от прибытия до природного объекта в Австралии и российских нацпарках. Нужны планы потоков, данные посещаемости и эксплуатационные наблюдения; открытие комплекса не доказывает успех управления потоком."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "text": "Гипотеза для наблюдения: архитектура визит-центров теснее связывается с бронированием посещений и ограничением нагрузки на природную территорию. Keerray Woorroong — один пример; для вывода о тенденции нужны независимые случаи и результаты эксплуатации."
+  },
+  "rubricReview": {
+    "date": "2026-10-17",
+    "window": "2026-10-16T02:04:07.499Z - 2026-10-17T02:04:07.499Z",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-10-16",
+        "added": [],
+        "note": "Проверены Archi.ru, Dezeen, RIBA, Grimshaw, RDV и муниципалитет Corangamite. Подтверждён новый этап: открытие Keerray Woorroong для публики 16 октября. Сохранён текст; фото недоступны для подготовки и не включены в общую лицензию RDV. Stirling, International Prize и Client of the Year объявлены 15 октября, за пределами окна."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены Archi.ru, D5 и официальный проект Grimshaw. Sanya Shiyao / WIT имеет дату реализации февраль 2026, статья D5 вышла 16 октября; первичную новизну фотопубликации и условия использования TOPIA Vision подтвердить не удалось. Не заявлено новое открытие."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-06",
+        "latestPublication": "2026-10-06",
+        "added": [],
+        "note": "Проверены Dezeen, Baird Architects и DDW. BA Objeto — свежая статья Dezeen 16 октября с авторскими предметами и указанием предоставившего фото бюро; официальный фотопакет и самостоятельная дата запуска не подтверждены. Objects with Narratives / PAD требует проверки даты первого показа; без этого повторный обзор не добавлен."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверены D5 Furniture, Dezeen и Baird Architects. BA Objeto сохранён кандидатом; Frigerio Fosca/Dafne представлены как коллекция 2026 без установленного нового запуска 16 октября. Не переносить дату вторичной публикации на премьеру."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Проверена D5 Lighting. Veronese ORSO и Daydream показаны на Paris Design Week, а не впервые 16 октября. Новая статья D5 не стала основанием для повторной премьеры. Материал не добавлен."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-09",
+        "added": [],
+        "note": "Проверены DDW, его пресс-релизы и фотобанк, D5 и Archi.ru. Biodesign Warehouse и дом TAM включены в программу заранее: последний официальный общий пресс-релиз 29 сентября. Доступный фотобанк на момент проверки показывает кадры 2025 года. Не выданы за фотографии фестиваля 2026."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-13",
+        "latestPublication": "2026-10-13",
+        "added": [],
+        "note": "Проверены D5 Industrial, Dezeen и программа DDW. Apple HomeView — статья 15 октября, вне окна и без проверенного официального релиза. TAM 3D-печать дома и биография transparent.citizen требуют первичных технических данных и самостоятельного нового повода; программа DDW сама по себе не доказывает технологическую премьеру 16 октября."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-10-16",
+        "added": [],
+        "note": "Проверены ОАМ, DDW, Tehne. Петербургская биеннале пройдёт 10–15 ноября; программа ОАМ опубликована 12 октября, поэтому пересказ Ведомостей 16 октября не выдан за новый анонс. Сообщение ОАМ 16 октября о монографии Ноя Троцкого не подтверждает новую экспозицию. DDW доступна публике с 17 октября позже конца окна; новый официальный репортаж о церемонии 16 октября не найден. LACMA Home of Future открылась 27 сентября. Московская церковная биеннале уже в выпуске 16 октября."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-07",
+        "added": [],
+        "note": "Проверены Design Mate People, Archi.ru и ОАМ. Интервью с Павлом Костюковым Ларссоном от 15 октября вне окна; назначение Бонами обсуждалось 14 октября. Монография Ноя Троцкого — кандидат ОАМ 16 октября, но не подтверждены новая дата выхода и разрешённый фотокомплект книги."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://www.dezeen.com/",
+      "https://d5mag.com/",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://design-mate.ru/read/people",
+      "https://oam-spb.ru/",
+      "https://ddw.nl/en/press/press-releases",
+      "https://ddw.nl/en/press/image-bank",
+      "https://www.bairdarchitects.com/",
+      "https://www.rdv.vic.gov.au/copyright"
+    ],
+    "limitations": [
+      "Новый выпуск не опубликован. Проверки сборки, тесты и desktop/mobile нового выпуска не запускались, поскольку готового разрешённого фотокомплекта нет.",
+      "GitHub доступен; отказ записи или сбой workflow в этом запуске не установлен.",
+      "Просмотрены страницы рубрик и свежие кандидаты; полноценная сверка всех фотографий новых кандидатов не завершена."
+    ]
+  }
+}
