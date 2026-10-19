@@ -4,12 +4,16 @@ on:
     branches: [main]
     paths:
       - 'editorial/revision.json'
+      - 'editorial/event-end-dates.json'
       - 'scripts/editorial-revision.mjs'
       - 'scripts/build.mjs'
       - 'scripts/galleries.mjs'
       - 'assets/article.css'
       - 'assets/gallery.js'
       - '.github/workflows/publish-editorial.yml'
+  # 00:00 Asia/Novosibirsk: expire events even on days without a new issue.
+  schedule:
+    - cron: '0 17 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -33,6 +37,6 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add advertising '*.html' assets/search.json editorial/*-candidates.json feed.xml sitemap.xml robots.txt
           if ! git diff --cached --quiet; then
-            git commit -m "Publish edited stories and five-story reading route"
+            git commit -m "Refresh TECTONICA generated pages"
             git push origin HEAD:main
           fi

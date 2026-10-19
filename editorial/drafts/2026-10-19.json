@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-19",
+  "window": "2026-10-18T02:36:42.098Z - 2026-10-19T02:36:42.098Z",
+  "status": "no-release",
+  "publication": {
+    "published": false,
+    "lastPublishedIssue": "2026-10-16",
+    "reason": "Не отобрано новых готовых сильных тем с проверенными первоисточниками и разрешённым полным визуалом. Старые даты не меняются."
+  },
+  "rubricReview": {
+    "date": "2026-10-19",
+    "window": "2026-10-18T02:36:42.098Z - 2026-10-19T02:36:42.098Z",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-10-16",
+        "added": [],
+        "note": "Просмотрены Archi.ru, Dezeen, Designboom, D5 и свежий поиск. Bellavista 11: новая публикация Dezeen 18 октября, но это разбор частной виллы без подтверждённого нового этапа; авторы описывают работу с рельефом и тонкой плоскостью. Первичная дата завершения и полный разрешённый фотокомплект не установлены. Недоказанное указание агрегатора на 2023 год не принято за факт. Shanghai Grand Opera House опубликован 17 октября, вне окна; необходима проверка официальной даты открытия."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Просмотрены D5, Dezeen и российская лента Archi.ru. Diana Kellogg / Tribeca опубликована 17 октября, вне окна; теплица Archi-Tectonics также 17 октября. Подборка трёх домов D5 от 18 октября не является самостоятельным новым проектным событием. Сильной готовой темы в окне не отобрано."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-06",
+        "latestPublication": "2026-10-06",
+        "added": [],
+        "note": "Проверены Dezeen, D5 и DDW. Свежая статья KNS × ASICS от 18 октября не доказывает новую премьеру: найден официальный прайс 260116_KNS_Pricelist_ASICS_A4_overseas.pdf за январь. Проекты DDW требуют самостоятельной проверки, а победители Dutch Design Awards объявлены 17 октября."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Просмотрены D5 Furniture, Dezeen и официальный KNS. Коллаборация KNS × ASICS описана новой статьёй, но первичный январский прайс уже включает эти модели; не выдана за новую коллекцию октября. BA Objeto — материал 16 октября, вне окна. Frigerio — 16 октября, вне окна."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Просмотрена D5 Lighting; новейшая статья Veronese — 16 октября и описывает показ Paris Design Week. Специальная рубрика содержит более старые SPIN, Eureka, Luxxbox. Нового проверенного запуска за 18–19 октября не найдено."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-09",
+        "added": [],
+        "note": "Проверены D5, DDW и KNS. Переработанная пена KNS × ASICS — существующая разработка, а не новый материал 18 октября. Фотографии DDW и программа не подтверждают новый технический результат. Новых материалов с достаточными первичными данными не отобрано."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-13",
+        "latestPublication": "2026-10-13",
+        "added": [],
+        "note": "Просмотрены D5 Industrial и свежий поиск, включая NVIDIA RTX Spark и Motif как кандидатов. Пересказ о RTX Spark от 18 октября ссылается на объявление 16 октября, вне окна; технический первоисточник нового события 18 октября не подтверждён. Apple HomeView — более ранняя тема. Непроверенные характеристики не опубликованы."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-10-16",
+        "added": [],
+        "note": "Проверены DDW Press Releases, DDW News, российские поисковые результаты и календарь репозитория. DDW и его награды — 17 октября, вне окна; новая заметка 18 октября о посещении с подростком не отобрана как самостоятельная сильная тема. Пересказ московской биеннале от 18 октября — повтор уже опубликованной статьи; биеннале завершилась 18 октября. Сборка 19 октября исключает её из текущей афиши."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-07",
+        "added": [],
+        "note": "Просмотрены Design Mate People, Archi.ru и DDW. Последнее интервью Design Mate — 15 октября, а Dutch Design Awards — 17 октября; нового самостоятельного события с проверенным визуалом в окне не отобрано."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://www.dezeen.com/",
+      "https://www.designboom.com/",
+      "https://d5mag.com/",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://design-mate.ru/read/people",
+      "https://ddw.nl/en/press/press-releases",
+      "https://ddw.nl/en/updates?category=6",
+      "https://www.karimoku-newstandard.jp/en/wp-content/uploads/sites/2/2026/01/260116_KNS_Pricelist_ASICS_A4_overseas.pdf"
+    ],
+    "limitations": [
+      "Это журнал отбора, не готовый выпуск. Полный визуальный просмотр всех кандидатов не завершён; неотобранные кадры не загружены в публикацию."
+    ]
+  },
+  "maintenance": {
+    "problem": "Завершившиеся события удалялись только при очередной публикации; в дни без нового выпуска афиша могла оставаться устаревшей.",
+    "change": "Существующий publish-editorial.yml пересобирает сайт ежедневно в 00:00 Asia/Novosibirsk; изменения event-end-dates.json также запускают сборку. Отбор currentEvents использует реальную дату Asia/Novosibirsk.",
+    "localValidation": "npm run build && npm test: PASS; 146 indexable pages, 148 HTML, 107 articles, 1127 inline images; original publication dates preserved."
+  }
+}
