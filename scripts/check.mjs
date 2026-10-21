@@ -42,4 +42,15 @@ for(const file of walk(root).filter(f=>f.endsWith('.html')&&!f.includes(path.joi
  assert(!h.includes('undefined'),'Undefined value in page');
  assert(!h.includes('<p>## '),'Unrendered heading');
 }
+
+const homepage=fs.readFileSync(path.join(root,'index.html'),'utf8');
+for(const title of ['Мебель, свет и предметы','Люди и события','Интерьеры, материалы и технологии']){
+ const tail=homepage.split('<h2>'+title+'</h2>')[1];
+ const block=tail?.match(/<section class="grid[^"]*">([\s\S]*?)<\/section>/)?.[1];
+ assert(block,'Missing homepage thematic block: '+title);
+ const dates=[...block.matchAll(/<time class="photo-credit" datetime="([^"]+)"/g)].map(m=>m[1]);
+ assert(dates.length>0,'Missing visible card dates: '+title);
+ for(let i=1;i<dates.length;i++)assert(dates[i-1]>=dates[i],'Homepage block must put newest stories first: '+title);
+}
+
 if(fail.length)throw Error(fail.join('\n'));console.log('PASS:',count,'HTML pages; all internal links and images; metadata, JSON-LD, RSS, sitemap, domain and editorial data.');

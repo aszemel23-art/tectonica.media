@@ -11,4 +11,4 @@ for(const [id,patch]of Object.entries(revision.patches)){
   const ld=JSON.parse(data[1]);for(const item of Array.isArray(ld)?ld:[ld])if(item.datePublished){assert(item.datePublished.startsWith(a.date));assert(item.dateModified.startsWith(a.updated));}
  }
 }
-console.log('PASS editorial: distinct editorial selections; 19 revisions; corrections and original publication dates.');
+console.log('PASS editorial: distinct editorial selections; '+Object.keys(revision.patches).length+' revisions; corrections and original publication dates.');

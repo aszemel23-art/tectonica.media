@@ -88,7 +88,7 @@
         "added": [
           "apple-designers-of-tomorrow-paris-2026"
         ],
-        "note": "Материал включает светильник The Eminence of Light, бумажный рассеиватель New Form и детали их устройства. Добавлен через общую рубрику furniture, с которой связан алиас lighting. Новая общая подборка D5 о тёплом свете не выдана за техническую премьеру."
+        "note": "Добавлены The Eminence of Light и New Form, их устройство и детали. Статья зарегистрирована в furniture и отдельно в lighting: старый адрес lighting является отдельной подборкой световых материалов. Общая подборка D5 о тёплом свете не выдана за техническую премьеру."
       },
       "materials": {
         "previousLatestPublication": "2026-10-09",
@@ -147,7 +147,8 @@
       "categories": [
         "furniture",
         "materials",
-        "exhibitions"
+        "exhibitions",
+        "lighting"
       ],
       "format": "Разбор",
       "place": "Париж, Франция",
