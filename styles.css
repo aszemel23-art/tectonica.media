@@ -46,3 +46,8 @@ img[src*="/assets/images/jakob-kudsk-steensen-wetland-moma-2026-"]{object-fit:co
 img[src*="/assets/images/church-architecture-biennale-moscow-2026-"]{object-fit:contain!important;aspect-ratio:auto!important;height:auto!important;max-height:680px;filter:none!important}
 .lead:has(img[src*="/church-architecture-biennale-moscow-2026-"])>a{display:block}
 .lead:has(img[src*="/church-architecture-biennale-moscow-2026-"]) h1{grid-area:auto;position:static;background:none;color:var(--ink)!important;padding:0;margin:16px 0}
+
+/* Apple press photographs: preserve complete frames and keep headings outside. */
+img[src*="apple-designers-of-tomorrow-paris-2026-"]{object-fit:contain!important;aspect-ratio:auto!important;height:auto!important;max-height:680px;filter:none!important}
+.lead:has(img[src*="/apple-designers-of-tomorrow-paris-2026-"])>a{display:block}
+.lead:has(img[src*="/apple-designers-of-tomorrow-paris-2026-"]) h1{grid-area:auto;position:static;background:none;color:var(--ink)!important;padding:0;margin:16px 0}

@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-21",
+  "window": "2026-10-20T02:00:09.685Z - 2026-10-21T02:00:09.685Z",
+  "intro": "Сегодня смотрим, как устроены выставочные предметы: где тонкая рейка становится каркасом, слой шпона — объёмом, а закрытый объект — местом для разговора.",
+  "featured": {
+    "lead": "apple-designers-of-tomorrow-paris-2026",
+    "secondary": "jakob-kudsk-steensen-wetland-moma-2026",
+    "stories": [
+      "apple-designers-of-tomorrow-paris-2026"
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "apple-designers-of-tomorrow-paris-2026",
+      "time": "6 минут",
+      "reason": "Выбрали серию, в которой фотографии позволяют читать устройство предмета и сравнивать разные способы сборки. Разбор помогает перевести выставочный интерес в конкретные вопросы к прототипу, соединениям, уходу и эксплуатации."
+    }
+  ],
+  "featurePitches": [
+    {
+      "article": "apple-designers-of-tomorrow-paris-2026",
+      "title": "Пять тысяч слоёв: как довести многослойный предмет от эскиза до мастерской",
+      "text": "Разобрать российский прототип с мастером: клей, шаблоны, стяжка, обработка кромок и стоимость переделки. Сопоставить внешний эффект с реальным процессом сборки; нужны чертежи и образец, а не только выставочный рендер."
+    },
+    {
+      "article": "apple-designers-of-tomorrow-paris-2026",
+      "title": "Один предмет — два состояния",
+      "text": "Проверить раскладывающуюся мебель на плане небольшого общественного интерьера: рабочие габариты, усилие раскрывания, хранение частей и ремонт креплений. MonoAmbiente 1 — отправная точка для исследования, не готовое универсальное решение."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Соединение становится частью замысла",
+    "text": "Гипотеза для наблюдения: авторский предмет может удерживать внимание не сложным силуэтом, а понятным действием — соединить рейки, повторить слой, раскрыть закрытый объём. Четыре работы одной кураторской выставки не доказывают рыночную тенденцию. Проверять гипотезу стоит на независимых коллекциях, заказах мастерским и поведении предметов в эксплуатации.",
+    "sources": [
+      {
+        "title": "Designers of Tomorrow: работы и процесс",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/"
+      }
+    ]
+  },
+  "rubricReview": {
+    "date": "2026-10-21",
+    "window": "2026-10-20T02:00:09.685Z - 2026-10-21T02:00:09.685Z",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-10-16",
+        "added": [],
+        "note": "Проверены Archi.ru, D5, свежий поиск, архив и первоисточники ранее отложенных тем. Новая публикация «Робин» / СИВИЛ датирована 20 октября, но это концепция: не выдана за построенное здание. «Аркториум» опубликован 19 октября, вне окна. Design Museum Gent уже есть в архиве: новая рецензия Guardian 20 октября не повод повторять открытие 3 октября. Dezeen и Designboom при прямой загрузке вернули TLS EOF; использован дополнительный поиск."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Просмотрена свежая D5: Miami Shores / Mariana Maisonnave и Esca / URBANJOBS опубликованы 20 октября. Новизна первичного проекта и разрешённые полные серии не подтверждены. Не добавлены слабые пересказы для заполнения рубрики. Paris Hôtel de Maisons в новом материале — место выставки, не новая интерьерная реализация."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-06",
+        "latestPublication": "2026-10-21",
+        "added": [
+          "apple-designers-of-tomorrow-paris-2026"
+        ],
+        "note": "Добавлен новый официальный фоторепортаж Apple от 20 октября о четырёх работах Designers of Tomorrow. Сверены даты ярмарки, 15 фотографий и разрешение внутри ZIP. Фото и работы представлены как выставочная серия, не как запущенные в продажу серийные товары."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-21",
+        "added": [
+          "apple-designers-of-tomorrow-paris-2026"
+        ],
+        "note": "Добавлены New Form, Padded Chair 1860 и MonoAmbiente 1 в общем разборе; это содержательная предметная тема, а не случайная дополнительная рубрика. Показаны устройство, складывание и вопросы для разработки. По фотографиям не утверждается удобство кресла."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-21",
+        "added": [
+          "apple-designers-of-tomorrow-paris-2026"
+        ],
+        "note": "Материал включает светильник The Eminence of Light, бумажный рассеиватель New Form и детали их устройства. Добавлен через общую рубрику furniture, с которой связан алиас lighting. Новая общая подборка D5 о тёплом свете не выдана за техническую премьеру."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-09",
+        "latestPublication": "2026-10-21",
+        "added": [
+          "apple-designers-of-tomorrow-paris-2026"
+        ],
+        "note": "Добавлен разбор повторяющихся элементов и соединений: пальмовые рейки, бумага, шпон и бусины. Это применение материалов в выставочных предметах; не заявлены изобретение нового материала, экологическая сертификация или результаты испытаний."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-13",
+        "latestPublication": "2026-10-13",
+        "added": [],
+        "note": "Просмотрена D5 Industrial: новая статья Jaguar Type 01 относится к автомобильному дизайну. Использование устройств Apple участниками выставки не включено как новая технология для архитекторов. Самостоятельной сильной технической новости с первичными данными в окне не отобрано."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-10-21",
+        "added": [
+          "apple-designers-of-tomorrow-paris-2026"
+        ],
+        "note": "Добавлен официальный фоторепортаж Designers of Tomorrow. Разделены предпросмотр для приглашённых 20 октября и общедоступные дни 21–25 октября. Календарь обновлён до 25 октября; окончившиеся Petit h и московская церковная биеннале не остаются в текущих событиях."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-07",
+        "added": [],
+        "note": "Проверены Design Mate People и авторские сведения новых работ. Имена и портреты участников сохранены в статье и полной фотосерии, но короткие представления не выданы за отдельные интервью или биографический материал. Рубрика people не добавлена без достаточного самостоятельного содержания."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://www.dezeen.com/",
+      "https://www.designboom.com/",
+      "https://d5mag.com/",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://design-mate.ru/read/people",
+      "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+      "https://designmiami.com/fair/paris-2026",
+      "https://designmuseumgent.be/en/de-nieuwe-vleugel",
+      "https://archi.ru/russia/102817/imenem-kamnya-i-dereva"
+    ],
+    "limitations": [
+      "Прямое открытие Dezeen и Designboom временно завершалось TLS EOF; часть поиска выполнена через веб-поиск.",
+      "В новостном окне не отобрана готовая сильная российская история с проверенным полным визуалом; прошедшие даты не менялись.",
+      "Фотограф серии Apple не назван; это прямо отражено в кредитах."
+    ]
+  },
+  "articles": [
+    {
+      "id": "apple-designers-of-tomorrow-paris-2026",
+      "title": "Стол из пяти тысяч слоёв шпона и светильник из пальмы: Designers of Tomorrow в Париже",
+      "category": "objects",
+      "categories": [
+        "furniture",
+        "materials",
+        "exhibitions"
+      ],
+      "format": "Разбор",
+      "place": "Париж, Франция",
+      "dek": "Четыре проекта показывают разные способы собрать предмет: из тонких реек, повторяющихся слоёв, бусин и раскрывающихся частей. Смотрим на устройство, а не только на силуэт.",
+      "body": "20 октября Apple опубликовала официальный фоторепортаж Designers of Tomorrow в Hôtel de Maisons. Выставку подготовили вместе с Design Miami под кураторством Родмана Примака. В этот день ярмарка принимала приглашённых; для общей публики Design Miami Paris работает 21–25 октября.\n\nСалем С. Шараби собрал The Eminence of Light из пальмовых реек и банановой бумаги на известняковом основании. В New Form Юнджон Ли — около пяти тысяч тонких листов шпона; бумажный абажур удерживают использованные карандаши. Здесь повторение маленького элемента становится способом построить весь предмет.\n\nИзабель Роуэр снабдила Padded Chair 1860 бахромой из керамических бусин. По её объяснению, они звучат при прикосновении. MonoAmbiente 1 студии Parafernalia раскрывается в стол и табуреты: важен не только вид закрытого объекта, но и последовательность его использования.\n\nКоллеге стоит показать именно детали. У фонаря можно проследить переход от тяжёлого основания к тонкому каркасу; у New Form — сравнить массивный объём и маленькие элементы крепления. Это удобные примеры для разговора с мастером: что создаёт форму, что несёт нагрузку и какие соединения остаются видимыми.\n\nПри заказе похожего предмета для проекта в России полезно начать с образца одного узла. Для многослойной конструкции — согласовать клей, обработку кромки и допустимый разброс размеров; для бумажного рассеивателя — проверить нагрев, крепление и замену. Это вопросы для разработки, а не свойства, доказанные выставочной фотографией.\n\nСкладывающийся предмет тоже стоит оценивать в двух состояниях: закрытом и рабочем. На плане нужно оставить место для выдвинутых частей и человека рядом с ними. А кресло с подвижными бусинами прежде чем закладывать в общественное пространство, разумно испытать на очистку, ремонт и случайные зацепы. Так выставочный объект даёт рабочую задачу, даже если его не собираются повторять.\n\nИсточником сведений об устройстве работ служит релиз организатора. Данных о сертификации, цене, серийном производстве и длительных испытаниях в нём нет; по фотографиям мы не делаем выводов об удобстве или долговечности.",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+      "sources": [
+        {
+          "title": "Apple Newsroom: официальный фоторепортаж, 20 октября 2026",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/"
+        },
+        {
+          "title": "Design Miami Paris: предпросмотр, дни работы и место",
+          "url": "https://designmiami.com/fair/paris-2026"
+        }
+      ],
+      "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан.",
+      "image": "apple-designers-of-tomorrow-paris-2026",
+      "imageAlt": "Четыре проекта Designers of Tomorrow в зале Hôtel de Maisons в Париже",
+      "event": "Designers of Tomorrow / Design Miami Paris, 21–25 октября 2026",
+      "imageReview": {
+        "sourceImageCount": 15,
+        "excluded": [],
+        "note": "Просмотрены все 15 уникальных фотографий основной статьи: экспозиция, четыре авторских проекта, детали, портреты и процесс работы. Видеоролик не переносился и не учитывался как фотография. LEGAL_NOTICE.rtf внутри официального ZIP допускает редакционное некоммерческое использование и запрещает изменение изображения. Сохранены полный кадр и пропорции, без обрезки, ретуши, фильтров и текста поверх фотографии. Технические варианты для доставки на сайте сохраняют исходную композицию. Это редакционный разбор выставки, не реклама техники.",
+        "rightsSource": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-exhibition.zip"
+      },
+      "gallery": [
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-1",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Salem-S-Charabi-01_inline.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Салем С. Шараби.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-2",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Salem-S-Charabi-02_big.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "The Eminence of Light. Автор: Салем С. Шараби.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-3",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Salem-S-Charabi-03_photogrid.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Пальмовые рейки и бумажный рассеиватель светильника.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-4",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Salem-S-Charabi-04_photogrid.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Каменное основание светильника.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-5",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Isabel-Rower-01_inline.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Изабель Роуэр.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-6",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Isabel-Rower-02_photogrid.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Padded Chair 1860. Автор: Изабель Роуэр.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-7",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Isabel-Rower-03_photogrid.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Документирование бусин кресла Padded Chair 1860.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-8",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Yoonjeong-Lee-01_inline.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Юнджон Ли.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-9",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Yoonjeong-Lee-02_photogrid.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "New Form. Автор: Юнджон Ли.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-10",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Yoonjeong-Lee-03_photogrid.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Работа Юнджон Ли над New Form.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-11",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Parafernalia-01_inline.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Гэнки Мацумура и Себастьян Соррилья — Parafernalia.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-12",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Parafernalia-02_big.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "MonoAmbiente 1. Авторы: Parafernalia.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-13",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Parafernalia-03_photogrid.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Разработка MonoAmbiente 1.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        },
+        {
+          "id": "gallery-apple-designers-of-tomorrow-paris-2026-14",
+          "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-Parafernalia-04_photogrid.jpg.large.jpg",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "caption": "Стол и табуреты MonoAmbiente 1: фрагмент.",
+          "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "apple-designers-of-tomorrow-paris-2026",
+      "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-exhibition_big.jpg.large.jpg",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+      "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан."
+    }
+  ]
+}
