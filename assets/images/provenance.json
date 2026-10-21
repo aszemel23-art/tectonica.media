@@ -3011,5 +3011,13 @@
     "credit": "Фото: Союз архитекторов России; фотограф в источнике не указан. Источник: uar.ru.",
     "width": 750,
     "height": 1000
+  },
+  "apple-designers-of-tomorrow-paris-2026": {
+    "url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-exhibition_big.jpg.large.jpg",
+    "fetch_url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-the-2026-designers-of-tomorrow/article/Apple-2026-Designers-of-Tomorrow-exhibition_big.jpg.large.jpg",
+    "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+    "credit": "Фото: пресс-материалы Apple Newsroom; фотограф не указан.",
+    "width": 980,
+    "height": 654
   }
 }
