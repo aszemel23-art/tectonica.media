@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-28",
+  "window": "2026-10-27T02:00:36.250Z - 2026-10-28T02:00:36.250Z",
+  "intro": "Новый разговор Эс Девлин о том, как рисунки и небольшие модели помогают построить большие пространства. Разбираем процесс и смотрим всю фотосерию.",
+  "featured": {
+    "lead": "es-devlin-other-worlds-process-interview-2026",
+    "secondary": "jakob-kudsk-steensen-wetland-moma-2026",
+    "stories": [
+      "es-devlin-other-worlds-process-interview-2026"
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "es-devlin-other-worlds-process-interview-2026",
+      "time": "5 минут",
+      "reason": "Новое интервью раскрывает процесс через конкретные рабочие материалы. Полная фотосерия позволяет сравнить рисунок, макет, архив и готовую инсталляцию — полезный пример для согласования выставочного маршрута до производства."
+    }
+  ],
+  "featurePitches": [
+    {
+      "article": "es-devlin-other-worlds-process-interview-2026",
+      "title": "Как показать процесс проектирования на выставке",
+      "text": "Сопоставить авторские архивы с практикой российских музеев: какие черновики помогают понять решение, как подписывать макеты и где хранить оригиналы после закрытия. Для большого материала нужны интервью с кураторами и данные о работе с коллекциями."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Рабочий архив становится частью выставочного маршрута",
+    "text": "Гипотеза для наблюдения: выставка может показывать не только законченные вещи, но и путь к ним — через рабочее место, рисунки и модели. Other Worlds даёт один подробный пример, а не доказанную рыночную тенденцию. Проверять наблюдение следует на независимых выставках и на том, как посетители используют такие материалы.",
+    "sources": [
+      {
+        "title": "Новое интервью Эс Девлин и фотографии экспозиции",
+        "url": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/"
+      }
+    ]
+  },
+  "rubricReview": {
+    "date": "2026-10-28",
+    "window": "2026-10-27T02:00:36.250Z - 2026-10-28T02:00:36.250Z",
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-10-16",
+        "added": [],
+        "note": "Просмотрены Archi.ru, Dezeen, Designboom. Анонс Youth Orchestra Abu Dhabi / Гери относится к 26 октября, не выдан за новое открытие. Библиотека Эссена / MVRDV открылась 24 октября, официальный пресс-материал вышел раньше окна. Новые российские проекты A4 и «ВЕЩЬ!» опубликованы как концепции, не построенные дворы; их публикационная фотопроверка не завершена."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "Просмотрены новые Dezeen и D5. Manual Photo Lab открылся раньше нового интервью; полная первичная фотопроверка не завершена. Laerdal Medical официально открыт 16 октября, а не 27-го. Новая интерьерная тема не подготовлена."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Новые предметные ленты просмотрены. NikeSKIMS относится к одежде и не добавлен ради заполнения. Модели Девлин объясняют процесс, а не анонсируют серию товаров."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Отдельная лента D5 не обновлялась после Scribble 23 октября, чей исходный запуск HON датирован 28 сентября. Повторы и сезонные подборки не добавлены."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Просмотрена новая история D5 о Lugu Lake Lanyue Hotel / Beijing PRO. Не завершена проверка первичной даты и полной разрешённой фотосерии. Свет в Other Worlds — часть сценографии; дополнительная рубрика Свет автоматически не присвоена."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Проверены свежие Designboom о мастерской Potato Head / OMA и D5 о Laerdal Medical. Первичная новизна в текущем окне не подтверждена; заявления о переработке не выданы за испытания."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-13",
+        "latestPublication": "2026-10-13",
+        "added": [],
+        "note": "Просмотрены технологические ленты и свежий поиск. Одежда и автомобили не использованы как замена архитектурным технологиям. Кинетическая библиотека Девлин не названа новой технологической премьерой."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-28",
+        "added": [
+          "es-devlin-other-worlds-process-interview-2026"
+        ],
+        "note": "Добавлен разбор нового интервью Девлин от 27 октября с полной серией 8 фото. Открытие 2 октября и завершение 4 апреля указаны отдельно. Подготовлено включение в актуальную афишу с действительной датой окончания."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-07",
+        "latestPublication": "2026-10-28",
+        "added": [
+          "es-devlin-other-worlds-process-interview-2026"
+        ],
+        "note": "Добавлено новое видеоинтервью Эс Девлин от 27 октября о методе через рисунки, модели и экспозицию. Партнёрство музея с Dezeen раскрыто; собственное интервью не выдумано. Design Mate: последняя анкета 20 октября вне окна."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://www.dezeen.com/",
+      "https://www.designboom.com/",
+      "https://d5mag.com/",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://design-mate.ru/read/people",
+      "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+      "https://designmuseum.org/exhibitions/es-devlin-other-worlds",
+      "https://designmuseum.org/asset/download?id=2bda83ea-0e4e-48cd-8141-00ab845c6b4f",
+      "https://www.dropbox.com/scl/fo/0o0litm4ikj921l2cnxay/AG6JsoKj6SWg1gUN45Dss3Y?rlkey=km59w26phbplu6q1a4hu66wjc&dl=0",
+      "https://www.mvrdv.com/news/4913/pressroom",
+      "https://snohetta.prezly.com/snohetta-transforms-laerdal-medicals-75-year-old-headquarters-in-stavanger",
+      "https://dct.gov.ae/Pages/YouthOrchestraAbuDhabi.aspx",
+      "https://archi.ru/russia/102806/dva-goroda-dva-sada"
+    ],
+    "limitations": [
+      "Обзор ограничен перечисленными источниками и не является исчерпывающим.",
+      "Новые российские кандидаты не прошли полную первичную и фотографическую проверку; не опубликованы ради квоты.",
+      "Повод истории — новое интервью; открытие выставки и происхождение фото датированы отдельно."
+    ]
+  },
+  "articles": [
+    {
+      "id": "es-devlin-other-worlds-process-interview-2026",
+      "title": "Эс Девлин показала, как читать декорации по эскизам и макетам",
+      "category": "people",
+      "categories": [
+        "exhibitions"
+      ],
+      "format": "Разбор",
+      "place": "Лондон, Великобритания",
+      "dek": "В новом интервью о Other Worlds дизайнер объясняет свой рабочий процесс. Смотрим на блокнот, зеркальный макет, круговой архив и библиотеку из двух тысяч книг.",
+      "body": "27 октября Dezeen выпустил видеоинтервью с Эс Девлин о её выставке Other Worlds в лондонском Design Museum. Разговор посвящён тому, как сложные сценические пространства вырастают из рисунков и небольших моделей. Сама выставка работает со 2 октября — речь о новом интервью, а не о новом открытии.\n\nВ экспозиции Девлин показывает последовательность работы. Сначала — воссозданная мастерская с книгами, инструментами и моделями. Затем — архив и круговые столы A 30-Year Desk, где можно сопоставить ранний замысел с последующими проектами. Макет здесь не служебное приложение к фотографии готовой сцены: у него своё место в рассказе.\n\nОсобенно полезно посмотреть на Mirror Maze. Небольшие отражающие перегородки позволяют обсуждать направление взгляда и поворот маршрута до того, как появится полноразмерная конструкция. Масштабный макет не доказывает удобство и безопасность будущей установки, но делает пространственную идею предметом разговора, а не только красивым изображением.\n\nФинал выставки — An Infinite Library: восьмиметровая треугольная конструкция с более чем двумя тысячами книг, которая вращается над круглым зеркалом. По данным музея, это отдельный заказ для Other Worlds, четвёртая работа в серии библиотек Девлин. Проекции и записанный голос автора добавляют к физическому объекту движение, свет и текст. Книги после закрытия планируют передать местным школам и благотворительным организациям.\n\nПочему это стоит показать коллеге\n\nЗдесь можно разделить три задачи, которые часто смешиваются в выставочном эскизе: что именно человек рассматривает, как он проходит через пространство и что меняется во времени. Блокнот, макет и фотография установки отвечают на разные вопросы. Один эффектный рендер за все три не ответит.\n\nЧто взять в работу\n\nДля выставочного проекта в России из этой логики можно собрать конкретный этап согласования: простой макет маршрута, несколько проб света на реальных материалах и отдельную схему того, где посетитель останавливается. До заказа сложной конструкции полезно проверить вход, выход, место для очереди и доступ к оборудованию. Это наша рабочая интерпретация увиденных материалов, а не техническая рекомендация Девлин и не подтверждённый результат эксплуатации выставки.\n\nИнтервью снято Dezeen для Design Museum в рамках партнёрского материала. Мы не беседовали с автором и не посещали экспозицию. Кураторы выставки — Johanna Agerman Ross и Danielle Thom при участии Margherita Dosi Delfini; проект создан в тесном сотрудничестве с Эс Девлин и её студией. Other Worlds открыта до 4 апреля 2027 года.",
+      "source": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+      "sources": [
+        {
+          "title": "Dezeen: видеоинтервью 27 октября, партнёрский материал Design Museum",
+          "url": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/"
+        },
+        {
+          "title": "Design Museum: Other Worlds, даты и авторство",
+          "url": "https://designmuseum.org/exhibitions/es-devlin-other-worlds"
+        },
+        {
+          "title": "Официальный пресс-релиз со ссылкой на PRESS IMAGES",
+          "url": "https://designmuseum.org/asset/download?id=2bda83ea-0e4e-48cd-8141-00ab845c6b4f"
+        },
+        {
+          "title": "Официальный пресс-комплект Design Museum: фото и caption sheets",
+          "url": "https://www.dropbox.com/scl/fo/0o0litm4ikj921l2cnxay/AG6JsoKj6SWg1gUN45Dss3Y?rlkey=km59w26phbplu6q1a4hu66wjc&dl=0"
+        }
+      ],
+      "credit": "Фото: Luke Hayes / Design Museum.",
+      "image": "es-devlin-other-worlds-process-interview-2026",
+      "imageAlt": "An Infinite Library: вращающаяся книжная конструкция над круглым зеркалом.",
+      "event": "Other Worlds: 2 октября 2026 — 4 апреля 2027. Новый повод: интервью 27 октября.",
+      "gallery": [
+        {
+          "id": "gallery-es-devlin-other-worlds-process-interview-2026-1",
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video-1_dezeen_2364_col_7-1536x1151.jpg",
+          "source": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+          "caption": "Блокнот Эс Девлин, связанный с премией Linbury: записи и эскизы костюмов.",
+          "credit": "Фото: Richard Round-Turner / Design Museum."
+        },
+        {
+          "id": "gallery-es-devlin-other-worlds-process-interview-2026-2",
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video_dezeen_2364_col_34-1536x1024.jpg",
+          "source": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+          "caption": "Эс Девлин среди рисунков, фотографий и макетов из своего архива.",
+          "credit": "Фото: Daniel Devlin / @susakpress / Design Museum."
+        },
+        {
+          "id": "gallery-es-devlin-other-worlds-process-interview-2026-3",
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video-2_dezeen_2364_col_1-1536x1024.jpg",
+          "source": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+          "caption": "Воссозданная мастерская Эс Девлин: рабочий стол, материалы и модели.",
+          "credit": "Фото: Daniel Devlin / @susakpress / Design Museum."
+        },
+        {
+          "id": "gallery-es-devlin-other-worlds-process-interview-2026-4",
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video-1_dezeen_2364_col_5-scaled.jpg",
+          "source": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+          "caption": "Макет Mirror Maze: перегородки и отражающие поверхности в уменьшенном масштабе.",
+          "credit": "Фото: Richard Round-Turner / Design Museum."
+        },
+        {
+          "id": "gallery-es-devlin-other-worlds-process-interview-2026-5",
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video_dezeen_2364_col_4-1536x1024.jpg",
+          "source": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+          "caption": "Come Home Again, Mirrored — музейная конфигурация работы, впервые показанной в 2022 году.",
+          "credit": "Фото: Daniel Devlin / @susakpress / Design Museum."
+        },
+        {
+          "id": "gallery-es-devlin-other-worlds-process-interview-2026-6",
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video_dezeen_2364_col_5-1536x1024.jpg",
+          "source": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+          "caption": "A 30-Year Desk: круговые столы с рисунками, документами и моделями проектов.",
+          "credit": "Фото: Daniel Devlin / @susakpress / Design Museum."
+        },
+        {
+          "id": "gallery-es-devlin-other-worlds-process-interview-2026-8",
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video_dezeen_2364_col_15-1536x1025.jpg",
+          "source": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+          "caption": "Эс Девлин в красном переходе выставки Other Worlds.",
+          "credit": "Фото: Daniel Devlin / @susakpress / Design Museum."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 8,
+        "excluded": [],
+        "rightsSource": "https://designmuseum.org/asset/download?id=2bda83ea-0e4e-48cd-8141-00ab845c6b4f",
+        "note": "Просмотрены все 8 уникальных фотографий основного материала Dezeen от 27 октября. Повторы lightbox, видеоплеер и рекомендации других статей не считаются отдельными фотографиями. 1 обложка + 7 кадров без лимита. Музей в официальном пресс-релизе предоставляет PRESS IMAGES из публичного Dropbox для освещения выставки; сверены подписи и имена фотографов в caption sheet. Разрешительное основание — предоставленный музеем пресс-комплект для освещения выставки, не один фотокредит; лицензия Creative Commons не заявляется. Все фото без водяных знаков; сохранены пропорции, без художественной обработки и наложений."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "es-devlin-other-worlds-process-interview-2026",
+      "url": "https://static-2026.dezeen.com/uploads/2026/10/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-video_dezeen_2364_col_17-1536x1025.jpg",
+      "source": "https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/",
+      "credit": "Фото: Luke Hayes / Design Museum."
+    }
+  ]
+}
