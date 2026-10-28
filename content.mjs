@@ -1,4 +1,4 @@
-export const edition='2026-10-21';
+export const edition='2026-10-28';
 export const categories={architecture:'Архитектура',interiors:'Интерьеры',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
 import {photoLegacyArticles} from './editorial/photo-legacy.mjs';
 export const articles=[...photoLegacyArticles];
@@ -937,6 +937,24 @@ add("apple-designers-of-tomorrow-paris-2026","Стол из пяти тысяч 
 
 Источником сведений об устройстве работ служит релиз организатора. Данных о сертификации, цене, серийном производстве и длительных испытаниях в нём нет; по фотографиям мы не делаем выводов об удобстве или долговечности.`,"https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/","Фото: пресс-материалы Apple Newsroom; фотограф не указан.","apple-designers-of-tomorrow-paris-2026","Designers of Tomorrow / Design Miami Paris, 21–25 октября 2026","2026-10-21");
 Object.assign(articles.at(-1),{"sources":[{"title":"Apple Newsroom: официальный фоторепортаж, 20 октября 2026","url":"https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/"},{"title":"Design Miami Paris: предпросмотр, дни работы и место","url":"https://designmiami.com/fair/paris-2026"}],"imageAlt":"Четыре проекта Designers of Tomorrow в зале Hôtel de Maisons в Париже","categories":["furniture","materials","exhibitions"]});
+add("es-devlin-other-worlds-process-interview-2026","Эс Девлин показала, как читать декорации по эскизам и макетам","people","Разбор","Лондон, Великобритания","В новом интервью о Other Worlds дизайнер объясняет свой рабочий процесс. Смотрим на блокнот, зеркальный макет, круговой архив и библиотеку из двух тысяч книг.",`27 октября Dezeen выпустил видеоинтервью с Эс Девлин о её выставке Other Worlds в лондонском Design Museum. Разговор посвящён тому, как сложные сценические пространства вырастают из рисунков и небольших моделей. Сама выставка работает со 2 октября — речь о новом интервью, а не о новом открытии.
+
+В экспозиции Девлин показывает последовательность работы. Сначала — воссозданная мастерская с книгами, инструментами и моделями. Затем — архив и круговые столы A 30-Year Desk, где можно сопоставить ранний замысел с последующими проектами. Макет здесь не служебное приложение к фотографии готовой сцены: у него своё место в рассказе.
+
+Особенно полезно посмотреть на Mirror Maze. Небольшие отражающие перегородки позволяют обсуждать направление взгляда и поворот маршрута до того, как появится полноразмерная конструкция. Масштабный макет не доказывает удобство и безопасность будущей установки, но делает пространственную идею предметом разговора, а не только красивым изображением.
+
+Финал выставки — An Infinite Library: восьмиметровая треугольная конструкция с более чем двумя тысячами книг, которая вращается над круглым зеркалом. По данным музея, это отдельный заказ для Other Worlds, четвёртая работа в серии библиотек Девлин. Проекции и записанный голос автора добавляют к физическому объекту движение, свет и текст. Книги после закрытия планируют передать местным школам и благотворительным организациям.
+
+Почему это стоит показать коллеге
+
+Здесь можно разделить три задачи, которые часто смешиваются в выставочном эскизе: что именно человек рассматривает, как он проходит через пространство и что меняется во времени. Блокнот, макет и фотография установки отвечают на разные вопросы. Один эффектный рендер за все три не ответит.
+
+Что взять в работу
+
+Для выставочного проекта в России из этой логики можно собрать конкретный этап согласования: простой макет маршрута, несколько проб света на реальных материалах и отдельную схему того, где посетитель останавливается. До заказа сложной конструкции полезно проверить вход, выход, место для очереди и доступ к оборудованию. Это наша рабочая интерпретация увиденных материалов, а не техническая рекомендация Девлин и не подтверждённый результат эксплуатации выставки.
+
+Интервью снято Dezeen для Design Museum в рамках партнёрского материала. Мы не беседовали с автором и не посещали экспозицию. Кураторы выставки — Johanna Agerman Ross и Danielle Thom при участии Margherita Dosi Delfini; проект создан в тесном сотрудничестве с Эс Девлин и её студией. Other Worlds открыта до 4 апреля 2027 года.`,"https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/","Фото: Luke Hayes / Design Museum.","es-devlin-other-worlds-process-interview-2026","Other Worlds: 2 октября 2026 — 4 апреля 2027. Новый повод: интервью 27 октября.","2026-10-28");
+Object.assign(articles.at(-1),{"sources":[{"title":"Dezeen: видеоинтервью 27 октября, партнёрский материал Design Museum","url":"https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/"},{"title":"Design Museum: Other Worlds, даты и авторство","url":"https://designmuseum.org/exhibitions/es-devlin-other-worlds"},{"title":"Официальный пресс-релиз со ссылкой на PRESS IMAGES","url":"https://designmuseum.org/asset/download?id=2bda83ea-0e4e-48cd-8141-00ab845c6b4f"},{"title":"Официальный пресс-комплект Design Museum: фото и caption sheets","url":"https://www.dropbox.com/scl/fo/0o0litm4ikj921l2cnxay/AG6JsoKj6SWg1gUN45Dss3Y?rlkey=km59w26phbplu6q1a4hu66wjc&dl=0"}],"imageAlt":"An Infinite Library: вращающаяся книжная конструкция над круглым зеркалом.","categories":["exhibitions"]});
 export const candidates=[
 ...articles.map(a=>({title:a.title,url:a.source,status:'published',article:a.id})),
 {title:'RP02 House / Cornetta',url:'https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura',status:'reserve',reason:'Построен в 2022; оставить для тематической подборки.'},
