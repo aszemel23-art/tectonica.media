@@ -1,4 +1,4 @@
-export const edition='2026-10-28';
+export const edition='2026-11-03';
 export const categories={architecture:'Архитектура',interiors:'Интерьеры',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
 import {photoLegacyArticles} from './editorial/photo-legacy.mjs';
 export const articles=[...photoLegacyArticles];
@@ -955,6 +955,26 @@ add("es-devlin-other-worlds-process-interview-2026","Эс Девлин пока�
 
 Интервью снято Dezeen для Design Museum в рамках партнёрского материала. Мы не беседовали с автором и не посещали экспозицию. Кураторы выставки — Johanna Agerman Ross и Danielle Thom при участии Margherita Dosi Delfini; проект создан в тесном сотрудничестве с Эс Девлин и её студией. Other Worlds открыта до 4 апреля 2027 года.`,"https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/","Фото: Luke Hayes / Design Museum.","es-devlin-other-worlds-process-interview-2026","Other Worlds: 2 октября 2026 — 4 апреля 2027. Новый повод: интервью 27 октября.","2026-10-28");
 Object.assign(articles.at(-1),{"sources":[{"title":"Dezeen: видеоинтервью 27 октября, партнёрский материал Design Museum","url":"https://www.dezeen.com/2026/10/27/other-worlds-es-devlin-exhibition-retrospective-design-museum-london-interview-video/"},{"title":"Design Museum: Other Worlds, даты и авторство","url":"https://designmuseum.org/exhibitions/es-devlin-other-worlds"},{"title":"Официальный пресс-релиз со ссылкой на PRESS IMAGES","url":"https://designmuseum.org/asset/download?id=2bda83ea-0e4e-48cd-8141-00ab845c6b4f"},{"title":"Официальный пресс-комплект Design Museum: фото и caption sheets","url":"https://www.dropbox.com/scl/fo/0o0litm4ikj921l2cnxay/AG6JsoKj6SWg1gUN45Dss3Y?rlkey=km59w26phbplu6q1a4hu66wjc&dl=0"}],"imageAlt":"An Infinite Library: вращающаяся книжная конструкция над круглым зеркалом.","categories":["exhibitions"]});
+add("kosmos-temporary-structures-azw-2026","Стройплощадка как архитектура: KOSMOS покажут временные конструкции в Вене","architecture","Разбор","Вена, Австрия","Новый анонс Temporary: понтонные мосты, защитные сетки и московское ограждение с печатным фасадом. Смотрим, чему у них можно научиться до сдачи здания.",`2 ноября Architekturzentrum Wien выпустил новый анонс Temporary. Structures of Necessity — выставки о временных конструкциях, которую задумали и спроектировали KOSMOS Architects. Она откроется в Вене 5 ноября, вернисаж назначен на 4-е. Снимки в этой статье показывают объекты исследования в разных городах; это не фотографии уже открытой экспозиции.
+
+Строительные леса, защитные сетки и временные переходы обычно воспринимаются как помеха между человеком и готовым зданием. KOSMOS предлагают рассмотреть, как они устроены сами по себе: что защищают, какое движение обеспечивают и как собираются под задачу. Выставку со стороны Az W ведёт Katharina Ritter.
+
+Сначала посмотрите на понтонные мосты в Праяградже. Повтор одного простого элемента создаёт целую систему путей. Рядом в галерее — совсем другой масштаб: мягкие накладки на лесах в Мадриде. Между ними полезно увидеть общую задачу проектирования — провести человека через место, где обычный маршрут перестал работать.
+
+Московский пример: ограждение тоже проектируют
+
+В пресс-серии есть фотография Николая Кошелева, сделанная в Москве в 2016 году: временная облицовка с напечатанным фасадом. Она возвращает улице знакомое изображение, пока настоящий фасад скрыт. На другом снимке технический шкаф в Женеве покрыт рисунком листвы. Это разные способы вписать служебный объект в окружение. Но красивое покрытие само по себе ещё ничего не говорит о ширине прохода, свете вечером и удобстве обхода — этих сведений фотографии не дают.
+
+Именно поэтому историю стоит показать коллеге, который ведёт реконструкцию или благоустройство. На плане готового объекта легко потерять месяцы, когда рядом продолжают жить и работать люди. Временный этап требует своего плана: где идёт пешеход, где проходит доставка, что видно из-за угла и как меняется схема по мере стройки.
+
+Что взять в работу в России
+
+Практический ход — добавить к обсуждению готового здания отдельную схему периода работ. Отметить на ней входы, обходы, места ожидания и пересечения с техникой; затем проверить их на площадке вместе с подрядчиком. Для съёмного ограждения или настила заранее обсудить повторное применение и хранение элементов. Это вопросы для проектного задания, а не готовые технические решения: по музейной фотографии нельзя назначать конструкцию или подтверждать её безопасность.
+
+Не стоит автоматически называть временное экологичным. Срок службы, число повторных сборок, перевозки и судьба материала после демонтажа здесь важнее самого слова «разборный». Публичный анонс выставки таких расчётов не содержит — это одна из тем, которую имеет смысл проверить в большом материале.
+
+Temporary. Structures of Necessity будет работать в Architekturzentrum Wien с 5 ноября 2026 года до 5 апреля 2027 года. Мы разбираем опубликованную программу и пресс-изображения, а не выдаём их за собственное посещение.`,"https://www.e-flux.com/announcements/6786945/temporary-structures-of-necessity","Фото: Wolfgang Weinhardt, 2013. Пресс-материалы Architekturzentrum Wien.","kosmos-temporary-structures-azw-2026","Temporary: 5 ноября 2026 — 5 апреля 2027. Вернисаж 4 ноября.","2026-11-03");
+Object.assign(articles.at(-1),{"sources":[{"title":"Az W: новый анонс на e-flux, 2 ноября 2026","url":"https://www.e-flux.com/announcements/6786945/temporary-structures-of-necessity"},{"title":"Az W: полная пресс-галерея с подписями и кредитами","url":"https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/"},{"title":"Az W: условия использования пресс-изображений","url":"https://www.azw.at/en/articles/press/"}],"imageAlt":"Понтонные мосты для паломников на Кумбха-Меле, Праяградж, 2013.","categories":["exhibitions"]});
 export const candidates=[
 ...articles.map(a=>({title:a.title,url:a.source,status:'published',article:a.id})),
 {title:'RP02 House / Cornetta',url:'https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura',status:'reserve',reason:'Построен в 2022; оставить для тематической подборки.'},
