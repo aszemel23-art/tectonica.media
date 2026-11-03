@@ -1,0 +1,289 @@
+{
+  "date": "2026-11-03",
+  "window": "2026-11-02T02:32:38.460Z — 2026-11-03T02:32:38.460Z",
+  "intro": "Строительный забор, защитная сетка и понтонный мост как предмет архитектурного исследования. Разбираем новый анонс KOSMOS в Вене, включая московский пример.",
+  "featured": {
+    "lead": "kosmos-temporary-structures-azw-2026",
+    "secondary": "es-devlin-other-worlds-process-interview-2026",
+    "stories": [
+      "kosmos-temporary-structures-azw-2026"
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "kosmos-temporary-structures-azw-2026",
+      "time": "5 минут",
+      "reason": "Новый первичный анонс предлагает посмотреть на временный этап проекта как на самостоятельную задачу. Реальные фотографии мостов, лесов и ограждений помогают обсудить движение людей и устройство стройплощадки, а не только окончательный фасад."
+    }
+  ],
+  "featurePitches": [
+    {
+      "article": "kosmos-temporary-structures-azw-2026",
+      "title": "Как проектировать улицу, пока идёт стройка",
+      "text": "Разобрать российские реконструкции с отдельными схемами обходов, входов и доставки. Сопоставить проект с наблюдением на площадке; для материала нужны разговоры с жителями, проектировщиками и подрядчиками, а не выводы только по фото."
+    },
+    {
+      "article": "kosmos-temporary-structures-azw-2026",
+      "title": "Куда уходят временные конструкции после демонтажа",
+      "text": "Проследить судьбу ограждения, настила и защитной сетки на нескольких российских стройках: число повторных использований, хранение, ремонт и перевозки. Экологический эффект считать по данным, не выводить из слова «временный»."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Временный этап стройки получает собственное проектное задание",
+    "text": "Гипотеза для наблюдения: конструкции, которые обычно записывают в служебные расходы, могут стать отдельным предметом архитектурного обсуждения — с маршрутами, повторной сборкой и уходом. Выставка KOSMOS даёт один исследовательский пример, а не доказательство рыночного сдвига. Проверять гипотезу стоит по российским заданиям и договорам: есть ли у временного этапа автор, чертежи, бюджет и критерии проверки.",
+    "sources": [
+      {
+        "title": "Новый анонс Temporary. Structures of Necessity",
+        "url": "https://www.e-flux.com/announcements/6786945/temporary-structures-of-necessity"
+      }
+    ]
+  },
+  "rubricReview": {
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-11-03",
+        "added": [
+          "kosmos-temporary-structures-azw-2026"
+        ],
+        "note": "Добавлен разбор нового первичного анонса Az W на e-flux от 2 ноября. Открытие выставки 5 ноября отделено от анонса. Авторский материал о Фабричной опубликован 2 ноября, но концепция представлена 28 октября; не выдана за новую стройку, изображения не прошли проверку перепубликации."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "ING/MIXD в D5 2 ноября — повтор ранее опубликованного офиса; найдена публикация 25 сентября 2026 и более ранний пресс-релиз. Новым открытием не считать. Jaguar flagship требует проверки первичной даты."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Porsche x La Marzocco в русской ленте 2 ноября — первичный анонс Porsche 29 октября и продажи с 30 октября; исключено из 24 часов. Цветовая версия кроссовок D5 не отобрана как сильная тема TECTONICA."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Просмотрены D5 furniture и Dezeen. Buoy stools датированы 1 ноября, вне текущего окна. Новая сильная тема не подтверждена; равное количество не требуется."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Platek: D5 2 ноября пересказывает более ранний декоративный каталог 2026; это не подтверждённая новая коллекция текущих суток. Материал Sabine Marcelis от 30 октября вне окна. Дополнительная рубрика свет статье о Temporary не присвоена."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Шерстяной фасад Harvard — сентябрьский показ, Vigils OXMAN описан 7 октября; вторичные публикации 2 ноября не превращены в новые разработки. Фотографии сеток и лесов Temporary не являются запуском нового материала."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-13",
+        "latestPublication": "2026-10-13",
+        "added": [],
+        "note": "Vigils — раннее исследование, не промышленный запуск текущих суток; первичный проект OXMAN и более ранняя публикация сверены. Шерстяной композит также не новая разработка 2 ноября. Новая сильная архитектурная технология в проверенных источниках не подтверждена."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-28",
+        "latestPublication": "2026-11-03",
+        "added": [
+          "kosmos-temporary-structures-azw-2026"
+        ],
+        "note": "Добавлен Temporary / KOSMOS: новый анонс 2 ноября, показ с 5 ноября до 5 апреля. Просмотрены все 16 пресс-фото, использованы 11, пять стоковых/агентских исключены. Sabine Marcelis открыта 30 октября, обзор Designboom также 30-го; не включена в новостной маршрут текущих суток. Zaha Hadid Foundation: публичное открытие 3 ноября, анонс 20 октября, вторичная публикация 2 ноября; пресс-разрешение на полную серию не найдено."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-28",
+        "latestPublication": "2026-10-28",
+        "added": [],
+        "note": "Lacaton & Vassal: новость о Prix Charlotte Perriand 2027 от 2 ноября проверена по Dezeen, первичный анонс и разрешённая серия для этой награды не найдены. Pritzker разрешает свой пакет только для объявления премии 2021, поэтому он не использован. Design Mate People: последняя анкета 20 октября вне окна."
+      }
+    },
+    "sourcesChecked": [
+      "https://archi.ru/",
+      "https://www.dezeen.com/",
+      "https://www.designboom.com/",
+      "https://d5mag.com/",
+      "https://d5mag.com/furniture-design/",
+      "https://d5mag.com/lighting-design/",
+      "https://d5mag.com/industrial-design/",
+      "https://design-mate.ru/read/people",
+      "https://t.me/s/rdmoscownew",
+      "https://archi.ru/russia/102847/siti-na-fabrichnoi",
+      "https://www.oxman.com/projects/vigils",
+      "https://corkinho.com/",
+      "https://www.createursdesignawards.com/",
+      "https://www.e-flux.com/announcements/6786945/temporary-structures-of-necessity",
+      "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+      "https://www.azw.at/en/articles/press/",
+      "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+      "https://museum-gestaltung.ch/en/museum/media",
+      "https://corkinho.com/copyright",
+      "https://newsroom.porsche.com/en/2026/company/porsche-911-carrera-rs-2-7-collection-la-marzocco-43603.html",
+      "https://www.harvarddesignmagazine.org/articles/from-fleece-to-facade-jonathan-grinham-grinham-research-group-also-architecture-triennale-wool-exterior-retrofit/",
+      "https://www.pritzkerprize.com/laureates/anne-lacaton-and-jean-philippe-vassal",
+      "https://www.dezeen.com/2026/11/02/lacaton-vassal-le-prix-charlotte-perriand-2027/"
+    ],
+    "limitations": [
+      "Обзор ограничен перечисленными источниками и не претендует на полный охват всех новостей.",
+      "Свежая российская отдельная статья не подготовлена; московский пример 2016 года включён в разбор выставки с действительной датой, не выдан за сегодняшнее событие.",
+      "Даты последних статей всех девяти маршрутов рубрик сверены на опубликованном сайте перед выпуском.",
+      "Пять стоковых/агентских фото музейной подборки не публикуются. Разрешение Az W на используемые фотографии ограничено 5 октября 2027 года."
+    ],
+    "date": "2026-11-03",
+    "window": "2026-11-02T02:32:38.460Z — 2026-11-03T02:32:38.460Z"
+  },
+  "articles": [
+    {
+      "id": "kosmos-temporary-structures-azw-2026",
+      "title": "Стройплощадка как архитектура: KOSMOS покажут временные конструкции в Вене",
+      "category": "architecture",
+      "categories": [
+        "exhibitions"
+      ],
+      "format": "Разбор",
+      "place": "Вена, Австрия",
+      "dek": "Новый анонс Temporary: понтонные мосты, защитные сетки и московское ограждение с печатным фасадом. Смотрим, чему у них можно научиться до сдачи здания.",
+      "body": "2 ноября Architekturzentrum Wien выпустил новый анонс Temporary. Structures of Necessity — выставки о временных конструкциях, которую задумали и спроектировали KOSMOS Architects. Она откроется в Вене 5 ноября, вернисаж назначен на 4-е. Снимки в этой статье показывают объекты исследования в разных городах; это не фотографии уже открытой экспозиции.\n\nСтроительные леса, защитные сетки и временные переходы обычно воспринимаются как помеха между человеком и готовым зданием. KOSMOS предлагают рассмотреть, как они устроены сами по себе: что защищают, какое движение обеспечивают и как собираются под задачу. Выставку со стороны Az W ведёт Katharina Ritter.\n\nСначала посмотрите на понтонные мосты в Праяградже. Повтор одного простого элемента создаёт целую систему путей. Рядом в галерее — совсем другой масштаб: мягкие накладки на лесах в Мадриде. Между ними полезно увидеть общую задачу проектирования — провести человека через место, где обычный маршрут перестал работать.\n\nМосковский пример: ограждение тоже проектируют\n\nВ пресс-серии есть фотография Николая Кошелева, сделанная в Москве в 2016 году: временная облицовка с напечатанным фасадом. Она возвращает улице знакомое изображение, пока настоящий фасад скрыт. На другом снимке технический шкаф в Женеве покрыт рисунком листвы. Это разные способы вписать служебный объект в окружение. Но красивое покрытие само по себе ещё ничего не говорит о ширине прохода, свете вечером и удобстве обхода — этих сведений фотографии не дают.\n\nИменно поэтому историю стоит показать коллеге, который ведёт реконструкцию или благоустройство. На плане готового объекта легко потерять месяцы, когда рядом продолжают жить и работать люди. Временный этап требует своего плана: где идёт пешеход, где проходит доставка, что видно из-за угла и как меняется схема по мере стройки.\n\nЧто взять в работу в России\n\nПрактический ход — добавить к обсуждению готового здания отдельную схему периода работ. Отметить на ней входы, обходы, места ожидания и пересечения с техникой; затем проверить их на площадке вместе с подрядчиком. Для съёмного ограждения или настила заранее обсудить повторное применение и хранение элементов. Это вопросы для проектного задания, а не готовые технические решения: по музейной фотографии нельзя назначать конструкцию или подтверждать её безопасность.\n\nНе стоит автоматически называть временное экологичным. Срок службы, число повторных сборок, перевозки и судьба материала после демонтажа здесь важнее самого слова «разборный». Публичный анонс выставки таких расчётов не содержит — это одна из тем, которую имеет смысл проверить в большом материале.\n\nTemporary. Structures of Necessity будет работать в Architekturzentrum Wien с 5 ноября 2026 года до 5 апреля 2027 года. Мы разбираем опубликованную программу и пресс-изображения, а не выдаём их за собственное посещение.",
+      "source": "https://www.e-flux.com/announcements/6786945/temporary-structures-of-necessity",
+      "sources": [
+        {
+          "title": "Az W: новый анонс на e-flux, 2 ноября 2026",
+          "url": "https://www.e-flux.com/announcements/6786945/temporary-structures-of-necessity"
+        },
+        {
+          "title": "Az W: полная пресс-галерея с подписями и кредитами",
+          "url": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/"
+        },
+        {
+          "title": "Az W: условия использования пресс-изображений",
+          "url": "https://www.azw.at/en/articles/press/"
+        }
+      ],
+      "credit": "Фото: Wolfgang Weinhardt, 2013. Пресс-материалы Architekturzentrum Wien.",
+      "image": "kosmos-temporary-structures-azw-2026",
+      "imageAlt": "Понтонные мосты для паломников на Кумбха-Меле, Праяградж, 2013.",
+      "event": "Temporary: 5 ноября 2026 — 5 апреля 2027. Вернисаж 4 ноября.",
+      "gallery": [
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-1",
+          "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_1A_7_%C2%A9kosmosarchitects_lowres.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Стройплощадка в Цюрихе, 2018.",
+          "credit": "Фото: KOSMOS Architects, 2018. Пресс-материалы Architekturzentrum Wien."
+        },
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-2",
+          "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_1A_16_%C2%A9Gili-Merin_lowres.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Трубы отвода грунтовой воды на венской стройке, 2026.",
+          "credit": "Фото: Gili Merin, 2026. Пресс-материалы Architekturzentrum Wien."
+        },
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-3",
+          "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_2A_10_%C2%A9KOSMOS-Architects_lowres.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Технический шкаф с лиственным рисунком, Женева, 2018.",
+          "credit": "Фото: KOSMOS Architects, 2018. Пресс-материалы Architekturzentrum Wien."
+        },
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-4",
+          "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_2A_13_%C2%A9Gili-Merin_lowres.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Павильон Отто Вагнера на Карлсплац во время ремонта, Вена, 2026.",
+          "credit": "Фото: Gili Merin, 2026. Пресс-материалы Architekturzentrum Wien."
+        },
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-5",
+          "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_2A_15_%C2%A9Nikolay-Koshelev.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Печатная облицовка строительного ограждения, Москва, 2016.",
+          "credit": "Фото: Nikolay Koshelev, 2016. Пресс-материалы Architekturzentrum Wien."
+        },
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-6",
+          "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_2A_18_%C2%A9kosmosarchitects.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Собор Санта-Мария-дель-Фьоре во время реставрации, Флоренция, 2026.",
+          "credit": "Фото: KOSMOS Architects, 2026. Пресс-материалы Architekturzentrum Wien."
+        },
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-7",
+          "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_2B_6_%C2%A9kosmosarchitects_lowres.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Защитные сетки над парковкой, Бангкок, 2017.",
+          "credit": "Фото: KOSMOS Architects, 2017. Пресс-материалы Architekturzentrum Wien."
+        },
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-8",
+          "url": "https://www.azw.at/wp-content/uploads/2026/08/2_3-A-1.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Щётки перед тоннелем или стройплощадкой как предупреждение пассажирам, Базель, 2025.",
+          "credit": "Фото: KOSMOS Architects. Пресс-материалы Architekturzentrum Wien."
+        },
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-9",
+          "url": "https://www.azw.at/wp-content/uploads/2025/12/Tempora%CC%88r_09_%C2%A9KOSMOS-Architects_154-155.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Мягкая защита на строительных лесах, Мадрид, 2016.",
+          "credit": "Фото: KOSMOS Architects, 2016. Пресс-материалы Architekturzentrum Wien."
+        },
+        {
+          "id": "gallery-kosmos-temporary-structures-azw-2026-11",
+          "url": "https://www.azw.at/wp-content/uploads/2025/12/Tempora%CC%88r_02_%C2%A9PeterSteinhauer.jpg",
+          "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+          "caption": "Бамбуковые леса на высотном здании, Гонконг.",
+          "credit": "Фото: Peter Steinhauer. Пресс-материалы Architekturzentrum Wien."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 16,
+        "excluded": [
+          {
+            "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_1A_13_%C2%A9Alamy_lowres-250x262.jpg",
+            "reason": "Кадр из стокового/агентского банка в музейной подборке. Исключён по требованию владельца не использовать стоки; не заменён похожим объектом."
+          },
+          {
+            "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_3B_%C2%A9shutterstock_lowres-250x167.jpg",
+            "reason": "Кадр из стокового/агентского банка в музейной подборке. Исключён по требованию владельца не использовать стоки; не заменён похожим объектом."
+          },
+          {
+            "url": "https://www.azw.at/wp-content/uploads/2025/12/Tempora%CC%88r_04_%C2%A9Rinofelino_Dreamstime_klein-250x167.jpg",
+            "reason": "Кадр из стокового/агентского банка в музейной подборке. Исключён по требованию владельца не использовать стоки; не заменён похожим объектом."
+          },
+          {
+            "url": "https://www.azw.at/wp-content/uploads/2025/12/Tempora%CC%88r_10_%C2%A9Palinchak_Freepik-250x166.jpg",
+            "reason": "Кадр из стокового/агентского банка в музейной подборке. Исключён по требованию владельца не использовать стоки; не заменён похожим объектом."
+          },
+          {
+            "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_4B_11_%C2%A9Viavado-istockphoto_lowres-250x167.jpg",
+            "reason": "Кадр из стокового/агентского банка в музейной подборке. Исключён по требованию владельца не использовать стоки; не заменён похожим объектом."
+          }
+        ],
+        "rightsSource": "https://www.azw.at/en/articles/press/",
+        "rightsExpires": "2027-10-05",
+        "note": "Просмотрены все 16 позиций официальной пресс-галереи. Использованы 11 реальных фотографий объектов исследования: 1 обложка + 10 в исходном порядке. Пять стоковых/агентских кадров исключены явно, поэтому серия не названа полной. Az W разрешает бесплатное текущее освещение выставки с кредитами до шести месяцев после окончания. Исторические даты фото сохранены; виды экспозиции не выдуманы. Пропорции сохранены, без кадрирования, фильтров, надписей и водяных знаков. Московский файл доступен в исходном размере 640×532, не увеличен."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "kosmos-temporary-structures-azw-2026",
+      "url": "https://www.azw.at/wp-content/uploads/2026/09/TEM_3B_13_%C2%A9Wolfgang-Weinhardt_lowres.jpg",
+      "source": "https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/",
+      "credit": "Фото: Wolfgang Weinhardt, 2013. Пресс-материалы Architekturzentrum Wien."
+    }
+  ]
+}
