@@ -1,4 +1,4 @@
-export const edition='2026-11-07';
+export const edition='2026-11-12';
 export const categories={architecture:'Архитектура',interiors:'Интерьеры',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
 import {photoLegacyArticles} from './editorial/photo-legacy.mjs';
 export const articles=[...photoLegacyArticles];
@@ -981,6 +981,16 @@ add("powerhouse-parramatta-2026","Powerhouse Parramatta открывает му�
 
 Российскому музею или дизайн-центру здесь пригодится сама постановка задачи. Для выставки о местной торговле можно собрать витрины, фотографии и свидетельства посетителей и проследить, как рынок, универмаг или торговый центр меняли район. Масштаб здания для такого исследования вторичен.`,"https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed","Powerhouse Studio","powerhouse-parramatta-2026","Открытие музея 7 ноября 2026 года","2026-11-07");
 Object.assign(articles.at(-1),{"sources":[{"title":"Музей: пресс-релиз и фотосерия","url":"https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed"},{"title":"Музей: открытие и программа","url":"https://powerhouse.com.au/visit/parramatta"},{"title":"Moreau Kusunoki: архитектура здания","url":"https://moreaukusunoki.com/project/powerhouse-precinct-at-parramatta/"}],"imageAlt":"Powerhouse Parramatta и окружающая застройка, вид с воздуха.","categories":["exhibitions"]});
+add("shibui-museum-angewandte-kunst-2026","Во Франкфурте показывают керамику через японское понятие сибуи","objects","Обзор","Франкфурт, Германия","Выставка сопоставляет предметы из Азии и Европы и предлагает рассмотреть сдержанную красоту формы и поверхности.",`12 ноября Museum Angewandte Kunst открывает выставку «亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries». Куратор Анетт Гёте сопоставляет исторические и современные предметы из Японии, Китая, Кореи и Европы. Выставка продлится до 15 августа 2027 года.
+
+Японское понятие сибуи описывает сдержанную красоту, которая раскрывается постепенно. Музей предлагает увидеть её за пределами одной культуры: рядом оказываются сосуд эпохи Хань со следами глазури, корейская бронзовая чаша с крышкой и японская чайная чаша Айсаку Судзуки.
+
+Здесь интересно рассмотреть не только отдельный предмет, но и его показ. На фотографиях музейной экспозиции сосуды поставлены на простые светлые постаменты, а между ними оставлено достаточно пространства для сравнения формы и поверхности. Внимание сосредоточено на самих вещах: заметны неровности глазури, силуэт и масштаб.
+
+Такой подход стоит обсудить с коллегой, который готовит интерьерную или музейную экспозицию. Для российского проекта можно попробовать сопоставить локальную керамику разных периодов через форму и способ изготовления, заранее согласовав подбор предметов и подписи с хранителями и авторами. Для выставки важны также свет, условия хранения и безопасность, которые по фотографиям оценить нельзя.
+
+В галерее — четыре музейных снимка экспозиции и шесть фотографий предметов из официального пресс-набора. Авторы съёмки Günzel/Rademacher и Ute Kunze. Материал основан на информации музея.`,"https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/","Фото: Günzel/Rademacher © Museum Angewandte Kunst","shibui-museum-angewandte-kunst-2026","Выставка 12 ноября 2026 — 15 августа 2027","2026-11-12");
+Object.assign(articles.at(-1),{"sources":[{"title":"Museum Angewandte Kunst: пресс-релиз, изображения и условия использования","url":"https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/"}],"imageAlt":"亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Вид экспозиции, Франкфурт.","categories":["exhibitions"]});
 export const candidates=[
 ...articles.map(a=>({title:a.title,url:a.source,status:'published',article:a.id})),
 {title:'RP02 House / Cornetta',url:'https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura',status:'reserve',reason:'Построен в 2022; оставить для тематической подборки.'},

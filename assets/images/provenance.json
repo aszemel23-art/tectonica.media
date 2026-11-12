@@ -3043,5 +3043,13 @@
     "credit": "Powerhouse Studio",
     "width": 2160,
     "height": 1542
+  },
+  "shibui-museum-angewandte-kunst-2026": {
+    "url": "https://www.museumangewandtekunst.de/images/download-lightbox/ausstellungsansicht_meet_asian_art_shibui_foto_guenzel_rademacher_c_museumangewandtekunst_1.jpg",
+    "fetch_url": "https://www.museumangewandtekunst.de/images/download-lightbox/ausstellungsansicht_meet_asian_art_shibui_foto_guenzel_rademacher_c_museumangewandtekunst_1.jpg",
+    "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+    "credit": "Фото: Günzel/Rademacher © Museum Angewandte Kunst",
+    "width": 1100,
+    "height": 852
   }
 }
