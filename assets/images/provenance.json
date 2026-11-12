@@ -3059,5 +3059,13 @@
     "credit": "Фото предоставлено Poliform, фотограф не указан.",
     "width": 1600,
     "height": 1067
+  },
+  "villa-les-quatre-vents-atelier-labri-2026": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123356/preview_1685-13_123356_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/123356/preview_1685-13_123356_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/1685-13/villa-les-quatre-vents-b1c40dd5-545a-46f7-8993-364f7d9b752f",
+    "credit": "Фото: Alex Lesage / Atelier L’Abri; пресс-материалы v2com.",
+    "width": 800,
+    "height": 533
   }
 }
