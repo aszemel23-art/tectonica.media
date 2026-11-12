@@ -1,0 +1,83 @@
+{
+  "updated": "2026-11-12",
+  "note": "Редакционный запас. Перед публикацией перепроверять актуальность, источники и права. Дата публикации соответствует фактическому выходу.",
+  "stories": [
+    {
+      "id": "museum-railway-architecture-2026",
+      "category": [
+        "architecture",
+        "exhibitions"
+      ],
+      "event_date": "2026-11-12",
+      "status": "ожидается ответ музея",
+      "source": "https://cmzt.ru/events/news-events/vystavka-arhitekturnoe-puteshestvie-po-zheleznoj-doroge-iz-sankt-peterburga-v-moskvu/",
+      "description": "Выставка об архитектуре железной дороги Петербург — Москва и альбоме акварелей XIX века.",
+      "photos": "12 ноября отправлен запрос в музей с просьбой предоставить фотографии и разрешение для сайта с рекламой.",
+      "next": "Проверить ответ в Gmail, условия и полную галерею."
+    },
+    {
+      "id": "mates-foriver-nesnov",
+      "category": [
+        "interiors"
+      ],
+      "source_date": "2026-11-11",
+      "event_date": "2026-04",
+      "status": "проверить права",
+      "source": "https://archi.ru/russia/102893/legkii-roscherk-na-stene",
+      "description": "Московское кафе Mátes, Nesnov.studio, роспись Тимофея Илларионова, винтажная мебель.",
+      "photos": "Полина Полудкина, предоставлены Nesnov.studio изданию Archi.ru; разрешение для TECTONICA не найдено.",
+      "next": "Искать открытый пресс-набор с правами или другую тему."
+    },
+    {
+      "id": "vyksa-museum-mish",
+      "category": [
+        "interiors",
+        "exhibitions"
+      ],
+      "source_date": "2026-11-11",
+      "event_date": "2026-06",
+      "status": "проверить права и новостной повод",
+      "source": "https://archi.ru/russia/102892/ot-zavoda-k-gorodu",
+      "description": "Обновление первого этажа Музея Выксы [MISH] studio, историческая анфилада, металлические модули и цвет шлака.",
+      "photos": "Наталья Покровская, предоставлены [MISH] studio изданию Archi.ru; разрешение для TECTONICA не найдено.",
+      "next": "Искать открытый пресс-набор и явно отличать дату публикации от завершения."
+    },
+    {
+      "id": "mit-scale-rich-metamaterials",
+      "category": [
+        "materials",
+        "technology"
+      ],
+      "source_date": "2026-11-11",
+      "status": "проверить права",
+      "source": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
+      "description": "Исследование алгоритмически спроектированных нерегулярных решётчатых полимерных образцов.",
+      "photos": "MIT предлагает изображения по CC BY-NC-ND. Совместимость с сайтом, где есть реклама, не установлена.",
+      "next": "Искать фото с разрешением для использования на коммерческом сайте или иную тему."
+    },
+    {
+      "id": "delf-ii-kaplan-patti",
+      "category": [
+        "furniture"
+      ],
+      "source_date": "2026-11-11",
+      "status": "проверить первоисточник и права",
+      "source": "https://ordinarychaos.co.uk/delf-ii-furniture-collection-by-danny-kaplan-and-vince-patti/",
+      "description": "Расширение мебельной коллекции Delf II, керамика и дерево.",
+      "photos": "Официальный пресс-набор и разрешение на публикацию не подтверждены.",
+      "next": "Проверить дату запуска, бюро, фото и права."
+    },
+    {
+      "id": "a-forum-hospitality-architecture",
+      "category": [
+        "architecture"
+      ],
+      "event_date": "2026-11-12",
+      "status": "проверить проекты и фотоправа",
+      "source": "https://news.ahouseproject.com/forum/",
+      "description": "Архитектурная экспозиция форума гостиничной индустрии в Москве.",
+      "photos": "Искать реальные снимки представленных проектов и условия использования.",
+      "next": "Выбрать конкретное сильное решение, а не пересказывать программу."
+    }
+  ]
+}
