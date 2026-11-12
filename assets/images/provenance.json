@@ -3051,5 +3051,13 @@
     "credit": "Фото: Günzel/Rademacher © Museum Angewandte Kunst",
     "width": 1100,
     "height": 852
+  },
+  "poliform-yabu-pushelberg-solstice-2026": {
+    "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/7.jpg",
+    "fetch_url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/7.jpg",
+    "source": "https://www.poliform.it/en/press-kit-2026/",
+    "credit": "Фото предоставлено Poliform, фотограф не указан.",
+    "width": 1600,
+    "height": 1067
   }
 }
