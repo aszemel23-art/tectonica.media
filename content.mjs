@@ -1,5 +1,5 @@
 export const edition='2026-11-12';
-export const categories={architecture:'Архитектура',interiors:'Интерьеры',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
+export const categories={architecture:'Архитектура',interiors:'Интерьеры',designers:'Дизайнеры и бюро',landscape:'Сады и ландшафт',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
 import {photoLegacyArticles} from './editorial/photo-legacy.mjs';
 export const articles=[...photoLegacyArticles];
 const defaultArticleDate='2026-09-14';
@@ -1029,3 +1029,14 @@ applyArticleMedia(articles);
 
 import {reviseEditorial} from './scripts/editorial-revision.mjs';
 reviseEditorial(articles);
+
+// Existing stories are included only when the new section fits their subject.
+for (const [category, ids] of Object.entries({
+  designers: ['es-devlin-other-worlds-process-interview-2026', 'omhu-salomonsson-teddy-direct-sales-2026'],
+  landscape: ['fondation-beyeler-zumthor-2026', 'lucas-museum-opens-2026']
+})) {
+  for (const id of ids) {
+    const article = articles.find(item => item.id === id);
+    if (article) article.categories = [...new Set([...(article.categories || []), category])];
+  }
+}
