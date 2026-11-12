@@ -1,5 +1,16 @@
 const escapeHTML=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 
+document.querySelector('[data-article-back]')?.addEventListener('click', event => {
+  if (!document.referrer || history.length < 2) return;
+  try {
+    if (new URL(document.referrer).origin !== location.origin) return;
+    event.preventDefault();
+    history.back();
+  } catch {
+    // The link points to the article's category when there is no usable history.
+  }
+});
+
 // Check for new stories when a reader returns to the magazine's listing pages.
 if (location.pathname === '/' || /^\/(daily|feed|category)(\/|$)/.test(location.pathname)) {
   let checking = false;
