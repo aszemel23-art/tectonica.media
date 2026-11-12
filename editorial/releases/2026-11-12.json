@@ -6,6 +6,7 @@
     "lead": "shibui-museum-angewandte-kunst-2026",
     "secondary": "powerhouse-parramatta-2026",
     "stories": [
+      "poliform-yabu-pushelberg-solstice-2026",
       "shibui-museum-angewandte-kunst-2026"
     ]
   },
@@ -14,6 +15,11 @@
       "id": "shibui-museum-angewandte-kunst-2026",
       "time": "5 минут",
       "reason": "Предметы разных эпох и музейная съёмка позволяют внимательно сравнить форму сосудов, глазурь и способы показа."
+    },
+    {
+      "id": "poliform-yabu-pushelberg-solstice-2026",
+      "time": "5 минут",
+      "reason": "Новая инсталляция показывает мебель в разных пространственных сценариях, а полная серия фотографий позволяет увидеть композицию и свет."
     }
   ],
   "featurePitches": [
@@ -55,9 +61,11 @@
       },
       "interiors": {
         "previousLatestPublication": "2026-10-08",
-        "latestPublication": "2026-10-08",
-        "added": [],
-        "note": "CST #185 показывает интерьер дома 2025 года. Права на серию Jesús Granada не подтверждены."
+        "latestPublication": "2026-11-12",
+        "added": [
+          "poliform-yabu-pushelberg-solstice-2026"
+        ],
+        "note": "Добавлена инсталляция Solstice и мебель Lanai и Aqualuna из официального пресс-набора Poliform."
       },
       "objects": {
         "previousLatestPublication": "2026-10-21",
@@ -69,9 +77,11 @@
       },
       "furniture": {
         "previousLatestPublication": "2026-10-21",
-        "latestPublication": "2026-10-21",
-        "added": [],
-        "note": "Delf II упоминается в материале 11 ноября, первичная дата запуска и условия использования фотографий не подтверждены."
+        "latestPublication": "2026-11-12",
+        "added": [
+          "poliform-yabu-pushelberg-solstice-2026"
+        ],
+        "note": "Добавлена инсталляция Solstice и мебель Lanai и Aqualuna из официального пресс-набора Poliform."
       },
       "lighting": {
         "previousLatestPublication": "2026-10-21",
@@ -111,7 +121,9 @@
       "https://www.archdaily.com/1188279/cst-number-185-tini-plus-delavegacanolasso",
       "https://ordinarychaos.co.uk/delf-ii-furniture-collection-by-danny-kaplan-and-vince-patti/",
       "https://d5mag.com/",
-      "https://www.seouldesignaward.or.kr/announcement"
+      "https://www.seouldesignaward.or.kr/announcement",
+      "https://www.poliform.it/en/press-kit-2026/",
+      "https://www.siamnewsnetwork.net/pr-news/poliform-and-yabu-pushelberg-present-solstice-an-immersive-installation-exploring-the-intersection-of-design-nature-and-atmosphere/"
     ],
     "limitations": [
       "Проверка ограничена перечисленными источниками. Для российской отдельной истории за выбранное окно подтверждённого фотонабора не найдено."
@@ -213,6 +225,146 @@
         "rightsSource": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
         "note": "Музей разрешает использование пресс-изображений в материале о выставке с указанием полного названия."
       }
+    },
+    {
+      "id": "poliform-yabu-pushelberg-solstice-2026",
+      "title": "Poliform и Yabu Pushelberg показали мебель среди сезонных пейзажей",
+      "category": "interiors",
+      "categories": [
+        "furniture"
+      ],
+      "format": "Обзор",
+      "place": "Шанхай, Китай",
+      "dek": "В инсталляции Solstice кровать и кресла поставили среди растений, зеркал и света. Показ пройдёт 13 и 14 ноября.",
+      "body": "12 ноября Poliform и Yabu Pushelberg представили проект Solstice в Шанхае. Двухдневный показ в пространстве YARD 200 запланирован на 13–14 ноября. Инсталляция сопровождает запуск сотрудничества мебельной компании с дизайнерским бюро.\n\nВместо ряда отдельных комнат авторы выстроили последовательность пространств по мотивам времён года. У входа посетителей встречает сад с зеркалами. В одном зале кровать Lanai окружена растениями, в других кресла Aqualuna появляются среди трав или на отражающей поверхности. Свет и звук связывают части маршрута.\n\nЗдесь интересен способ показывать мебель через окружение. Кровать Lanai задумана как система с платформой, хранением и местами для сидения, а не только как отдельный предмет. Инсталляция позволяет увидеть, как масштаб этой системы работает в комнате и как меняется восприятие кресла при разном фоне. Фотографии дают возможность оценить композицию, но не удобство мебели или качество акустики.\n\nДля российского шоурума можно взять сам принцип последовательного показа: расставить один предмет в двух разных световых и материальных сценариях и сравнить результат вместе с заказчиком. Растения, отражающие поверхности и подсветку при этом нужно подбирать с учётом ухода, бюджета и эксплуатации конкретного помещения.\n\nВ статье показаны все 16 изображений из официального пресс-набора Poliform. Компания предоставила их для редакционных публикаций. Имя фотографа в наборе не указано.",
+      "source": "https://www.siamnewsnetwork.net/pr-news/poliform-and-yabu-pushelberg-present-solstice-an-immersive-installation-exploring-the-intersection-of-design-nature-and-atmosphere/",
+      "sources": [
+        {
+          "title": "Poliform: пресс-набор Solstice",
+          "url": "https://www.poliform.it/en/press-kit-2026/"
+        },
+        {
+          "title": "Пресс-релиз Poliform и Yabu Pushelberg, 12 ноября",
+          "url": "https://www.siamnewsnetwork.net/pr-news/poliform-and-yabu-pushelberg-present-solstice-an-immersive-installation-exploring-the-intersection-of-design-nature-and-atmosphere/"
+        }
+      ],
+      "credit": "Фото предоставлено Poliform, фотограф не указан.",
+      "image": "poliform-yabu-pushelberg-solstice-2026",
+      "imageAlt": "Кровать Lanai в пространстве выставки.",
+      "event": "Показ Solstice, 13–14 ноября 2026 года",
+      "gallery": [
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-1",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/1.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Вход в пространство YARD 200 в Шанхае.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-2",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/2.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Фасад здания выставки.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-3",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/3.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Вход со стороны улицы.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-4",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/4.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Кресла Aqualuna в инсталляции.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-5",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/5.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Кресла в пространстве с травами.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-6",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/6.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Кресло Aqualuna среди растений.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-8",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/8.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Lanai в окружении растений.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-9",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/9.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Кровать Lanai, вид через растения.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-10",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/10.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Платформа Lanai и интегрированные элементы.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-11",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/11.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Кресла в зеркальном пространстве.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-12",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/12.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Пара кресел в зимнем пространстве.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-13",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/13.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Зона для встреч в тёплых тонах.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-14",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/14.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Кресла и детали интерьера.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-15",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/15.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Стол и кресла в зоне для встреч.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        },
+        {
+          "id": "gallery-poliform-yabu-pushelberg-solstice-2026-16",
+          "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/16.jpg",
+          "source": "https://www.poliform.it/en/press-kit-2026/",
+          "caption": "Общий вид зоны для встреч.",
+          "credit": "Фото предоставлено Poliform, фотограф не указан."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 16,
+        "excluded": [],
+        "rightsSource": "https://www.poliform.it/en/press-kit-2026/",
+        "note": "Все 16 фотографий из официального пресс-набора Solstice, предоставленного Poliform для редакционных публикаций."
+      }
     }
   ],
   "images": [
@@ -222,6 +374,13 @@
       "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
       "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Вид экспозиции, Франкфурт.",
       "credit": "Фото: Günzel/Rademacher © Museum Angewandte Kunst"
+    },
+    {
+      "id": "poliform-yabu-pushelberg-solstice-2026",
+      "url": "https://raw.githubusercontent.com/aszemel23-art/tectonica.media/main/editorial/press/solstice/7.jpg",
+      "source": "https://www.poliform.it/en/press-kit-2026/",
+      "caption": "Кровать Lanai в пространстве выставки.",
+      "credit": "Фото предоставлено Poliform, фотограф не указан."
     }
   ]
 }
