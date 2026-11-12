@@ -146,3 +146,26 @@
  .article .hero-intro{font-size:17px;margin-top:22px;line-height:1.8}
  .article-layout>.project-details{order:1;margin-top:4px}
 }
+
+/* Keep the introduction and story in one continuous reading column. */
+.article-body{display:flex;flex-direction:column}
+.article-body>.article-gallery{order:1}
+.article-body>.sourcebox{order:2}
+.article-body>.share{order:3}
+@media(min-width:1000px){
+ .article{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:clamp(36px,5vw,80px);align-items:start}
+ .article-hero{display:contents}
+ .article-hero .hero-copy{grid-area:auto;grid-column:1;grid-row:1}
+ .article-hero .article-figure{grid-area:auto;grid-column:2;grid-row:1 / span 2}
+ .article-layout{grid-column:1;grid-row:2;display:flex;flex-direction:column;gap:28px;margin:0 0 80px}
+ .article-layout>.project-details{order:1;width:100%}
+ .article .hero-intro,.article .prose{max-width:680px;font-size:18px;line-height:1.75}
+ .article .hero-intro{margin-top:24px}
+ .article-gallery{width:100%;margin-left:0}
+}
+@media(max-width:999px){
+ .article-hero{grid-template-areas:'copy' 'photo'}
+ .article-layout{display:flex;flex-direction:column;max-width:680px;margin:0 auto 64px;gap:28px}
+ .article-layout>.project-details{order:1;width:100%}
+ .article .hero-intro{font-size:18px;line-height:1.75}
+}
