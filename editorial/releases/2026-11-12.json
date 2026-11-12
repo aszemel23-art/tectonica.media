@@ -6,6 +6,7 @@
     "lead": "shibui-museum-angewandte-kunst-2026",
     "secondary": "powerhouse-parramatta-2026",
     "stories": [
+      "arina-krisanova-sky-house-moscow",
       "villa-les-quatre-vents-atelier-labri-2026",
       "poliform-yabu-pushelberg-solstice-2026",
       "shibui-museum-angewandte-kunst-2026"
@@ -26,6 +27,11 @@
       "id": "poliform-yabu-pushelberg-solstice-2026",
       "time": "5 минут",
       "reason": "Новая инсталляция показывает мебель в разных пространственных сценариях, а полная серия фотографий позволяет увидеть композицию и свет."
+    },
+    {
+      "id": "arina-krisanova-sky-house-moscow",
+      "time": "5 минут",
+      "reason": "Реальная квартира дизайнера показывает, как встроенный модуль объединяет кухню, рабочее место и хранение на 72 квадратных метрах."
     }
   ],
   "featurePitches": [
@@ -73,10 +79,11 @@
         "previousLatestPublication": "2026-10-08",
         "latestPublication": "2026-11-12",
         "added": [
+          "arina-krisanova-sky-house-moscow",
           "villa-les-quatre-vents-atelier-labri-2026",
           "poliform-yabu-pushelberg-solstice-2026"
         ],
-        "note": "Добавлен жилой дом Atelier L’Abri в Квебеке по пресс-публикации от 11 ноября. Завершён в 2025 году."
+        "note": "Добавлен обзор московской квартиры Арины Крисановой. Проект завершён в 2025 году и впервые опубликован в феврале 2026 года."
       },
       "objects": {
         "previousLatestPublication": "2026-10-21",
@@ -138,9 +145,10 @@
         "previousLatestPublication": "2026-11-12",
         "latestPublication": "2026-11-12",
         "added": [
+          "arina-krisanova-sky-house-moscow",
           "villa-les-quatre-vents-atelier-labri-2026"
         ],
-        "note": "Добавлен жилой дом Atelier L’Abri в Квебеке по пресс-публикации от 11 ноября. Завершён в 2025 году."
+        "note": "Добавлен обзор московской квартиры Арины Крисановой. Проект завершён в 2025 году и впервые опубликован в феврале 2026 года."
       }
     },
     "sourcesChecked": [
@@ -151,7 +159,8 @@
       "https://www.seouldesignaward.or.kr/announcement",
       "https://www.poliform.it/en/press-kit-2026/",
       "https://www.siamnewsnetwork.net/pr-news/poliform-and-yabu-pushelberg-present-solstice-an-immersive-installation-exploring-the-intersection-of-design-nature-and-atmosphere/",
-      "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/1685-13/villa-les-quatre-vents-b1c40dd5-545a-46f7-8993-364f7d9b752f"
+      "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/1685-13/villa-les-quatre-vents-b1c40dd5-545a-46f7-8993-364f7d9b752f",
+      "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house"
     ],
     "limitations": [
       "Проверка ограничена перечисленными источниками. Для российской отдельной истории за выбранное окно подтверждённого фотонабора не найдено."
@@ -627,6 +636,214 @@
         "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/1685-13/villa-les-quatre-vents-b1c40dd5-545a-46f7-8993-364f7d9b752f",
         "note": "Все 25 доступных фотографий из пресс-набора v2com, предоставленных СМИ с указанием Alex Lesage и источника. Четыре чертежа доступны в виде PDF по ссылкам в источниках."
       }
+    },
+    {
+      "id": "arina-krisanova-sky-house-moscow",
+      "title": "Квартира с голубой комнатой: Арина Крисанова совместила кухню и работу",
+      "category": "interiors",
+      "categories": [
+        "designers"
+      ],
+      "format": "Обзор",
+      "place": "Москва, Россия",
+      "dek": "В московской квартире 72 м² встроенный модуль меняет назначение, а зеркала продолжают библиотеку и общую зону.",
+      "body": "Дизайнер Арина Крисанова устроила свою московскую квартиру площадью 72 м² вокруг встроенного голубого модуля. Проект завершили в ноябре 2025 года, а в феврале 2026-го дизайнер опубликовала его с фотографиями Инны Каблуковой. Смотрим, как в одной квартире сочетаются кухня, рабочее место и библиотека.\n\nОтправной точкой для дизайнера стал Sky House — собственный дом японского архитектора Киё-нори Кикутакэ, построенный в 1958 году. Крисанову заинтересовала идея пространства, которое можно менять вместе с потребностями жильца. Она перенесла этот принцип в московскую квартиру через встроенную комнату с библиотекой и подвижными фасадами.\n\nГолубой объём объединяет несколько задач. За его фасадами находится часть кухни для быстрого приготовления без варочной поверхности. Когда фасады закрыты, рядом можно устроить рабочее место. Зеркала по сторонам встроенного блока отражают библиотеку и визуально продолжают пространство. Кухня и гостиная при этом связаны общей открытой зоной.\n\nБольшую часть корпусной мебели дизайнер разработала по собственным эскизам. У обеденного стола выразительные опоры, а раковина в главной ванной продолжает игру с геометрией и отражением. На фотографиях хорошо видно, как голубой модуль, светлые поверхности и книжные шкафы связывают разные части квартиры.\n\nЗдесь интересно не копировать цвет или конкретную форму, а разобрать несколько сценариев одной зоны. Для российской квартиры можно заранее выписать, когда нужен рабочий стол, как часто используется дополнительная кухонная поверхность и где хранить вещи. После этого проще решить, какие фасады должны закрываться, а каким предметам лучше оставить постоянное место.\n\nДизайнер рассказывает, что сделала около двадцати проб бежевого цвета: оттенок менялся при разном освещении. Такой приём можно повторить и в обычном ремонте — рассмотреть выкрасы на разных стенах утром и вечером, прежде чем заказывать всю отделку.\n\nВ галерее — фотографии реальной квартиры из пресс-набора дизайнера. План концепции доступен по ссылке в источниках.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+      "sources": [
+        {
+          "title": "Арина Крисанова: проект и фотографии, февраль 2026",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house"
+        },
+        {
+          "title": "План концепции (PDF)",
+          "url": "https://www.v2com-newswire.com/en/newsroom/post_files/7078/download"
+        }
+      ],
+      "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com.",
+      "image": "arina-krisanova-sky-house-moscow",
+      "imageAlt": "Обеденная зона и голубой модуль.",
+      "event": "Реализовано в ноябре 2025 года · опубликовано автором в феврале 2026",
+      "gallery": [
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-1",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115880/preview_7848-1_115880_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Гостиная и книжные шкафы.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-3",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115878/preview_7848-1_115878_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Гостиная у окна.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-4",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115879/preview_7848-1_115879_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Стол и кухонная зона.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-5",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115889/preview_7848-1_115889_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Раковина в ванной.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-6",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115883/preview_7848-1_115883_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Проход между гостиной и библиотекой.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-7",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115899/preview_7848-1_115899_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Гостиная с диваном.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-8",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115884/preview_7848-1_115884_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Гостевой санузел.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-9",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115885/preview_7848-1_115885_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Голубые фасады встроенного модуля.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-10",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115886/preview_7848-1_115886_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Встроенный модуль с открытой нишей.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-11",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115887/preview_7848-1_115887_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Деталь гостевого санузла.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-12",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115888/preview_7848-1_115888_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Встроенное рабочее место.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-13",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115890/preview_7848-1_115890_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Голубые панели модуля.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-14",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115891/preview_7848-1_115891_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Раковина в главной ванной.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-15",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115892/preview_7848-1_115892_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Проход вдоль встроенных фасадов.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-16",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115894/preview_7848-1_115894_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Гостиная и закрытые фасады.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-17",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115882/preview_7848-1_115882_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Обеденный стол и встроенный модуль.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-18",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115881/preview_7848-1_115881_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Спальня.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-19",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115893/preview_7848-1_115893_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Проход между встроенными системами.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-20",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115895/preview_7848-1_115895_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Стол и кухня у окна.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-21",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115896/preview_7848-1_115896_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Деталь встроенной мебели.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-22",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115897/preview_7848-1_115897_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Обеденная зона.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-23",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115898/preview_7848-1_115898_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Гостиная с библиотекой.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-24",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115900/preview_7848-1_115900_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Стол и книжные шкафы.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-arina-krisanova-sky-house-moscow-25",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115876/preview_7848-1_115876_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+          "caption": "Кухня и обеденная зона.",
+          "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 26,
+        "excluded": [
+          {
+            "url": "https://www.v2com-newswire.com/en/newsroom/post_files/7078/download",
+            "reason": "План доступен в PDF и приведён отдельной ссылкой в источниках; фотогалерея поддерживает изображения."
+          }
+        ],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+        "note": "Все 25 доступных фотографий пресс-набора для редакций с кредитом Инны Каблуковой и ссылкой на v2com. Концептуальный план приведён отдельно в PDF."
+      }
     }
   ],
   "images": [
@@ -650,6 +867,13 @@
       "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/1685-13/villa-les-quatre-vents-b1c40dd5-545a-46f7-8993-364f7d9b752f",
       "caption": "Общий вид дома со стороны склона.",
       "credit": "Фото: Alex Lesage / Atelier L’Abri; пресс-материалы v2com."
+    },
+    {
+      "id": "arina-krisanova-sky-house-moscow",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115877/preview_7848-1_115877_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+      "caption": "Обеденная зона и голубой модуль.",
+      "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com."
     }
   ]
 }
