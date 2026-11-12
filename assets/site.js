@@ -1,4 +1,37 @@
 const escapeHTML=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+
+// Check for new stories when a reader returns to the magazine's listing pages.
+if (location.pathname === '/' || /^\/(daily|feed|category)(\/|$)/.test(location.pathname)) {
+  let checking = false;
+  let lastCheck = 0;
+  async function checkForNews() {
+    if (checking || document.visibilityState !== 'visible' || Date.now() - lastCheck < 30000) return;
+    checking = true;
+    lastCheck = Date.now();
+    try {
+      const current = document.querySelector('meta[name="tectonica-news-version"]')?.content;
+      if (!current) return;
+      const response = await fetch('/assets/search.json?check=' + Date.now(), {cache: 'no-store'});
+      if (!response.ok) return;
+      const stories = await response.json();
+      if (!Array.isArray(stories) || !stories.length || typeof stories[0].url !== 'string') return;
+      const latestId = stories[0].url.split('/').filter(Boolean).pop();
+      const latest = stories.length + '|' + latestId;
+      if (latest === current) return;
+      const next = new URL(location.href);
+      if (next.searchParams.get('_edition') === latest) return;
+      next.searchParams.set('_edition', latest);
+      location.replace(next.href);
+    } catch {
+      // Leave the current page available if the network is unavailable.
+    } finally {
+      checking = false;
+    }
+  }
+  window.addEventListener('pageshow', checkForNews);
+  document.addEventListener('visibilitychange', checkForNews);
+  checkForNews();
+}
 document.querySelector('[data-copy]')?.addEventListener('click',async()=>{const s=document.querySelector('[data-copy-status]');try{await navigator.clipboard.writeText(location.href);s.textContent='Ссылка скопирована';}catch{s.textContent='Скопируйте адрес из строки браузера';}});
 const q=document.querySelector('#q');
 if(q){let data;const norm=s=>s.toLocaleLowerCase('ru').replaceAll('ё','е');async function search(){const status=document.querySelector('#search-status');try{if(!data){const r=await fetch('/assets/search.json?v='+encodeURIComponent(document.querySelector('.strap time')?.dateTime||''),{cache:'no-cache'});if(!r.ok)throw Error();data=await r.json();}const words=norm(q.value.trim()).split(/\s+/).filter(Boolean);const matches=data.filter(a=>words.every(w=>norm([a.title,a.dek,a.text,a.category,a.place].join(' ')).includes(w)));document.querySelector('#search-results').innerHTML=matches.map(a=>'<article class="newsrow"><span class="rowcategory">'+escapeHTML(a.category)+'</span><a href="'+escapeHTML(a.url)+'"><h3>'+escapeHTML(a.title)+'</h3><p>'+escapeHTML(a.dek)+'</p></a><span class="arrow">↗</span></article>').join('');status.textContent=matches.length?'Найдено материалов: '+matches.length:'Ничего не найдено. Попробуйте другое слово.';}catch{status.textContent='Поиск временно недоступен. Материалы доступны в архиве.';}}
