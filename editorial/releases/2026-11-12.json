@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-12",
+  "window": "11–12 ноября 2026, Новосибирск",
+  "intro": "Выставка Shibui во Франкфурте сопоставляет керамику и другие предметы из разных культур.",
+  "featured": {
+    "lead": "shibui-museum-angewandte-kunst-2026",
+    "secondary": "powerhouse-parramatta-2026",
+    "stories": [
+      "shibui-museum-angewandte-kunst-2026"
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "shibui-museum-angewandte-kunst-2026",
+      "time": "5 минут",
+      "reason": "Предметы разных эпох и музейная съёмка позволяют внимательно сравнить форму сосудов, глазурь и способы показа."
+    }
+  ],
+  "featurePitches": [
+    {
+      "article": "shibui-museum-angewandte-kunst-2026",
+      "title": "Как показывать керамику разных эпох рядом",
+      "text": "Сравнить решения российских музеев и мастерских, обсудить отбор предметов, свет и условия хранения с кураторами и авторами."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Предметы разных культур как основа одного выставочного разговора",
+    "text": "Гипотеза для дальнейшей проверки: кураторы могут сопоставлять вещи разных культур через конкретное качество формы и поверхности. Выставка во Франкфурте — один пример, для вывода о тенденции нужны независимые проекты.",
+    "sources": [
+      {
+        "title": "Пресс-релиз музея",
+        "url": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/"
+      }
+    ]
+  },
+  "rubricReview": {
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-11-03",
+        "added": [],
+        "note": "CST #185 опубликован ArchDaily 11 ноября, дом построен в 2025 году. Условия перепубликации фотосерии не подтверждены."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "CST #185 показывает интерьер дома 2025 года. Права на серию Jesús Granada не подтверждены."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-11-12",
+        "added": [
+          "shibui-museum-angewandte-kunst-2026"
+        ],
+        "note": "Выбрана выставка Shibui с музейными фотографиями предметов и условиями их использования."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Delf II упоминается в материале 11 ноября, первичная дата запуска и условия использования фотографий не подтверждены."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Светильник Bambou освещён D5 11 ноября. Дата запуска и условия использования фотографий не подтверждены."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "Datecrete получил награду ранее, свежая публикация от 11 ноября не является датой награждения."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-13",
+        "latestPublication": "2026-10-13",
+        "added": [],
+        "note": "В просмотренных источниках подтверждённой новой технологии с доступной фотосерией не найдено."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-28",
+        "latestPublication": "2026-11-12",
+        "added": [
+          "shibui-museum-angewandte-kunst-2026"
+        ],
+        "note": "Выбрана выставка Shibui, открывающаяся 12 ноября."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-28",
+        "latestPublication": "2026-10-28",
+        "added": [],
+        "note": "Anett Göthe указана куратором выставки; оснований для отдельного материала о ней не найдено."
+      }
+    },
+    "sourcesChecked": [
+      "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+      "https://www.archdaily.com/1188279/cst-number-185-tini-plus-delavegacanolasso",
+      "https://ordinarychaos.co.uk/delf-ii-furniture-collection-by-danny-kaplan-and-vince-patti/",
+      "https://d5mag.com/",
+      "https://www.seouldesignaward.or.kr/announcement"
+    ],
+    "limitations": [
+      "Проверка ограничена перечисленными источниками. Для российской отдельной истории за выбранное окно подтверждённого фотонабора не найдено."
+    ],
+    "date": "2026-11-12",
+    "window": "11–12 ноября 2026, Новосибирск"
+  },
+  "articles": [
+    {
+      "id": "shibui-museum-angewandte-kunst-2026",
+      "title": "Во Франкфурте показывают керамику через японское понятие сибуи",
+      "category": "objects",
+      "categories": [
+        "exhibitions"
+      ],
+      "format": "Обзор",
+      "place": "Франкфурт, Германия",
+      "dek": "Выставка сопоставляет предметы из Азии и Европы и предлагает рассмотреть сдержанную красоту формы и поверхности.",
+      "body": "12 ноября Museum Angewandte Kunst открывает выставку «亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries». Куратор Анетт Гёте сопоставляет исторические и современные предметы из Японии, Китая, Кореи и Европы. Выставка продлится до 15 августа 2027 года.\n\nЯпонское понятие сибуи описывает сдержанную красоту, которая раскрывается постепенно. Музей предлагает увидеть её за пределами одной культуры: рядом оказываются сосуд эпохи Хань со следами глазури, корейская бронзовая чаша с крышкой и японская чайная чаша Айсаку Судзуки.\n\nЗдесь интересно рассмотреть не только отдельный предмет, но и его показ. На фотографиях музейной экспозиции сосуды поставлены на простые светлые постаменты, а между ними оставлено достаточно пространства для сравнения формы и поверхности. Внимание сосредоточено на самих вещах: заметны неровности глазури, силуэт и масштаб.\n\nТакой подход стоит обсудить с коллегой, который готовит интерьерную или музейную экспозицию. Для российского проекта можно попробовать сопоставить локальную керамику разных периодов через форму и способ изготовления, заранее согласовав подбор предметов и подписи с хранителями и авторами. Для выставки важны также свет, условия хранения и безопасность, которые по фотографиям оценить нельзя.\n\nВ галерее — четыре музейных снимка экспозиции и шесть фотографий предметов из официального пресс-набора. Авторы съёмки Günzel/Rademacher и Ute Kunze. Материал основан на информации музея.",
+      "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+      "sources": [
+        {
+          "title": "Museum Angewandte Kunst: пресс-релиз, изображения и условия использования",
+          "url": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/"
+        }
+      ],
+      "credit": "Фото: Günzel/Rademacher © Museum Angewandte Kunst",
+      "image": "shibui-museum-angewandte-kunst-2026",
+      "imageAlt": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Вид экспозиции, Франкфурт.",
+      "event": "Выставка 12 ноября 2026 — 15 августа 2027",
+      "gallery": [
+        {
+          "id": "gallery-shibui-museum-angewandte-kunst-2026-1",
+          "url": "https://www.museumangewandtekunst.de/images/download-lightbox/ausstellungsansicht_meet_asian_art_shibui_foto_guenzel_rademacher_c_museumangewandtekunst_2_1.jpg",
+          "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+          "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Экспозиция в музейной галерее.",
+          "credit": "Фото: Günzel/Rademacher © Museum Angewandte Kunst"
+        },
+        {
+          "id": "gallery-shibui-museum-angewandte-kunst-2026-2",
+          "url": "https://www.museumangewandtekunst.de/images/download-lightbox/ausstellungsansicht_meet_asian_art_shibui_foto_guenzel_rademacher_c_museumangewandtekunst_3_1.jpg",
+          "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+          "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Керамика в экспозиции.",
+          "credit": "Фото: Günzel/Rademacher © Museum Angewandte Kunst"
+        },
+        {
+          "id": "gallery-shibui-museum-angewandte-kunst-2026-3",
+          "url": "https://www.museumangewandtekunst.de/images/download-lightbox/ausstellungsansicht_meet_asian_art_shibui_foto_guenzel_rademacher_c_museumangewandtekunst_4_1.jpg",
+          "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+          "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Предметы выставки на постаментах.",
+          "credit": "Фото: Günzel/Rademacher © Museum Angewandte Kunst"
+        },
+        {
+          "id": "gallery-shibui-museum-angewandte-kunst-2026-4",
+          "url": "https://www.museumangewandtekunst.de/images/download-lightbox/topf_mit_glasurresten_foto_ute_kune_c_museum_angewandte_kunst_1.jpg",
+          "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+          "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Сосуд со следами глазури. Китай, эпоха Хань.",
+          "credit": "Фото: Ute Kunze © Museum Angewandte Kunst"
+        },
+        {
+          "id": "gallery-shibui-museum-angewandte-kunst-2026-5",
+          "url": "https://www.museumangewandtekunst.de/images/download-lightbox/aisaku_suzuki_chawan_teeschale_foto_ute_kune_c_museum_angewandte_kunst_1.jpg",
+          "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+          "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Айсаку Судзуки. Чайная чаша, Япония, около 1990 года.",
+          "credit": "Фото: Ute Kunze © Museum Angewandte Kunst"
+        },
+        {
+          "id": "gallery-shibui-museum-angewandte-kunst-2026-6",
+          "url": "https://www.museumangewandtekunst.de/images/download-lightbox/topf_foto_ute_kune_c_museum_angewandte_kunst_1.jpg",
+          "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+          "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Сосуд. Китай, эпоха Тан.",
+          "credit": "Фото: Ute Kunze © Museum Angewandte Kunst"
+        },
+        {
+          "id": "gallery-shibui-museum-angewandte-kunst-2026-7",
+          "url": "https://www.museumangewandtekunst.de/images/download-lightbox/deckelschale_foto_ute_kune_c_museum_angewandte_kunst_1.jpg",
+          "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+          "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Чаша с крышкой, бронза. Корея, эпоха Корё.",
+          "credit": "Фото: Ute Kunze © Museum Angewandte Kunst"
+        },
+        {
+          "id": "gallery-shibui-museum-angewandte-kunst-2026-8",
+          "url": "https://www.museumangewandtekunst.de/images/download-lightbox/schale_foto_ute_kune_c_museum_angewandte_kunst_1.jpg",
+          "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+          "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Чаша суэки. Япония, период Кофун.",
+          "credit": "Фото: Ute Kunze © Museum Angewandte Kunst"
+        },
+        {
+          "id": "gallery-shibui-museum-angewandte-kunst-2026-9",
+          "url": "https://www.museumangewandtekunst.de/images/download-lightbox/tokkuri_sakeflasche_foto_ute_kune_c_museum_angewandte_kunst_1.jpg",
+          "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+          "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Бутылка токкури для саке. Япония, период Эдо.",
+          "credit": "Фото: Ute Kunze © Museum Angewandte Kunst"
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 10,
+        "excluded": [],
+        "rightsSource": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+        "note": "Музей разрешает использование пресс-изображений в материале о выставке с указанием полного названия."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "shibui-museum-angewandte-kunst-2026",
+      "url": "https://www.museumangewandtekunst.de/images/download-lightbox/ausstellungsansicht_meet_asian_art_shibui_foto_guenzel_rademacher_c_museumangewandtekunst_1.jpg",
+      "source": "https://www.museumangewandtekunst.de/en/press/meet-asian-art-shibui-an-aesthetic-beyond-cultural-boundaries/",
+      "caption": "亞歐堂 meet asian art: Shibui. An Aesthetic Beyond Cultural Boundaries. Вид экспозиции, Франкфурт.",
+      "credit": "Фото: Günzel/Rademacher © Museum Angewandte Kunst"
+    }
+  ]
+}
