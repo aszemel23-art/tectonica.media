@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-07",
+  "window": "6–7 ноября 2026, Новосибирск",
+  "intro": "Музей Powerhouse Parramatta в западном Сиднее. Семь фотографий здания помогают разобрать, как устроены каркас, залы и проходы.",
+  "featured": {
+    "lead": "powerhouse-parramatta-2026",
+    "secondary": "kosmos-temporary-structures-azw-2026",
+    "stories": [
+      "powerhouse-parramatta-2026"
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "powerhouse-parramatta-2026",
+      "time": "6 минут",
+      "reason": "По планам и фотографиям видно, как наружная стальная конструкция связана с размером залов и возможностью менять экспозицию."
+    }
+  ],
+  "featurePitches": [
+    {
+      "article": "powerhouse-parramatta-2026",
+      "title": "Как проектировать музей для крупногабаритных экспонатов",
+      "text": "Сопоставить маршруты доставки и монтажа в Парраматте с российскими музейными проектами. Проверить габариты ворот, нагрузки на полы и возможность смены экспозиции при открытом музее."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Грузовой маршрут как исходное условие музейного проекта",
+    "text": "Powerhouse Parramatta даёт повод проверить гипотезу: для музеев техники и дизайна размеры экспонатов и пути их доставки могут определять архитектуру здания ещё до выбора формы. Один музей даёт пример для сравнения. Для вывода нужны другие проекты и данные эксплуатации.",
+    "sources": [
+      {
+        "title": "Проект Moreau Kusunoki",
+        "url": "https://moreaukusunoki.com/project/powerhouse-precinct-at-parramatta/"
+      }
+    ]
+  },
+  "rubricReview": {
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-10-16",
+        "latestPublication": "2026-11-03",
+        "added": [
+          "powerhouse-parramatta-2026"
+        ],
+        "note": "Проверено открытие Powerhouse Parramatta и первичные материалы музея и архитекторов."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-10-08",
+        "latestPublication": "2026-10-08",
+        "added": [],
+        "note": "В этом выпуске нет подтверждённого материала для рубрики."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "В этом выпуске нет подтверждённого материала для рубрики."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "В этом выпуске нет подтверждённого материала для рубрики."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "В этом выпуске нет подтверждённого материала для рубрики."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-10-21",
+        "added": [],
+        "note": "В этом выпуске нет подтверждённого материала для рубрики."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-13",
+        "latestPublication": "2026-10-13",
+        "added": [],
+        "note": "В этом выпуске нет подтверждённого материала для рубрики."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-10-28",
+        "latestPublication": "2026-11-03",
+        "added": [
+          "powerhouse-parramatta-2026"
+        ],
+        "note": "Проверено открытие Powerhouse Parramatta и первичные материалы музея и архитекторов."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-28",
+        "latestPublication": "2026-10-28",
+        "added": [],
+        "note": "В этом выпуске нет подтверждённого материала для рубрики."
+      }
+    },
+    "sourcesChecked": [
+      "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+      "https://powerhouse.com.au/visit/parramatta",
+      "https://moreaukusunoki.com/project/powerhouse-precinct-at-parramatta/"
+    ],
+    "limitations": [
+      "Выпуск подготовлен к отложенной публикации. Полный поиск за исходное окно по остальным рубрикам не подтверждён."
+    ],
+    "date": "2026-11-07",
+    "window": "6–7 ноября 2026, Новосибирск"
+  },
+  "articles": [
+    {
+      "id": "powerhouse-parramatta-2026",
+      "title": "Powerhouse Parramatta открывает музей прикладных искусств и науки в западном Сиднее",
+      "category": "architecture",
+      "categories": [
+        "exhibitions"
+      ],
+      "format": "Разбор",
+      "place": "Парраматта, Австралия",
+      "dek": "В западном Сиднее открылся музей с наружным стальным каркасом и залами для предметов, которые трудно показать в обычной галерее.",
+      "body": "7 ноября Powerhouse Parramatta открывается на берегу реки Парраматта. Здание спроектировали Moreau Kusunoki и Genton. В стартовой программе пять выставок. Четыре из них бесплатны, а на Task Eternal вход платный для взрослых.\n\nОдин из самых интересных ходов в программе — The Mall. Здесь торговый пассаж сам становится музейным экспонатом: витрины, фотографии районных торговых центров и исследование OMA/AMO позволяют посмотреть, как повседневная коммерческая среда влияет на привычки и городской маршрут.\n\nРоссийскому музею или дизайн-центру здесь пригодится сама постановка задачи. Для выставки о местной торговле можно собрать витрины, фотографии и свидетельства посетителей и проследить, как рынок, универмаг или торговый центр меняли район. Масштаб здания для такого исследования вторичен.",
+      "source": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+      "sources": [
+        {
+          "title": "Музей: пресс-релиз и фотосерия",
+          "url": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed"
+        },
+        {
+          "title": "Музей: открытие и программа",
+          "url": "https://powerhouse.com.au/visit/parramatta"
+        },
+        {
+          "title": "Moreau Kusunoki: архитектура здания",
+          "url": "https://moreaukusunoki.com/project/powerhouse-precinct-at-parramatta/"
+        }
+      ],
+      "credit": "Powerhouse Studio",
+      "image": "powerhouse-parramatta-2026",
+      "imageAlt": "Powerhouse Parramatta и окружающая застройка, вид с воздуха.",
+      "event": "Открытие музея 7 ноября 2026 года",
+      "gallery": [
+        {
+          "url": "https://www.dropbox.com/scl/fo/tilpj9zkqq1lssoo410zi/AL39lr0noWbkmf6mAY-Tg2o/Powerhouse%20Parramatta%20Building%20Images%20and%20Video/01_%27Rory%20Gardiner%2C%20Powerhouse%20Parramatta%20Construction%2C%20June%202026.jpg?rlkey=gn9168fehc8uagnb71tggwzur&dl=1",
+          "source": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+          "caption": "Два корпуса со стороны реки Парраматта, июнь 2026 года.",
+          "credit": "Rory Gardiner / Powerhouse",
+          "id": "gallery-powerhouse-parramatta-2026-1"
+        },
+        {
+          "url": "https://www.dropbox.com/scl/fo/tilpj9zkqq1lssoo410zi/AC5poO9qaz1g_7w85G20Hzg/Powerhouse%20Parramatta%20Building%20Images%20and%20Video/02_%27Rory%20Gardiner%2C%20Powerhouse%20Parramatta%20Construction%2C%20May%202026_03.jpg?rlkey=gn9168fehc8uagnb71tggwzur&dl=1",
+          "source": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+          "caption": "Крытый проход вдоль одного из корпусов, май 2026 года.",
+          "credit": "Rory Gardiner / Powerhouse",
+          "id": "gallery-powerhouse-parramatta-2026-2"
+        },
+        {
+          "url": "https://www.dropbox.com/scl/fo/tilpj9zkqq1lssoo410zi/AN4s91wXplPWUwgIDaOkWQ0/Powerhouse%20Parramatta%20Building%20Images%20and%20Video/03_%27Rory%20Gardiner%2C%20Powerhouse%20Parramatta%20Construction%2C%20May%202026.jpg?rlkey=gn9168fehc8uagnb71tggwzur&dl=1",
+          "source": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+          "caption": "Зал с остеклением и диагоналями наружного каркаса, май 2026 года.",
+          "credit": "Rory Gardiner / Powerhouse",
+          "id": "gallery-powerhouse-parramatta-2026-3"
+        },
+        {
+          "url": "https://www.dropbox.com/scl/fo/tilpj9zkqq1lssoo410zi/AKb1Y2wUn6CvaCriHaYAcEI/Powerhouse%20Parramatta%20Building%20Images%20and%20Video/04_%27Rory%20Gardiner%2C%20Powerhouse%20Parramatta%20Construction%2C%20May%202026_05.jpg?rlkey=gn9168fehc8uagnb71tggwzur&dl=1",
+          "source": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+          "caption": "Пустой зал до монтажа выставки, май 2026 года.",
+          "credit": "Rory Gardiner / Powerhouse",
+          "id": "gallery-powerhouse-parramatta-2026-4"
+        },
+        {
+          "url": "https://www.dropbox.com/scl/fo/tilpj9zkqq1lssoo410zi/AAdQCuiwvoMRCvjCu3JxCmM/Powerhouse%20Parramatta%20Building%20Images%20and%20Video/05_%27Rory%20Gardiner%2C%20Powerhouse%20Parramatta%20Construction%2C%20May%202026_02.jpg?rlkey=gn9168fehc8uagnb71tggwzur&dl=1",
+          "source": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+          "caption": "Диагонали каркаса со стороны двора, май 2026 года.",
+          "credit": "Rory Gardiner / Powerhouse",
+          "id": "gallery-powerhouse-parramatta-2026-5"
+        },
+        {
+          "url": "https://www.dropbox.com/scl/fo/tilpj9zkqq1lssoo410zi/AP_0_BiypKYfNT8cfLx1X2I/Powerhouse%20Parramatta%20Building%20Images%20and%20Video/06_%27Rory%20Gardiner%2C%20Powerhouse%20Parramatta%20Construction%2C%20May%202026_01.jpg?rlkey=gn9168fehc8uagnb71tggwzur&dl=1",
+          "source": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+          "caption": "Два корпуса и соединяющий их объём, май 2026 года.",
+          "credit": "Rory Gardiner / Powerhouse",
+          "id": "gallery-powerhouse-parramatta-2026-6"
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 7,
+        "excluded": [],
+        "rightsSource": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+        "note": "Все семь фотографий из раздела здания официального медиакита музея. Шесть строительных кадров Rory Gardiner, один аэрофотоснимок Powerhouse Studio."
+      }
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.dropbox.com/scl/fo/tilpj9zkqq1lssoo410zi/AHwZ3xM8TI3qxwd72o1zR1s/Powerhouse%20Parramatta%20Building%20Images%20and%20Video/07_%27Powerhouse%20Parramatta%20Drone%20Image.%20Powerhouse%20studio%20.jpg?rlkey=gn9168fehc8uagnb71tggwzur&dl=1",
+      "source": "https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed",
+      "caption": "Powerhouse Parramatta и окружающая застройка, вид с воздуха.",
+      "credit": "Powerhouse Studio",
+      "id": "powerhouse-parramatta-2026"
+    }
+  ]
+}
