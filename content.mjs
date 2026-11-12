@@ -1,4 +1,4 @@
-export const edition='2026-11-03';
+export const edition='2026-11-07';
 export const categories={architecture:'Архитектура',interiors:'Интерьеры',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
 import {photoLegacyArticles} from './editorial/photo-legacy.mjs';
 export const articles=[...photoLegacyArticles];
@@ -975,6 +975,12 @@ add("kosmos-temporary-structures-azw-2026","Стройплощадка как а
 
 Temporary. Structures of Necessity будет работать в Architekturzentrum Wien с 5 ноября 2026 года до 5 апреля 2027 года. Мы разбираем опубликованную программу и пресс-изображения, а не выдаём их за собственное посещение.`,"https://www.e-flux.com/announcements/6786945/temporary-structures-of-necessity","Фото: Wolfgang Weinhardt, 2013. Пресс-материалы Architekturzentrum Wien.","kosmos-temporary-structures-azw-2026","Temporary: 5 ноября 2026 — 5 апреля 2027. Вернисаж 4 ноября.","2026-11-03");
 Object.assign(articles.at(-1),{"sources":[{"title":"Az W: новый анонс на e-flux, 2 ноября 2026","url":"https://www.e-flux.com/announcements/6786945/temporary-structures-of-necessity"},{"title":"Az W: полная пресс-галерея с подписями и кредитами","url":"https://www.azw.at/en/presskit/pressefotos-temporaer-strukturen-der-notwendigkeit/"},{"title":"Az W: условия использования пресс-изображений","url":"https://www.azw.at/en/articles/press/"}],"imageAlt":"Понтонные мосты для паломников на Кумбха-Меле, Праяградж, 2013.","categories":["exhibitions"]});
+add("powerhouse-parramatta-2026","Powerhouse Parramatta открывает музей прикладных искусств и науки в западном Сиднее","architecture","Разбор","Парраматта, Австралия","В западном Сиднее открылся музей с наружным стальным каркасом и залами для предметов, которые трудно показать в обычной галерее.",`7 ноября Powerhouse Parramatta открывается на берегу реки Парраматта. Здание спроектировали Moreau Kusunoki и Genton. В стартовой программе пять выставок. Четыре из них бесплатны, а на Task Eternal вход платный для взрослых.
+
+Один из самых интересных ходов в программе — The Mall. Здесь торговый пассаж сам становится музейным экспонатом: витрины, фотографии районных торговых центров и исследование OMA/AMO позволяют посмотреть, как повседневная коммерческая среда влияет на привычки и городской маршрут.
+
+Российскому музею или дизайн-центру здесь пригодится сама постановка задачи. Для выставки о местной торговле можно собрать витрины, фотографии и свидетельства посетителей и проследить, как рынок, универмаг или торговый центр меняли район. Масштаб здания для такого исследования вторичен.`,"https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed","Powerhouse Studio","powerhouse-parramatta-2026","Открытие музея 7 ноября 2026 года","2026-11-07");
+Object.assign(articles.at(-1),{"sources":[{"title":"Музей: пресс-релиз и фотосерия","url":"https://powerhouse.com.au/about/media/powerhouse-parramatta-opening-date-revealed"},{"title":"Музей: открытие и программа","url":"https://powerhouse.com.au/visit/parramatta"},{"title":"Moreau Kusunoki: архитектура здания","url":"https://moreaukusunoki.com/project/powerhouse-precinct-at-parramatta/"}],"imageAlt":"Powerhouse Parramatta и окружающая застройка, вид с воздуха.","categories":["exhibitions"]});
 export const candidates=[
 ...articles.map(a=>({title:a.title,url:a.source,status:'published',article:a.id})),
 {title:'RP02 House / Cornetta',url:'https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura',status:'reserve',reason:'Построен в 2022; оставить для тематической подборки.'},
