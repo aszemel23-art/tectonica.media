@@ -3067,5 +3067,13 @@
     "credit": "Фото: Alex Lesage / Atelier L’Abri; пресс-материалы v2com.",
     "width": 800,
     "height": 533
+  },
+  "arina-krisanova-sky-house-moscow": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/115877/preview_7848-1_115877_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/115877/preview_7848-1_115877_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/7848-01/rethinking-the-sky-house",
+    "credit": "Фото: Инна Каблукова / Арина Крисанова; пресс-материалы v2com.",
+    "width": 800,
+    "height": 600
   }
 }
