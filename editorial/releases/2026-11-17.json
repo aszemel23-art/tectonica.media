@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-17",
+  "window": "16–17 ноября 2026, Новосибирск",
+  "intro": "Как построить клинику из доступных материалов и учесть инженерные нагрузки.",
+  "featured": {
+    "lead": "housing-now-bamboo-clinics-myanmar",
+    "secondary": "arina-krisanova-sky-house-moscow",
+    "stories": [
+      "housing-now-bamboo-clinics-myanmar",
+      "arina-krisanova-sky-house-moscow",
+      "villa-les-quatre-vents-atelier-labri-2026"
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "housing-now-bamboo-clinics-myanmar",
+      "time": "6 минут",
+      "reason": "Три работающие клиники показывают, как материалы, конструктивные узлы и способ доставки зависят от места строительства."
+    }
+  ],
+  "featurePitches": [
+    {
+      "article": "housing-now-bamboo-clinics-myanmar",
+      "title": "Как проектировать общественные здания из местных материалов",
+      "text": "Сопоставить конструктивные решения для разных климатов и обсудить с российскими инженерами обработку, защиту и долговечность материалов."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Материал выбирают вместе со способом доставки",
+    "text": "Гипотеза для дальнейшего наблюдения: в удалённых территориях архитектурное решение всё чаще начинается с доступности сырья и навыков строительства. Три клиники Housing NOW — один пример, а не доказательство общей тенденции.",
+    "sources": [
+      {
+        "title": "Housing NOW: клиники в Мьянме",
+        "url": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar"
+      }
+    ]
+  },
+  "rubricReview": {
+    "checked": [
+      "architecture",
+      "interiors",
+      "objects",
+      "furniture",
+      "lighting",
+      "materials",
+      "technology",
+      "exhibitions",
+      "people",
+      "landscape",
+      "designers"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-17",
+        "added": [
+          "housing-now-bamboo-clinics-myanmar"
+        ],
+        "note": "Клиники Housing NOW: обработанный бамбук, гибридные конструкции и инженерные узлы."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "Проверены свежие домашние и общественные проекты; не найден дополнительный материал с завершённой проверкой фотосерии."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "Проверены новые предметы и выставочные анонсы; пригодные права на фотографии не подтверждены."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "Рассмотрен модульный стол Foster + Partners для Kettal; условия повторной публикации снимков не подтверждены."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "Проверены предметы в Design Mate и пресс-материалы; фотография новой работы для самостоятельного материала не подтверждена."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-10-21",
+        "latestPublication": "2026-11-17",
+        "added": [
+          "housing-now-bamboo-clinics-myanmar"
+        ],
+        "note": "Клиники Housing NOW: обработанный бамбук, гибридные конструкции и инженерные узлы."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-10-13",
+        "latestPublication": "2026-11-17",
+        "added": [
+          "housing-now-bamboo-clinics-myanmar"
+        ],
+        "note": "Клиники Housing NOW: обработанный бамбук, гибридные конструкции и инженерные узлы."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "Проверен открывшийся 16 ноября фестиваль АЛАРОС; права на фотографии конкретных работ и события не подтверждены."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-28",
+        "latestPublication": "2026-10-28",
+        "added": [],
+        "note": "Проверены авторы текущих проектов; оснований для отдельного материала с подтверждённой фотосерией нет."
+      },
+      "landscape": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "Проверен фестиваль АЛАРОС 16–20 ноября; права на съёмку работ и точные авторские кредиты не подтверждены."
+      },
+      "designers": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "Просмотрены работы российских и зарубежных бюро; дополнительная полная серия с подтверждёнными правами не подготовлена."
+      }
+    },
+    "sourcesChecked": [
+      "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+      "https://design-mate.ru/read/news",
+      "https://www.uar.ru/news/v-tsda-otkrylsya-xvii-festival-landshaftnoy-arkhitektury-i-sadovo-parkovogo-iskusstva/",
+      "https://www.v2com-newswire.com/en/newsroom/press-kits",
+      "https://tectonica.media/"
+    ]
+  },
+  "articles": [
+    {
+      "id": "housing-now-bamboo-clinics-myanmar",
+      "title": "Три клиники в Мьянме построили из бамбука, дерева и бетона",
+      "category": "architecture",
+      "categories": [
+        "materials",
+        "technology"
+      ],
+      "format": "Проект",
+      "place": "Мьянма",
+      "dek": "Housing NOW показала, как местные материалы и работа плотников помогли построить медицинские здания при сложной доставке.",
+      "body": "16 ноября строительная команда Housing NOW рассказала о трёх работающих клиниках в Мьянме, где бамбук использовали вместе с деревом и бетоном. Проектировало здания бюро Blue Temple, а конструктивные решения разрабатывались с инженером Pierre Boucher. Пресс-публикация показывает готовые здания и процесс строительства; даты завершения каждого из них в ней не указаны.\n\nКлиника в Путао расположена в предгорьях Гималаев. Когда дороги перекрывают оползни и вооружённый конфликт, доставка становится ненадёжной. Поэтому бамбук брали с соседней плантации, древесину находили поблизости, а элементы изготовили и собрали на месте. С командой работали плотники местного народа раванг: строители сопоставляли привычные им деревянные соединения с опытом обработки и монтажа бамбука.\n\nДля двух клиник в регионе Янгона подход оказался другим. Бамбуковые фермы кровли изготовили в мастерской в Баго и привезли на площадку. В Танльине сохранили существующий бетонный пол; в Хлайнг-Тар-Яр из-за мягкого глинистого грунта устроили ленточные фундаменты. На фотографиях видно, как повторяющиеся стойки и фермы собирают открытые галереи и внутренние пространства.\n\nБамбук в этих проектах не заменяет все остальные материалы. Его используют в защищённых от погоды колоннах, кровлях и потолках; древесину выбирают для более открытых мест, бетон — для фундаментов и специальных помещений. По данным команды, расчёты учитывали ветровые и сейсмические нагрузки, а соединения проектировали с оглядкой на риск расщепления бамбука. Заявления о поведении здания при землетрясении остаются наблюдениями строителей, а не результатами опубликованных испытаний.\n\nВ медицинских пространствах важны и повседневные условия: высокие потолки, сквозное проветривание, верхние проёмы и виды на зелень. Авторы рассчитывали уменьшить перегрев и сделать ожидание спокойнее; независимых измерений комфорта в пресс-материале нет.\n\nДля проекта в России полезен не буквальный перенос тропического материала, а порядок решений: сначала проверить доступность местного сырья, навыки монтажников и требования к помещению, затем согласовать защиту конструкции и узлы с инженером. Климат, пожарные и санитарные требования придётся рассчитывать для конкретного объекта.\n\nПо данным Housing NOW, три здания уже работают; приведённые командой 196 тысяч консультаций в год относятся к трём медицинским комплексам, а не к числу отдельных пациентов. На снимках — сами клиники и их строительство.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+      "sources": [
+        {
+          "title": "Housing NOW: проект и фотосерия, 16 ноября 2026",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar"
+        }
+      ],
+      "credit": "Фото: Aung Htay Hlaing / Housing NOW; пресс-материалы v2com.",
+      "image": "housing-now-bamboo-clinics-myanmar",
+      "imageAlt": "Фасад клиники в Танльине.",
+      "event": "Пресс-публикация 16 ноября 2026 · клиники работают; даты завершения не указаны",
+      "gallery": [
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-2",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123500/preview_7035-3_123500_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Навес у клиники в Танльине.",
+          "credit": "Фото: Aung Htay Hlaing / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-3",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123501/preview_7035-3_123501_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Помещение клиники в Танльине.",
+          "credit": "Фото: Aung Htay Hlaing / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-4",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123503/preview_7035-3_123503_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Бамбуковая кровельная конструкция в Танльине.",
+          "credit": "Фото: Aung Htay Hlaing / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-5",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123505/preview_7035-3_123505_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Сборка кровельной конструкции в Танльине.",
+          "credit": "Фото: Aung Htay Hlaing / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-6",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123519/preview_7035-3_123519_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Палата клиники в Хлайнг-Тар-Яр.",
+          "credit": "Фото: Raphaël Ascoli / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-7",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123518/preview_7035-3_123518_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Помещение клиники в Хлайнг-Тар-Яр.",
+          "credit": "Фото: Nyan Zay Htet / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-8",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123516/preview_7035-3_123516_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Узел бамбуковой конструкции в Хлайнг-Тар-Яр.",
+          "credit": "Фото: Nyan Zay Htet / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-9",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123510/preview_7035-3_123510_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Строительство клиники в Путао.",
+          "credit": "Фото: Raphaël Ascoli / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-10",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123703/preview_7035-3_123703_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Сборка конструкции в Танльине.",
+          "credit": "Фото: Aung Htay Hlaing / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-11",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123504/preview_7035-3_123504_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Монтаж бамбуковой конструкции в Танльине.",
+          "credit": "Фото: Aung Htay Hlaing / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-12",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123665/preview_7035-3_123665_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Клиника в Путао во время строительства.",
+          "credit": "Фото: Raphaël Ascoli / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-13",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123506/preview_7035-3_123506_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Строительство клиники в Путао.",
+          "credit": "Фото: Raphaël Ascoli / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-14",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123508/preview_7035-3_123508_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Каркас клиники в Путао.",
+          "credit": "Фото: Raphaël Ascoli / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-15",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123509/preview_7035-3_123509_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Строительство на участке в Путао.",
+          "credit": "Фото: Raphaël Ascoli / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-16",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123511/preview_7035-3_123511_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Работа над конструкцией клиники в Путао.",
+          "credit": "Фото: Raphaël Ascoli / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-17",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123512/preview_7035-3_123512_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Интерьер клиники в Хлайнг-Тар-Яр.",
+          "credit": "Фото: Nyan Zay Htet / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-18",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123513/preview_7035-3_123513_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Кровельная конструкция клиники в Хлайнг-Тар-Яр.",
+          "credit": "Фото: Nyan Zay Htet / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-19",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123514/preview_7035-3_123514_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Клиника в Хлайнг-Тар-Яр со стороны сада.",
+          "credit": "Фото: Nyan Zay Htet / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-20",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123515/preview_7035-3_123515_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Открытая галерея клиники в Хлайнг-Тар-Яр.",
+          "credit": "Фото: Nyan Zay Htet / Housing NOW; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-housing-now-bamboo-clinics-myanmar-21",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123517/preview_7035-3_123517_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+          "caption": "Деталь ограждения клиники в Хлайнг-Тар-Яр.",
+          "credit": "Фото: Nyan Zay Htet / Housing NOW; пресс-материалы v2com."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 21,
+        "excluded": [],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+        "note": "21 фотография пресс-набора; авторы и объекты указаны покадрово. Публикация для прессы с кредитом и ссылкой на v2com."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "housing-now-bamboo-clinics-myanmar",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123502/preview_7035-3_123502_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
+      "caption": "Фасад клиники в Танльине.",
+      "credit": "Фото: Aung Htay Hlaing / Housing NOW; пресс-материалы v2com."
+    }
+  ]
+}
