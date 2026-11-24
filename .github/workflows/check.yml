@@ -15,18 +15,11 @@ jobs:
       - name: Check generated files
         shell: bash
         run: |
-          # Release and editorial revision inputs trigger a publication workflow;
-          # generated files are committed by that workflow after validation.
+          # Editorial input commits trigger workflows that build and commit pages.
           if [[ "${{ github.event_name }}" == "push" && "${{ github.ref }}" == "refs/heads/main" ]] && git rev-parse HEAD^ >/dev/null 2>&1; then
             changed=$(git diff-tree --no-commit-id --name-only -r HEAD^ HEAD)
-            if [[ -n "$changed" ]] && ! printf '%s\n' "$changed" | grep -Evq '^(editorial/releases/[^/]+\.json|editorial/revision\.json|editorial/event-end-dates\.json); then
+            if [[ -n "$changed" ]] && ! printf '%s\n' "$changed" | grep -Evq '^(editorial/releases/[^/]+\.json|editorial/revision\.json|editorial/event-end-dates\.json)$'; then
               echo "Editorial input commit: publication workflow validates and commits generated pages."
-              exit 0
-            fi
-          fi
-          git diff --exit-code
-; then
-              echo "Release-only commit: publication workflow validates and commits generated pages."
               exit 0
             fi
           fi
