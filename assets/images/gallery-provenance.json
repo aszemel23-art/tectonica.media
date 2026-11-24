@@ -18296,6 +18296,63 @@
       ]
     }
   },
+  "gallery-snider-house-gpa-2026-2": {
+    "id": "gallery-snider-house-gpa-2026-2",
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123839/preview_7501-16_123839_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+    "caption": "Изогнутое остекление между комнатой и террасой.",
+    "credit": "Фото: Scott Norsworthy; пресс-материалы 3C Awards / v2com.",
+    "width": 800,
+    "height": 1154,
+    "sizes": {
+      "640": [
+        640,
+        923
+      ],
+      "1440": [
+        800,
+        1154
+      ]
+    }
+  },
+  "gallery-snider-house-gpa-2026-3": {
+    "id": "gallery-snider-house-gpa-2026-3",
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123840/preview_7501-16_123840_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+    "caption": "Спальня в новой части дома.",
+    "credit": "Фото: Scott Norsworthy; пресс-материалы 3C Awards / v2com.",
+    "width": 800,
+    "height": 1062,
+    "sizes": {
+      "640": [
+        640,
+        850
+      ],
+      "1440": [
+        800,
+        1062
+      ]
+    }
+  },
+  "gallery-place-des-montrealaises-lemay-2026-2": {
+    "id": "gallery-place-des-montrealaises-lemay-2026-2",
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123835/preview_7501-16_123835_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+    "caption": "Посадки и круглый элемент площади, вид сверху.",
+    "credit": "Изображения: Lemay, Angela Silver и AtkinsRéalis; пресс-материалы 3C Awards / v2com.",
+    "width": 800,
+    "height": 600,
+    "sizes": {
+      "640": [
+        640,
+        480
+      ],
+      "1440": [
+        800,
+        600
+      ]
+    }
+  },
   "audit-cover-sender-unknown": {
     "id": "audit-cover-sender-unknown",
     "url": "https://vanda-production-assets.s3.amazonaws.com/2026/09/15/09/45/31/ee42b13c-d276-4e3a-bc16-49c174ed64bd/banner.jpg",

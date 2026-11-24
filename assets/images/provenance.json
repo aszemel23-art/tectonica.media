@@ -3091,5 +3091,29 @@
     "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com.",
     "width": 800,
     "height": 450
+  },
+  "snider-house-gpa-2026": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123838/preview_7501-16_123838_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/123838/preview_7501-16_123838_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+    "credit": "Фото: Scott Norsworthy; пресс-материалы 3C Awards / v2com.",
+    "width": 800,
+    "height": 503
+  },
+  "place-des-montrealaises-lemay-2026": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123836/preview_7501-16_123836_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/123836/preview_7501-16_123836_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+    "credit": "Изображения: Lemay, Angela Silver и AtkinsRéalis; пресс-материалы 3C Awards / v2com.",
+    "width": 800,
+    "height": 585
+  },
+  "jointspavilion-anj-roarcrenew-2026": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123841/preview_7501-16_123841_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/123841/preview_7501-16_123841_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+    "credit": "Изображение: Roarcrenew Architects; пресс-материалы 3C Awards / v2com.",
+    "width": 800,
+    "height": 449
   }
 }

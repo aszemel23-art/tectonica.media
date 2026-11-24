@@ -4650,7 +4650,33 @@
         "caption": "Терраса винодельни с видом на долину.",
         "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com."
       }
-    ]
+    ],
+    "snider-house-gpa-2026": [
+      {
+        "id": "gallery-snider-house-gpa-2026-2",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123839/preview_7501-16_123839_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "caption": "Изогнутое остекление между комнатой и террасой.",
+        "credit": "Фото: Scott Norsworthy; пресс-материалы 3C Awards / v2com."
+      },
+      {
+        "id": "gallery-snider-house-gpa-2026-3",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123840/preview_7501-16_123840_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "caption": "Спальня в новой части дома.",
+        "credit": "Фото: Scott Norsworthy; пресс-материалы 3C Awards / v2com."
+      }
+    ],
+    "place-des-montrealaises-lemay-2026": [
+      {
+        "id": "gallery-place-des-montrealaises-lemay-2026-2",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123835/preview_7501-16_123835_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "caption": "Посадки и круглый элемент площади, вид сверху.",
+        "credit": "Изображения: Lemay, Angela Silver и AtkinsRéalis; пресс-материалы 3C Awards / v2com."
+      }
+    ],
+    "jointspavilion-anj-roarcrenew-2026": []
   },
   "covers": [
     {
@@ -6212,6 +6238,29 @@
       "excluded": [],
       "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
       "note": "Четыре фотографии винодельни в пресс-наборе премии; условия для СМИ предусматривают фотокредит."
+    },
+    "snider-house-gpa-2026": {
+      "sourceImageCount": 3,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "note": "Фотографии проекта из пресс-набора организаторов; указаны кредиты и источник."
+    },
+    "place-des-montrealaises-lemay-2026": {
+      "sourceImageCount": 2,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "note": "Фотографии проекта из пресс-набора организаторов; указаны кредиты и источник."
+    },
+    "jointspavilion-anj-roarcrenew-2026": {
+      "sourceImageCount": 2,
+      "excluded": [
+        {
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123842/preview_7501-16_123842_sc_v2com.jpg",
+          "reason": "На исходном кадре присутствует водяной знак."
+        }
+      ],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "note": "Фотографии проекта из пресс-набора организаторов; указаны кредиты и источник."
     }
   }
 }
