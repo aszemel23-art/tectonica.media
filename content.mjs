@@ -1,4 +1,4 @@
-export const edition='2026-11-17';
+export const edition='2026-11-24';
 export const categories={architecture:'Архитектура',interiors:'Интерьеры',designers:'Дизайнеры и бюро',landscape:'Сады и ландшафт',objects:'Предметы',furniture:'Мебель',lighting:'Свет',materials:'Материалы',technology:'Технологии',exhibitions:'Выставки',people:'Люди и бюро'};
 import {photoLegacyArticles} from './editorial/photo-legacy.mjs';
 export const articles=[...photoLegacyArticles];
@@ -1043,6 +1043,16 @@ add("housing-now-bamboo-clinics-myanmar","Три клиники в Мьянме 
 
 По данным Housing NOW, три здания уже работают; приведённые командой 196 тысяч консультаций в год относятся к трём медицинским комплексам, а не к числу отдельных пациентов. На снимках — сами клиники и их строительство.`,"https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar","Фото: Aung Htay Hlaing / Housing NOW; пресс-материалы v2com.","housing-now-bamboo-clinics-myanmar","Пресс-публикация 16 ноября 2026 · клиники работают; даты завершения не указаны","2026-11-17");
 Object.assign(articles.at(-1),{"sources":[{"title":"Housing NOW: проект и фотосерия, 16 ноября 2026","url":"https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar"}],"imageAlt":"Фасад клиники в Танльине.","categories":["materials","technology"]});
+add("quinta-adorigo-winery-rebelo-2026","Винодельня на склоне Дору: архитектура помогает вину двигаться вниз","architecture","Проект","Табуасу, Португалия","Atelier Sérgio Rebelo вписало винодельню Quinta de Adorigo в террасированный склон и использовало перепад высот в производстве.",`Винодельня Quinta de Adorigo в португальской долине Дору получила награду BLT Built Design Awards в категории архитектуры. Результаты премии объявили 19 ноября 2026 года; само здание завершено в 2024-м. Его автор — Atelier Sérgio Rebelo.
+
+Винодельня расположена среди террас виноградников. По описанию организаторов премии, производство организовано по склону так, чтобы использовать силу тяжести для движения продукта. Изогнутые объёмы следуют за направлением участка; на снимках видно, как длинные корпуса помещены между рядами лозы.
+
+В этом проекте интересна связь плана и технологии. Перепад высот здесь становится частью маршрута производства, а не только сложностью площадки. Из гостевой зоны открывается вид на долину: рабочее здание одновременно показывает посетителям место, откуда происходит вино.
+
+Для российских виноделен и небольших производств полезно рассматривать рельеф вместе с технологической схемой ещё до выбора формы здания. Сработает ли гравитационный маршрут на конкретном участке, зависит от оборудования, санитарных требований и инженерного расчёта.
+
+В пресс-наборе премии представлены четыре фотографии здания, снятые Fernando Guerra. Они показывают его положение в ландшафте и открытую террасу; подробный технологический план в этом наборе не опубликован.`,"https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries","Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com.","quinta-adorigo-winery-rebelo-2026","Результаты премии 19 ноября 2026 · здание завершено в 2024 году","2026-11-24");
+Object.assign(articles.at(-1),{"sources":[{"title":"BLT Built Design Awards: результаты и пресс-фотографии, 19 ноября 2026","url":"https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries"},{"title":"ArchDaily: данные о проекте и год завершения","url":"https://www.archdaily.com/1037146/adorigo-farm-winery-atelier-sergio-rebelo"}],"imageAlt":"Винодельня Quinta de Adorigo среди виноградников, вид сверху.","categories":["designers"]});
 export const candidates=[
 ...articles.map(a=>({title:a.title,url:a.source,status:'published',article:a.id})),
 {title:'RP02 House / Cornetta',url:'https://www.archdaily.com/1184814/rp02-house-cornetta-arquitetura',status:'reserve',reason:'Построен в 2022; оставить для тематической подборки.'},

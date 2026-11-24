@@ -4627,6 +4627,29 @@
         "caption": "Деталь ограждения клиники в Хлайнг-Тар-Яр.",
         "credit": "Фото: Nyan Zay Htet / Housing NOW; пресс-материалы v2com."
       }
+    ],
+    "quinta-adorigo-winery-rebelo-2026": [
+      {
+        "id": "gallery-quinta-adorigo-winery-rebelo-2026-2",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123830/preview_7501-16_123830_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "caption": "Винодельня среди террас виноградников вечером.",
+        "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com."
+      },
+      {
+        "id": "gallery-quinta-adorigo-winery-rebelo-2026-3",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123831/preview_7501-16_123831_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "caption": "Вид на винодельню и долину Дору.",
+        "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com."
+      },
+      {
+        "id": "gallery-quinta-adorigo-winery-rebelo-2026-4",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123832/preview_7501-16_123832_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "caption": "Терраса винодельни с видом на долину.",
+        "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com."
+      }
     ]
   },
   "covers": [
@@ -6183,6 +6206,12 @@
       "excluded": [],
       "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/institutional-architecture/press-kits/7035-03/three-clinics-built-out-of-bamboo-in-conflict-torn-myanmar",
       "note": "21 фотография пресс-набора; авторы и объекты указаны покадрово. Публикация для прессы с кредитом и ссылкой на v2com."
+    },
+    "quinta-adorigo-winery-rebelo-2026": {
+      "sourceImageCount": 4,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "note": "Четыре фотографии винодельни в пресс-наборе премии; условия для СМИ предусматривают фотокредит."
     }
   }
 }

@@ -18239,6 +18239,63 @@
       ]
     }
   },
+  "gallery-quinta-adorigo-winery-rebelo-2026-2": {
+    "id": "gallery-quinta-adorigo-winery-rebelo-2026-2",
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123830/preview_7501-16_123830_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+    "caption": "Винодельня среди террас виноградников вечером.",
+    "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com.",
+    "width": 800,
+    "height": 949,
+    "sizes": {
+      "640": [
+        640,
+        759
+      ],
+      "1440": [
+        800,
+        949
+      ]
+    }
+  },
+  "gallery-quinta-adorigo-winery-rebelo-2026-3": {
+    "id": "gallery-quinta-adorigo-winery-rebelo-2026-3",
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123831/preview_7501-16_123831_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+    "caption": "Вид на винодельню и долину Дору.",
+    "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com.",
+    "width": 800,
+    "height": 932,
+    "sizes": {
+      "640": [
+        640,
+        746
+      ],
+      "1440": [
+        800,
+        932
+      ]
+    }
+  },
+  "gallery-quinta-adorigo-winery-rebelo-2026-4": {
+    "id": "gallery-quinta-adorigo-winery-rebelo-2026-4",
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123832/preview_7501-16_123832_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+    "caption": "Терраса винодельни с видом на долину.",
+    "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com.",
+    "width": 800,
+    "height": 915,
+    "sizes": {
+      "640": [
+        640,
+        732
+      ],
+      "1440": [
+        800,
+        915
+      ]
+    }
+  },
   "audit-cover-sender-unknown": {
     "id": "audit-cover-sender-unknown",
     "url": "https://vanda-production-assets.s3.amazonaws.com/2026/09/15/09/45/31/ee42b13c-d276-4e3a-bc16-49c174ed64bd/banner.jpg",
