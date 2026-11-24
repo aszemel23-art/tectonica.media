@@ -1,0 +1,68 @@
+{
+  "status": "prepared_for_editorial_recheck",
+  "prepared": "2026-11-24",
+  "notes": "Обзор существующего изделия. Перед выпуском проверить архив, условия, фотографии, дату награды и назначить реальную дату выхода.",
+  "article": {
+    "id": "vaarnii-hoop-john-tree",
+    "title": "Светильник Hoop: сосновый брус и тонкое кольцо шпона",
+    "category": "lighting",
+    "categories": [
+      "objects",
+      "designers"
+    ],
+    "format": "Обзор",
+    "place": "Финляндия",
+    "dek": "Джон Три соединил массивное основание и полупрозрачный деревянный абажур для марки Vaarnii.",
+    "body": "Настольный светильник Hoop британского дизайнера Джона Три для финской марки Vaarnii устроен из двух заметных деревянных частей: прямоугольного основания из массива сосны и кольцевого абажура из тонкого шпона. В 2026 году он получил награду Dezeen Awards в категории светового дизайна. Само изделие было представлено раньше: Vaarnii рассказывала о нём ещё в 2025 году.\n\nНа фотографиях видно, как включённая лампа подсвечивает рисунок древесины. В выключенном состоянии абажур и основание читаются как простая деревянная композиция. По описанию производителя, дерево для изделия — финская сосна; основание и тонкий шпон обработаны по-разному.\n\nКоллеге можно показать Hoop как пример работы с одним материалом в двух масштабах: массив удерживает форму предмета, а тонкий слой меняет вид при включении света. Такой приём подходит для разговора с мастерской о подборе шпона, соединениях и том, как будет выглядеть текстура при подсветке.\n\nПри разработке похожего светильника для российского интерьера нужно отдельно проверить нагрев, расстояние от источника света до дерева, электрическую безопасность и возможность замены лампы. Фотографии не позволяют оценить эти параметры; копировать конструкцию без инженерной проверки нельзя.\n\nТри снимка в пресс-наборе премии показывают изделие в интерьере и отдельно во включённом и выключенном состоянии. Фотограф — Jussi Puikkonen.",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named",
+    "sources": [
+      {
+        "title": "Dezeen Awards: результаты в дизайне",
+        "url": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named"
+      },
+      {
+        "title": "Vaarnii: 018 Hoop Table Lamp",
+        "url": "https://vaarnii.com/products/018-hoop-table-lamp"
+      },
+      {
+        "title": "Vaarnii: интервью с Джоном Три",
+        "url": "https://vaarnii.com/blogs/journal/one-thing-design"
+      }
+    ],
+    "credit": "Фото: Jussi Puikkonen; пресс-материалы Dezeen Awards / v2com.",
+    "image": "vaarnii-hoop-john-tree",
+    "imageAlt": "Светильник Hoop в интерьере.",
+    "event": "Изделие представлено до 2026 года · награда Dezeen Awards 2026",
+    "gallery": [
+      {
+        "id": "gallery-vaarnii-hoop-john-tree-124098",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124098/preview_4709-23_124098_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named",
+        "caption": "Включённый светильник Hoop на нейтральном фоне.",
+        "credit": "Фото: Jussi Puikkonen; пресс-материалы Dezeen Awards / v2com."
+      },
+      {
+        "id": "gallery-vaarnii-hoop-john-tree-124099",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124099/preview_4709-23_124099_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named",
+        "caption": "Светильник Hoop в выключенном состоянии.",
+        "credit": "Фото: Jussi Puikkonen; пресс-материалы Dezeen Awards / v2com."
+      }
+    ],
+    "imageReview": {
+      "sourceImageCount": 3,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named",
+      "note": "Просмотрены три кадра светильника в пресс-наборе премии; фото Jussi Puikkonen."
+    }
+  },
+  "images": [
+    {
+      "id": "vaarnii-hoop-john-tree",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124097/preview_4709-23_124097_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named",
+      "caption": "Светильник Hoop в интерьере.",
+      "credit": "Фото: Jussi Puikkonen; пресс-материалы Dezeen Awards / v2com."
+    }
+  ]
+}
