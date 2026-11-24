@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-24",
+  "window": "24 ноября 2026, Новосибирск",
+  "intro": "Винодельня, которая использует уклон долины как часть производства.",
+  "featured": {
+    "lead": "quinta-adorigo-winery-rebelo-2026",
+    "secondary": "housing-now-bamboo-clinics-myanmar",
+    "stories": [
+      "quinta-adorigo-winery-rebelo-2026",
+      "housing-now-bamboo-clinics-myanmar",
+      "arina-krisanova-sky-house-moscow"
+    ]
+  },
+  "editorialPicks": [
+    {
+      "id": "quinta-adorigo-winery-rebelo-2026",
+      "time": "4 минуты",
+      "reason": "Винодельня показывает, как работа со склоном может одновременно определить движение продукта и облик здания."
+    }
+  ],
+  "featurePitches": [
+    {
+      "article": "quinta-adorigo-winery-rebelo-2026",
+      "title": "Как рельеф помогает зданию работать",
+      "text": "Сравнить производственные здания на склоне и выяснить с инженерами, где перепад высот действительно полезен технологическому процессу."
+    }
+  ],
+  "radar": {
+    "title": "Что мы увидели раньше рынка",
+    "subtitle": "Производство следует за рельефом",
+    "text": "Гипотеза для наблюдения: проектирование производственных пространств может начинаться с рельефа и движения сырья. Одна винодельня не доказывает общей тенденции.",
+    "sources": [
+      {
+        "title": "BLT Built Design Awards: результаты",
+        "url": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries"
+      }
+    ]
+  },
+  "rubricReview": {
+    "checked": [
+      "architecture",
+      "designers"
+    ],
+    "results": {
+      "architecture": {
+        "previousLatestPublication": "2026-11-17",
+        "latestPublication": "2026-11-24",
+        "added": [
+          "quinta-adorigo-winery-rebelo-2026"
+        ],
+        "note": "Quinta de Adorigo: реализованная винодельня и работа Atelier Sérgio Rebelo."
+      },
+      "interiors": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+      },
+      "objects": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+      },
+      "furniture": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+      },
+      "lighting": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+      },
+      "materials": {
+        "previousLatestPublication": "2026-11-17",
+        "latestPublication": "2026-11-17",
+        "added": [],
+        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+      },
+      "technology": {
+        "previousLatestPublication": "2026-11-17",
+        "latestPublication": "2026-11-17",
+        "added": [],
+        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+      },
+      "exhibitions": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+      },
+      "people": {
+        "previousLatestPublication": "2026-10-28",
+        "latestPublication": "2026-10-28",
+        "added": [],
+        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+      },
+      "landscape": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-12",
+        "added": [],
+        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+      },
+      "designers": {
+        "previousLatestPublication": "2026-11-12",
+        "latestPublication": "2026-11-24",
+        "added": [
+          "quinta-adorigo-winery-rebelo-2026"
+        ],
+        "note": "Quinta de Adorigo: реализованная винодельня и работа Atelier Sérgio Rebelo."
+      }
+    },
+    "sourcesChecked": [
+      "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "https://tectonica.media/"
+    ]
+  },
+  "articles": [
+    {
+      "id": "quinta-adorigo-winery-rebelo-2026",
+      "title": "Винодельня на склоне Дору: архитектура помогает вину двигаться вниз",
+      "category": "architecture",
+      "categories": [
+        "designers"
+      ],
+      "format": "Проект",
+      "place": "Табуасу, Португалия",
+      "dek": "Atelier Sérgio Rebelo вписало винодельню Quinta de Adorigo в террасированный склон и использовало перепад высот в производстве.",
+      "body": "Винодельня Quinta de Adorigo в португальской долине Дору получила награду BLT Built Design Awards в категории архитектуры. Результаты премии объявили 19 ноября 2026 года; само здание завершено в 2024-м. Его автор — Atelier Sérgio Rebelo.\n\nВинодельня расположена среди террас виноградников. По описанию организаторов премии, производство организовано по склону так, чтобы использовать силу тяжести для движения продукта. Изогнутые объёмы следуют за направлением участка; на снимках видно, как длинные корпуса помещены между рядами лозы.\n\nВ этом проекте интересна связь плана и технологии. Перепад высот здесь становится частью маршрута производства, а не только сложностью площадки. Из гостевой зоны открывается вид на долину: рабочее здание одновременно показывает посетителям место, откуда происходит вино.\n\nДля российских виноделен и небольших производств полезно рассматривать рельеф вместе с технологической схемой ещё до выбора формы здания. Сработает ли гравитационный маршрут на конкретном участке, зависит от оборудования, санитарных требований и инженерного расчёта.\n\nВ пресс-наборе премии представлены четыре фотографии здания, снятые Fernando Guerra. Они показывают его положение в ландшафте и открытую террасу; подробный технологический план в этом наборе не опубликован.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "sources": [
+        {
+          "title": "BLT Built Design Awards: результаты и пресс-фотографии, 19 ноября 2026",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries"
+        },
+        {
+          "title": "ArchDaily: данные о проекте и год завершения",
+          "url": "https://www.archdaily.com/1037146/adorigo-farm-winery-atelier-sergio-rebelo"
+        }
+      ],
+      "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com.",
+      "image": "quinta-adorigo-winery-rebelo-2026",
+      "imageAlt": "Винодельня Quinta de Adorigo среди виноградников, вид сверху.",
+      "event": "Результаты премии 19 ноября 2026 · здание завершено в 2024 году",
+      "gallery": [
+        {
+          "id": "gallery-quinta-adorigo-winery-rebelo-2026-2",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123830/preview_7501-16_123830_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+          "caption": "Винодельня среди террас виноградников вечером.",
+          "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com."
+        },
+        {
+          "id": "gallery-quinta-adorigo-winery-rebelo-2026-3",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123831/preview_7501-16_123831_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+          "caption": "Вид на винодельню и долину Дору.",
+          "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com."
+        },
+        {
+          "id": "gallery-quinta-adorigo-winery-rebelo-2026-4",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123832/preview_7501-16_123832_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+          "caption": "Терраса винодельни с видом на долину.",
+          "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 4,
+        "excluded": [],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "note": "Четыре фотографии винодельни в пресс-наборе премии; условия для СМИ предусматривают фотокредит."
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "quinta-adorigo-winery-rebelo-2026",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123833/preview_7501-16_123833_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "caption": "Винодельня Quinta de Adorigo среди виноградников, вид сверху.",
+      "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com."
+    }
+  ]
+}
+
