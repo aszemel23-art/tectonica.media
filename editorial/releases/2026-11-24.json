@@ -84,7 +84,8 @@
           "quinta-adorigo-winery-rebelo-2026",
           "snider-house-gpa-2026",
           "place-des-montrealaises-lemay-2026",
-          "katherine-lapierre-architectures-outsider-2026"
+          "katherine-lapierre-architectures-outsider-2026",
+          "kerimov-to-en-waf-2026"
         ],
         "note": "Добавлен обзор исследования Катрин Лапьер и действующей выставки в Монреале."
       },
@@ -150,7 +151,8 @@
         "previousLatestPublication": "2026-10-28",
         "latestPublication": "2026-11-24",
         "added": [
-          "katherine-lapierre-architectures-outsider-2026"
+          "katherine-lapierre-architectures-outsider-2026",
+          "kerimov-to-en-waf-2026"
         ],
         "note": "Добавлен обзор исследования Катрин Лапьер и действующей выставки в Монреале."
       },
@@ -171,7 +173,8 @@
           "place-des-montrealaises-lemay-2026",
           "jointspavilion-anj-roarcrenew-2026",
           "bang-lop-light-reflections-2026",
-          "bang-diem-perforated-furniture-2026"
+          "bang-diem-perforated-furniture-2026",
+          "kerimov-to-en-waf-2026"
         ],
         "note": "Добавлен самостоятельный обзор предмета по пресс-набору BằNG от 17 апреля 2026 года."
       }
@@ -709,6 +712,45 @@
         "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
         "note": "25 изображений пресс-набора просмотрены; афиша и чертежи обозначены отдельно, авторы указаны покадрово."
       }
+    },
+    {
+      "id": "kerimov-to-en-waf-2026",
+      "title": "Kerimov Architects получила награду WAF за проект музея в Тронхейме",
+      "category": "architecture",
+      "categories": [
+        "designers",
+        "people"
+      ],
+      "format": "Новость",
+      "place": "Тронхейм, Норвегия",
+      "dek": "Конкурсное предложение to:en объединяет художественный музей и музей декоративного искусства в двух связанных объёмах.",
+      "body": "Проект музея to:en бюро Kerimov Architects победил в категории конкурсных работ раздела Future Projects на World Architecture Festival. Его представили 19 ноября, а пресс-релиз фестиваля с результатами второго дня вышел 23 ноября. Это конкурсное предложение, а не построенное здание.\n\nАвторы предложили объединить в Тронхейме художественный музей и музей декоративного искусства. Два кольцевых объёма должны связать разные коллекции в одном пространстве; посетителям предлагают перемещаться между ними без единственного обязательного маршрута. Визуализация показывает общественное пространство между объёмами и башню.\n\nКоллеге проект интересен способом организовать встречу двух учреждений: общая территория здесь задумана как часть повседневных городских маршрутов, а не только как вход в выставочные залы. Для российских музейных проектов полезно рассмотреть эту логику при обсуждении общей навигации и доступного общественного пространства. Как она будет работать на практике, зависит от утверждения проекта, программы и бюджета.\n\nОрганизаторы WAF включили to:en в категорию будущих проектов. Сведений о начале строительства в найденных источниках нет. На изображении — визуализация Kerimov Architects из пресс-набора фестиваля.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/661-94/world-architecture-festival-2026-day-two-winners-announced",
+      "sources": [
+        {
+          "title": "World Architecture Festival: итоги второго дня",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/661-94/world-architecture-festival-2026-day-two-winners-announced"
+        },
+        {
+          "title": "WAF: список победителей 2026 года",
+          "url": "https://worldarchitecturefestival.com/waf2026/en/page/2026-winners"
+        },
+        {
+          "title": "Описание проекта to:en",
+          "url": "https://idpa-japan.com/toen/"
+        }
+      ],
+      "credit": "Визуализация: Kerimov Architects; пресс-материалы World Architecture Festival / v2com.",
+      "image": "kerimov-to-en-waf-2026",
+      "imageAlt": "Визуализация общественного пространства между объёмами проекта to:en.",
+      "event": "Презентация 19 ноября · пресс-релиз 23 ноября 2026",
+      "gallery": [],
+      "imageReview": {
+        "sourceImageCount": 1,
+        "excluded": [],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/661-94/world-architecture-festival-2026-day-two-winners-announced",
+        "note": "Проверена единственная визуализация to:en в пресс-наборе фестиваля; изображения других проектов не относятся к материалу."
+      }
     }
   ],
   "images": [
@@ -760,7 +802,13 @@
       "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
       "caption": "Общий вид экспозиции Architectures outsider.",
       "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
+    },
+    {
+      "id": "kerimov-to-en-waf-2026",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124318/preview_661-94_124318_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/661-94/world-architecture-festival-2026-day-two-winners-announced",
+      "caption": "Визуализация общественного пространства между объёмами проекта to:en.",
+      "credit": "Визуализация: Kerimov Architects; пресс-материалы World Architecture Festival / v2com."
     }
   ]
 }
-
