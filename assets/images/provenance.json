@@ -3115,5 +3115,21 @@
     "credit": "Изображение: Roarcrenew Architects; пресс-материалы 3C Awards / v2com.",
     "width": 800,
     "height": 449
+  },
+  "bang-lop-light-reflections-2026": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116593/preview_7491-2_116593_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/116593/preview_7491-2_116593_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+    "credit": "Фото: BằNG; пресс-материалы v2com.",
+    "width": 800,
+    "height": 1199
+  },
+  "bang-diem-perforated-furniture-2026": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116608/preview_7491-2_116608_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/116608/preview_7491-2_116608_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+    "credit": "Фото: BằNG; пресс-материалы v2com.",
+    "width": 800,
+    "height": 1200
   }
 }
