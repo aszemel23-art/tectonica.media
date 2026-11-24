@@ -6,10 +6,10 @@
     "lead": "quinta-adorigo-winery-rebelo-2026",
     "secondary": "housing-now-bamboo-clinics-myanmar",
     "stories": [
+      "bang-lop-light-reflections-2026",
+      "bang-diem-perforated-furniture-2026",
       "snider-house-gpa-2026",
-      "place-des-montrealaises-lemay-2026",
-      "jointspavilion-anj-roarcrenew-2026",
-      "quinta-adorigo-winery-rebelo-2026"
+      "place-des-montrealaises-lemay-2026"
     ]
   },
   "editorialPicks": [
@@ -27,6 +27,16 @@
       "id": "place-des-montrealaises-lemay-2026",
       "time": "4 минуты",
       "reason": "Площадь объединяет транспортное перекрытие, повседневный городской маршрут и место памяти."
+    },
+    {
+      "id": "bang-lop-light-reflections-2026",
+      "time": "4 минуты",
+      "reason": "Отражения между слоями помогают понять, как материал и форма меняют восприятие света в доме."
+    },
+    {
+      "id": "bang-diem-perforated-furniture-2026",
+      "time": "4 минуты",
+      "reason": "Перфорация стали одновременно организует рисунок предмета и предлагает тему для обсуждения его изготовления."
     }
   ],
   "featurePitches": [
@@ -54,7 +64,10 @@
       "interiors",
       "landscape",
       "technology",
-      "objects"
+      "objects",
+      "lighting",
+      "furniture",
+      "materials"
     ],
     "results": {
       "architecture": {
@@ -79,27 +92,35 @@
         "previousLatestPublication": "2026-11-12",
         "latestPublication": "2026-11-24",
         "added": [
-          "jointspavilion-anj-roarcrenew-2026"
+          "jointspavilion-anj-roarcrenew-2026",
+          "bang-lop-light-reflections-2026",
+          "bang-diem-perforated-furniture-2026"
         ],
-        "note": "Новый материал добавлен по содержательному соответствию рубрике."
+        "note": "Добавлен самостоятельный обзор предмета по пресс-набору BằNG от 17 апреля 2026 года."
       },
       "furniture": {
         "previousLatestPublication": "2026-11-12",
-        "latestPublication": "2026-11-12",
-        "added": [],
-        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+        "latestPublication": "2026-11-24",
+        "added": [
+          "bang-diem-perforated-furniture-2026"
+        ],
+        "note": "Добавлен самостоятельный обзор предмета по пресс-набору BằNG от 17 апреля 2026 года."
       },
       "lighting": {
         "previousLatestPublication": "2026-11-12",
-        "latestPublication": "2026-11-12",
-        "added": [],
-        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+        "latestPublication": "2026-11-24",
+        "added": [
+          "bang-lop-light-reflections-2026"
+        ],
+        "note": "Добавлен самостоятельный обзор предмета по пресс-набору BằNG от 17 апреля 2026 года."
       },
       "materials": {
         "previousLatestPublication": "2026-11-17",
-        "latestPublication": "2026-11-17",
-        "added": [],
-        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+        "latestPublication": "2026-11-24",
+        "added": [
+          "bang-diem-perforated-furniture-2026"
+        ],
+        "note": "Добавлен самостоятельный обзор предмета по пресс-набору BằNG от 17 апреля 2026 года."
       },
       "technology": {
         "previousLatestPublication": "2026-11-17",
@@ -136,14 +157,17 @@
           "quinta-adorigo-winery-rebelo-2026",
           "snider-house-gpa-2026",
           "place-des-montrealaises-lemay-2026",
-          "jointspavilion-anj-roarcrenew-2026"
+          "jointspavilion-anj-roarcrenew-2026",
+          "bang-lop-light-reflections-2026",
+          "bang-diem-perforated-furniture-2026"
         ],
-        "note": "Новый материал добавлен по содержательному соответствию рубрике."
+        "note": "Добавлен самостоятельный обзор предмета по пресс-набору BằNG от 17 апреля 2026 года."
       }
     },
     "sourcesChecked": [
       "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
-      "https://tectonica.media/"
+      "https://tectonica.media/",
+      "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment"
     ]
   },
   "articles": [
@@ -323,6 +347,155 @@
         "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
         "note": "Фотографии проекта из пресс-набора организаторов; указаны кредиты и источник."
       }
+    },
+    {
+      "id": "bang-lop-light-reflections-2026",
+      "title": "Светильник BằNG прячет шар между цветными слоями",
+      "category": "lighting",
+      "categories": [
+        "objects",
+        "designers"
+      ],
+      "format": "Обзор",
+      "place": "Хошимин, Вьетнам",
+      "dek": "В коллекции Lớp неподвижная лампа отражается в пластинах акрила и меняется в зависимости от угла зрения.",
+      "body": "Вьетнамская мастерская BằNG строит светильники Lớp вокруг простого устройства: светящийся шар находится среди нескольких параллельных пластин. Их отражения создают впечатление движения, хотя сама лампа остаётся неподвижной. Коллекцию марка описала в пресс-наборе 17 апреля 2026 года; это обзор предмета, а не сообщение о новом запуске.\n\nВ серии есть цветной акрил, переливающийся Dreamy Lớp и версии с зеркальной нержавеющей сталью. На фотографиях один и тот же принцип выглядит по-разному: оранжевые слои дают тёплое пятно света, а прозрачные поверхности ловят дневной свет и отбрасывают цветные тени.\n\nИнтересно показать коллеге, как источник света становится частью композиции и как отражения добавляют глубину без движущегося механизма. Для проекта в России идея может пригодиться при работе с локальным светом и прозрачными экранами: до изготовления стоит проверить нагрев источника, пожарные требования и устойчивость материала к царапинам. Характеристики конкретных ламп в кратком пресс-наборе не указаны.\n\nBằNG связывает работу с материалом и производственными процессами мастерской. Сооснователь и креативный директор марки — дизайнер Thomas Bình-Minh Vincent. На снимках — разные исполнения коллекции и её взаимодействие с дневным светом.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+      "sources": [
+        {
+          "title": "BằNG: пресс-набор коллекций, 17 апреля 2026",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment"
+        }
+      ],
+      "credit": "Фото: BằNG; пресс-материалы v2com.",
+      "image": "bang-lop-light-reflections-2026",
+      "imageAlt": "Dreamy Lớp: светящийся шар между слоями акрила.",
+      "event": "Пресс-публикация 17 апреля 2026 · обзор TECTONICA 24 ноября 2026",
+      "gallery": [
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-2",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116591/preview_7491-2_116591_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Синий прямоугольный светильник Lớp.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-3",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116592/preview_7491-2_116592_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Цветные тени от Dreamy Lớp при дневном свете.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-4",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116594/preview_7491-2_116594_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Квадратный Lớp из полированной нержавеющей стали.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-5",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116595/preview_7491-2_116595_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Светильник Lớp с зеркальными металлическими слоями.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-6",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116596/preview_7491-2_116596_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Малый светильник Lớp в исполнении из полированной стали.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-7",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116597/preview_7491-2_116597_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Малый оранжевый светильник Lớp в интерьере.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-8",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116598/preview_7491-2_116598_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Два светильника Dreamy Lớp разных размеров.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-9",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116599/preview_7491-2_116599_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Светильники Dreamy Lớp при дневном освещении.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-10",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116600/preview_7491-2_116600_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Оранжевый и синий Lớp, вид на слои и светящийся шар.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-lop-light-reflections-2026-11",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116614/preview_7491-2_116614_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Светильники Lớp из полированной стали.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 11,
+        "excluded": [],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+        "note": "Проверены фотографии предмета в пресс-наборе BằNG. Условия для СМИ предусматривают указание фотокредита."
+      }
+    },
+    {
+      "id": "bang-diem-perforated-furniture-2026",
+      "title": "Стол и табуреты BằNG сделаны из перфорированной стали",
+      "category": "furniture",
+      "categories": [
+        "objects",
+        "materials",
+        "designers"
+      ],
+      "format": "Обзор",
+      "place": "Хошимин, Вьетнам",
+      "dek": "В коллекции Điểm квадратные отверстия становятся частью конструкции и рисунка поверхности.",
+      "body": "Дизайнер Thomas Bình-Minh Vincent разработал для BằNG коллекцию Điểm: столы и табуреты из перфорированной стали. Марка представила её в пресс-наборе 17 апреля 2026 года; мы показываем предметы как обзор, не выдавая их за сегодняшнюю новинку.\n\nПо описанию мастерской, листы стали режут, шлифуют, сгибают, прокатывают и сваривают. Квадратные отверстия задают ритм поверхности и, по словам авторов, уменьшают вес деталей. На фотографиях видны светлые и чёрные исполнения, а также то, как рисунок меняется на плоскости и изогнутом объёме.\n\nЭти предметы интересно рассматривать как пример того, как обычная операция по металлу может стать основой визуального языка. В российской мастерской похожий подход стоит начинать с образца: проверить кромку, прочность, покрытие и нагрузку, особенно если мебель предполагается использовать на улице. Данные испытаний и допустимые нагрузки этой серии в пресс-наборе не приведены.\n\nBằNG описывает Điểm как свою первую коллекцию мебели и света; её рисунок отсылает к освещённым окнам ночного Сайгона. В пресс-наборе три фотографии столов и табуретов.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+      "sources": [
+        {
+          "title": "BằNG: пресс-набор коллекций, 17 апреля 2026",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment"
+        }
+      ],
+      "credit": "Фото: BằNG; пресс-материалы v2com.",
+      "image": "bang-diem-perforated-furniture-2026",
+      "imageAlt": "Стол и табуреты Điểm рядом с мастерской.",
+      "event": "Пресс-публикация 17 апреля 2026 · обзор TECTONICA 24 ноября 2026",
+      "gallery": [
+        {
+          "id": "gallery-bang-diem-perforated-furniture-2026-2",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116609/preview_7491-2_116609_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Светлый круглый стол Điểm среди растений.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        },
+        {
+          "id": "gallery-bang-diem-perforated-furniture-2026-3",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116610/preview_7491-2_116610_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+          "caption": "Чёрные предметы коллекции Điểm из перфорированной стали.",
+          "credit": "Фото: BằNG; пресс-материалы v2com."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 3,
+        "excluded": [],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+        "note": "Проверены фотографии предмета в пресс-наборе BằNG. Условия для СМИ предусматривают указание фотокредита."
+      }
     }
   ],
   "images": [
@@ -353,6 +526,20 @@
       "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
       "caption": "Раскрытые павильоны JointsPavilion AnJ в Аньцзи.",
       "credit": "Изображение: Roarcrenew Architects; пресс-материалы 3C Awards / v2com."
+    },
+    {
+      "id": "bang-lop-light-reflections-2026",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116593/preview_7491-2_116593_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+      "caption": "Dreamy Lớp: светящийся шар между слоями акрила.",
+      "credit": "Фото: BằNG; пресс-материалы v2com."
+    },
+    {
+      "id": "bang-diem-perforated-furniture-2026",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116608/preview_7491-2_116608_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+      "caption": "Стол и табуреты Điểm рядом с мастерской.",
+      "credit": "Фото: BằNG; пресс-материалы v2com."
     }
   ]
 }
