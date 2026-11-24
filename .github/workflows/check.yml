@@ -5,9 +5,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - run: npm run build
       - run: npm test
-      - run: git diff --exit-code
+      - name: Check generated files
+        shell: bash
+        run: |
+          # A release-only push is the input to the publication workflow;
+          # generated files are committed by that workflow after validation.
+          if [[ "${{ github.event_name }}" == "push" && "${{ github.ref }}" == "refs/heads/main" ]] && git rev-parse HEAD^ >/dev/null 2>&1; then
+            changed=$(git diff-tree --no-commit-id --name-only -r HEAD^ HEAD)
+            if [[ -n "$changed" ]] && ! printf '%s\n' "$changed" | grep -Evq '^editorial/releases/[^/]+\.json$'; then
+              echo "Release-only commit: publication workflow validates and commits generated pages."
+              exit 0
+            fi
+          fi
+          git diff --exit-code
