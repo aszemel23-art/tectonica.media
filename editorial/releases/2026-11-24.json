@@ -6,9 +6,10 @@
     "lead": "quinta-adorigo-winery-rebelo-2026",
     "secondary": "housing-now-bamboo-clinics-myanmar",
     "stories": [
-      "quinta-adorigo-winery-rebelo-2026",
-      "housing-now-bamboo-clinics-myanmar",
-      "arina-krisanova-sky-house-moscow"
+      "snider-house-gpa-2026",
+      "place-des-montrealaises-lemay-2026",
+      "jointspavilion-anj-roarcrenew-2026",
+      "quinta-adorigo-winery-rebelo-2026"
     ]
   },
   "editorialPicks": [
@@ -16,6 +17,16 @@
       "id": "quinta-adorigo-winery-rebelo-2026",
       "time": "4 минуты",
       "reason": "Винодельня показывает, как работа со склоном может одновременно определить движение продукта и облик здания."
+    },
+    {
+      "id": "snider-house-gpa-2026",
+      "time": "4 минуты",
+      "reason": "Старый дом и стеклянная пристройка показывают, как новая планировка связывает жизнь внутри с садом."
+    },
+    {
+      "id": "place-des-montrealaises-lemay-2026",
+      "time": "4 минуты",
+      "reason": "Площадь объединяет транспортное перекрытие, повседневный городской маршрут и место памяти."
     }
   ],
   "featurePitches": [
@@ -39,28 +50,38 @@
   "rubricReview": {
     "checked": [
       "architecture",
-      "designers"
+      "designers",
+      "interiors",
+      "landscape",
+      "technology",
+      "objects"
     ],
     "results": {
       "architecture": {
         "previousLatestPublication": "2026-11-17",
         "latestPublication": "2026-11-24",
         "added": [
-          "quinta-adorigo-winery-rebelo-2026"
+          "quinta-adorigo-winery-rebelo-2026",
+          "snider-house-gpa-2026",
+          "place-des-montrealaises-lemay-2026"
         ],
-        "note": "Quinta de Adorigo: реализованная винодельня и работа Atelier Sérgio Rebelo."
+        "note": "Новый материал добавлен по содержательному соответствию рубрике."
       },
       "interiors": {
         "previousLatestPublication": "2026-11-12",
-        "latestPublication": "2026-11-12",
-        "added": [],
-        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+        "latestPublication": "2026-11-24",
+        "added": [
+          "snider-house-gpa-2026"
+        ],
+        "note": "Новый материал добавлен по содержательному соответствию рубрике."
       },
       "objects": {
         "previousLatestPublication": "2026-11-12",
-        "latestPublication": "2026-11-12",
-        "added": [],
-        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+        "latestPublication": "2026-11-24",
+        "added": [
+          "jointspavilion-anj-roarcrenew-2026"
+        ],
+        "note": "Новый материал добавлен по содержательному соответствию рубрике."
       },
       "furniture": {
         "previousLatestPublication": "2026-11-12",
@@ -82,9 +103,11 @@
       },
       "technology": {
         "previousLatestPublication": "2026-11-17",
-        "latestPublication": "2026-11-17",
-        "added": [],
-        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+        "latestPublication": "2026-11-24",
+        "added": [
+          "jointspavilion-anj-roarcrenew-2026"
+        ],
+        "note": "Новый материал добавлен по содержательному соответствию рубрике."
       },
       "exhibitions": {
         "previousLatestPublication": "2026-11-12",
@@ -100,17 +123,22 @@
       },
       "landscape": {
         "previousLatestPublication": "2026-11-12",
-        "latestPublication": "2026-11-12",
-        "added": [],
-        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+        "latestPublication": "2026-11-24",
+        "added": [
+          "place-des-montrealaises-lemay-2026"
+        ],
+        "note": "Новый материал добавлен по содержательному соответствию рубрике."
       },
       "designers": {
         "previousLatestPublication": "2026-11-12",
         "latestPublication": "2026-11-24",
         "added": [
-          "quinta-adorigo-winery-rebelo-2026"
+          "quinta-adorigo-winery-rebelo-2026",
+          "snider-house-gpa-2026",
+          "place-des-montrealaises-lemay-2026",
+          "jointspavilion-anj-roarcrenew-2026"
         ],
-        "note": "Quinta de Adorigo: реализованная винодельня и работа Atelier Sérgio Rebelo."
+        "note": "Новый материал добавлен по содержательному соответствию рубрике."
       }
     },
     "sourcesChecked": [
@@ -174,6 +202,127 @@
         "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
         "note": "Четыре фотографии винодельни в пресс-наборе премии; условия для СМИ предусматривают фотокредит."
       }
+    },
+    {
+      "id": "snider-house-gpa-2026",
+      "title": "Дом в Торонто восстановили и раскрыли в сад через стеклянную пристройку",
+      "category": "interiors",
+      "categories": [
+        "architecture",
+        "designers"
+      ],
+      "format": "Проект",
+      "place": "Торонто, Канада",
+      "dek": "Giannone Petricone Associates вернули старому дому центральную планировку и добавили двухэтажный объём со стороны сада.",
+      "body": "Snider House в Торонто получил награду BLT Built Design Awards за интерьер; результаты премии объявили 19 ноября 2026 года. Реконструкцию выполнило бюро Giannone Petricone Associates при участии консультантов по наследию ERA Architects. Дом построен примерно в 1828 году, а современное обновление завершилось до объявления премии.\n\nЗа долгую жизнь здание обросло пристройками. Архитекторы убрали поздние изменения и вернули старой части центральную планировку, а со стороны сада добавили двухэтажное остеклённое пространство. Плавная линия стекла соединяет дом с террасой и бассейном; внутри она повторяется в очертаниях потолка и оконного проёма.\n\nНа фотографиях хорошо видно, как новый объём продолжает жизнь дома: из общей зоны можно выйти в сад, а в спальне большая изогнутая стеклянная стена открывает вид на деревья. Здесь сохранение старого здания и новая планировка решают разные задачи и встречаются в одном маршруте.\n\nДля работы с историческим домом в России полезно сначала разобраться, какие части действительно относятся к разным периодам и что можно сохранить, затем согласовать новую пристройку с профильными специалистами. Условия охраны и техническое состояние нужно проверять для каждого объекта.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "sources": [
+        {
+          "title": "BLT Built Design Awards: результаты и пресс-набор, 19 ноября 2026",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries"
+        }
+      ],
+      "credit": "Фото: Scott Norsworthy; пресс-материалы 3C Awards / v2com.",
+      "image": "snider-house-gpa-2026",
+      "imageAlt": "Стеклянная пристройка Snider House со стороны сада.",
+      "event": "Результаты премии 19 ноября 2026",
+      "gallery": [
+        {
+          "id": "gallery-snider-house-gpa-2026-2",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123839/preview_7501-16_123839_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+          "caption": "Изогнутое остекление между комнатой и террасой.",
+          "credit": "Фото: Scott Norsworthy; пресс-материалы 3C Awards / v2com."
+        },
+        {
+          "id": "gallery-snider-house-gpa-2026-3",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123840/preview_7501-16_123840_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+          "caption": "Спальня в новой части дома.",
+          "credit": "Фото: Scott Norsworthy; пресс-материалы 3C Awards / v2com."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 3,
+        "excluded": [],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "note": "Фотографии проекта из пресс-набора организаторов; указаны кредиты и источник."
+      }
+    },
+    {
+      "id": "place-des-montrealaises-lemay-2026",
+      "title": "Площадь в Монреале устроили над шоссе: сад и мемориал на одном маршруте",
+      "category": "landscape",
+      "categories": [
+        "architecture",
+        "designers"
+      ],
+      "format": "Проект",
+      "place": "Монреаль, Канада",
+      "dek": "Lemay, Angela Silver и AtkinsRéalis связали старый город с центром и создали место памяти 21 женщины.",
+      "body": "Площадь Place des Montréalaises получила награду BLT Built Design Awards за ландшафтный дизайн. О результатах объявили 19 ноября 2026 года; площадь уже используется и не является новым открытием этого дня. Над проектом работали Lemay, художница Angela Silver и AtkinsRéalis.\n\nОбщественное пространство устроено над перекрытым участком скоростной дороги и соединяет старый Монреаль с центром города. В поверхность включены круглые участки с растениями, широкие ступени и отражающий элемент. Площадь одновременно служит мемориалом 21 женщине и местом, через которое люди проходят и где могут задержаться.\n\nДва кадра пресс-набора показывают разные масштабы: общий вид лестницы и посадок и вид сверху на круглый элемент среди растений. Важно, что мемориальная тема встроена в повседневный городской маршрут, а не отделена от него.\n\nВ российских городах такой пример полезен при обсуждении пространств над транспортной инфраструктурой: кроме рисунка покрытия нужно заранее проверить нагрузки, водоотвод, доступность и условия для посадок. Инженерные решения конкретной площади в кратком пресс-наборе не раскрыты.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "sources": [
+        {
+          "title": "BLT Built Design Awards: результаты и пресс-набор, 19 ноября 2026",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries"
+        }
+      ],
+      "credit": "Изображения: Lemay, Angela Silver и AtkinsRéalis; пресс-материалы 3C Awards / v2com.",
+      "image": "place-des-montrealaises-lemay-2026",
+      "imageAlt": "Площадь Place des Montréalaises и широкие ступени.",
+      "event": "Результаты премии 19 ноября 2026",
+      "gallery": [
+        {
+          "id": "gallery-place-des-montrealaises-lemay-2026-2",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123835/preview_7501-16_123835_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+          "caption": "Посадки и круглый элемент площади, вид сверху.",
+          "credit": "Изображения: Lemay, Angela Silver и AtkinsRéalis; пресс-материалы 3C Awards / v2com."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 2,
+        "excluded": [],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "note": "Фотографии проекта из пресс-набора организаторов; указаны кредиты и источник."
+      }
+    },
+    {
+      "id": "jointspavilion-anj-roarcrenew-2026",
+      "title": "Складной павильон в Китае раскрывается с помощью шарнирной системы",
+      "category": "technology",
+      "categories": [
+        "objects",
+        "designers"
+      ],
+      "format": "Проект",
+      "place": "Аньцзи, Китай",
+      "dek": "Roarcrenew Architects придумало деревянно-стальную конструкцию, которую, по данным авторов, может раскрыть один человек.",
+      "body": "JointsPavilion AnJ бюро Roarcrenew Architects получил награду BLT Built Design Awards в категории строительных продуктов. Результаты объявили 19 ноября 2026 года. Ведущий дизайнер проекта — Zhenqi Bai; организаторы относят проект к февралю 2026 года.\n\nПавильоны установлены в округе Аньцзи среди чайных плантаций. Их деревянно-стальная конструкция использует складные узлы и систему тяг. По описанию авторов, один человек может раскрыть или сложить павильон за 30 секунд. Это заявленное время: независимых испытаний в пресс-наборе нет.\n\nНа фотографии видно, как несколько одинаковых раскрытых конструкций образуют площадку среди построек и дорожек. Интерес здесь не только в форме навеса, но и в том, что временное пространство можно менять по мере необходимости.\n\nДля сезонных общественных площадок в России стоит рассмотреть сам принцип складной конструкции, предварительно рассчитав снеговую и ветровую нагрузку, устойчивость, ресурс шарниров и способ хранения. Эти характеристики для данного проекта организаторы не приводят.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "sources": [
+        {
+          "title": "BLT Built Design Awards: результаты и пресс-набор, 19 ноября 2026",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries"
+        }
+      ],
+      "credit": "Изображение: Roarcrenew Architects; пресс-материалы 3C Awards / v2com.",
+      "image": "jointspavilion-anj-roarcrenew-2026",
+      "imageAlt": "Раскрытые павильоны JointsPavilion AnJ в Аньцзи.",
+      "event": "Результаты премии 19 ноября 2026",
+      "gallery": [],
+      "imageReview": {
+        "sourceImageCount": 2,
+        "excluded": [
+          {
+            "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123842/preview_7501-16_123842_sc_v2com.jpg",
+            "reason": "На исходном кадре присутствует водяной знак."
+          }
+        ],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+        "note": "Фотографии проекта из пресс-набора организаторов; указаны кредиты и источник."
+      }
     }
   ],
   "images": [
@@ -183,6 +332,27 @@
       "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
       "caption": "Винодельня Quinta de Adorigo среди виноградников, вид сверху.",
       "credit": "Фото: Fernando Guerra / FG+SG; пресс-материалы 3C Awards / v2com."
+    },
+    {
+      "id": "snider-house-gpa-2026",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123838/preview_7501-16_123838_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "caption": "Стеклянная пристройка Snider House со стороны сада.",
+      "credit": "Фото: Scott Norsworthy; пресс-материалы 3C Awards / v2com."
+    },
+    {
+      "id": "place-des-montrealaises-lemay-2026",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123836/preview_7501-16_123836_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "caption": "Площадь Place des Montréalaises и широкие ступени.",
+      "credit": "Изображения: Lemay, Angela Silver и AtkinsRéalis; пресс-материалы 3C Awards / v2com."
+    },
+    {
+      "id": "jointspavilion-anj-roarcrenew-2026",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123841/preview_7501-16_123841_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
+      "caption": "Раскрытые павильоны JointsPavilion AnJ в Аньцзи.",
+      "credit": "Изображение: Roarcrenew Architects; пресс-материалы 3C Awards / v2com."
     }
   ]
 }
