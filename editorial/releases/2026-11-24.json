@@ -6,10 +6,10 @@
     "lead": "quinta-adorigo-winery-rebelo-2026",
     "secondary": "housing-now-bamboo-clinics-myanmar",
     "stories": [
+      "katherine-lapierre-architectures-outsider-2026",
       "bang-lop-light-reflections-2026",
       "bang-diem-perforated-furniture-2026",
-      "snider-house-gpa-2026",
-      "place-des-montrealaises-lemay-2026"
+      "snider-house-gpa-2026"
     ]
   },
   "editorialPicks": [
@@ -37,6 +37,11 @@
       "id": "bang-diem-perforated-furniture-2026",
       "time": "4 минуты",
       "reason": "Перфорация стали одновременно организует рисунок предмета и предлагает тему для обсуждения его изготовления."
+    },
+    {
+      "id": "katherine-lapierre-architectures-outsider-2026",
+      "time": "5 минут",
+      "reason": "Обмеры и макеты показывают, как исследовательница изучает самодельные дома и отделяет документ от своей художественной работы."
     }
   ],
   "featurePitches": [
@@ -67,7 +72,9 @@
       "objects",
       "lighting",
       "furniture",
-      "materials"
+      "materials",
+      "people",
+      "exhibitions"
     ],
     "results": {
       "architecture": {
@@ -76,9 +83,10 @@
         "added": [
           "quinta-adorigo-winery-rebelo-2026",
           "snider-house-gpa-2026",
-          "place-des-montrealaises-lemay-2026"
+          "place-des-montrealaises-lemay-2026",
+          "katherine-lapierre-architectures-outsider-2026"
         ],
-        "note": "Новый материал добавлен по содержательному соответствию рубрике."
+        "note": "Добавлен обзор исследования Катрин Лапьер и действующей выставки в Монреале."
       },
       "interiors": {
         "previousLatestPublication": "2026-11-12",
@@ -132,15 +140,19 @@
       },
       "exhibitions": {
         "previousLatestPublication": "2026-11-12",
-        "latestPublication": "2026-11-12",
-        "added": [],
-        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+        "latestPublication": "2026-11-24",
+        "added": [
+          "katherine-lapierre-architectures-outsider-2026"
+        ],
+        "note": "Добавлен обзор исследования Катрин Лапьер и действующей выставки в Монреале."
       },
       "people": {
         "previousLatestPublication": "2026-10-28",
-        "latestPublication": "2026-10-28",
-        "added": [],
-        "note": "В этом выпуске новая публикация для рубрики не подготовлена; необходима дальнейшая проверка тем и прав на изображения."
+        "latestPublication": "2026-11-24",
+        "added": [
+          "katherine-lapierre-architectures-outsider-2026"
+        ],
+        "note": "Добавлен обзор исследования Катрин Лапьер и действующей выставки в Монреале."
       },
       "landscape": {
         "previousLatestPublication": "2026-11-12",
@@ -167,7 +179,8 @@
     "sourcesChecked": [
       "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/7501-16/douro-winery-tops-blt-built-design-awards-2026-as-winners-come-from-more-than-50-countries",
       "https://tectonica.media/",
-      "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment"
+      "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
+      "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre"
     ]
   },
   "articles": [
@@ -496,6 +509,206 @@
         "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
         "note": "Проверены фотографии предмета в пресс-наборе BằNG. Условия для СМИ предусматривают указание фотокредита."
       }
+    },
+    {
+      "id": "katherine-lapierre-architectures-outsider-2026",
+      "title": "Катрин Лапьер изучает дома самоучек через чертежи и макеты",
+      "category": "people",
+      "categories": [
+        "exhibitions",
+        "architecture"
+      ],
+      "format": "Обзор",
+      "place": "Монреаль, Канада",
+      "dek": "На выставке Architectures outsider исследовательница сопоставила обмеры необычных домов и собственные архитектурные скульптуры.",
+      "body": "В Монреале до 13 декабря проходит выставка Architectures outsider, посвящённая исследованию художницы и архитектора Катрин Лапьер. Более двадцати лет она изучает людей, которые самостоятельно создают необычные здания, руководствуясь своими потребностями и воображением. Выставка открылась 22 октября 2026 года; пресс-материал Centre de design de l’UQAM вышел 16 ноября.\n\nЛапьер показывает девять обмерных макетов реальных построек, преимущественно из Квебека и Франции. Среди них — Maison Unal Клод Хойзерманн-Кости и Жоэля Уналя в Ардеше. По информации организаторов, исследовательница работала с обмерами, фотографиями, чертежами и беседами со строителями; основания макетов воспроизводят рельеф соответствующих участков.\n\nРядом представлены шестнадцать собственных моделей-скульптур Лапьер. Для некоторых она сканирует найденные предметы и природные формы, а затем использует цифровое моделирование и 3D-печать. В результате один зал соединяет документирование существующего дома с воображением того, каким дом может быть.\n\nЭтот подход стоит показать коллеге из-за способа исследования: сначала внимательно зафиксировать, как устроена реальная постройка, а затем отдельно показать собственную интерпретацию. Для работы с самодельной архитектурой в России полезны те же инструменты — обмер, фотографии и разговор с авторами. Применимость необычной конструкции при этом требует отдельной проверки инженером.\n\nВ центре дизайна UQAM выставлены 25 моделей и 96 чертежей; куратор — Патрик Эванс. Фотографии и чертежи в галерее предоставлены организаторами с указанием авторов.",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+      "sources": [
+        {
+          "title": "Centre de design de l’UQAM: выставка и пресс-набор, 16 ноября 2026",
+          "url": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre"
+        }
+      ],
+      "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com.",
+      "image": "katherine-lapierre-architectures-outsider-2026",
+      "imageAlt": "Общий вид экспозиции Architectures outsider.",
+      "event": "Выставка 22 октября — 13 декабря 2026 · пресс-публикация 16 ноября",
+      "gallery": [
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-1",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123076/preview_748-56_123076_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Афиша выставки Architectures outsider.",
+          "credit": "Афиша: Cécile Tousignant; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-3",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123077/preview_748-56_123077_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Обмерный макет Maison Unal работы Катрин Лапьер.",
+          "credit": "Фото: Michel Brunelle; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-4",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123078/preview_748-56_123078_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Обмерный разрез Maison Unal, чертёж Катрин Лапьер.",
+          "credit": "Чертёж: Katherine Lapierre; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-5",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123079/preview_748-56_123079_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Обмерный план Maison Unal, чертёж Катрин Лапьер.",
+          "credit": "Чертёж: Katherine Lapierre; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-6",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123710/preview_748-56_123710_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Посетители рассматривают макет Maison Unal.",
+          "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-7",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123718/preview_748-56_123718_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Макет Maison Unal на выставке.",
+          "credit": "Фото: Cindy Boyce; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-8",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123711/preview_748-56_123711_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Куратор Патрик Эванс и Катрин Лапьер в экспозиции.",
+          "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-9",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123705/preview_748-56_123705_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Экспозиция Architectures outsider.",
+          "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-10",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123706/preview_748-56_123706_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Общий вид выставки.",
+          "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-11",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123712/preview_748-56_123712_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Зал выставки и макеты Катрин Лапьер.",
+          "credit": "Фото: Cindy Boyce; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-12",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123707/preview_748-56_123707_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Макет в экспозиции Architectures outsider.",
+          "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-13",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123713/preview_748-56_123713_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Выставочные столы и модели в зале.",
+          "credit": "Фото: Cindy Boyce; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-14",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123715/preview_748-56_123715_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Модели и чертежи в экспозиции.",
+          "credit": "Фото: Cindy Boyce; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-15",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123716/preview_748-56_123716_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Модель на выставочном столе.",
+          "credit": "Фото: Cindy Boyce; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-16",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123717/preview_748-56_123717_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Модель и чертежи на выставке.",
+          "credit": "Фото: Cindy Boyce; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-17",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123719/preview_748-56_123719_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Макеты в пространстве выставки.",
+          "credit": "Фото: Cindy Boyce; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-18",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123720/preview_748-56_123720_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Макет Cheval à Méo, работа Катрин Лапьер.",
+          "credit": "Фото: Cindy Boyce; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-19",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123729/preview_748-56_123729_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Шелкографический разрез Troglodyte работы Катрин Лапьер.",
+          "credit": "Чертёж: Katherine Lapierre; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-20",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123731/preview_748-56_123731_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Шелкографический план Tour II работы Катрин Лапьер.",
+          "credit": "Чертёж: Katherine Lapierre; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-21",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123732/preview_748-56_123732_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Шелкографический разрез Villa Cap-aux-Corneilles работы Катрин Лапьер.",
+          "credit": "Чертёж: Katherine Lapierre; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-22",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123747/preview_748-56_123747_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Макет Катрин Лапьер.",
+          "credit": "Фото: Michel Brunelle; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-23",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123748/preview_748-56_123748_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Макет Cheval à Méo на рабочем столе.",
+          "credit": "Фото: Michel Brunelle; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-24",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123749/preview_748-56_123749_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Макеты Architectures outsider в зале.",
+          "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
+        },
+        {
+          "id": "gallery-katherine-lapierre-architectures-outsider-2026-25",
+          "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123750/preview_748-56_123750_sc_v2com.jpg",
+          "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+          "caption": "Чертежи в экспозиции Architectures outsider.",
+          "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
+        }
+      ],
+      "imageReview": {
+        "sourceImageCount": 25,
+        "excluded": [],
+        "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+        "note": "25 изображений пресс-набора просмотрены; афиша и чертежи обозначены отдельно, авторы указаны покадрово."
+      }
     }
   ],
   "images": [
@@ -540,6 +753,13 @@
       "source": "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/7491-02/b-ng-unboring-objects-shaped-by-materials-processes-and-its-workshop-environment",
       "caption": "Стол и табуреты Điểm рядом с мастерской.",
       "credit": "Фото: BằNG; пресс-материалы v2com."
+    },
+    {
+      "id": "katherine-lapierre-architectures-outsider-2026",
+      "url": "https://cloudfront.v2com-newswire.com/data/photo/image/123704/preview_748-56_123704_sc_v2com.jpg",
+      "source": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
+      "caption": "Общий вид экспозиции Architectures outsider.",
+      "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
     }
   ]
 }
