@@ -4934,7 +4934,8 @@
         "caption": "Чертежи в экспозиции Architectures outsider.",
         "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
       }
-    ]
+    ],
+    "kerimov-to-en-waf-2026": []
   },
   "covers": [
     {
@@ -6537,6 +6538,12 @@
       "excluded": [],
       "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/event-exhibition/press-kits/748-56/the-centre-de-design-de-l-uqam-presents-architectures-outsider-an-exhibition-of-surveys-and-model-sculptures-by-katherine-lapierre",
       "note": "25 изображений пресс-набора просмотрены; афиша и чертежи обозначены отдельно, авторы указаны покадрово."
+    },
+    "kerimov-to-en-waf-2026": {
+      "sourceImageCount": 1,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/661-94/world-architecture-festival-2026-day-two-winners-announced",
+      "note": "Проверена единственная визуализация to:en в пресс-наборе фестиваля; изображения других проектов не относятся к материалу."
     }
   }
 }

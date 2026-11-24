@@ -3139,5 +3139,13 @@
     "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com.",
     "width": 800,
     "height": 533
+  },
+  "kerimov-to-en-waf-2026": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124318/preview_661-94_124318_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/124318/preview_661-94_124318_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/661-94/world-architecture-festival-2026-day-two-winners-announced",
+    "credit": "Визуализация: Kerimov Architects; пресс-материалы World Architecture Festival / v2com.",
+    "width": 800,
+    "height": 1067
   }
 }
