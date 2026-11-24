@@ -1,0 +1,7 @@
+# Rowen House: кандидат для интерьеров
+
+Проверено 24 ноября 2026. [World Architecture Festival](https://worldarchitecturefestival.com/waf2026/en/page/2026-winners) называет Rowen House бюро Wang Architects победителем WAF Interiors: Residential 2026. [Официальная страница бюро](https://wang-arch.com/rowen-house/) датирует Rowen House 2024 годом и указывает Glen Iris, штат Виктория; в списке WAF указан South Melbourne. Не смешивать эти сведения без проверки, что речь об одном объекте, и не объявлять дом новым.
+
+В [пресс-наборе фестиваля](https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/661-94/world-architecture-festival-2026-day-two-winners-announced) есть изображение Rowen House с кредитом Peter Zhou; материалы предназначены СМИ, с обязательным указанием автора. Нужно визуально сопоставить снимок и проект бюро, уточнить местоположение и полный доступный набор фотографий, проверить текущий архив и условия использования. 
+
+Статус: наводка, не готова к публикации. Если расхождение не разрешится, не использовать неподтверждённую локацию и не утверждать, что фото и сведения относятся к одному объекту.
