@@ -3147,5 +3147,45 @@
     "credit": "Визуализация: Kerimov Architects; пресс-материалы World Architecture Festival / v2com.",
     "width": 800,
     "height": 1067
+  },
+  "sherbrooke-vives-st-laurent-montreal-2026": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124195/preview_4241-12_124195_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/124195/preview_4241-12_124195_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+    "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com.",
+    "width": 800,
+    "height": 636
+  },
+  "reign-architects-urban-garden-toronto": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122234/preview_7516-4_122234_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/122234/preview_7516-4_122234_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+    "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com.",
+    "width": 800,
+    "height": 600
+  },
+  "maxim-kashin-suprematist-bureau-2025": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110924/preview_2247-15_110924_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/110924/preview_2247-15_110924_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+    "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com.",
+    "width": 800,
+    "height": 600
+  },
+  "vaarnii-hoop-john-tree": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124097/preview_4709-23_124097_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/124097/preview_4709-23_124097_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named",
+    "credit": "Фото: Jussi Puikkonen; пресс-материалы Dezeen Awards / v2com.",
+    "width": 800,
+    "height": 1120
+  },
+  "atrium-garage-car-collection-moscow": {
+    "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116880/preview_4008-5_116880_sc_v2com.jpg",
+    "fetch_url": "https://cloudfront.v2com-newswire.com/data/photo/image/116880/preview_4008-5_116880_sc_v2com.jpg",
+    "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+    "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com.",
+    "width": 800,
+    "height": 533
   }
 }

@@ -4935,7 +4935,633 @@
         "credit": "Фото: Benoit Rousseau; пресс-материалы Centre de design de l’UQAM / v2com."
       }
     ],
-    "kerimov-to-en-waf-2026": []
+    "kerimov-to-en-waf-2026": [],
+    "sherbrooke-vives-st-laurent-montreal-2026": [
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124184",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124184/preview_4241-12_124184_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Прихожая и вид в сторону кладовой.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124185",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124185/preview_4241-12_124185_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Витраж в переходе между помещениями.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124282",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124282/preview_4241-12_124282_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Столовая и витраж, вид из соседней комнаты.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124187",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124187/preview_4241-12_124187_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Столовая с витражом.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124188",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124188/preview_4241-12_124188_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Кухня с островом и светлой столешницей.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124189",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124189/preview_4241-12_124189_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Кухня и обеденный остров.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124190",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124190/preview_4241-12_124190_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Витраж в проходе между комнатами.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124191",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124191/preview_4241-12_124191_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Встроенные шкафы и стальная полка на кухне.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124192",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124192/preview_4241-12_124192_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Вытяжка в зоне прежнего камина.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124193",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124193/preview_4241-12_124193_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Вид из кухни в гостиную с камином.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124194",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124194/preview_4241-12_124194_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Сохранившийся камин в гостиной.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124196",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124196/preview_4241-12_124196_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Восстановленная лепнина в гостиной.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124197",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124197/preview_4241-12_124197_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Отреставрированная лестница.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124198",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124198/preview_4241-12_124198_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Дверь в санузел под лестницей.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124199",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124199/preview_4241-12_124199_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Небольшой санузел под лестницей.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124200",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124200/preview_4241-12_124200_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Окна вдоль изгиба лестницы.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124201",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124201/preview_4241-12_124201_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Детская ванная со сводчатым потолком.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124202",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124202/preview_4241-12_124202_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Ванна из натурального камня.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124203",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124203/preview_4241-12_124203_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Душевая зона в детской ванной.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124205",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124205/preview_4241-12_124205_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Основная ванная с матовой дверью.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124206",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124206/preview_4241-12_124206_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Душевая за стеной основной ванной.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124204",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124204/preview_4241-12_124204_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Деревянные перила на лестнице.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124207",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124207/preview_4241-12_124207_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Круглое окно на лестничной площадке.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      },
+      {
+        "id": "gallery-sherbrooke-vives-st-laurent-montreal-2026-124208",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124208/preview_4241-12_124208_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+        "caption": "Основная спальня.",
+        "credit": "Фото: Alex Lesage; пресс-материалы Vives St-Laurent / v2com."
+      }
+    ],
+    "reign-architects-urban-garden-toronto": [
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-1",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122229/preview_7516-4_122229_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Входная зона и посадки перед домом, вид сверху.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-2",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122228/preview_7516-4_122228_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Дом и обновлённый палисадник со стороны улицы.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-3",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122230/preview_7516-4_122230_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Вид на сад из входной зоны.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-4",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122231/preview_7516-4_122231_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Входное пространство дома.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-5",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122232/preview_7516-4_122232_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Пергола и дорожка в заднем дворе.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-6",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122233/preview_7516-4_122233_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Терраса, пергола и сад у дома.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-8",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122235/preview_7516-4_122235_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Терраса и посадки в заднем саду.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-9",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122236/preview_7516-4_122236_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Ступени и бетонные полосы дорожки среди растений.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-10",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122237/preview_7516-4_122237_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Бетонные полосы и мох в швах, вид сверху.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-11",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122238/preview_7516-4_122238_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Посадки и дорожка в саду, вид сверху.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-12",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122239/preview_7516-4_122239_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Вид на террасу и дом вечером.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-13",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122240/preview_7516-4_122240_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Вход в дом вечером.",
+        "credit": "Фото: Riley Snelling; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-14",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122241/preview_7516-4_122241_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "План участка и аксонометрия проекта Reign Architects.",
+        "credit": "Чертёж: Reign Architects; пресс-материалы Reign Architects / v2com."
+      },
+      {
+        "id": "gallery-reign-architects-urban-garden-toronto-15",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/122242/preview_7516-4_122242_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+        "caption": "Разрез заднего сада, чертёж Reign Architects.",
+        "credit": "Чертёж: Reign Architects; пресс-материалы Reign Architects / v2com."
+      }
+    ],
+    "maxim-kashin-suprematist-bureau-2025": [
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-1",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110922/preview_2247-15_110922_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро в сложенном положении.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-2",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110925/preview_2247-15_110925_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с раскрытыми секциями.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-3",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110934/preview_2247-15_110934_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Выдвинутые элементы бюро.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-5",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110933/preview_2247-15_110933_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Выдвижной ящик с красной внутренней поверхностью.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-6",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110936/preview_2247-15_110936_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Открытые секции бюро.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-7",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110935/preview_2247-15_110935_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с открытыми секциями, вид сбоку.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-8",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110940/preview_2247-15_110940_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с раскрытыми секциями, вид спереди.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-9",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110923/preview_2247-15_110923_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро в выставочном пространстве.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-10",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110926/preview_2247-15_110926_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Выдвижной элемент с красной внутренней поверхностью.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-11",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110927/preview_2247-15_110927_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с открытыми секциями, вид сбоку.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-12",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110928/preview_2247-15_110928_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с раскрытыми секциями, общий вид.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-13",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110929/preview_2247-15_110929_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро в сложенном положении в выставочном пространстве.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-14",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110930/preview_2247-15_110930_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с закрытыми секциями, вид спереди.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-15",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110931/preview_2247-15_110931_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с открытыми секциями.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-16",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110932/preview_2247-15_110932_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Красная внутренняя поверхность выдвижного ящика.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-17",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110937/preview_2247-15_110937_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Выдвижной ящик, деталь.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-18",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110938/preview_2247-15_110938_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с раскрытыми секциями, вид спереди.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-19",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110939/preview_2247-15_110939_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Красная внутренняя поверхность ящика, крупный план.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-20",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110941/preview_2247-15_110941_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Открытые вертикальные секции бюро.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-21",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110942/preview_2247-15_110942_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с раскрытыми вертикальными секциями.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-22",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110943/preview_2247-15_110943_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Вертикальная секция и выдвинутые ящики.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-23",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110944/preview_2247-15_110944_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро в выставочном пространстве, вид издалека.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-24",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110945/preview_2247-15_110945_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с открытой вертикальной секцией.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-25",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110946/preview_2247-15_110946_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с раскрытыми секциями, вид сбоку.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-26",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110947/preview_2247-15_110947_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с открытыми секциями, общий вид.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-27",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110948/preview_2247-15_110948_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро с раскрытыми секциями, боковой вид.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-28",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110949/preview_2247-15_110949_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Открытые полки вертикальной секции.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-29",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110950/preview_2247-15_110950_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Бюро в выставочном пространстве.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      },
+      {
+        "id": "gallery-maxim-kashin-suprematist-bureau-2025-30",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/110951/preview_2247-15_110951_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+        "caption": "Ящик с красной внутренней поверхностью, крупный план.",
+        "credit": "Фото: Dmitry Chebanenko; пресс-материалы Maxim Kashin Architects / v2com."
+      }
+    ],
+    "vaarnii-hoop-john-tree": [
+      {
+        "id": "gallery-vaarnii-hoop-john-tree-124098",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124098/preview_4709-23_124098_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named",
+        "caption": "Включённый светильник Hoop на нейтральном фоне.",
+        "credit": "Фото: Jussi Puikkonen; пресс-материалы Dezeen Awards / v2com."
+      },
+      {
+        "id": "gallery-vaarnii-hoop-john-tree-124099",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/124099/preview_4709-23_124099_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named",
+        "caption": "Светильник Hoop в выключенном состоянии.",
+        "credit": "Фото: Jussi Puikkonen; пресс-материалы Dezeen Awards / v2com."
+      }
+    ],
+    "atrium-garage-car-collection-moscow": [
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116724",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116724/preview_4008-5_116724_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Общий вид гаража среди деревьев.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116726",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116726/preview_4008-5_116726_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Навес, лестница и остеклённая часть здания.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116883",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116883/preview_4008-5_116883_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Изогнутый край оболочки здания.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116881",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116881/preview_4008-5_116881_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Навес и остеклённый фасад.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116888",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116888/preview_4008-5_116888_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Общий вид здания среди деревьев.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116882",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116882/preview_4008-5_116882_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Торец гаража среди деревьев.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116728",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116728/preview_4008-5_116728_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Торец здания с белой изогнутой рамой.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116889",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116889/preview_4008-5_116889_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Терраса под навесом.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116727",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116727/preview_4008-5_116727_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Терраса и фасад среди деревьев.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116884",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116884/preview_4008-5_116884_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Дерево у террасы здания.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116731",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116731/preview_4008-5_116731_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Лестница к верхней площадке.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116730",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116730/preview_4008-5_116730_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Вид с террасы на участок.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116732",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116732/preview_4008-5_116732_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Интерьер подземной части здания.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116886",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116886/preview_4008-5_116886_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Лестница в нижнем уровне.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116885",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116885/preview_4008-5_116885_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Интерьер нижнего уровня.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116887",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116887/preview_4008-5_116887_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Круглый световой проём.",
+        "credit": "Изображение: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116733",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116733/preview_4008-5_116733_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "План участка и здания, чертёж ATRIUM.",
+        "credit": "Чертёж: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116734",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116734/preview_4008-5_116734_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Продольный разрез здания, чертёж ATRIUM.",
+        "credit": "Чертёж: ATRIUM; пресс-материалы ATRIUM / v2com."
+      },
+      {
+        "id": "gallery-atrium-garage-car-collection-moscow-116735",
+        "url": "https://cloudfront.v2com-newswire.com/data/photo/image/116735/preview_4008-5_116735_sc_v2com.jpg",
+        "source": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+        "caption": "Поперечный разрез здания, чертёж ATRIUM.",
+        "credit": "Чертёж: ATRIUM; пресс-материалы ATRIUM / v2com."
+      }
+    ]
   },
   "covers": [
     {
@@ -6544,6 +7170,36 @@
       "excluded": [],
       "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/661-94/world-architecture-festival-2026-day-two-winners-announced",
       "note": "Проверена единственная визуализация to:en в пресс-наборе фестиваля; изображения других проектов не относятся к материалу."
+    },
+    "sherbrooke-vives-st-laurent-montreal-2026": {
+      "sourceImageCount": 25,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/residential-interior-design/press-kits/4241-12/sherbrooke-d64f18e0-f4cb-4b8f-9b90-c30844aa6ad2",
+      "note": "Просмотрены все 25 фотографий проекта из пресс-галереи; автор Alex Lesage. Планы доступны отдельно в приложениях первоисточника."
+    },
+    "reign-architects-urban-garden-toronto": {
+      "sourceImageCount": 15,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/landscape-architecture/press-kits/7516-04/the-urban-garden-i",
+      "note": "Просмотрены все 13 фотографий и два чертежа из галереи пресс-набора; авторство указано отдельно."
+    },
+    "maxim-kashin-suprematist-bureau-2025": {
+      "sourceImageCount": 30,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/product-design/press-kits/2247-15/the-suprematist-bureau-a-work-of-furniture-art-rooted-in-the-principles-of-suprematism",
+      "note": "Все 30 изображений из пресс-набора просмотрены, относятся к одному предмету; указан автор Дмитрий Чебаненко и источник."
+    },
+    "vaarnii-hoop-john-tree": {
+      "sourceImageCount": 3,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/competition/press-kits/4709-23/dezeen-awards-2026-design-project-of-the-year-winner-named",
+      "note": "Просмотрены три кадра светильника в пресс-наборе премии; фото Jussi Puikkonen."
+    },
+    "atrium-garage-car-collection-moscow": {
+      "sourceImageCount": 20,
+      "excluded": [],
+      "rightsSource": "https://www.v2com-newswire.com/en/newsroom/categories/residential-architecture/press-kits/4008-05/garage-for-car-collection",
+      "note": "Просмотрены 17 фотографий и три чертежа пресс-набора; кредит ATRIUM."
     }
   }
 }
